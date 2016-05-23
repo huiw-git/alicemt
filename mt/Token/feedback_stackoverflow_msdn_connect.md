@@ -1,0 +1,3 @@
+---
+---
+<Token xmlns:xlink="http://www.w3.org/1999/xlink"><para><mediaLinkInline><image xlink:href="23029103-dc37-4ec5-81d4-7946b33d7c75"/></mediaLinkInline> Need help?&#160;&#160;<externalLink><linkText>MSDN forum</linkText><linkUri>https://social.msdn.microsoft.com/Forums/sqlserver/en-US/home?forum=SQLServer2016Preview</linkUri></externalLink>&#160;&#160;|&#160;&#160;<externalLink><linkText>stackoverflow</linkText><linkUri>http://stackoverflow.com/questions/tagged/sql-server-2016</linkUri></externalLink>&#160;&#160;|&#160;&#160;Log an issue or suggestion at&#160;<externalLink><linkText>Microsoft Connect</linkText><linkUri>https://connect.microsoft.com/SQLServer/Feedback</linkUri></externalLink></para></Token>
