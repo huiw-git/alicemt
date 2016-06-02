@@ -1,0 +1,88 @@
+---
+title: Create a File Attribute (Master Data Services)
+ms.custom: 
+  - SQL2016_New_Updated
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - master-data-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: d224886b-2ef1-4658-8b01-2213cc4b8df6
+robots: noindex,nofollow
+---
+# Create a File Attribute (Master Data Services)
+  In [!INCLUDE[ssMDSshort](../../Token\Other/ssMDSshort_md.md)], create a file attribute to populate attribute values with files.  
+  
+## Prerequisites  
+ To perform this procedure:  
+  
+-   You must have permission to access the **System Administration** functional area.  
+  
+-   You must be a model administrator. For more information, see [Administrators &#40;Master Data Services&#41;](../Topic/Administrators%20\(Master%20Data%20Services\).md).  
+  
+-   An entity must exist to create the attribute for. For more information, see [Create an Entity &#40;Master Data Services&#41;](../Topic/Create%20an%20Entity%20\(Master%20Data%20Services\).md).  
+  
+## Attribute Information  
+ For each created attribute, a row with seven columns is added to the grid. The following table describes the columns.  
+  
+|Column|Description|  
+|------------|-----------------|  
+|Status|The attribute status.<br /><br /> When you click Save, the ![Icon for updating status](../../Images\Image\ImageNotContaina/mds_StatusIcon_Updating.png "mds_StatusIcon_Updating") image displays, indicating that the attribute is updating.<br /><br /> If there are errors when creating or editing an attribute, the ![Icon for error status](../../Images\Image\ImageNotContaina/mds_StatusIcon_Error.png "mds_StatusIcon_Error") image displays.<br /><br /> Otherwise, the status is OK and the ![Icon for OK status](../../Images\Image\ImageNotContaina/mds_StatusIcon_OK.png "mds_StatusIcon_OK") image displays.|  
+|Name|The attribute name.|  
+|Display Name|The attribute display name.|  
+|Description|The attribute description.|  
+|Display Pixel Width|The attribute width.|  
+|Type and Properties|The type and data type information of the attribute.|  
+|Enable Change Tracking|Specifies whether the attribute is enabled for change tracking and shows the group number in parentheses.|  
+  
+ When you click an attribute, the following information displays.  
+  
+-   **Created By**: The name of the user who created the attribute.  
+  
+-   **On**: The date and time when the attribute was created.  
+  
+-   **Updated By**: the name of the user who last updated the attribute.  
+  
+-   **On**: The date and time when the attribute was last updated.  
+  
+### To create a file attribute  
+  
+1.  In [!INCLUDE[ssMDSmdm](../../Token\Other/ssMDSmdm_md.md)], click **System Administration**.  
+  
+2.  On the **Manage Model** page, select a model from the grid and then click **Entities**.  
+  
+3.  On the **Manage Entity** page, select the row for the entity that you want to create an attribute for.  
+  
+4.  Click **Attributes**.  
+  
+5.  On the **Manage Attributes** page, do one of the following and then click **Add**.  
+  
+    -   If the attribute is for leaf members, select **Leaf** from the **Member Types** list box.  
+  
+    -   If the attribute is for consolidated members, select **Consolidated** from the **Member Types** list box.  
+  
+    -   If the attribute is for collections, select **Collection** from the **Member Types** list box.  
+  
+6.  In the **Name** box, type a name for the attribute. For a list of words that should not be used as attribute names, see [Reserved Words &#40;Master Data Services&#41;](../Topic/Reserved%20Words%20\(Master%20Data%20Services\).md).  
+  
+7.  Optionally, type a display name, and type a description for the attribute in the **Description** box.  
+  
+8.  In the **Display pixel width** box, type the width of the attribute column to be displayed in the **Explorer** grid.  
+  
+9. From the **Attribute type** list, select **File**.  
+  
+10. From the **File extension** list, select a file type that a user can upload, or accept the default value \(\*.\*\) to allow all file types.  
+  
+11. Optionally, select **Enable change tracking** to track changes to groups of attributes. For more information, see [Add Attributes to a Change Tracking Group &#40;Master Data Services&#41;](../Topic/Add%20Attributes%20to%20a%20Change%20Tracking%20Group%20\(Master%20Data%20Services\).md).  
+  
+12. Click **Save**.  
+  
+## See Also  
+ [Attributes &#40;Master Data Services&#41;](../Topic/Attributes%20\(Master%20Data%20Services\).md)   
+ [Change an Attribute Name and Data Type &#40;Master Data Services&#41;](../Topic/Change%20an%20Attribute%20Name%20and%20Data%20Type%20\(Master%20Data%20Services\).md)   
+ [Create a Domain-Based Attribute &#40;Master Data Services&#41;](../Topic/Create%20a%20Domain-Based%20Attribute%20\(Master%20Data%20Services\).md)   
+ [Create a Text Attribute &#40;Master Data Services&#41;](../Topic/Create%20a%20Text%20Attribute%20\(Master%20Data%20Services\).md)  
+  
+  

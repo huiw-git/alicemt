@@ -1,0 +1,34 @@
+---
+title: Include Witness Server (Configure Database Mirroring Security Wizard)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - dbe-high-availability
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: f04b38a4-f4e2-4d4c-bdac-7cc70e5a5684
+---
+# Include Witness Server (Configure Database Mirroring Security Wizard)
+  Use this page to specify whether you want to include a witness server in this security configuration for database mirroring.  
+  
+ **To configure database mirroring by using SQL Server Management Studio**  
+  
+-   [Establish a Database Mirroring Session Using Windows Authentication &#40;SQL Server Management Studio&#41;](../Topic/Establish%20a%20Database%20Mirroring%20Session%20Using%20Windows%20Authentication%20\(SQL%20Server%20Management%20Studio\).md)  
+  
+-   [Start the Configuring Database Mirroring Security Wizard &#40;SQL Server Management Studio&#41;](../Topic/Start%20the%20Configuring%20Database%20Mirroring%20Security%20Wizard%20\(SQL%20Server%20Management%20Studio\).md)  
+  
+## Options  
+ **Yes**  
+ Click to include a witness server instance in the security configuration. The witness is necessary for high\-safety mode with automatic failover, which supports automatic failover to the mirror server instance if the principal server instance fails.  
+  
+ **No**  
+ Click to configure security without a witness.  
+  
+## See Also  
+ [Database Properties &#40;Mirroring Page&#41;](../Topic/Database%20Properties%20\(Mirroring%20Page\).md)   
+ [Database Mirroring &#40;SQL Server&#41;](../Topic/Database%20Mirroring%20\(SQL%20Server\).md)   
+ [Database Mirroring Witness](../../Topics\TopicNameNotContainA/Database-Mirroring-Witness.md)  
+  
+  

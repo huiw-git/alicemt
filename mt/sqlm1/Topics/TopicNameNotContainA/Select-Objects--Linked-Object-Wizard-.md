@@ -1,0 +1,26 @@
+---
+title: Select Objects (Linked Object Wizard)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - analysis-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 733afc25-5055-4411-bab5-dd9e0595cd2d
+---
+# Select Objects (Linked Object Wizard)
+  Use the **Select Objects** page to select the objects that will be linked to or imported.  
+  
+> [!NOTE]  
+>  Dimensions and measure groups \(including the associated measures\) are linked. Actions, key performance indicators \(KPIs\), and calculations are imported.  
+  
+## Options  
+ **Available objects**  
+ Select the objects to link or import.  
+  
+> [!NOTE]  
+>  Only dimensions are available if a cube is not selected in [!INCLUDE[ssBIDevStudioFull](../../Token\Other/ssBIDevStudioFull_md.md)] when opening the Linked Object Wizard.  
+  
+  

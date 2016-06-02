@@ -1,0 +1,71 @@
+---
+title: Calculation Tools (Calculations Tab, Cube Designer) (Analysis Services - Multidimensional Data)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - analysis-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: b1aa8a1a-6532-45d2-8f53-d3e211d7197a
+---
+# Calculation Tools (Calculations Tab, Cube Designer) (Analysis Services - Multidimensional Data)
+  Use the **Calculation Tools** pane on the **Calculations** tab in Cube Designer to explore metadata, functions, and templates available for use in calculations.  
+  
+## Options  
+ **Metadata**  
+ Displays the metadata for the selected cube.  
+  
+ Drag a selected element to the Script Editor, Calculated Member Form Editor, or Named Set Form Editor pane to include the Multidimensional Expressions \(MDX\) syntax for that element at the selected location in the pane.  
+  
+ **Functions**  
+ Displays the functions available for expressions and conditions.  
+  
+ Drag a selected element to the **Script Editor**, **Calculated Member Form Editor**, or **Named Set Form Editor** pane to include the MDX syntax for that element at the selected location in the pane.  
+  
+> [!NOTE]  
+>  In project mode, the **Calculation Tools** dialog box reads information for this option from an XML file named MDXFunctions.xml, included with [!INCLUDE[ssBIDevStudioFull](../../Token\Other/ssBIDevStudioFull_md.md)]. In online mode, information for this option is retrieved from the MDSCHEMA\_FUNCTIONS schema rowset for the instance.  
+  
+ **Templates**  
+ Displays the predefined templates available for calculated members, named sets, and script commands.  
+  
+ Drag a selected element to the **Script Editor**, **Calculated Member Form Editor**, or **Named Set Form Editor** pane to include the MDX syntax for that element at the selected location in the pane.  
+  
+## Context Menu  
+ The following options are available in the context menu displayed by right\-clicking an element in the **Calculation Tools** pane:  
+  
+ **Copy**  
+ Select to copy the selected element in **Metadata** or **Functions** to the Clipboard.  
+  
+> [!NOTE]  
+>  This option is not displayed if **Templates** is selected.  
+  
+> [!NOTE]  
+>  This option is disabled if the selected member cannot be copied, such as the **Sets** folder of a dimension displayed in **Metadata** or the function group folder for a function displayed in **Functions**.  
+  
+ **Filter Members**  
+ Select to display the **Filter Members** dialog box and filter members displayed for the selected element in **Metadata**. For more information about the **Filter Members** dialog box, see [Filter Members Dialog Box &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Filter%20Members%20Dialog%20Box%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md).  
+  
+> [!NOTE]  
+>  This option is displayed only if **Metadata** is selected.  
+  
+> [!NOTE]  
+>  This option is enabled only if a level for an attribute is selected in **Metadata**.  
+  
+ **Add Template**  
+ Select to add a new calculated member, named set, or script command based on the selected template to the cube script and display the **Script Editor**, **Calculated Member Form Editor**, or **Named Set Form Editor** as appropriate for that command \(in form view\) or to scroll the contents of the **Script Editor** pane to the location of the command in the cube script \(in script view\).  
+  
+> [!NOTE]  
+>  This option is displayed only if **Metadata** is selected.  
+  
+## See Also  
+ [Cube Designer &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Cube%20Designer%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Toolbar &#40;Calculations Tab, Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Toolbar%20\(Calculations%20Tab,%20Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Script Organizer &#40;Calculations Tab, Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Script%20Organizer%20\(Calculations%20Tab,%20Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Calculated Member Form Editor &#40;Calculations Tab, Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Calculated%20Member%20Form%20Editor%20\(Calculations%20Tab,%20Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Named Set Form Editor &#40;Calculations Tab, Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Named%20Set%20Form%20Editor%20\(Calculations%20Tab,%20Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Script Editor &#40;Calculations Tab, Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Script%20Editor%20\(Calculations%20Tab,%20Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)   
+ [Calculations &#40;Cube Designer&#41; &#40;Analysis Services - Multidimensional Data&#41;](../Topic/Calculations%20\(Cube%20Designer\)%20\(Analysis%20Services%20-%20Multidimensional%20Data\).md)  
+  
+  

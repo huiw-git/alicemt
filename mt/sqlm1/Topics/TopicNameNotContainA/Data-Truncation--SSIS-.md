@@ -1,0 +1,34 @@
+---
+title: Data Truncation (SSIS)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - integration-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 02461e15-49ca-445b-abb3-5c369c283ec2
+---
+# Data Truncation (SSIS)
+  Converting values from one data type to another may cause values to be truncated.  
+  
+ Truncation can occur when:  
+  
+-   Translating string data from a *DT\_WSTR* to a *DT\_STR* with the same length  if the original string contains double\-byte characters.  
+  
+-   Casting an integer from a *DT\_I4* to a *DT\_I2* significant digits can be lost.  
+  
+-   Casting an unsigned integer to a signed integer significant digits can be lost.  
+  
+-   Casting a real number from a *DT\_R8* to a *DT\_R4* insignificant digits can be lost  
+  
+-   Casting an integer from a *DT\_I4* to a *DT\_R4* insignificant digits can be lost.  
+  
+ The expression evaluator identifies explicit casts that may cause truncation and issues a warning when the expression is parsed. For example, the expression evaluator warns you if a 30\-character string is cast into a 20\-character string.  
+  
+ However, truncation is not checked at run time. At runtime data is truncated without warning. Most data adapters and transformations support error outputs that can handle the disposition of error rows.  
+  
+ For more information about handling truncation of data, see [Error Handling in Data](../../Topics\TopicNameNotContainA/Error-Handling-in-Data.md)  
+  
+  

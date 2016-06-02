@@ -1,0 +1,45 @@
+---
+title: Impersonation Information
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - analysis-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 42319d60-ccd0-46b8-af0b-f0968c390d8a
+---
+# Impersonation Information
+  Use the **Impersonation Information** page to specify the credentials that Analysis Services will use to connect to the data source.  
+  
+## Options  
+ **Use a specific Windows user name and password**  
+ Select this option to have the [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] object use the security credentials of a specified Windows user account. The specified credentials will be used for processing, ROLAP queries, out\-of\-line bindings, local cubes, mining models, remote partitions, linked objects, and synchronization from target to source. However, for Data Mining Extensions \(DMX\) OPENQUERY statements, this option is ignored and the credentials of the current user will be used.  
+  
+ **User name**  
+ Type the domain and name of the user account to be used by the selected [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] object. Use the following format:  
+  
+ *\<Domain name\>* **\\** *\<User account name\>*  
+  
+ This option is enabled only if **Use a specific name and password** is selected.  
+  
+ **Password**  
+ Type the password of the user account to be used by the selected [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] object.  
+  
+ This option is enabled only if **Use a specific name and password** is selected.  
+  
+ **Use the service account**  
+ Select this option to have the [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] object use the security credentials associated with the [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] service that manages the object. The service account credentials will be used for processing, ROLAP queries, remote partitions, linked objects, and synchronization from target to source. However, for Data Mining Extensions \(DMX\) OPENQUERY statements, local cubes, and mining models, the credentials of the current user will be used. This option is not supported for out\-of\-line bindings.  
+  
+ **Use the credentials of the current user**  
+ Select this option to have the [!INCLUDE[ssASnoversion](../../Token\Other/ssASnoversion_md.md)] object use the security credentials of the current user for out\-of\-line bindings, DMX OPENQUERY, local cubes, and mining models. This option is not supported for processing, ROLAP queries, remote partitions, linked objects, and synchronization from target to source.  
+  
+ **Inherit**  
+ Select this option to use the impersonation behavior, defined at the database level, which has been set by the server administrator using the **DataSourceImpersonation** database property.  
+  
+## See Also  
+ [Data Sources in Multidimensional Models](../../Topics\TopicNameNotContainA/Data-Sources-in-Multidimensional-Models.md)   
+ [Supported Data Sources &#40;SSAS - Multidimensional&#41;](../Topic/Supported%20Data%20Sources%20\(SSAS%20-%20Multidimensional\).md)  
+  
+  

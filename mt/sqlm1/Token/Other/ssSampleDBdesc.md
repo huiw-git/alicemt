@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Adventure Works Cycles is a fictional manufacturing company used to demonstrate database concepts and scenarios.</Token>

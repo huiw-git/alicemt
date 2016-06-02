@@ -1,0 +1,43 @@
+---
+title: Column Visibility Dialog Box
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - reporting-services-sharepoint
+  - reporting-services-native
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: ca59d1cd-d782-4298-aa61-4f312c32eb50
+---
+# Column Visibility Dialog Box
+  Use the **Column Visibility** dialog box to show or hide the selected column when the report is first run or to use another report item to toggle the visibility of the column.  
+  
+## Options  
+ **When the report is initially run**  
+ Select an option to indicate how the report item is initially displayed in the report.  
+  
+ **Show**  
+ Choose this option to show the report item.  
+  
+ **Hide**  
+ Choose this option to hide the report item.  
+  
+ **Show or hide based on an expression**  
+ Choose this option to vary the initial visibility using an expression.  
+  
+ Type an expression that evaluates to a **Boolean** value of **True** to hide the item and **False** to show the item. Click the Expression \(*fx*\) button to edit the expression.  
+  
+ **Display can be toggled by this report item**  
+ Choose this option to display a toggle image that enables the user to show or hide this report item in an HTML report viewer.  
+  
+ Type or select the name of a text box in the report in which to display a toggle image; for example, Textbox1. The text box that you choose must be in the current or containing scope for this report item. For example, to toggle visibility of rows associated with a child group, select a text box in a row associated with the parent group. To toggle visibility of a chart, select a text box that is in the same containing scope as the chart; for example, the report body or a rectangle.  
+  
+## See Also  
+ [Expression Examples &#40;Report Builder and SSRS&#41;](../Topic/Expression%20Examples%20\(Report%20Builder%20and%20SSRS\).md)   
+ [Add an Expand or Collapse Action to an Item &#40;Report Builder and SSRS&#41;](../Topic/Add%20an%20Expand%20or%20Collapse%20Action%20to%20an%20Item%20\(Report%20Builder%20and%20SSRS\).md)   
+ [Images &#40;Report Builder and SSRS&#41;](../Topic/Images%20\(Report%20Builder%20and%20SSRS\).md)   
+ [Report Designer F1 Help](../../Topics\TopicNameNotContainA/Report-Designer-F1-Help.md)  
+  
+  

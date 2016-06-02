@@ -1,0 +1,68 @@
+---
+title: SQL Server Compact Edition Connection Manager Editor (All Page)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - integration-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: f9fbff4b-c502-44b3-8e7b-398d66e82206
+---
+# SQL Server Compact Edition Connection Manager Editor (All Page)
+  Use the **SQL Server Compact Edition Connection Manager** dialog box to specify properties for connecting to a [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database.  
+  
+ To learn more about the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact Edition connection manager, see [SQL Server Compact Edition Connection Manager](../../Topics\TopicNameNotContainA/SQL-Server-Compact-Edition-Connection-Manager.md).  
+  
+## Options  
+ **AutoShrink Threshold**  
+ Specify the amount of free space, as a percentage, that is allowed in the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database before the autoshrink process runs.  
+  
+ **Default Lock Escalation**  
+ Specify the number of database locks that the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database acquires before it tries to escalate locks.  
+  
+ **Default Lock Timeout**  
+ Specify the default interval, in milliseconds, that a transaction will wait for a lock.  
+  
+ **Flush Interval**  
+ Specify the interval, in seconds, between committed transactions to flush data to disk.  
+  
+ **Locale Identifier**  
+ Specify the Locale ID \(LCID\) of the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database.  
+  
+ **Max Buffer Size**  
+ Specify the maximum amount of memory, in kilobytes, that [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact uses before flushing data to disk.  
+  
+ **Max Database Size**  
+ Specify the maximum size, in megabytes, of the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database.  
+  
+ **Mode**  
+ Specify the file mode in which to open the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database. The default value for this property is **Read Write**.  
+  
+ The Mode option has four values, as described in the following table.  
+  
+|Value|Description|  
+|-----------|-----------------|  
+|**Read Only**|Specifies read\-only access to the database.|  
+|**Read Write**|Specifies read\/write permission to the database.|  
+|**Exclusive**|Specifies exclusive access to the database.|  
+|**Shared Read**|Specifies that other users can read from the database at the same time.|  
+  
+ **Persist Security Info**  
+ Specify whether security information is returned as part of the connection string. The default value for this option is **False**.  
+  
+ **Temp File Directory**  
+ Specify the location of the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact temporary database file.  
+  
+ **Data Source**  
+ Specify the name of the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database.  
+  
+ **Password**  
+ Enter the password for the [!INCLUDE[ssNoVersion](../../Token\Other/ssNoVersion_md.md)] Compact database.  
+  
+## See Also  
+ [Integration Services Error and Message Reference](../../Topics\TopicNameNotContainA/Integration-Services-Error-and-Message-Reference.md)   
+ [SQL Server Compact Edition Connection Manager Editor &#40;Connection Page&#41;](../Topic/SQL%20Server%20Compact%20Edition%20Connection%20Manager%20Editor%20\(Connection%20Page\).md)  
+  
+  

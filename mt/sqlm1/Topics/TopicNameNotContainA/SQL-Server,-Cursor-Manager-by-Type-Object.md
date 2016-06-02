@@ -1,0 +1,41 @@
+---
+title: SQL Server, Cursor Manager by Type Object
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - database-engine
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: d67fbd8a-7554-4a16-96f1-d9ee857a95e3
+---
+# SQL Server, Cursor Manager by Type Object
+  The **SQLServer:Cursor Manager by Type** object provides counters to monitor cursors, grouped by type.  
+  
+ This table describes the SQL Server **Cursor Manager by Type** counters.  
+  
+|Cursor Manager by Type counters|Description|  
+|-------------------------------------|-----------------|  
+|**Active cursors**|Number of active cursors.|  
+|**Cache Hit Ratio**|Ratio between cache hits and lookups.|  
+|**Cached Cursor Counts**|Number of cursors of a given type in the cache.|  
+|**Cursor Cache Use Count\/sec**|Times each type of cached cursor has been used.|  
+|**Cursor memory usage**|Amount of memory consumed by cursors in kilobytes \(KB\).|  
+|**Cursor Requests\/sec**|Number of SQL cursor requests received by server.|  
+|**Cursor worktable usage**|Number of worktables used by cursors.|  
+|**Number of active cursor plans**|Number of cursor plans.|  
+  
+ Each counter in the object contains the following instances:  
+  
+|Cursor Manager instance|Description|  
+|-----------------------------|-----------------|  
+|**\_Total**|Information for all cursors.|  
+|**API Cursor**|Only the API cursor information.|  
+|**TSQL Global Cursor**|Only the [!INCLUDE[tsql](../../Token\Other/tsql_md.md)] global cursor information.|  
+|**TSQL Local Cursor**|Only the [!INCLUDE[tsql](../../Token\Other/tsql_md.md)] local cursor information.|  
+  
+## See Also  
+ [Monitor Resource Usage &#40;System Monitor&#41;](../Topic/Monitor%20Resource%20Usage%20\(System%20Monitor\).md)  
+  
+  
