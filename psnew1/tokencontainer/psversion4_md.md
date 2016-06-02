@@ -1,3 +1,0 @@
----
----
-Windows PowerShell 4.0

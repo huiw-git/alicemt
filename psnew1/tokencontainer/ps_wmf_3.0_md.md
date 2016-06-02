@@ -1,3 +1,0 @@
----
----
-Windows Management Framework 3.0
