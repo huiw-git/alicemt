@@ -1,0 +1,1 @@
+  **THIS TOPIC APPLIES TO:** ![yes](../../Images\Image\ImageNotContaina/yes.png "yes")SQL Server \(starting with 2012\)![yes](../../Images\Image\ImageNotContaina/yes.png "yes")Azure SQL Database![no](../../Images\Image\ImageNotContaina/no.png "no")Azure SQL Data Warehouse![yes](../../Images\Image\ImageNotContaina/yes.png "yes")Parallel Data Warehouse

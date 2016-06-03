@@ -1,0 +1,1 @@
+<Token> [![Go to Microsoft Connect](../../Images\Image\ImageNotContaina/needhelp_person_icon.png)](https://connect.microsoft.com/SQLServer/Feedback) **To submit feedback and review existing feedback,** [Go to Microsoft Connect.](https://connect.microsoft.com/SQLServer/Feedback) </Token>

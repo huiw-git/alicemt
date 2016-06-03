@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Do not reference this member directly in your code. It supports the SQL Server infrastructure.</Token>

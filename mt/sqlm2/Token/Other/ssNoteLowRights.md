@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Always run SQL Server services by using the lowest possible user rights.</Token>
