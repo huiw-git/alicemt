@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">DQS Cleansing component in Integration Services</Token>
