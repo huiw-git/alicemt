@@ -1,0 +1,1 @@
+ SQL Server Managed Backup to Windows Azure 

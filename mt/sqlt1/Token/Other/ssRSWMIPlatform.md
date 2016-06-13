@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Windows Server 2003, Datacenter Edition; Windows Server 2003, Enterprise Edition; Windows Server 2003, Standard Edition; Windows Vista; Windows XP Professional with Service Pack 2 (SP2) or Service Pack 1 (SP1); or Windows 2000 (all versions)</Token>

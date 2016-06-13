@@ -1,0 +1,3 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">
+    This SQL Server 2000 system table is included as a view for backward compatibility. We  recommend that you use the current SQL Server system views instead. To find the equivalent system view or views, see <link xlink:href="a616fce9-b4c1-49da-87a7-9d6f74911d8f" xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">Mapping SQL Server 2000 System Tables to SQL Server 2005 System Views</link>. This feature will be removed in a future version of Microsoft SQL Server. Avoid using this feature in new development work, and plan to modify applications that currently use this feature.
+  </Token>

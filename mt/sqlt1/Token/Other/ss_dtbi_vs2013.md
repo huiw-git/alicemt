@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">SQL Server Data Tools - Business Intelligence for Visual Studio 2013</Token>

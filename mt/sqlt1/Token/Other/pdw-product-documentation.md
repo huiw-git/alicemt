@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink"><maml:externalLink xmlns:maml="http://ddue.schemas.microsoft.com/authoring/2003/5"><maml:linkText>Parallel Data Warehouse product documentation</maml:linkText><maml:linkUri>https://www.microsoft.com/en-us/download/details.aspx?id=51610</maml:linkUri></maml:externalLink></Token>

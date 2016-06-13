@@ -1,0 +1,3 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">
+    Report parts are self-contained report items that are stored on the report server and can be included in other reports. Use Report Builder to browse  and select parts from the Report Part Gallery to add to your reports. Use Report Designer or Report Builder to save report parts for use in the Report Part Gallery. For more information, see <legacyBold xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">Report Parts (Report Builder and SSRS)</legacyBold> and <legacyBold xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">Report Parts in Report Designer (SSRS)</legacyBold> on the Web at microsoft.com.
+  </Token>
