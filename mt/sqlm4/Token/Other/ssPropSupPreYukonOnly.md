@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">This property is supported only in SQL Server 7.0 and SQL Server 2000.</Token>

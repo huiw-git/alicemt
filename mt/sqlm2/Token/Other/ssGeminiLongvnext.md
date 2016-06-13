@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">Microsoft SQL Server 2016 Power Pivot for SharePoint 2013</Token>

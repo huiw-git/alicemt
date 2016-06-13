@@ -1,3 +1,0 @@
-  ![needhelp](../../Images\Image\ImageNotContaina/needhelp_person_icon.png "needhelp_person_icon") Need help?  [MSDN forum](https://social.msdn.microsoft.com/Forums/sqlserver/en-US/home?forum=SQLServer2016Preview) |  [stackoverflow](http://stackoverflow.com/questions/tagged/sql-server-2016) |  Log an issue or suggestion at [Microsoft Connect](https://connect.microsoft.com/SQLServer/Feedback)
-
-  

@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">This option can also be changed by using the Transact-SQL ALTER DATABASE statement.</Token>

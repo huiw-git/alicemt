@@ -1,1 +1,0 @@
-<Token>**THIS TOPIC APPLIES TO:**![no](../../Images\Image\ImageNotContaina/no.png)SQL Server ![no](../../Images\Image\ImageNotContaina/no.png)Azure SQL Database![no](../../Images\Image\ImageNotContaina/no.png)Azure SQL Data Warehouse ![yes](../../Images\Image\ImageNotContaina/yes.png)Parallel Data Warehouse </Token>
