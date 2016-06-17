@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">Revolution R Enterprise 7.5.0</Token>

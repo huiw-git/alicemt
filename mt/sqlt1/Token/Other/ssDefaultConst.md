@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">The default constructor initializes any fields to their default values.</Token>

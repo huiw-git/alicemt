@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink"><para><embeddedLabel>&gt;&gt;</embeddedLabel> To submit feedback and review existing feedback, see  <externalLink><linkText>Microsoft SQL Server Connect</linkText><linkUri>https://connect.microsoft.com/SQLServer/Feedback</linkUri></externalLink>.</para></Token>

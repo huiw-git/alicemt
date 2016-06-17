@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">This property was introduced in SQL Server 2005.</Token>
