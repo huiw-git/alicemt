@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">The visibility of the metadata in catalog views is limited to securables that a user either owns or on which the user has been granted some permission.</Token>
