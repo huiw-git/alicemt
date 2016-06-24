@@ -55,7 +55,7 @@ In rare cases, you might need to provide a Boolean value for a switch parameter.
 Describes the format of data sent to Windows PowerShell. Valid values are "Text" (text strings) or "XML" (serialized CLIXML format).
 
 ### \-Mta
-Starts Windows PowerShell using a multi\-threaded apartment. [!INCLUDE[ps_sdk_paramintrodps3](../../Topics/Powershell_CmdLineHlp\includes/ps_sdk_paramintrodps3_md.md)] In [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)], single\-threaded apartment (STA) is the default. In [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp\includes/psversion2_md.md)], multi\-threaded apartment (MTA) is the default.
+Starts Windows PowerShell using a multi\-threaded apartment. [!INCLUDE[ps_sdk_paramintrodps3](../../Topics/Powershell_CmdLineHlp/includes/ps_sdk_paramintrodps3_md.md)] In [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)], single\-threaded apartment (STA) is the default. In [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)], multi\-threaded apartment (MTA) is the default.
 
 ### \-NoExit
 Does not exit after running startup commands.
@@ -76,12 +76,12 @@ Determines how output from Windows PowerShell is formatted. Valid values are "Te
 Loads the specified Windows PowerShell console file. Enter the path and name of the console file. To create a console file, use the [Export-Console](assetId:///4bab1c02-9e61-4aaf-9957-11d1934ef4ef) cmdlet in Windows PowerShell.
 
 ### \-Sta
-Starts Windows PowerShell using a single\-threaded apartment. In [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)], single\-threaded apartment (STA) is the default. In [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp\includes/psversion2_md.md)], multi\-threaded apartment (MTA) is the default.
+Starts Windows PowerShell using a single\-threaded apartment. In [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)], single\-threaded apartment (STA) is the default. In [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)], multi\-threaded apartment (MTA) is the default.
 
 ### \-Version 
-Starts the specified version of Windows PowerShell. The version that you specify must be installed on the system. If [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)] is installed on the computer, valid values are "2.0" and "3.0". The default value is "3.0".
+Starts the specified version of Windows PowerShell. The version that you specify must be installed on the system. If [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)] is installed on the computer, valid values are "2.0" and "3.0". The default value is "3.0".
 
-If [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)] is not installed, the only valid value is "2.0". Other values are ignored.
+If [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)] is not installed, the only valid value is "2.0". Other values are ignored.
 
 For more information, see "Installing Windows PowerShell" in the [Getting Started with Windows PowerShell [OLD MSDN]](assetId:///69555d95-b481-43e1-86e7-b46d68b3e2dd).
 
@@ -109,7 +109,7 @@ where the quotation marks indicate a string and the invoke operator (&) causes t
 Shows this message. If you are typing a PowerShell.exe command in Windows PowerShell, prepend the command parameters with a hyphen (\-), not a forward slash (\/). You can use either a hyphen or forward slash in Cmd.exe.
 
 > [!NOTE]
-> Troubleshooting Note: In Windows PowerShell 2.0, starting some programs in the Windows PowerShell console fails with a LastExitCode of 0xc0000142. [!INCLUDE[lserver_md](../../Topics/Powershell_CmdLineHlp\includes/lserver_md.md)]
+> Troubleshooting Note: In Windows PowerShell 2.0, starting some programs in the Windows PowerShell console fails with a LastExitCode of 0xc0000142. [!INCLUDE[lserver_md](../../Topics/Powershell_CmdLineHlp/includes/lserver_md.md)]
 
 ## EXAMPLES
 

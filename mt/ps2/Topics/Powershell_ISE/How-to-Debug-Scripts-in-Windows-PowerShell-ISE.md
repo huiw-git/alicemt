@@ -9,7 +9,7 @@ ms.topic: article
 ms.assetid: 6dc6d8f9-8978-46e9-a92f-169af37e2817
 ---
 # How to Debug Scripts in Windows PowerShell ISE
-This topic describes how to debug scripts on a local computer by using the [!INCLUDE[ise_1](../../Topics/Powershell_ISE\includes/ise_1_md.md)] visual debugging features.
+This topic describes how to debug scripts on a local computer by using the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] visual debugging features.
 
 [How to manage breakpoints](#bkmk_1)
 [How to manage a debugging session](#bkmk_2)
@@ -27,7 +27,7 @@ You can set three types of breakpoints in the Windows PowerShell debugging envir
 
 3.  **Command breakpoint.** The script pauses whenever the designated command is about to be run during the operation of the script. It can include parameters to further filter the breakpoint to only the operation you want. The command can also be a function you created.
 
-Of these, in the [!INCLUDE[ise_2](../../Topics/Powershell_ISE\includes/ise_2_md.md)] debugging environment, only line breakpoints can be set by using the menu or the keyboard shortcuts. The other two types of breakpoints can be set, but they are set from the Console Pane by using the [Set-PSBreakpoint [m2]](assetId:///88d2d9ad-17dc-44ae-99aa-f841125b9dc8) cmdlet. This section describes how you can perform debugging tasks in [!INCLUDE[ise_2](../../Topics/Powershell_ISE\includes/ise_2_md.md)] by using the menus where available, and perform a wider range of commands from the Console Pane by using scripting.
+Of these, in the [!INCLUDE[ise_2](../../Topics/Powershell_ISE/includes/ise_2_md.md)] debugging environment, only line breakpoints can be set by using the menu or the keyboard shortcuts. The other two types of breakpoints can be set, but they are set from the Console Pane by using the [Set-PSBreakpoint [m2]](assetId:///88d2d9ad-17dc-44ae-99aa-f841125b9dc8) cmdlet. This section describes how you can perform debugging tasks in [!INCLUDE[ise_2](../../Topics/Powershell_ISE/includes/ise_2_md.md)] by using the menus where available, and perform a wider range of commands from the Console Pane by using scripting.
 
 ### To set a breakpoint
 A breakpoint can be set in a script only after it has been saved. Right\-click the line where you want to set a line breakpoint, and then click **Toggle Breakpoint**. Or, click the line where you want to set a line breakpoint, and press **F9** or, on the **Debug** menu, click **Toggle Breakpoint**.
@@ -40,7 +40,7 @@ set-psbreakpoint -script sample.ps1 -variable Server
 ```
 
 ### List all breakpoints
-Displays all breakpoints in the current [!INCLUDE[wps_1](../../Topics/Powershell_GetStart\includes/wps_1_md.md)] session.
+Displays all breakpoints in the current [!INCLUDE[wps_1](../../Topics/Powershell_GetStart/includes/wps_1_md.md)] session.
 
 On the **Debug** menu, click **List Breakpoints**. The following script is an example of how you can list all breakpoints from the Console Pane by using the [Get-PSBreakpoint](assetId:///0bf48936-00ab-411c-b5e0-9b10a812a3c6) cmdlet.
 
