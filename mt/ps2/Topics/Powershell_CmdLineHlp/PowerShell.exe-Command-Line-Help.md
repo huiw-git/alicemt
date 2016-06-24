@@ -109,7 +109,7 @@ where the quotation marks indicate a string and the invoke operator (&) causes t
 Shows this message. If you are typing a PowerShell.exe command in Windows PowerShell, prepend the command parameters with a hyphen (\-), not a forward slash (\/). You can use either a hyphen or forward slash in Cmd.exe.
 
 > [!NOTE]
-> Troubleshooting Note: In Windows PowerShell 2.0, starting some programs in the Windows PowerShell console fails with a LastExitCode of 0xc0000142. [!INCLUDE[lserver_md](../../Topics/Powershell_GetStart\includes/lserver_md.md)]
+> Troubleshooting Note: In Windows PowerShell 2.0, starting some programs in the Windows PowerShell console fails with a LastExitCode of 0xc0000142. [!INCLUDE[lserver_md](../../Topics/Powershell_CmdLineHlp\includes/lserver_md.md)]
 
 ## EXAMPLES
 

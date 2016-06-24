@@ -34,7 +34,7 @@ This topic lists the system requirements for [!INCLUDE[psversion3](../../Topics/
 
 -   [!INCLUDE[win7_server_firstref](../../Topics/Powershell_GetStart\includes/win7_server_firstref_md.md)] with Service Pack 1, install [Windows Management Framework 3.0](http://www.microsoft.com/download/details.aspx?id=34595) to run [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)]
 
--   [!INCLUDE[lserver](../../Topics/Powershell_GetStart\includes/lserver_md.md)] with Service Pack 2, install [Windows Management Framework 3.0](http://www.microsoft.com/download/details.aspx?id=34595) to run [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)]
+-   [!INCLUDE[lserver](../../Topics/Powershell_CmdLineHlp\includes/lserver_md.md)] with Service Pack 2, install [Windows Management Framework 3.0](http://www.microsoft.com/download/details.aspx?id=34595) to run [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp\includes/psversion3_md.md)]
 
 ## Microsoft .NET Framework Requirements
 [!INCLUDE[psversion4](../../Topics/Powershell_GetStart\includes/psversion4_md.md)] requires the full installation of Microsoft .NET Framework 4.5. [!INCLUDE[winblue_client_2](../../Topics/Powershell_GetStart\includes/winblue_client_2_md.md)] and [!INCLUDE[winblue_server_2](../../Topics/Powershell_GetStart\includes/winblue_server_2_md.md)] include Microsoft .NET Framework 4.5 by default.
