@@ -1,0 +1,124 @@
+---
+title: View Availability Replica Properties (SQL Server)
+H1: na
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - dbe-high-availability
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 14fed3c4-8ecc-4e1c-931d-a7ec1e9f9e90
+---
+# View Availability Replica Properties (SQL Server)
+  This topic describes how to view the properties of an availability replica for an Always On availability group by using [!INCLUDE[ssManStudioFull](../../Topics/TopicNameContainA/includes/ssManStudioFull_md.md)] or [!INCLUDE[tsql](../../Topics/TopicNameContainA/includes/tsql_md.md)] in [!INCLUDE[ssCurrent](../../Topics/TopicNameContainA/includes/ssCurrent_md.md)].  
+  
+-   **To view availability replica properties, using:**  
+  
+     [SQL Server Management Studio](#SSMSProcedure)  
+  
+     [Transact-SQL](#TsqlProcedure)  
+  
+##  <a name="SSMSProcedure"></a> Using SQL Server Management Studio  
+ **To view and change properties an availability replica**  
+  
+1.  In Object Explorer, connect to the server instance that hosts the primary replica, and expand the server tree.  
+  
+2.  Expand the **Always On High Availability** node and the **Availability Groups** node.  
+  
+3.  Expand the availability group to which the availability replica belongs, and expand the **Availability Replicas** node.  
+  
+4.  Right-click the availability replica whose properties you want to view, and select the **Properties** command.  
+  
+5.  In the **Availability Replica Properties** dialog box, use the **General** page to view the properties of this replica. If you are connected to the primary replica, you can change the following properties: availability mode, failover mode, connection access for the primary role, read-access for the secondary role (readable-secondary), and the session-timeout value. For more information, see [Availability Replica Properties &#40;General Page&#41;](../../Topics/TopicNameNotContainA/Availability-Replica-Properties--General-Page-.md).  
+  
+  
+##  <a name="TsqlProcedure"></a> Using Transact-SQL  
+ **To view properties and states of availability replicas**  
+  
+ To view the properties and states of availability replicas, use the following views and system function:  
+  
+ [sys.availability_replicas](../Topic/sys.availability_replicas%20\(Transact-SQL\).md)  
+ Returns a row for every availability replica in each availability group for which the local instance of [!INCLUDE[ssNoVersion](../../Topics/TopicNameContainA/includes/ssNoVersion_md.md)] hosts an availability replica.  
+  
+ **Column names:** replica_id, group_id, replica_metadata_id, replica_server_name, owner_sid, endpoint_url, availability_mode, availability_mode_desc, failover_mode, failover_mode_desc, session_timeout, primary_role_allow_connections, primary_role_allow_connections_desc, secondary_role_allow_connections, secondary_role_allow_connections_desc, create_date, modify_date, backup_priority, read_only_routing_url  
+  
+ [sys.availability_read_only_routing_lists](../Topic/sys.availability_read_only_routing_lists%20\(Transact-SQL\).md)  
+ Returns a row for the read only routing list of each availability replica in an Always On availability group in the WSFC failover cluster.  
+  
+ **Column names:** replica_id, routing_priority, read_only_replica_id  
+  
+ [sys.dm_hadr_availability_replica_cluster_nodes](../Topic/sys.dm_hadr_availability_replica_cluster_nodes%20\(Transact-SQL\).md)  
+ Returns a row for every availability replica (regardless of join state) of the Always On availability groups in the Windows Server Failover Clustering (WSFC) cluster.  
+  
+ **Column names:** group_name, replica_server_name, node_name  
+  
+ [sys.dm_hadr_availability_replica_cluster_states](../Topic/sys.dm_hadr_availability_replica_cluster_states%20\(Transact-SQL\).md)  
+ Returns a row for each replica (regardless of join state) of all Always On availability groups (regardless of replica location) in the Windows Server Failover Clustering (WSFC) cluster.  
+  
+ **Column names:** replica_id, replica_server_name, group_id, join_state, join_state_desc  
+  
+ [sys.dm_hadr_availability_replica_states](../Topic/sys.dm_hadr_availability_replica_states%20\(Transact-SQL\).md)  
+ Returns a row showing the state of each local availability replica and a row for each remote availability replica in the same availability group.  
+  
+ **Column names:** replica_id, group_id, is_local, role, role_desc, operational_state, operational_state_desc, connected_state, connected_state_desc, recovery_health, recovery_health_desc, synchronization_health, synchronization_health_desc, last_connect_error_number, last_connect_error_description, and last_connect_error_timestamp  
+  
+ [sys.fn_hadr_backup_is_preferred_replica](../Topic/sys.fn_hadr_backup_is_preferred_replica%20%20\(Transact-SQL\).md)  
+ Determines whether the current replica is the preferred backup replica. Returns 1 if the database on the current server instance is the preferred replica. Otherwise, it returns 0.  
+  
+> [!NOTE]  
+>  For information about performance counters for availability replicas (the **SQLServer:Availability Replica**  performance object), see [SQL Server, Availability Replica](../../Topics/TopicNameNotContainA/SQL-Server--Availability-Replica.md).  
+  
+  
+##  <a name="RelatedTasks"></a> Related Tasks  
+ **To view information about availability groups**  
+  
+-   [View Availability Group Properties &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/View-Availability-Group-Properties--SQL-Server-.md)  
+  
+-   [View Availability Group Listener Properties &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/View-Availability-Group-Listener-Properties--SQL-Server-.md)  
+  
+-   [Always On Policies for Operational Issues with Always On Availability Groups &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Always-On-Policies-for-Operational-Issues-with-Always-On-Availability-Groups--SQL-Server-.md)  
+  
+-   [Use the Always On Dashboard &#40;SQL Server Management Studio&#41;](../../Topics/TopicNameNotContainA/Use-the-Always-On-Dashboard--SQL-Server-Management-Studio-.md)  
+  
+-   [Monitor Availability Groups &#40;Transact-SQL&#41;](../../Topics/TopicNameNotContainA/Monitor-Availability-Groups--Transact-SQL-.md)  
+  
+ **To manage availability replicas**  
+  
+-   [Add a Secondary Replica to an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Add-a-Secondary-Replica-to-an-Availability-Group--SQL-Server-.md)  
+  
+-   [Join a Secondary Replica to an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Join-a-Secondary-Replica-to-an-Availability-Group--SQL-Server-.md)  
+  
+-   [Configure Read-Only Access on an Availability Replica &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Configure-Read-Only-Access-on-an-Availability-Replica--SQL-Server-.md)  
+  
+-   [Change the Availability Mode of an Availability Replica &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Change-the-Availability-Mode-of-an-Availability-Replica--SQL-Server-.md)  
+  
+-   [Change the Failover Mode of an Availability Replica &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Change-the-Failover-Mode-of-an-Availability-Replica--SQL-Server-.md)  
+  
+-   [Change the Session-Timeout Period for an Availability Replica &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Change-the-Session-Timeout-Period-for-an-Availability-Replica--SQL-Server-.md)  
+  
+-   [Remove a Secondary Replica from an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Remove-a-Secondary-Replica-from-an-Availability-Group--SQL-Server-.md)  
+  
+ **To manage an availability database**  
+  
+-   [Add a Database to an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Add-a-Database-to-an-Availability-Group--SQL-Server-.md)  
+  
+-   [Join a Secondary Database to an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Join-a-Secondary-Database-to-an-Availability-Group--SQL-Server-.md)  
+  
+-   [Suspend an Availability Database &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Suspend-an-Availability-Database--SQL-Server-.md)  
+  
+-   [Resume an Availability Database &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Resume-an-Availability-Database--SQL-Server-.md)  
+  
+-   [Remove a Secondary Database from an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Remove-a-Secondary-Database-from-an-Availability-Group--SQL-Server-.md)  
+  
+-   [Remove a Primary Database from an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameContainA/Remove-a-Primary-Database-from-an-Availability-Group--SQL-Server-.md)  
+  
+  
+## See Also  
+ [Overview of Always On Availability Groups &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Overview-of-Always-On-Availability-Groups--SQL-Server-.md)   
+ [Monitor Availability Groups &#40;Transact-SQL&#41;](../../Topics/TopicNameNotContainA/Monitor-Availability-Groups--Transact-SQL-.md)   
+ [Always On Policies for Operational Issues with Always On Availability Groups &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Always-On-Policies-for-Operational-Issues-with-Always-On-Availability-Groups--SQL-Server-.md)   
+ [Administration of an Availability Group &#40;SQL Server&#41;](../../Topics/TopicNameNotContainA/Administration-of-an-Availability-Group--SQL-Server-.md)  
+  
+  
