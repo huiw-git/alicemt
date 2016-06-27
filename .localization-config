@@ -9,16 +9,35 @@
           "Priority": "ht",
           "Locales": [
             "ar-ae",
+            "ar-sa",
+            "cs-cz",
+            "da-dk",
             "de-de",
+            "el-gr",
             "es-es",
+            "fi-fi",
+            "fr-ca",
             "fr-fr",
+            "he-il",
+            "hu-hu",
             "it-it",
             "ja-jp",
             "ko-kr",
+            "nb-no",
+            "nl-nl",
+            "pl-pl",
             "pt-br",
+            "pt-pt",
             "ru-ru",
+            "sv-se",
+            "tr-tr",
             "zh-cn",
-            "zh-tw"
+            "zh-hk",
+            "zh-tw",
+            "de-at",
+            "fr-be",
+            "it-ch",
+            "nl-be"
           ]
         }
       ]
