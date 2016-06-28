@@ -37,7 +37,20 @@
             "de-at",
             "fr-be",
             "it-ch",
-            "nl-be"
+            "nl-be",
+            "bg-bg",
+            "et-ee",
+            "hr-hr",
+            "lt-lt",
+            "lv-lv",
+            "ro-ro",
+            "sk-sk",
+            "sl-si",
+            "sr-latn-cs",
+            "sr-latn-rs",
+            "th-th",
+            "uk-ua",
+            "en-gb"
           ]
         }
       ]
