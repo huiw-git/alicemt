@@ -1,1 +1,0 @@
- Microsoft R Open 3.2.2 for R Enterprise 2016 

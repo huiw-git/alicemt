@@ -1,1 +1,0 @@
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">This namespace, class, or member is supported only in version 2.0 of the Microsoft .NET Framework.</Token>
