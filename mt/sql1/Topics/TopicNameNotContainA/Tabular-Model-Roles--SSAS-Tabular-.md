@@ -1,0 +1,24 @@
+---
+title: Tabular Model Roles (SSAS Tabular)
+ms.custom: na
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - analysis-services
+  - analysis-services/multidimensional-tabular
+  - analysis-services/data-mining
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 28658862-dce2-459f-8868-29ee31c879bb
+---
+# Tabular Model Roles (SSAS Tabular)
+  Information in this topic and related tasks is meant for tabular model database administrators who will create and manage roles for deployed tabular models by using [!INCLUDE[ssManStudioFull](../../Topics/TopicNameContainA/includes/ssManStudioFull_md.md)]. To learn about roles in tabular models, see [Roles &#40;SSAS Tabular&#41;](../../Topics/TopicNameNotContainA/Roles--SSAS-Tabular-.md). To learn about creating and managing roles in a tabular model project by using Role Manager in [!INCLUDE[ssBIDevStudioFull](../../Topics/TopicNameContainA/includes/ssBIDevStudioFull_md.md)], see [Create and Manage Roles &#40;SSAS Tabular&#41;](../../Topics/TopicNameNotContainA/Create-and-Manage-Roles--SSAS-Tabular-.md).  
+  
+## Related Tasks  
+  
+|Task|Description|  
+|----------|-----------------|  
+|[Manage Roles by using SSMS &#40;SSAS Tabular&#41;](../../Topics/TopicNameNotContainA/Manage-Roles-by-using-SSMS--SSAS-Tabular-.md)|Describes how to create roles, add and remove members from a role, change permissions for a role, and add, edit, or remove row-level filters by using DAX.|  
+  
+  
