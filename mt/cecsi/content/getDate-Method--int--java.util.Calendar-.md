@@ -1,0 +1,66 @@
+---
+title: getDate Method (int, java.util.Calendar)
+ms.custom: na
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+apiname: 
+  - SQLServerCallableStatement.getDate (int, java.util.Calendar)
+apilocation: 
+  - sqljdbc.jar
+apitype: Assembly
+ms.assetid: 38ce7b75-2623-4eff-bc18-8cf7193adec8
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - sv-se
+  - zh-cn
+  - zh-tw
+---
+# getDate Method (int, java.util.Calendar)
+  Retrieves the value of the designated parameter as a java.sql.Date object in the Java programming language given the parameter index and Calendar object.  
+  
+## Syntax  
+  
+```  
+  
+public java.sql.Date getDate(int index,  
+                             java.util.Calendar cal)  
+```  
+  
+#### Parameters  
+ *index*  
+  
+ An **int** that indicates the parameter index.  
+  
+ *cal*  
+  
+ A Calendar object.  
+  
+## Return Value  
+ A Date object.  
+  
+## Exceptions  
+ [SQLServerException](../content/SQLServerException-Class.md)  
+  
+## Remarks  
+ This getDate method is specified by the getDate method in the java.sql.CallableStatement interface.  
+  
+ This method returns a valid date part of a [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] **datetime** or **smalldatetime** data type, with the time part set to the Java time baseline of 00:00 \(midnight\).  
+  
+## See Also  
+ [getDate Method &#40;SQLServerCallableStatement&#41;](../content/getDate-Method--SQLServerCallableStatement-.md)   
+ [SQLServerCallableStatement Members](../content/SQLServerCallableStatement-Members.md)   
+ [SQLServerCallableStatement Class](../content/SQLServerCallableStatement-Class.md)  
+  
+  

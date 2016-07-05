@@ -1,0 +1,37 @@
+---
+title: Redistributing the Microsoft JDBC Driver
+ms.custom: na
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 625d64d3-6e7c-41c2-912a-38fdf6695922
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+---
+# Redistributing the Microsoft JDBC Driver
+    
+## Register to Redistribute the Microsoft JDBC 4.0 Driver  
+ Click the link below to review the license agreement for the 4.0 version of the driver.  You may print and retain a copy of the license agreement for your records if you wish.  
+  
+ If you choose to accept the license agreement, you will be directed to the registration page and then the download page.  
+  
+ [Redestribution License for Microsoft JDBC Driver 4.0 for SQL Server](https://msdn.microsoft.com/sqlserver/jj589698)  
+  
+ Note: Microsoft uses Windows Live ID for secure authentication and registration. When you register for redistribution rights for SQL Server JDBC Driver Redistribution through Windows Live ID, you will be prompted to provide information that will become part of your secure profile.  
+  
+ If you do not have one already, you can get a  [Windows Live ID](https://signup.live.com/)  
+  
+  
