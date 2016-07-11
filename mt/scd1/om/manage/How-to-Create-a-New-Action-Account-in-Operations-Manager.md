@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f3696c39-5624-47cf-bf07-d15213a132f9
+manager:cfreeman
 ---
 # How to Create a New Action Account in Operations Manager
 Use the following procedure to create a new action account. The new action account will not, by default, have access to the Operations Manager database unless access is inherited in the credentials you assign to the action account. If not, a new account for accessing the Operations Manager database will need to be created.  

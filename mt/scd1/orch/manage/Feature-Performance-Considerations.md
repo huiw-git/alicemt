@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 811115ff-34bf-4c10-9cac-709d72b669c9
+manager:cfreeman
 ---
 # Feature Performance Considerations
 Despite the great deal of variance in their design and visual complexity, runbooks are essentially very simple. Runbooks all essentially do three things: Run activities, manage published data, and branch.  

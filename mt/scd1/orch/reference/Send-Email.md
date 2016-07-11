@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 81c60f52-199b-46c7-83c9-3d38ae70b108
+manager:cfreeman
 ---
 # Send Email
 The Send Email activity sends an email message using the standard SMTP protocol or an Exchange server. You can use this activity to notify an administrator of problems that have occurred with a system.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9488d331-ab28-4a50-8f58-0d74dee95adc
+manager:cfreeman
 ---
 # Upgrading System Center 2012 SP1 Orchestrator to System Center 2012 R2
 This guide will show you how to upgrade from [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)][!INCLUDE[orchblue_2](../../orch/deploy/includes/orchblue_2_md.md)] to [!INCLUDE[orchblue_1](../../orch/deploy/includes/orchblue_1_md.md)].  

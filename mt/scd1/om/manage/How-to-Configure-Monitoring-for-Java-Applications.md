@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ec45bdd7-cc61-4c81-8d1c-a4aae303f892
+manager:cfreeman
 ---
 # How to Configure Monitoring for Java Applications
 Getting started with monitoring Java applications requires these four general steps:  

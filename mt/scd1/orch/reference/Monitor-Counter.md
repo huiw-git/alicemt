@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4994563d-6c43-4760-b6f7-ea009e535213
+manager:cfreeman
 ---
 # Monitor Counter
 The Monitor Counter activity invokes a runbook when a counter has reached a value that you specify. Each Monitor Counter activity monitors one counter.  

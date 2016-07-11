@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cfcc2e1e-9dd0-46fd-8fdc-3dfcf3c11573
+manager:cfreeman
 ---
 # How to Configure Orchestrator Database Connections
 DBSetup allows you to secure an unsecured database. The common scenario is connecting to a restored backup.  

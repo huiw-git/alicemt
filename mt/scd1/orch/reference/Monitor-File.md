@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 78ce48a7-f7a2-4075-acfc-882c8148169d
+manager:cfreeman
 ---
 # Monitor File
 The Monitor File activity invokes a runbook when files that you specify in folders and sub\-folders have changed. You can monitor a file that indicates the completion of a transaction. For example, there are nightly transfers sent to your runbook server, and when the transfer is complete a file with the name "Complete" is written to the folder. This activity can automatically invoke a runbook that processes all the files in the folder when the "Complete" file is created.  

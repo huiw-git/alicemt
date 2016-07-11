@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b9e088a5-a5dc-47ca-9593-5631a7e3e4e7
+manager:cfreeman
 ---
 # AdtAdmin.exe AddGroup
 The *\/AddGroup* parameter creates a group that is used to organize ACS forwarders. The group does not contain any ACS forwarders when it is created. Use the *\/UpdForwarder* parameter to add ACS forwarders to a group. This command does not generate output. You can use the *\/ListGroups* parameter to verify that the group was created.  

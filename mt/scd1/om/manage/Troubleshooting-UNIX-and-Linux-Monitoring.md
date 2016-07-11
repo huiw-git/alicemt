@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c0163288-4435-4bd0-92a8-837b2bc5cf2d
+manager:cfreeman
 ---
 # Troubleshooting UNIX and Linux Monitoring
 The following topics provide information about issues that might occur with monitoring UNIX and Linux computers in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

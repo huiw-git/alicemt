@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 21f4a15d-de90-4bd0-aa38-682d8038ce50
+manager:cfreeman
 ---
 # User Roles for Application Performance Monitoring
   

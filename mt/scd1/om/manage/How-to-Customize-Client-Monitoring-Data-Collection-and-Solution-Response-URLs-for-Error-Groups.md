@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5bc45b16-63f3-4489-b8bd-d4c2bd272aca
+manager:cfreeman
 ---
 # How to Customize Client Monitoring Data Collection and Solution Response URLs for Error Groups
 You can help decrease the time it takes to diagnose and resolve operating system and application errors in your organization by customizing the data that is collected in error reports by computers experiencing errors and the solution response URL for an error group. The solution response URL can point to an appropriate location in a knowledge base.  

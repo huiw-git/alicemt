@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ce23ebff-79b3-4675-a9f2-7179a933de44
+manager:cfreeman
 ---
 # How to Remove Audit Collection Services (ACS)
 Each component of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Audit Collection Services \(ACS\) has a separate procedure for removing it.  

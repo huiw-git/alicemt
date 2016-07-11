@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2f5d5467-2ef2-4ee4-b4a7-7092977127ef
+manager:cfreeman
 ---
 # How to Configure Error Transmission Settings for Client Monitoring in Operations Manager
 When you enable Client Monitoring for a management group, you can configure it to forward error reports for Microsoft products to Microsoft. Error Transmission settings allow you to specify which error reports are sent to Microsoft and the additional diagnostic data that is included with the error reports.  

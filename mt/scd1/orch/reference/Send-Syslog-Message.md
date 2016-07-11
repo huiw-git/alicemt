@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e4531b9d-4434-4ad9-8f16-5497eb3e86e4
+manager:cfreeman
 ---
 # Send Syslog Message
 The Send Syslog Message activity creates a message on the Syslog server that you specify. You can use this activity to create audit logs on the Syslog server that document any problems that occur while trying to correct issues using an automated runbook.  

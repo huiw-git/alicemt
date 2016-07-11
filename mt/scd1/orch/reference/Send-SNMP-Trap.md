@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2670b3bc-a5a6-4613-9516-dfe4bdf25612
+manager:cfreeman
 ---
 # Send SNMP Trap
 The Send SNMP Trap activity will raise an SNMP event that can be detected by a network systems manager application. By using an enterprise identifier of a known network device, you can send SNMP Traps on behalf of a network device in your system. Use the Send SNMP Trap to create events for runbooks that need to be tracked using an SNMP monitoring product.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: dcbc0186-947f-4cf5-af5e-720980a2c8c0
+manager:cfreeman
 ---
 # Runbook Control
 The following table provides a brief description of tasks you can accomplish with each activity.  

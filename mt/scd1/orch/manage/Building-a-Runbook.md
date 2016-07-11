@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 17d8d1d1-2326-4925-84a0-c83e82cf7806
+manager:cfreeman
 ---
 # Building a Runbook
 This topic describes the basic process for building a [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] runbook.  

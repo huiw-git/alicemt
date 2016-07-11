@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0f6934ea-1998-4bd5-987a-41cf4e24d408
+manager:cfreeman
 ---
 # How to Customize Message Content for Notifications
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can customize the format that will be used for messages that notify you of alerts. The format of an alert notification is determined by the channel by which the notification is sent. Each channel type has a default format, as shown in the following examples.  

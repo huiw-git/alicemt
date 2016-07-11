@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ee19be3f-cf58-458e-a92d-ce9edbfe573a
+manager:cfreeman
 ---
 # How to Configure Integration with IntelliTrace Historical Profiling in System Center 2012 R2
 [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] includes the IntelliTrace Profiling Management Pack. This management pack lets you capture historical snapshots \(traces\) directly from the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console, and to automatically generate IntelliTrace snapshots from .NET Application Performance Monitoring \(APM\) events. These snapshots can help developers investigate problems by giving them visibility to application execution history without the developers needing access to the servers where the applications ran. Developers can use Microsoft Visual Studio 2012 Ultimate or Microsoft Visual Studio 2013 Preview to open the collected snapshots. For information about IntelliTrace for developers, see [Debug Your App by Recording Code Execution with IntelliTrace](http://go.microsoft.com/fwlink/?LinkId=275118)  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f36bccfb-e038-4a3a-9999-3195fe738bd3
+manager:cfreeman
 ---
 # View Types in Operations Manager
 Each view type in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] displays a different aspect of monitoring data. Each view type has a different icon as shown in the following image.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ccf058ef-d118-4142-ade4-e9100f5315ca
+manager:cfreeman
 ---
 # What&#39;s New in Orchestrator in System Center 2012 Service Pack 1
 The following are the new features for [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] in [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)].  

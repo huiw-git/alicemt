@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7b146b6d-d127-4b5c-9008-a4ed5b7ae760
+manager:cfreeman
 ---
 # Using the Administration Workspace in Operations Manager
 In the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console, the Administration workspace is the primary workspace for administrators. You use the Administration workspace to configure a management group and its managed objects.  

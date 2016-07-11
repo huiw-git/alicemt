@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4c844a02-9fb0-4c32-834c-22b90459c476
+manager:cfreeman
 ---
 # How to Work With Runbooks in the Orchestration Console
 Use the following steps to run a runbook, to view the status of the jobs and instances of a runbook, and to stop a job in the Orchestration console.  

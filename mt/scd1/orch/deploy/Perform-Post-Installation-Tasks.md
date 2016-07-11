@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 88b4ce10-64ba-41a2-8854-9d60a5ca3e92
+manager:cfreeman
 ---
 # Perform Post-Installation Tasks
 This section describes the tasks you can perform after a successful installation of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

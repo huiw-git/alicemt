@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0c2e5750-f222-4642-9fc8-a22461cfc506
+manager:cfreeman
 ---
 # How to Create a Report Schedule
 Use the following procedure to create a schedule to save a report. Make sure that you have created an Availability report and saved it as a favorite before using this procedure. For more information about creating an Availability report, see [How to Create an Availability Report](../../om/manage/How-to-Create-an-Availability-Report.md) and for more information about saving a report as a favorite, see [How to Save a Report](../../om/manage/How-to-Save-a-Report.md).  

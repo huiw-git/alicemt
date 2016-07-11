@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c7587e60-8f21-4ee8-ade1-702df98ddebb
+manager:cfreeman
 ---
 # How to Configure a Gateway Server to Failover Between Multiple Management Servers
 Use the Get\-ManagementServer\-GatewayManagementServer cmdlet in the Operations Manager Shell as shown in the following example to configure a gateway server to fail over to multiple management servers. The commands can be run from any command shell in the management group.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5771bb2d-ca23-4807-8ce9-6c35ef95efc6
+manager:cfreeman
 ---
 # How to Create Groups in Operations Manager
 You can use groups in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] to scope views, reports, overrides, and alert notifications. You create groups in the **Authoring** workspace in the Operations console.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f79c5f48-ea55-4fe1-9097-364933d30f1c
+manager:cfreeman
 ---
 # Viewing Alert Details
 Alerts in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] include information to help you investigate and resolve the issues that caused the alerts.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 12dba3ee-d394-4575-8fc0-2c403b2818ed
+manager:cfreeman
 ---
 # How to Connect to the Web Console
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the web console provides a monitoring interface for a management group that can be opened on any computer that has connectivity to the web console server. The web console is limited to My Workspace and the Monitoring workspace.  

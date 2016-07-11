@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b61d52ec-e35d-42cf-a0fb-fda815e3195b
+manager:cfreeman
 ---
 # Get File Status
 The Get File Status activity verifies that a file exists on the local file system or a network location using a UNC path. You can check that a file is available before copying to another location or before starting any services that depend on the existence of the file. If the file does not exist, you can take corrective action using the [Copy File](../../orch/reference/Copy-File.md) activity to copy the file from another location.  

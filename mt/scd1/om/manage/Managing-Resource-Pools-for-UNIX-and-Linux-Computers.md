@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b77acb7a-d380-4d4d-9e3e-de86e5c80cfc
+manager:cfreeman
 ---
 # Managing Resource Pools for UNIX and Linux Computers
 You can specify the resource pool that manages a particular UNIX or Linux computer. This capability allows you to create a resource pool dedicated to managing only UNIX and Linux computers.  

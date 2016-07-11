@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e32a8560-aada-42d3-8f6a-ff1cc207f7e6
+manager:cfreeman
 ---
 # How to Collect IntelliTrace Historical Profiling Traces from System Center 2012 R2
 In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], you can use [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] to capture historical snapshots \(traces\) directly from the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console and to receive IntelliTrace snapshots from .NET Application Performance Monitoring \(APM\) events. These snapshots can help developers investigate problems. They provide visibility to application execution history without needing to access the servers where the problems occurred. Developers can use Microsoft Visual Studio 2012 Ultimate or Microsoft Visual Studio 2013 Preview to open collected snapshots. For information about IntelliTrace for developers, see [Debug Your App by Recording Code Execution with IntelliTrace](http://go.microsoft.com/fwlink/?LinkId=275118)  

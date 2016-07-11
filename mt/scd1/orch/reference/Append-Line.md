@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 652ce6db-3ca9-42bc-87f3-82e796f65e2c
+manager:cfreeman
 ---
 # Append Line
 The Append Line activity appends a line of text into a text file.  Use the Append Line activity to append lines to a log file to create audits trails of runbooks.  

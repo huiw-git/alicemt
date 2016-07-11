@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 88e02b5e-399b-4225-8a9e-0e9d46266c3e
+manager:cfreeman
 ---
 # Accessibility for People with Disabilities
 Microsoft is committed to making its products and services easier for everyone to use. The following topics provide information about the features, products, and services that make Microsoft [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] more accessible for people with disabilities.  

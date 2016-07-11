@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: aa50d20a-5f38-476f-b79c-8f2f99e4ff1f
+manager:cfreeman
 ---
 # How to Personalize a View in Operations Manager
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], views are contained in management packs. If a view is contained in a sealed management pack, you can open the properties of the view but you cannot save any changes to it. However, you can change the display options of the view and then save it as a personalized view.  

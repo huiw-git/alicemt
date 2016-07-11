@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: acf45816-d68e-4ad5-ac9c-f29eb8254d5b
+manager:cfreeman
 ---
 # How to Change the Orchestrator Database
 You might have to change the location of the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] database after installation, because you might want to separate the management server and database server, move the database to a larger server or a cluster, or just reconfigure the orchestration database based on required changes in your environment. You can use standard Microsoft SQL Server methods to move the existing database to another server, but then you must configure the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] features to connect to the new server. You must perform this configuration for the management server, the web service supporting the Orchestration console, and each runbook server as described in the following procedures.  

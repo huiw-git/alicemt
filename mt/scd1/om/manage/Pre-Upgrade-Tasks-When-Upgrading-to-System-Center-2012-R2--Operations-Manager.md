@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7518d545-fff2-45a2-93e6-f7b038fe9639
+manager:cfreeman
 ---
 # Pre-Upgrade Tasks When Upgrading to System Center 2012 R2  Operations Manager
 Perform the following pre\-upgrade tasks in the order presented before you begin the upgrade process.  

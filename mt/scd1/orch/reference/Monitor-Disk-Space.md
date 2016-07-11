@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a88637be-d698-4cd6-8224-219394e64518
+manager:cfreeman
 ---
 # Monitor Disk Space
 The Monitor Disk Space activity will invoke a runbook when the disk space on a computer passes a critical threshold. You can monitor multiple drives on different computers with a single Monitor Disk Space activity. The Monitor Disk Space activity can be used to invoke runbooks that will automatically backup and purge files on a hard drive that is running out of space  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d7264f94-f3d6-4fa9-977b-4778059926c1
+manager:cfreeman
 ---
 # Security for Servers Performing Network Discovery
 You must ensure the following firewall configuration for network monitoring:  

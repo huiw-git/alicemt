@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cf1b4f0c-2694-405b-9940-1fdb88c9228b
+manager:cfreeman
 ---
 # PGP Decrypt File
 The PGP Decrypt File activity decrypts a file or entire folder tree using a PGP key file and passphrase that you have created. When decrypting an entire folder, the folder tree is preserved from the root folder down. For example, if you decrypt C:\\Documents and Settings\\Administrator\\My Documents\\\*.\* and all subfolders, all files in My Documents are decrypted as well as all the files in the folders under My Documents. All files in subfolders will be in the same subfolder in the Output folder.  

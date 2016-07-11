@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3bd4992a-badc-4d36-9e64-52e2a167f9e8
+manager:cfreeman
 ---
 # Runbook Properties
 A runbook is essentially a series of activities that are using data, performing tasks, and publishing data for use by other activities in the runbook. Each runbook has a collection of configurable properties. These properties let you customize the behavior of a runbook.  

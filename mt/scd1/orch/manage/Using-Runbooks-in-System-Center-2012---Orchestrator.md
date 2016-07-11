@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 853cb8d0-3662-4f38-8f80-ce8dac9fcab1
+manager:cfreeman
 ---
 # Using Runbooks in System Center 2012 - Orchestrator
 Welcome to the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] Runbook Guide. This document describes [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] runbooks. This document provides information about the tools available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] and guidance on how to automate tasks and processes for your IT environment. Topics include how to write, test, and deploy a runbook with [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

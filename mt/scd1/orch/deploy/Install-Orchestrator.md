@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1aa6c14b-4fa1-432d-aba1-0450646410b1
+manager:cfreeman
 ---
 # Install Orchestrator
 This section provides details about how to install [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] on a single server, as an individual feature, and as a highly available deployment.  

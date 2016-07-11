@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c6fc3df4-50fc-4514-b54b-1257ebc4c0e6
+manager:cfreeman
 ---
 # Defining a Service Level Objective Against a Group
 You can configure a service level objective \(SLO\) against a group of computers to ensure their availability. In the following scenario, you create a service level that consists of a group of servers \(Exchange Servers\) and then define a service level objective of 99.99% availability.  

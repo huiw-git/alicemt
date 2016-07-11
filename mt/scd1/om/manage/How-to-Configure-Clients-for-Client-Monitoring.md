@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ec0035ba-4997-4340-88f1-05565b4ea796
+manager:cfreeman
 ---
 # How to Configure Clients for Client Monitoring
 This topic provides the procedure to configure clients for the Client Monitoring feature of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

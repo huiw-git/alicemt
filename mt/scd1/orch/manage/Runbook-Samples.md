@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7dcf9d0a-db63-48ad-9fb8-525147ba62b7
+manager:cfreeman
 ---
 # Runbook Samples
 This topic provides instructions about how to build and test sample runbooks by using the [Standard Activities](../../orch/reference/Standard-Activities.md) found in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

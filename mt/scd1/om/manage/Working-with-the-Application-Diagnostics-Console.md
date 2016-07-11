@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bb451d4a-4e48-428d-8992-0f2e2b5c240f
+manager:cfreeman
 ---
 # Working with the Application Diagnostics Console
 The Application Diagnostics console is an event management system for .NET Application Performance Monitoring in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. You can use Application Diagnostics console to monitor deployed .NET applications for slowdowns, faults, and failures, and immediately pinpoint the source of the problem.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 46d707f5-7500-4a87-8e35-ed24f8b33ae5
+manager:cfreeman
 ---
 # Grant Visio Services with Read-Only Operator Permissions
 In order for Visio Services to refresh the diagrams that are published and connected to [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] data, the Visio Services service application must be configured with credentials that have access to the management server. This is because the Visio Services service application is executing the data provider that is responsible for returning the updated dataset from the management server.  

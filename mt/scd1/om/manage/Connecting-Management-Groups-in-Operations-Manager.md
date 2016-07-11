@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 13890833-d295-4387-abc9-94bc520b5f00
+manager:cfreeman
 ---
 # Connecting Management Groups in Operations Manager
 Connecting management groups in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] enables the ability to view and interact with data from multiple management groups in a single Operations console. The management group in which the consolidated view is available is called the local management group, and those that contribute their data to the consolidated view are called the connected management groups. They relate to each other in a hierarchical fashion, with connected groups in the bottom tier and the local group in the top tier. The connected groups are in a peer\-to\-peer relationship with each other. Each connected group has no visibility or interaction with the other connected groups; the visibility is strictly from the local group into the connected group.  

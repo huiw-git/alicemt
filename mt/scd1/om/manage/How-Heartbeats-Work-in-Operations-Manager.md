@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 86d48b3b-7498-4d62-b554-2dd0346cd371
+manager:cfreeman
 ---
 # How Heartbeats Work in Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] uses *heartbeats* to monitor communication channels between an agent and the agent’s primary management server. A heartbeat is a packet of data sent from the agent to the management server on a regular basis, by default every 60 seconds, using port 5723 \(UDP\).  

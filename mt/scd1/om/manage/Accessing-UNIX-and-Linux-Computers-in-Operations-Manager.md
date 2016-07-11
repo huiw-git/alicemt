@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c09d5b3b-a76d-412a-bb4d-32d6f1d3047a
+manager:cfreeman
 ---
 # Accessing UNIX and Linux Computers in Operations Manager
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the management server uses two protocols to communicate with the UNIX or Linux computer:  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6e085a23-5fae-4592-a08c-55cefb2a2926
+manager:cfreeman
 ---
 # Computer Groups
 [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] is designed to interact with all of your data center systems. Computer groups let you target selected activities against a set of similar computer systems instead of a single computer. By configuring the activities in your runbook to use a computer group, you have the flexibility to add computers dynamically by adding them to the computer group.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e468129e-f883-4c05-8d95-6afad5396868
+manager:cfreeman
 ---
 # Implementing User Roles
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], user roles are the method you use to assign the rights needed to access monitoring data and perform actions. User roles are designed to apply to groups of users that need access to and perform actions on the same group of monitored objects. By default, only the Operations Manager Administrator account has the right to view and act on monitoring data. All other users must have a user role assigned in order to view or act on monitoring data.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f5a4749c-e042-401c-86ae-f9830576fcf2
+manager:cfreeman
 ---
 # Add Links to Operations Manager to a New or Existing Visio 2010 Document
 The Visio 2010 Add\-in for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] lets you create a new Microsoft Office Visio document that you can link to [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] objects. The Visio Add\-in also lets you add live health state information to an existing Visio document.  

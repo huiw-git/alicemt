@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2cebdeb0-09dd-47b7-ae13-0b478fc77a6d
+manager:cfreeman
 ---
 # Monitor Internet Application
 The Monitor Internet Application activity will invoke a runbook when an internet application server becomes unavailable or becomes available. You can monitor a Web, Email \(POP3 or SMTP\), FTP, or DNS server.  You can also configure your external FTP or Web servers to be reachable through the internet and then automatically restart the server if it is found to be unavailable.  

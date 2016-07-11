@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14a02a1a-0a40-4f23-809b-11f6fb9ac5ba
+manager:cfreeman
 ---
 # AdtAdmin.exe ListGroups
 The output of the *\/ListGroups* parameter is a comma\-separated list of groups that is maintained by an ACS collector. If no subparameters are used, all groups from this ACS collector are listed. None of the subparameters that specify individual ACS forwarders apply to the *\/ListGroups* parameter.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bdf8f8b7-8f6b-436d-a464-f9681b15cc61
+manager:cfreeman
 ---
 # Monitoring Web Applications with Microsoft Monitoring Agent
 When Microsoft Monitoring agent is used together with System Center [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], it adds value for IT Operations by providing real\-time alerting, operational reporting, and centralized management of configuration. Microsoft Monitoring Agent without connection to System Center can be used as a lightweight Application Performance Monitoring \(APM\) solution for Microsoft .NET Framework applications that does not require heavy infrastructure from IT Operations, so you can begin monitoring applications within a few minutes.  

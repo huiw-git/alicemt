@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b2024376-f24f-4279-997a-f7fe2ccd73e4
+manager:cfreeman
 ---
 # Utilities
 The following table provides a brief description of tasks you can accomplish when using each Utilities activity.  

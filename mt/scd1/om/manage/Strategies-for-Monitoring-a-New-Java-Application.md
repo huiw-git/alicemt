@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 262cd9b5-f651-4ba5-a5a7-a6a05baf9eef
+manager:cfreeman
 ---
 # Strategies for Monitoring a New Java Application
 Here are some scenarios and settings to change during authoring that can help you receive the monitoring experience and data that are most helpful for you.  

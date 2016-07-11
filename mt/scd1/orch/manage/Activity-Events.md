@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 51302055-3f9c-43a2-943d-d63769b9ed2b
+manager:cfreeman
 ---
 # Activity Events
 Each activity in an [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] runbook has the ability to send an event whenever it fails to run or is taking too long to run. These events are presented on the **Events** tab of the Runbook Designer or can be configured to be delivered to a receiver as an SNMP trap. Runbook activity events are only sent for those activities that you specifically configure to do so.  

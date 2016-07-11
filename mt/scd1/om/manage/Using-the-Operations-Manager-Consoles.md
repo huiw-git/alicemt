@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 10d18a5f-c45d-4c23-b77e-b1cfbde31572
+manager:cfreeman
 ---
 # Using the Operations Manager Consoles
   

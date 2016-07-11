@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6f25951a-37b4-4f95-9f25-ea9532b736bc
+manager:cfreeman
 ---
 # How to Change the Frequency of Synchronization for Integration with TFS in System Center 2012 R2
 In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], synchronizing [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts and work items is key to working effectively and efficiently with your development team. When you assign an alert to engineering, the matching work item in Team Foundation Server \(TFS\) will not be created immediately. The synchronization frequency is controlled by overrides in the Operations Manager TFS Work Item Synchronization management pack \(Microsoft.SystemCenter.TFSWISynchronization.mpb\). To change the synchronization frequency, you can change the overrides listed in the following table.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3f0f24ff-11a6-4ac2-8b6e-2b649b24c3f4
+manager:cfreeman
 ---
 # Workflow Control
 When you build runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], it is important to understand the underlying logic of the workflow engine. By using this logic, you can create workflows to automate resource\-based jobs and complex data processing tasks.  

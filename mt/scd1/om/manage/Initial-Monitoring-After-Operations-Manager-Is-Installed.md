@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b440969a-7d12-4977-83a5-a1675ca0e873
+manager:cfreeman
 ---
 # Initial Monitoring After Operations Manager Is Installed
 When Operations Manager, a component of System Center 2012, is first installed, only the features of the Operations Manager infrastructure such as management servers, reporting servers, and databases are monitored. Monitoring of the infrastructure is provided by the Monitoring Pack for Operations Manager, one of the management packs that is installed with Operations Manager. You can view details for the Monitoring Pack for Operations Manager in its guide at [http:\/\/go.microsoft.com\/fwlink\/p\/?LinkId\=226940](http://go.microsoft.com/fwlink/p/?LinkId=226940).  

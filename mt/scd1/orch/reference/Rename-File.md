@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c2f45811-c1de-4b38-b52d-e4f329c36868
+manager:cfreeman
 ---
 # Rename File
 The Rename File activity renames files on the local file system or on a network location specified using a UNC path. You can automatically rename files to a standard format according to your data center procedures.  

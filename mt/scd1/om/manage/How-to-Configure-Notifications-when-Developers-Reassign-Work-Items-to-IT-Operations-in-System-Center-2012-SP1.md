@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a5672838-9706-4c14-ba29-7e6359250e01
+manager:cfreeman
 ---
 # How to Configure Notifications when Developers Reassign Work Items to IT Operations in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14749542-1ad0-4869-900b-217ad43f7cd3
+manager:cfreeman
 ---
 # How to Configure File Attachments for Operations Manager Alerts in System Center 2012 R2
 Some management packs for [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] attach additional information to alerts. This information is stored as files on the network share, and it is updated by workflows that run on the management servers. Only management servers write to this network share. Other computers in the management group can add attachments to alerts. They do so by uploading files to the management server first. Therefore, these other computers do not need direct access to the file share. Files are uploaded to the management server using the same secure [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] channel that agents use to communicate with the management servers. A separate Run As profile controls the credentials that the management servers use to access the network file share.  

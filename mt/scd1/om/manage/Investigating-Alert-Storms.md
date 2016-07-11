@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3c27434a-ea3a-45b6-b8ce-3821222aba80
+manager:cfreeman
 ---
 # Investigating Alert Storms
 A large and sudden increase in the number of alerts is called an alert storm. An alert storm can be a symptom of massive changes of some kind within your management group, such as the catastrophic failure of networks. An alert storm can also be a symptom of configuration issues within [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

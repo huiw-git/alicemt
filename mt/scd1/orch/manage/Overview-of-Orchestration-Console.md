@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f2cd9f5-b177-4a9c-a7d8-9611c4d1e8aa
+manager:cfreeman
 ---
 # Overview of Orchestration Console
 The Orchestration console is comprised of a single webpage with multiple panes that are described in the following sections.  

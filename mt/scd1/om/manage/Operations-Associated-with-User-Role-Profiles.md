@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4500c400-bb83-4587-b110-504ffba0667a
+manager:cfreeman
 ---
 # Operations Associated with User Role Profiles
 This topic provides a list of the operations in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] that are associated with each profile.  

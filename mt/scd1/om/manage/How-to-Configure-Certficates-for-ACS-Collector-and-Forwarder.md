@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 57f8e8e1-ec41-4128-9920-6bebb1b5ed26
+manager:cfreeman
 ---
 # How to Configure Certficates for ACS Collector and Forwarder
 When the Audit Collection Service \(ACS\) Forwarder is located in a domain separate from the domain where the ACS Collector is located, and no two\-way trust exists between the two domains, certificates must be used so that authentication can take place between the ACS Forwarder and the ACS Collector.  

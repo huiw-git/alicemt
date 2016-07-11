@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 21d8f3a5-2ac8-4776-b063-f6895a21cd5a
+manager:cfreeman
 ---
 # Build a simple monitoring dashboard using the Visio Web Part
 SharePoint 2010 Enterprise edition includes a Web part for Visio Services called the Visio Web Access Web Part. You can add this Web part to any SharePoint Web part page to build a dashboard that uses published Visio diagrams to provide visualizations.  

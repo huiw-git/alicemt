@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 91b1dd4c-6ce2-442b-826f-21a265ed3ac7
+manager:cfreeman
 ---
 # Using My Workspace in Operations Manager
 My Workspace provides you with a private area in the Operations console that you can customize for your specific needs.  Using My Workspace, you can create folders to organize the workspace, add shortcuts to favorite views, save useful searches, and create views that are only visible to you. Your configuration of My Workspace will be available to you in any Operations console that you log in to using the same Windows credentials.  

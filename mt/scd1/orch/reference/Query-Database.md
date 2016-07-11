@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 65d32c6e-5ac0-4672-9c8b-57d8b12af8f4
+manager:cfreeman
 ---
 # Query Database
 The Query Database activity queries a database and returns the resulting rows as published data. This activity supports the following database types:  

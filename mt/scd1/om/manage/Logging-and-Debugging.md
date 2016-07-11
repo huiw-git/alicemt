@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c098d83e-af45-4ee7-b71f-76356153583d
+manager:cfreeman
 ---
 # Logging and Debugging
 This topic describes how to enable logging and debug tools for troubleshooting issues with monitoring UNIX and Linux computers.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0ddcd526-c619-4eac-be66-11f3a0fd36f9
+manager:cfreeman
 ---
 # How to Edit a Scheduled Report
 Use the following procedure to edit settings for scheduled reports from the **Reporting** pane in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

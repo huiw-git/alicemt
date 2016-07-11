@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 74661318-fc5d-42f7-8a43-d1bcac5f12c5
+manager:cfreeman
 ---
 # Using Operations Manager Shell
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the Operations Manager Shell is installed with the Operations Manager console; it provides a command\-line environment and task\-based scripting technology that you can use to automate many Operations Manager administrative tasks.  

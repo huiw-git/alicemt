@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2c15beae-8b6c-431b-bdb9-6b6365e74547
+manager:cfreeman
 ---
 # How to Automatically Assign New Alerts to Engineering in System Center 2012 R2
 Through Team Foundation Server \(TFS\) synchronization, you can establish automatic work item routing for alerts that are raised in [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)]. This can be helpful if your information technology \(IT\) department uses TFS or if your process model requires that all application alerts must be tracked in TFS. Additionally, you can specify which alert resolution states that are defined in [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] will automatically create work items in TFS.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7668afd1-2bc8-4861-8279-63361029f3a3
+manager:cfreeman
 ---
 # Deploying Runbooks
 There are tools available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] to help you manage the versions of your runbooks. These tools are described in the following sections.  

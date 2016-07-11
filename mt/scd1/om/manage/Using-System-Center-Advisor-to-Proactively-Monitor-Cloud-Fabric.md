@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6ab7f0e7-daca-4f1a-82f9-3740a52a2bd1
+manager:cfreeman
 ---
 # Using System Center Advisor to Proactively Monitor Cloud Fabric
   

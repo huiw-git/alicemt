@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: acd07be8-9878-4997-86c4-4a932f5e27e2
+manager:cfreeman
 ---
 # Reports for Network Monitoring in Operations Manager
   

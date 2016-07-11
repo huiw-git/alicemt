@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 001dae2a-a333-4725-965b-ab536a8d184d
+manager:cfreeman
 ---
 # How to Create a New Run As Account for Accessing the Operations Manager Database
 Use the following procedure to create a new Run As account that can access the operational database.  

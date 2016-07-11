@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ab965a68-fe24-4f40-9728-d1522bc70fec
+manager:cfreeman
 ---
 # How to Manually Import an Operational Issue WITD to TFS in System Center 2012 R2
 [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] integration with Team Foundation Server \(TFS\) uses the work item type *Operational Issue*, which must be present in each team project that synchronization uses. Generally, the TFS Work Item Synchronization Configuration Wizard can import this work item type definition \(WITD\). In some cases, however, you must manually import the WITD directly to TFS. You must manually import the Operational Issue WITD in the following cases:  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c79a70d9-2956-4898-a6fe-d1c54bf10fd0
+manager:cfreeman
 ---
 # Delete File
 The Delete File activity deletes files from the local file system or from a network location specified using a UNC path. You can purge a folder that contains old log files.  

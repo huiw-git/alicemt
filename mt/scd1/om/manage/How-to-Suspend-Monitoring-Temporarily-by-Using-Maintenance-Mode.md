@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c3f75892-10f6-4690-bb82-0180991005e4
+manager:cfreeman
 ---
 # How to Suspend Monitoring Temporarily by Using Maintenance Mode
 Maintenance mode, available from the **Monitoring** workspace of the Operations console in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], enables you to avoid any alerts or errors that might occur when a monitored object, such as a computer or distributed application, is taken offline for maintenance. Maintenance mode suspends the following features:  

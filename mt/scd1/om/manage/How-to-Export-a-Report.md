@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a81244b0-1674-416c-9aef-de7adc2f0371
+manager:cfreeman
 ---
 # How to Export a Report
 After a report has been created, you can export the report into one of several formats.  

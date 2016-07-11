@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7e44684f-e118-4c04-86dd-de8d2fbb879e
+manager:cfreeman
 ---
 # Using Multiple Gateway Servers
 Multiple gateway servers can be deployed across a trust boundary to provide redundant pathways for agents that lie across that trust boundary. Just as agents can fail over between a primary management server and one or more secondary management servers, they can also fail over between gateway servers. In addition, multiple gateway servers can be used to distribute the workload of managing agentless\-managed computers and managed network devices.  

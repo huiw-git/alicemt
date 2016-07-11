@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe935ce1-871b-451b-8ce7-e2d3084463d6
+manager:cfreeman
 ---
 # Get Counter Value
 The Get Counter Value activity retrieves the value of a counter and returns it as a published data item. Wherever you need to use the value of a counter, use the published data that is published by the Get Counter Value to retrieve that value.  

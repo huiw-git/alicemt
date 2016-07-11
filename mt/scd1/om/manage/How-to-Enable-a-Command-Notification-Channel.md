@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 230eadbd-2a79-4987-903f-4bd0c85536fd
+manager:cfreeman
 ---
 # How to Enable a Command Notification Channel
 To configure alert notifications for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that runs an executable program automatically in response to an alert.  

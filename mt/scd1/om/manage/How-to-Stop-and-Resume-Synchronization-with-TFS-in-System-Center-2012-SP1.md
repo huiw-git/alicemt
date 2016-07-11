@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 81bed899-8a60-45ff-b2b8-d6d9f0daf3ff
+manager:cfreeman
 ---
 # How to Stop and Resume Synchronization with TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

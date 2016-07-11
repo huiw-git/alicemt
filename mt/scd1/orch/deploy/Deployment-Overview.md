@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: aee2ab45-9634-4ef2-8404-e8b8d1be1a3f
+manager:cfreeman
 ---
 # Deployment Overview
 The procedures in the following sections describe how to plan your deployment and install [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

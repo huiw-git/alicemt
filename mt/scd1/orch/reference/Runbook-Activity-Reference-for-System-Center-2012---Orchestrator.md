@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b0ad7005-07a6-48bf-8690-b9885d6bb9a2
+manager:cfreeman
 ---
 # Runbook Activity Reference for System Center 2012 - Orchestrator
 [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] includes an extensive set of standard activities that enable you to create runbooks to automate your data center procedures. This guide contains detailed information about using each of the standard activities  

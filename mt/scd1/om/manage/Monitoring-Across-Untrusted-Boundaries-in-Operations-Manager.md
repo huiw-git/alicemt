@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0154e5a3-4dc8-45aa-8d3d-e24a5c3b10f8
+manager:cfreeman
 ---
 # Monitoring Across Untrusted Boundaries in Operations Manager
   

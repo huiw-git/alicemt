@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cc810932-a0d8-45e2-abad-10d4e8a13312
+manager:cfreeman
 ---
 # AdtAdmin.exe UpdGroup
 The *\/UpdGroup* parameter renames an existing group. Groups are used in ACS to organize ACS forwarders.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0a46a374-f6b2-4e69-8459-b4171cd8bb30
+manager:cfreeman
 ---
 # How to Export an Operations Manager Management Pack
 Exporting a management pack allows customizations to a sealed management pack to be saved to a file. Because sealed management packs cannot be changed, the customizations made to a management pack are saved to a separate, unsealed management pack file. The unsealed management pack can then be imported to a different management group. This unsealed management pack is dependent on the original sealed management pack and can be imported only to management groups that have the original sealed management pack.  

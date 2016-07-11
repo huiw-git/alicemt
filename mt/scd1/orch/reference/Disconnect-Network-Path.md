@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d697232c-7604-4e8e-bde9-1d8e55a1c220
+manager:cfreeman
 ---
 # Disconnect Network Path
 The Disconnect Network Path activity allows you to disconnect a network path. You can disconnect network paths you mapped using the [Map Network Path](../../orch/reference/Map-Network-Path.md) activity or using another method.  

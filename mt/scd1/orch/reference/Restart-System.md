@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bc59b069-7bf0-4417-8f8b-d6fac34c8691
+manager:cfreeman
 ---
 # Restart System
 The Restart System activity will restart a computer on your network. The Restart System activity can either wait for applications to shut down gracefully or you can configure the activity to forcefully shut down any running applications. You also can send a message to notify your users of the reason for the disruption.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0f15ec99-9770-4733-92e1-58b0a482e616
+manager:cfreeman
 ---
 # Tuning Network Monitoring
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] includes the following management packs specific to network device discovery and monitoring:  

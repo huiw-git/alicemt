@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b8c811e5-ad81-4c59-b7ec-c0f6fac33933
+manager:cfreeman
 ---
 # Audit Collection Services Capacity Planning
 Audit policies can generate a large amount of data. In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], for better performance, you can change settings on the Audit Collection Services \(ACS\) collector to adjust for the actual auditing load. The queue that the ACS collector uses to store events that are ready to be written to the ACS database has a considerable impact on ACS's ability to handle a surge in the amount of generated security events. Balancing the capacity of this queue along with maintaining the correct amount of RAM on the ACS collector can improve the performance of ACS.  

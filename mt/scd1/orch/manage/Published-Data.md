@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e339c027-4c69-43e5-a59b-ac7ea0a676c8
+manager:cfreeman
 ---
 # Published Data
 Published Data lets an activity use information from another activity in the same runbook. Each activity has a specific set of Published Data items that it populates after it runs. Any other activity that runs after it in the workflow has access to this data. In addition to data specific to each activity, all activities publish a common set of data items that provide information such as the start and stop time of the activity and its completion status. Link conditions also use Published Data to add filtering and decision\-making capabilities to runbooks.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 61005760-0977-4cd8-b76d-05558160f78f
+manager:cfreeman
 ---
 # Using Health Explorer to Investigate Problems
 Use Health Explorer to find out which monitor is reacting and to review knowledge about the monitor and possible causes for actions related to it. In the **Active Alerts** view, click the alert to highlight it. The Health Explorer link under **Alert Actions** in the **Tasks** pane becomes active.  

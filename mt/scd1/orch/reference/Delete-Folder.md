@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7bd72977-b6e1-4d20-af6e-42354f986c5b
+manager:cfreeman
 ---
 # Delete Folder
 The Delete Folder activity deletes a folder, sub\-folders, or the entire folder tree of a directory on the local file system or a network location specified using a UNC path. You can delete temporary folders that were created when a runbook runs or you can use this activity to purge data that has been recently archived.  

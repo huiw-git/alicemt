@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5a001d77-2578-4e4d-b000-1b278c43117c
+manager:cfreeman
 ---
 # Runbook logs
 Every runbook generates a log when it is running. The Runbook Designer enables you to view both real\-time log information and historic logs.  

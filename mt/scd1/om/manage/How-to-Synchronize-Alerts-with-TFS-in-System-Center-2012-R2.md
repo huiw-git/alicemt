@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 608cd7da-a35b-4e20-befa-7f3af55c8654
+manager:cfreeman
 ---
 # How to Synchronize Alerts with TFS in System Center 2012 R2
 In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], you can synchronize [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts and Team Foundation Server \(TFS\) work items. When synchronization is enabled, IT operations can then assign alerts to the engineering team. Assigning an alert to engineering creates a new work item in TFS. The workflow will track and synchronize any changes that are made to TFS work items and any associated Operations Manager alerts. In order to synchronize alerts with TFS, you must first configure alert synchronization. For more information, see [How to Configure Integration with TFS in System Center 2012 R2](../../om/manage/How-to-Configure-Integration-with-TFS-in-System-Center-2012-R2.md).  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 44871950-899b-4faf-93fa-57637bf8fd4b
+manager:cfreeman
 ---
 # Monitoring with Microsoft Monitoring Agent
 Microsoft Monitoring Agent is a new agent that replaces the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] Agent and combines .NET Application Performance Monitoring \(APM\) in System Center with the full functionality of IntelliTrace Collector in the Microsoft Visual Studio development system for gathering full application\-profiling traces. Microsoft Monitoring Agent can collect traces on demand or can be left running to monitor applications and collect traces. You can limit the disk space that the agent uses to store collected data. When the amount of data reaches the limit, the agent begins to overwrite the oldest data and store the latest data in its place.  

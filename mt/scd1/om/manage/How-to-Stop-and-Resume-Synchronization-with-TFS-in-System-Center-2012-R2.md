@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c69d26c9-0ca0-4f32-bd38-c86fd1b0f27f
+manager:cfreeman
 ---
 # How to Stop and Resume Synchronization with TFS in System Center 2012 R2
 Sometimes you might need to temporarily stop synchronization in [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] with Team Foundation Server \(TFS\). For example, this may be necessary when a team project collection is unavailable because of maintenance, during maintenance of management servers in the synchronization management pool, or when you are changing synchronization settings to prevent inconsistent synchronization while new settings are applied. When you know synchronization is not working, turning off synchronization keeps unnecessary alerts about synchronization not working from being generated.  

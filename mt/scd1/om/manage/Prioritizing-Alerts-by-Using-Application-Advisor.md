@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a9d0f6f6-90df-4159-9a24-5ba0647a2343
+manager:cfreeman
 ---
 # Prioritizing Alerts by Using Application Advisor
 Application Advisor works with .NET Application Performance Monitoring in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] and helps you prioritize and manage which alerts to address. It identifies which applications are causing the most alerts within an environment. These are the applications you should investigate first because they are causing the most service level agreement \(SLA\) violations. Use Application Advisor as a first step in alert management and as a view into the overall health of an application. Essentially, Application Advisor helps you “follow the noise” and find out where the most events are occurring. Application failure and analysis reports let you view those individual applications in fine detail. Summary reports give you key information at a glance, such as the top\-five alerts to resolve.  

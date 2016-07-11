@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3a9fdfc2-9980-446e-8464-539b6b0d261d
+manager:cfreeman
 ---
 # How to Install a Runbook Server for System Center 2012 - Orchestrator
 Use the following steps to install an [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] runbook server.  

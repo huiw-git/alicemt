@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9cae0db4-a0f7-4b64-bfd4-f5a86e25cb2e
+manager:cfreeman
 ---
 # How to Enable or Disable a Rule or Monitor
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], if a management pack's default settings contain a monitor or rule that is not necessary in your environment, you can use overrides to disable this monitor or rule. In addition, some management packs ship with some rules or monitors disabled; you should read the management pack guide to identify the workflows that are disabled by default and determine if you should enable any of them for your monitoring needs. For example, the management packs for network monitoring contain rules and monitors that are vendor\-specific, as listed in [Tuning Network Monitoring](../../om/manage/Tuning-Network-Monitoring.md). Many vendor\-specific rules and monitors in the network management pack are disabled to avoid performance impact. You should identify the devices used in your environment and use overrides to enable the rules and monitors specific to your devices.  

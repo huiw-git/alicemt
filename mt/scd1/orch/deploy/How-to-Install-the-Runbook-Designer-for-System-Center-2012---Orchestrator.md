@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5d282490-cb50-4011-a6eb-47faf10bb12a
+manager:cfreeman
 ---
 # How to Install the Runbook Designer for System Center 2012 - Orchestrator
 Use the following steps to install the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] Runbook Designer on a single computer.  

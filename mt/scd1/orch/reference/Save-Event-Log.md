@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c3409b18-a952-48fd-8fbd-7d9d4ef44173
+manager:cfreeman
 ---
 # Save Event Log
 The Save Event Log activity is used to save entries from an event log so that they can be used later. The Save Event Log activity saves the event log entries to a delimited text file in a format that you specify. The activity allows you to choose which fields will be saved and allows you to filter against the fields to only allow particular event log entries to be saved. This activity uses a satellite license.  

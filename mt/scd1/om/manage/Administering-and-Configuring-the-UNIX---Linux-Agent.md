@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e68b45fd-a9b4-4767-9a79-cf1aee262109
+manager:cfreeman
 ---
 # Administering and Configuring the UNIX - Linux Agent
 This topic describes options to administer and configure the UNIX\/Linux agent for System Center – [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)].  

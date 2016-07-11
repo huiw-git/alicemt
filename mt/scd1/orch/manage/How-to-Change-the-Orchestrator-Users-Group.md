@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a1d182f3-b80b-4414-90e6-4c0a10d62f60
+manager:cfreeman
 ---
 # How to Change the Orchestrator Users Group
 You might want to change the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] users group after installation because of changes in your environment. For example, you might want to use a local group during installation, and then change it to a domain account later.  

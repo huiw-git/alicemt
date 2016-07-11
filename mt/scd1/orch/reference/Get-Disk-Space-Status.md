@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e092f55e-b9bd-4e78-8609-1bb5676b7dce
+manager:cfreeman
 ---
 # Get Disk Space Status
 The Get Disk Space Status activity will retrieve the current amount of available disk space on a UNC path or local disk drive that you specify. This activity can be used to check the space of a destination folder before transferring files to that location.  

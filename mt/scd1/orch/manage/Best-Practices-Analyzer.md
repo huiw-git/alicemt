@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4f6789a1-d389-40d9-a3e4-92ea745f062d
+manager:cfreeman
 ---
 # Best Practices Analyzer
 The Microsoft System Center 2012 \- Orchestrator Best Practices Analyzer is a tool that looks at the configuration data in an Orchestrator deployment and identifies settings that may cause issues within your environment. It performs the following functions:  

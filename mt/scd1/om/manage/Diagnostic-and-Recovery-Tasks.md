@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 776718ed-aaae-44ef-a5ef-1065ebe47e96
+manager:cfreeman
 ---
 # Diagnostic and Recovery Tasks
 Monitors in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can do more than notify you of problems by sending an alert. Some monitors also provide diagnostic and recovery tasks to help investigate and resolve those problems.  

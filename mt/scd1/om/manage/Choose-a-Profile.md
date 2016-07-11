@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: beca23da-0eb7-4f85-93a6-be48e0dd68ff
+manager:cfreeman
 ---
 # Choose a Profile
 Before you start the Create User Role Wizard, select one profile that applies to the user role you are creating. A profile determines the actions that a user can perform. Profiles have a defined set of rights and you cannot add or remove any of these assigned rights. When creating user roles for operators and other users, select the profile that most closely matches the responsibilities of the group of users in your [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] deployment.  

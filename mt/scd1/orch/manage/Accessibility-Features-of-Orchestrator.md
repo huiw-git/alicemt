@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 15659296-b944-4838-902d-99b3b8757e60
+manager:cfreeman
 ---
 # Accessibility Features of Orchestrator
 In addition to accessibility features and tools in Windows, the following feature makes [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] more accessible for people with disabilities.  

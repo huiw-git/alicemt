@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 660f136d-d653-490f-9e5d-772da3389991
+manager:cfreeman
 ---
 # Getting Started with System Center 2012 - Orchestrator
 [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] provides a workflow management solution for the data center. [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] lets you automate the creation, monitoring, and deployment of resources in your environment. This guide describes the architecture of [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] and includes definitions of key terms and concepts and information about where to find additional resources. After reading this guide, you should have a basic understanding of how [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] works and where you can find more information.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f3631fac-5b64-4903-8343-8254b107db15
+manager:cfreeman
 ---
 # Run As Accounts for Network Monitoring in Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] uses Run As accounts to discover and monitor network devices. The credentials in the Run As account enable management servers to communicate with the network devices. You can monitor devices that use SNMP v1, v2, and v3.  

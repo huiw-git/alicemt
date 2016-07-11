@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9a3c14c5-98cf-4de2-a6ce-6383d3b231f5
+manager:cfreeman
 ---
 # How to Configure a Proxy for Agentless Monitoring
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can monitor Microsoft Windows\-based computers on which an agent is not installed by using an agent on another computer to act as a proxy. This is called agentless management.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 78329674-d244-44cb-b03e-6dc3b6362468
+manager:cfreeman
 ---
 # Scheduling Maintenance in Operations Manager
 This topic details the default schedule for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] maintenance tasks.  

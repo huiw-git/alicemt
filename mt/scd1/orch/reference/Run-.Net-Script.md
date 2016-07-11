@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ad8a97f1-9c63-4824-890d-02af0021115b
+manager:cfreeman
 ---
 # Run .Net Script
 The Run .Net Script activity runs scripts written in VB.NET, JScript, C\#, and Windows PowerShell. This activity is compatible with .NET CLR version 2.0 and later. Use the Run .Net Script activity to run scripts that parse data or run functions against available APIs.  

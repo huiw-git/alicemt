@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8883365d-aec3-4cd4-a40a-46316488e2b7
+manager:cfreeman
 ---
 # Integrating Operations Manager with Development Processes in System Center 2012 SP1
 Streamlining the communications between development and information technology \(IT\) operations teams \(often called DevOps\) can help you decrease the time it takes for application maintenance and delivery into production, where your application delivers value to customers. To speed interactions between these teams, it is essential to quickly detect and fix problems that might need assistance from the engineering team.  

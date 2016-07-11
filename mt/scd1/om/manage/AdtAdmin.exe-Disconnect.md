@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4d824084-2a39-485a-966f-9dd28dc76b86
+manager:cfreeman
 ---
 # AdtAdmin.exe Disconnect
 The *\/Disconnect* parameter disconnects a specified ACS forwarder or group of forwarders from the ACS collector. No output is generated from the *\/Disconnect* parameter. To check an ACS forwarder’s status after using the *\/Disconnect* parameter, use the*\/Connected* subparameter of the *\/Stats* parameter.  

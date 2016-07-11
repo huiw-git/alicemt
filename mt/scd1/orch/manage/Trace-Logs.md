@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3165d194-b63d-455a-b6d9-dedf895ab096
+manager:cfreeman
 ---
 # Trace Logs
 [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] can create trace log messages on the management server to help you identify problems in the environment. By default, trace log messages are only written when there is an exception in the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] Management Service, but you can increase this level of logging by modifying a registry setting. Trace log files are available in directories for each [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] feature under **C:\\ProgramData\\Microsoft System Center 2012\\Orchestrator**. You can change these log locations by changing the registry values for the different features.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7c72117a-8742-4a68-90d1-00c6d9dcd012
+manager:cfreeman
 ---
 # How to Install Orchestrator on a Single Computer
 Use the following steps to install all [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] features on a single computer.  

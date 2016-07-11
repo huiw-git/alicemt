@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5adf948f-c85b-4851-a6fa-0213189eeb16
+manager:cfreeman
 ---
 # Operating System Issues
 This topic describes issues that are specific to UNIX and Linux operating systems.  

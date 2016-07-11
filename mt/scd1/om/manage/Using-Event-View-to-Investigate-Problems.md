@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c551f130-68cf-46cf-ae38-b8366a3952a0
+manager:cfreeman
 ---
 # Using Event View to Investigate Problems
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can use an event view for an alert to help you investigate the problem that caused the alert.  

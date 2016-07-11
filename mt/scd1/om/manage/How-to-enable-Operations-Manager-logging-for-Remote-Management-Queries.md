@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f4803596-4c4c-4cc2-a48f-27147164b100
+manager:cfreeman
 ---
 # How to enable Operations Manager logging for Remote Management Queries
 This procedure describes how to enable logging for Windows Remote Management queries  

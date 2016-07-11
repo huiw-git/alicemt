@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 801c28e1-653c-4c70-8889-fb4e7d5c7ce3
+manager:cfreeman
 ---
 # Monitoring Linux Computers in Windows Azure by Using Operations Manager
 [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] provides monitoring of Linux computers both in your data center and hosted as persistent virtual machines in Windows Azure. This topic describes considerations for monitoring of Linux virtual machines in Windows Azure.  

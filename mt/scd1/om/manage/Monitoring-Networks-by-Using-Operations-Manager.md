@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe56f0f3-0f28-4b0c-8adf-9982a710540a
+manager:cfreeman
 ---
 # Monitoring Networks by Using Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can monitor physical network routers and switches, including the interfaces and ports on those devices, and the virtual local area networks \(VLANs\) and Hot Standby Router Protocol \(HSRP\) groups that they participate in, as well as firewalls and load balancers. Increased visibility into your network infrastructure can help you identify failures in critical services and applications that were caused by the network. For example, you observe an alert informing you that a critical server is unavailable. If you have configured network monitoring, you would also observe an alert informing you that a port is offline. When you view the computer vicinity diagram for the server, you see that the unavailable computer is connected to the offline port. Thus, you can focus on troubleshooting the root cause for the unavailable computers.  

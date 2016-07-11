@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 83c535d6-c827-4107-9b39-87d5716c6663
+manager:cfreeman
 ---
 # Move File
 The Move File activity moves a file from one directory to another. You can move files to network shares that are available using UNC paths. You can also move files from a local or publicly available network folder, such as an FTP location, to an internal folder.  

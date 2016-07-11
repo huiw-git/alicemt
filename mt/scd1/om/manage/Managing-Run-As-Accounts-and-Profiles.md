@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2aa0a67f-6ef5-49b8-b607-95461d84fc33
+manager:cfreeman
 ---
 # Managing Run As Accounts and Profiles
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] workflows, such as rules, tasks, monitors, and discoveries, require credentials to run on a targeted agent or computer. By default, workflows use the default action account for the agent or computer. The credentials for the default action account are configured when [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] is installed.  

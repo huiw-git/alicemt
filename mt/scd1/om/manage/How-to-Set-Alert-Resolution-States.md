@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d2717f98-84fc-43d7-8c06-bdd5aaf386c0
+manager:cfreeman
 ---
 # How to Set Alert Resolution States
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], there are two default resolution states for alerts: **New** and **Closed**.  

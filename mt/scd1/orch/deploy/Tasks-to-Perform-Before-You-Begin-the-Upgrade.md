@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 875fed03-5615-4f94-b784-926db2308da2
+manager:cfreeman
 ---
 # Tasks to Perform Before You Begin the Upgrade
 Before you can upgrade [!INCLUDE[orchblue_2](../../orch/deploy/includes/orchblue_2_md.md)] to [!INCLUDE[sc2012r2_1](../../om/manage/includes/sc2012r2_1_md.md)], you must prepare the environment by performing the following tasks:  

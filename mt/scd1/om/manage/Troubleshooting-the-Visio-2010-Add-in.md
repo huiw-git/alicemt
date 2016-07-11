@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c9dabbc3-0ac5-46fe-8a34-b82b67c0e6ad
+manager:cfreeman
 ---
 # Troubleshooting the Visio 2010 Add-in
 The following sections provide information about troubleshooting the Visio 2010 Add\-in:  

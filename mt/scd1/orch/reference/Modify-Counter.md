@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a2c706ca-506b-4d9d-96e6-f17ac48e8fc1
+manager:cfreeman
 ---
 # Modify Counter
 The Modify Counter increments and decrements a counter, as well as resets it to its default value. It also sets it to a value you specify. Wherever you need to update the value of a counter, use the Modify Counter activity to update its value.  

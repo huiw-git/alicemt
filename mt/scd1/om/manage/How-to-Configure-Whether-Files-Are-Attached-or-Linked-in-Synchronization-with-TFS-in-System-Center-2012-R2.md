@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 29198cb0-688f-4b1a-a3b3-0d622a4ab887
+manager:cfreeman
 ---
 # How to Configure Whether Files Are Attached or Linked in Synchronization with TFS in System Center 2012 R2
 Creating work items in Team Foundation Server \(TFS\) with large attachments can take a lot of database space. This is why you might want to save the attachments on a network file share and link to these files from the TFS work items rather than physically attaching them to the work items. By default files are saved as links rather than attachments, however, this creates additional requirements for maintaining the files and controlling permissions. If you want to keep attachments in the database, you can override this default and configure TFS integration to physically attach files and remove them from the network file share. You can also choose to attach the files and keep the files on the network share.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 75cd57fb-7369-40e8-abe0-9d9915a56ba0
+manager:cfreeman
 ---
 # Upgrading System Center 2012 SP1 - Operations Manager to System Center 2012 R2
 This Upgrade Guide provides information about how to upgrade from [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)], [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] to [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)].  

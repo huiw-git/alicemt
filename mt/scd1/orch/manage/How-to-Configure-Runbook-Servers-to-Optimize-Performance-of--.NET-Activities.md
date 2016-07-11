@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 13a804ec-3aea-479a-add1-5bd6cf73eba6
+manager:cfreeman
 ---
 # How to Configure Runbook Servers to Optimize Performance of  .NET Activities
 If a runbook contains an activity that references the .NET libraries, the first reference to the .NET libraries takes additional time to initialize. This delay can be as much as 30 seconds. All remaining activities that reference the .NET libraries run immediately. This delay can also occur when a runbook is started on a computer without Internet access, because then Windows cannot verify the Microsoft Authenticode signature for the .NET libraries, and this causes a delay during the initialization of the activity.  

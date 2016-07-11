@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a00f4f58-4fa2-4f7b-803d-1523584a511c
+manager:cfreeman
 ---
 # How to Uninstall and Unregister an Integration Pack
 For instructions on how to install an integration pack, see the [How To Install an Integration Pack](assetId:///722d2c22-1ea4-4dd0-be22-c662bb0d1473) topic in the [Orchestrator](http://go.microsoft.com/fwlink/?LinkId=264231) library on TechNet.  

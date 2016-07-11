@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d2ff6edc-1c30-4219-9ca7-82ef5f149170
+manager:cfreeman
 ---
 # How to Save a Report
 When you run a report, you can save the report to **Favorite Reports** or you can save a report into an existing management pack. A report saved to **Favorite Reports** is only visible to you. Saving a report to a management pack is useful if you need to share with report users a report that uses a specific set of parameters.  

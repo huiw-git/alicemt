@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1f3f12bf-e2c2-405c-9205-8d6de6d199d2
+manager:cfreeman
 ---
 # Common Activity Properties
 All activities have properties. The Properties dialog box for each activity has multiple tabs that provide access to the settings for the activity. The particular set of tabs varies between activities, but there are several common property types.  

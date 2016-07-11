@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d20f8d7c-c7d7-4e2a-95c3-3c514514733d
+manager:cfreeman
 ---
 # Generate Random Text
 The Generate Random Text activity generates random strings of text.  

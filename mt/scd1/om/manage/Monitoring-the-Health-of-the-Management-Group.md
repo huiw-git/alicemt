@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 42973387-51b3-4276-a2e4-522f1eba2435
+manager:cfreeman
 ---
 # Monitoring the Health of the Management Group
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] introduces a new dashboard view that provides a comprehensive picture of the health of your management group. The dashboard tries to answer the question, “do I need to do anything?”  

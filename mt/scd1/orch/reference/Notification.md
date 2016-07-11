@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 56f23b57-6d16-4bed-8e04-91d44482d3a9
+manager:cfreeman
 ---
 # Notification
 The following table provides a brief description of tasks you can accomplish when using each Notification activity.  

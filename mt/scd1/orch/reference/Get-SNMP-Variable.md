@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7bb233a2-aa1f-4739-8f43-fb5004ba4342
+manager:cfreeman
 ---
 # Get SNMP Variable
 The Get SNMP Variable activity will query a network device for the value of variable that is assigned to the Management Information Base address that you specify. You can use the Get SNMP Variable activity to retrieve information about a network device to determine if an administrator needs to be notified.  

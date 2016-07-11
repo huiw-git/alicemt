@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ac556a83-37b4-4388-b033-d1a59c52ab79
+manager:cfreeman
 ---
 # Creating Views in Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] views display information that meets specific criteria. When you select a view, a query is sent to the Operations Manager database and the results of the query are displayed in the results pane. You can use the standard views created when Operations Manager is installed, views provided by management packs, or create your own custom views.  

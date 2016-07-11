@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f87c672-5eb9-4f10-b3b3-b693b51651d0
+manager:cfreeman
 ---
 # Using the Enforced Attribute in Overrides
 When you configure an override to a rule, monitor, or discovery in Operations Manager for System Center 2012, you will notice an **Enforced** check box in the row for each value that you can override, as shown in the following illustration.  

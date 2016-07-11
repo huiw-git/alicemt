@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a4801a5a-5830-48ca-85ee-3a6095600902
+manager:cfreeman
 ---
 # How to Create and Configure the Notification Action Account
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals by email, instant message \(IM\), or text message \(SMS\). The Notification Account Run As profile is used to send notifications. For notifications to work correctly, you must create a Run As account that provides the credentials for sending notifications and associate the Run As account to the Notification Account profile.  

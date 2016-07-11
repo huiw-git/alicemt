@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d1841bbc-7c36-4f3c-983f-db7c74a56cd5
+manager:cfreeman
 ---
 # Connect or Disconnect Dial-up
 The Connect\/Disconnect Dial\-up activity connects or disconnects a dial\-up connection or VPN. The connection must be configured on the Runbook server before the activity can use it. For more information on creating a network connection in Windows Server 2008, see [Establish Network Connections](http://go.microsoft.com/fwlink/?LinkID=229330)  

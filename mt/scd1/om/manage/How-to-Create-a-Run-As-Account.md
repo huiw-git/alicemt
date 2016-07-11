@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: eb74a82a-b0d9-45dc-b543-53bb06190da7
+manager:cfreeman
 ---
 # How to Create a Run As Account
 This procedure tells you how to create a Run As Account by using a set of Windows credentials as an example. Then it shows you how to edit the properties of the Run As Account to modify the security level and distribution of the credentials.  You use this same procedure for all other account types.  

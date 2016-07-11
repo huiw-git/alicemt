@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d100cc47-7340-4072-a6dc-77c4d2241566
+manager:cfreeman
 ---
 # Delete Line
 The Delete Line activity deletes lines from a text file.  Use the Delete Line activity to delete outdated lines of text from a text file.  

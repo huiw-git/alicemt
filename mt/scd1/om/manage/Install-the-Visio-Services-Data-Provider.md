@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8b1c21ab-529b-4c04-9384-717a503f3df7
+manager:cfreeman
 ---
 # Install the Visio Services Data Provider
 The Visio Services Data Provider for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] leverages SharePoint 2010’s Visio Services to enable Visio diagrams to show live health state from [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] in SharePoint.  

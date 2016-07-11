@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ad3a8753-6f61-466c-9ff9-545bbe08c2c1
+manager:cfreeman
 ---
 # Find Text
 The Find Text activity finds lines in a text file. Use the Find Text activity to find according to a search string that you specify.  

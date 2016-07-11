@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 02ca2b81-a6a5-444a-8ddd-f3695ca5afd4
+manager:cfreeman
 ---
 # Send Event Log Message
 The Send Event Log Message activity creates an entry in the Windows Event Log within the Application folder. This activity can be used to create audit logs in the Windows Event Log that document any problems that occur while trying to correct issues by using an automated runbook.  

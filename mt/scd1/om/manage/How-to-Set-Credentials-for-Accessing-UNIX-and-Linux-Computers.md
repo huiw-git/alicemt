@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5c7ff14e-cb78-4cd2-b5b5-bf67513b7f29
+manager:cfreeman
 ---
 # How to Set Credentials for Accessing UNIX and Linux Computers
 This topic contains procedures for how to set credentials in wizards for the following tasks, as set by wizards in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]:  

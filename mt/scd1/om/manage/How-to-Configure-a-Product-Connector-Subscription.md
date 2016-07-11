@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5de28eac-5d62-47bf-bc20-0d1897868a5d
+manager:cfreeman
 ---
 # How to Configure a Product Connector Subscription
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] supports the ability to synchronize alert data with other applications, such as other management systems, using product connectors. After a product connector is installed, by default, all alerts are forwarded through the product connector. In the following procedure, you use the Product Connector Subscription Wizard to specify which alerts you want the product connector to forward.  

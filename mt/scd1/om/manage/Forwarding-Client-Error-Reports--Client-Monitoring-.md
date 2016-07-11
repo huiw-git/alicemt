@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 08d6365a-4a44-4c84-ac6d-b04291f45403
+manager:cfreeman
 ---
 # Forwarding Client Error Reports (Client Monitoring)
 The Microsoft Customer Experience Improvement Program \(CEIP\) collects information about how you use Microsoft programs and about some of the issues you might encounter. Microsoft uses this information to improve the products and features you use most often and to help solve issues. Participation in the program is strictly voluntary.  

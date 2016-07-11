@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b85596cc-5c9c-4bc3-b122-ec3d0200f051
+manager:cfreeman
 ---
 # How to Start the Orchestration Console
 The Orchestration console is a web\-based tool and is accessed through your web browser. In addition to starting it on the **Start** menu on the computer where the web service is installed, there are two methods for starting the Orchestration console as described in the following procedures.  

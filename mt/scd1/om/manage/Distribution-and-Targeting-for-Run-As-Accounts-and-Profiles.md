@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fd9ce6ac-b15c-4ce8-b7ed-9dab84aed9f2
+manager:cfreeman
 ---
 # Distribution and Targeting for Run As Accounts and Profiles
 Run As accounts are associated with Run As profiles to provide the necessary credentials for workflows that use that Run As profile to run successfully. Both distribution and targeting of Run As accounts must be correctly configured for the Run As profile to work properly.  

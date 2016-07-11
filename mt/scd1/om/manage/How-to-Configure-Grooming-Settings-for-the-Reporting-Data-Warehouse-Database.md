@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8dfd8f03-85ac-4231-8861-1d98e354cf94
+manager:cfreeman
 ---
 # How to Configure Grooming Settings for the Reporting Data Warehouse Database
 The Reporting data warehouse stores data for a specified length of time, depending on the data \(Alert, State, Event, Aem, or Performance\) and the aggregation type \(raw data, hourly aggregations, daily aggregations\).  The database is set up to delete older data. Deleting the older data is called **grooming**.  

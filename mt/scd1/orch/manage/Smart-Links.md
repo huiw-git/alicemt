@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 21b60698-13ee-48bc-8575-1c1534fbb981
+manager:cfreeman
 ---
 # Smart Links
 The links that connect individual activities in a runbook are called smart links. Smart links in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] support precedence between two activities. Smart links invoke the next activity in the runbook as soon as the previous activity finishes successfully. Smart links also provide filtering capabilities for the data so you can limit the data passed to subsequent activities in the workflow.  

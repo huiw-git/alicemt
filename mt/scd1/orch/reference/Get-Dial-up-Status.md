@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ab465f97-ef96-41b8-bae5-57c5413af14a
+manager:cfreeman
 ---
 # Get Dial-up Status
 The Get Dial\-up Status activity retrieves the status of a dial\-up or VPN network connection on the Runbook server. For more information on creating a network connection in Windows Server 2008, see [Establish Network Connections](http://go.microsoft.com/fwlink/?LinkID=229330)  

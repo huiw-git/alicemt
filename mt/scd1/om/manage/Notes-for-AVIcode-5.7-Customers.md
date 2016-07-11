@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 85334e43-8bce-45a3-bbe2-0bc483e71561
+manager:cfreeman
 ---
 # Notes for AVIcode 5.7 Customers
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] includes application monitoring. The major difference is that [!INCLUDE[avicode57](../../om/manage/includes/avicode57_md.md)] required you to deploy a separate infrastructure alongside [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)]. Now these infrastructures have been combined, so you don’t need to install anything.  

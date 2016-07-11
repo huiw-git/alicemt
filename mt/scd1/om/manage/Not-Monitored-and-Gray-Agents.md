@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4a96716d-49f8-48a8-ac34-ca69e8f6363b
+manager:cfreeman
 ---
 # Not Monitored and Gray Agents
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you may see discovered objects in the Operations console displayed as not monitored or gray, as shown in the following illustration.  

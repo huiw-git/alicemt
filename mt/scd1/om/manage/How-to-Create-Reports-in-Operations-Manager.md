@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59024b8f-42b9-4470-ba40-e9f1fb377940
+manager:cfreeman
 ---
 # How to Create Reports in Operations Manager
   

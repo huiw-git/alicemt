@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c6fcffca-3fa5-4d63-b366-4e14456e9d6e
+manager:cfreeman
 ---
 # Using Templates for Additional Monitoring of UNIX and Linux
 You can provide additional monitoring and interaction capabilities with your managed UNIX and Linux computers by using the UNIX and Linux monitoring pack templates. For more information, see [UNIX or Linux Log File](http://go.microsoft.com/fwlink/p/?LinkID=225444) and [UNIX or Linux Process](http://go.microsoft.com/fwlink/p/?LinkID=225445) in the Authoring Guide.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cdc74cd7-336f-42f7-b5fd-ffad7f926211
+manager:cfreeman
 ---
 # Compress File
 The Compress File activity compresses files into zip archives. You can use the Compress File activity to archive log files before storage or before sending them to another location using FTP or email.  

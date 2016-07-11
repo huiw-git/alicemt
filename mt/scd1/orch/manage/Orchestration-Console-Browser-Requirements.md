@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bce67b9a-a621-4496-bfea-83f049963843
+manager:cfreeman
 ---
 # Orchestration Console Browser Requirements
 The Orchestration console can be accessed from any browser that supports Microsoft Silverlight 4. To access the system requirements for Silverlight, see [Get Microsoft Silverlight](http://go.microsoft.com/fwlink/p/?LinkId=128111).  

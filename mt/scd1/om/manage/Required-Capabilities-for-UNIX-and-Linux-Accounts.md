@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ced31d23-9631-42a7-b367-9c71f9dd0bdf
+manager:cfreeman
 ---
 # Required Capabilities for UNIX and Linux Accounts
 Access to UNIX and Linux computers in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] uses three Run as profiles. One profile is associated with an unprivileged account while the other two accounts are associated with a privileged account or an unprivileged account that is elevated by using `sudo` or `su`.  

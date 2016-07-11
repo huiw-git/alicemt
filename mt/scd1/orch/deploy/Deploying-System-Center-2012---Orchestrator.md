@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1715a3e0-a217-42de-b916-d13b881de346
+manager:cfreeman
 ---
 # Deploying System Center 2012 - Orchestrator
 [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] is a workflow management solution for the data center. It enables you to automate the creation, monitoring, and deployment of resources in your environment. This document describes [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] planning and deployment.  

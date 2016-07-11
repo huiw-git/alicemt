@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f7d2a4f1-97cf-4dc7-bf68-70c573b6fc08
+manager:cfreeman
 ---
 # Monitoring
 The following table provides a brief description of tasks you can accomplish when using each Monitoring activity.  

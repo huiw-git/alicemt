@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 74adc9e1-0e30-45fa-ba9a-14efeb481cf0
+manager:cfreeman
 ---
 # How to Cancel a Scheduled Report
 Use the following procedure to cancel scheduled reports.  

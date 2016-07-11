@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4b0d664b-f806-4c3f-896b-aa0160ee4fb8
+manager:cfreeman
 ---
 # Subscribing to Alert Notifications
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals by email, instant message \(IM\), or text message \(SMS\). Notifications can also run commands automatically when an alert is raised on a monitored system.  

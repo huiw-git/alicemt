@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 33a1da40-3be5-4f4f-b867-baea8f2e1728
+manager:cfreeman
 ---
 # AdtAdmin.exe GetQuery
 The *\/GetQuery* parameter lists the Windows Management Instrumentation \(WMI\) Query Language \(WQL\) queries that are currently in use as filters on the ACS collector\(s\). Only the *\/Collector* subparameter applies to the *\/GetQuery* parameter.  

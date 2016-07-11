@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3f135eb4-49d0-46a6-a717-77c1ee3bbed7
+manager:cfreeman
 ---
 # Management Pack Issues
 This topic describes issues that are specific to management packs and modules.  

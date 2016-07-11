@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: aac6d477-a610-4090-a4bb-cab4f01e7967
+manager:cfreeman
 ---
 # Integrating Active Directory and Operations Manager
   

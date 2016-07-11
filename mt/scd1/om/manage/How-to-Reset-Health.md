@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9c36ccb4-0957-4879-9627-7603afcd7df0
+manager:cfreeman
 ---
 # How to Reset Health
 Some monitors can set state to critical \(red\), warning \(yellow\), and healthy \(green\). Other monitors are only able to change state to critical or warning and cannot detect that state has returned to healthy. In that situation, the monitor must be reset manually. Administrators can check whether a monitor is type **Manual Reset** in the **Authoring** workspace.  

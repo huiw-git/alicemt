@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 52b248df-6ce7-4553-be57-c1e94ba9bd2c
+manager:cfreeman
 ---
 # Audit Collection Services Security
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], Audit Collection Services \(ACS\) requires mutual authentication between the ACS collector and each ACS forwarder. By default, Windows authentication, which uses the Kerberos protocol, is used for this authentication. After authentication is complete, all transmissions between ACS forwarders and the ACS collector are encrypted. You do not need to enable additional encryption between ACS forwarders and the ACS collector unless they belong to different Active Directory forests that have no established trusts.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 65290e8f-4195-4d72-9be4-8f06e27df672
+manager:cfreeman
 ---
 # How to Configure Notifications when Developers Reassign Work Items to IT Operations in System Center 2012 R2
 As an Information Technology \(IT\) operator, you need to know when developers request additional information or assign work items back to IT. Receiving notifications when developers make requests helps you respond faster. You can subscribe to get notifications when alerts are set to specific states. For example, you might want to receive notifications when work items are resolved or closed or when an alert is set to Resolved and ready for IT operations. You can configure instant messaging, text messages, email, or custom notifications. For more information about using notifications, see [Subscribing to Alert Notifications](http://go.microsoft.com/fwlink/?LinkId=273057).  

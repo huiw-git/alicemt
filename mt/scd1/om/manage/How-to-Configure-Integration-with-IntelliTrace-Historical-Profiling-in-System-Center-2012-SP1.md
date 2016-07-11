@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 93797b7b-44c1-442e-b055-1ab4c55dce9e
+manager:cfreeman
 ---
 # How to Configure Integration with IntelliTrace Historical Profiling in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

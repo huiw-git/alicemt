@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 78020370-0059-4788-9eed-2c1687aaf56e
+manager:cfreeman
 ---
 # Invoke Runbook
 The Invoke Runbook activity launches a runbook that you have specified. You can transfer data to runbooks by configuring an [Initialize Data](../../orch/reference/Initialize-Data.md) activity in the invoked runbook. You can return data from the invoked runbook by configuring a [Return Data](../../orch/reference/Return-Data.md) activity.  

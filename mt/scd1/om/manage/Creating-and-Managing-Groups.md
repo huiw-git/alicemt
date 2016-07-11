@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a5702352-bcaa-4a89-85ca-78fff15019e2
+manager:cfreeman
 ---
 # Creating and Managing Groups
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], groups are logical collections of objects, such as Windows\-based computers, hard disks, or instances of Microsoft SQL Server. You create a group by using the Create Group Wizard. You can explicitly assign membership to a group or you can create rules that will generate a dynamic group membership.  

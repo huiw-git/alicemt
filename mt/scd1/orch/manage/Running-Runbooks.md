@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ce5772aa-dec1-4158-ba54-c58f4e019633
+manager:cfreeman
 ---
 # Running Runbooks
 This topic describes the process for starting runbooks, viewing the results, and stopping a job in the Runbook Designer.  

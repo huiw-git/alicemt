@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe0674dd-6c18-406f-925b-4be541476223
+manager:cfreeman
 ---
 # How to Remove an Operations Manager Management Pack
 When you no longer need a management pack, you can delete it using the Operations console. When you delete a management pack, all the settings and thresholds associated with it are removed from [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. Also, the .mp or .xml file for that management pack is deleted from the hard disk of the management server. You can delete a management pack only if you have first deleted dependent management packs.  

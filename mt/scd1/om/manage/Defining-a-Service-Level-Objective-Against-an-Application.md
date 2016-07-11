@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 356080dd-76b2-4acc-b16e-041efaae3392
+manager:cfreeman
 ---
 # Defining a Service Level Objective Against an Application
 You can define a service level objective \(SLO\) to establish the availability and performance goals for an application. In the following procedure, you create a service level objective against a distributed application, define a monitor SLO that is based on availability \(99.9% up\-time\), and define a collection rule SLO that is based on a performance rule \(80% average processor time\).  

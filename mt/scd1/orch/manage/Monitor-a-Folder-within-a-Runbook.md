@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9be981fc-6708-4d00-a42a-2a15f0addbf0
+manager:cfreeman
 ---
 # Monitor a Folder within a Runbook
 This sample shows you how to create a simple monitor runbook that monitors a folder for new text files. When a file is detected, the runbook sends an event log message, and then starts another runbook.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 85abccbf-62b5-4f57-b04d-4f03d52b5fae
+manager:cfreeman
 ---
 # What Is in an Operations Manager Management Pack?
 Management packs typically contain monitoring settings for applications and services. After a management pack is imported into a management group, [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] immediately begins monitoring objects based on default configurations and thresholds that are set by the management pack.  

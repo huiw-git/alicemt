@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 086970a5-845c-4a67-b164-a15f0af3213d
+manager:cfreeman
 ---
 # How to Enable an Instant Message Notification Channel
 To configure alert notifications for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that will send alert notifications to subscribers by using an instant message.  

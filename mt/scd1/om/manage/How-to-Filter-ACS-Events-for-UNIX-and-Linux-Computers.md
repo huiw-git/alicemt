@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2443e38b-8682-474a-ae1f-0c2f7de34a84
+manager:cfreeman
 ---
 # How to Filter ACS Events for UNIX and Linux Computers
 By default, ACS collects and stores every event recorded in the Windows Security Event logs. A large number of the events can make it difficult to identify potential problems. You want to collect only the security events that meet your audit and security compliance requirements.  

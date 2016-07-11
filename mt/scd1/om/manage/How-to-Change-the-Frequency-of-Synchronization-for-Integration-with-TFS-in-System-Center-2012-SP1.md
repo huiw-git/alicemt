@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5743f8fe-689b-47be-83d8-1cc357fe29a4
+manager:cfreeman
 ---
 # How to Change the Frequency of Synchronization for Integration with TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

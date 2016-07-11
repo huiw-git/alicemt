@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1c8d08db-f510-463a-83db-f5b45411090e
+manager:cfreeman
 ---
 # Using Advanced Search
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], advanced search is available in My Workspace, when you create a new search. You can also open advanced search in the Monitoring workspace on the **Tools** menu.  

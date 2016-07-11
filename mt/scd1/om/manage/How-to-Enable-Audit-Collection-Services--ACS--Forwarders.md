@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 46223bea-3f73-44ab-832a-e13d0fe9f370
+manager:cfreeman
 ---
 # How to Enable Audit Collection Services (ACS) Forwarders
 Depending on your auditing needs, you might have several hundred to thousands of computers from which you want to collect audit events. By default, the service needed for an agent to be an Audit Collection Services \(ACS\) forwarder is installed but not enabled when the Operations Manager agent is installed. After you install the ACS collector and database you can then remotely enable this service on multiple agents through the Operations Manager console by running the **Enable Audit Collection** task.  

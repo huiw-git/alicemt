@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 69f2c1e7-4732-49f0-8643-4d95bdbb144c
+manager:cfreeman
 ---
 # Working with Sensitive Data for .NET Applications
 Here are some ways to work with sensitive data and .NET Application Performance Monitoring in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

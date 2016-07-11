@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ca50fca4-a9d4-4a72-865a-40e9af5923ba
+manager:cfreeman
 ---
 # Getting Information from Operations Manager
 Operations Manager, a component of System Center 2012, collects an immense amount of information about your environment, such as events, performance data, health states, and availability. To use Operations Manager effectively, you need to know how to get the information that is important to you.  

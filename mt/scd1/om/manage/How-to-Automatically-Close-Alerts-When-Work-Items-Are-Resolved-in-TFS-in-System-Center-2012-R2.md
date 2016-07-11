@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 170d53b9-14c4-41b6-b207-a4b2760f3830
+manager:cfreeman
 ---
 # How to Automatically Close Alerts When Work Items Are Resolved in TFS in System Center 2012 R2
 Typically, when developers implement and verify a solution for a problem, they resolve and close the related work items in Team Foundation Server \(TFS\). However, the problem is not fully resolved on the servers until the build containing the solution is actually deployed. Information technology \(IT\) operators can close the alert in [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] only when the solution is deployed on the server and the system no longer generates the same type of alert. Because of this, when a work item is closed by a developer, TFS synchronization automatically marks alerts as resolved, not closed. However, you can override the default and have TFS synchronization automatically close alerts when the associated TFS work items are closed.  

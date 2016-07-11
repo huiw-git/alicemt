@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: dc90726f-0058-4a94-a78d-520df32b2b7e
+manager:cfreeman
 ---
 # Comparing the Operations Console and Web Console in Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] operators use a console to view monitoring data. The consoles available are the Operations console and the web console. The Operations console allows you to perform all actions that your user role allows, while the web console displays only My Workspace and the Monitoring workspace.  

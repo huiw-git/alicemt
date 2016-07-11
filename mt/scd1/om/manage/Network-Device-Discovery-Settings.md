@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 30f03c58-9851-4e8a-9c57-3aeb40d968d3
+manager:cfreeman
 ---
 # Network Device Discovery Settings
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] offers a number of settings that you can use to configure discovery of network devices. The following table explains the available settings and how to configure them in the Network Devices Discovery Wizard.  

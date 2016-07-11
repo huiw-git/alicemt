@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4f3803b7-2e75-44f0-9767-f081674771ab
+manager:cfreeman
 ---
 # How to Create an Alerts Report
 An alerts report summarizes alerts that have occurred on a managed entity. The following procedure is an example of how you create an alerts report for a managed computer. The procedure presented here is applicable to creating other types of alerts reports. In this example procedure, you generate a report for the previous 24\-hour period.  

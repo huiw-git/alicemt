@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fb83223f-ba9c-4590-8f89-d1b9b4dfc7fa
+manager:cfreeman
 ---
 # Operations Manager Reports Library
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] provides the reports described in the following tables. For more information on a report, in the **Reporting** workspace, click the report and view the **Report Details**. For information on reports that are provided by other management packs, see the respective management pack guides.  

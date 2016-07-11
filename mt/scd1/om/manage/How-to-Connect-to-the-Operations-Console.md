@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6caa975f-2005-422c-aa5e-a2904a36893a
+manager:cfreeman
 ---
 # How to Connect to the Operations Console
 The [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console can be installed on any computer that meets the [system requirements](http://go.microsoft.com/fwlink/?LinkID=%20212502). When you open the Operations console on a management server, the console connects to that management server, however you can use the following procedure to connect to a different management server. When you initially open the Operations console on a computer that is not a management server, you must specify the management server to connect to. The following image shows the **Connect To Server** dialog box.  

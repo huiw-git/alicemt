@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9e3d272f-0b32-4af2-a78e-808e74f6c5ca
+manager:cfreeman
 ---
 # Run Program
 The Run Program activity runs any program or command on any computer in your domain in interactive or background mode.  Use this activity to run backup applications or a batch script that runs a set of complex commands.  

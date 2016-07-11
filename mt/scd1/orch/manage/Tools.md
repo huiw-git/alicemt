@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: abe7d1da-fb15-4229-8133-d98e374b1623
+manager:cfreeman
 ---
 # Tools
 To create and test a runbook in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], use the Runbook Designer and the Runbook Tester.  

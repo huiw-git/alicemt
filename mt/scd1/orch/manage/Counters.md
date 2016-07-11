@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6f0353ac-5847-483d-ac1d-d2bbc1268838
+manager:cfreeman
 ---
 # Counters
 When building runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], you might find that there are values that must be incremented, such as keeping track of the number of backup attempts that a runbook made. Counters let you modify and check the status of a number that you can use to keep track of important statistics. You create a counter in the Connections pane in the Runbook Designer, and then get and modify it by using the [Get Counter Value](../../orch/reference/Get-Counter-Value.md) and [Modify Counter](../../orch/reference/Modify-Counter.md) activities. Each of these activities presents the value of the counter as [Published Data](../../orch/manage/Published-Data.md) so that it can be used by other activities and links.  

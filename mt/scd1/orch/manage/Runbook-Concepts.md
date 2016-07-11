@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: df19c898-2018-441e-a37d-62a38734318b
+manager:cfreeman
 ---
 # Runbook Concepts
 The power of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] lies in providing runbooks and the individual activities that make up a runbook. Runbooks contain the instructions for an automated task or process. The individual steps throughout a runbook are called activities. Within the runbook,  additional controls provide information and instructions to control the sequence of activities in the runbook. Runbooks, activities, and each runbook control have configurable properties. You modify these properties to configure the behavior that your runbook requires.  

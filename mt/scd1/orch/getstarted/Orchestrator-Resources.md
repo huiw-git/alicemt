@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1074f141-d7ab-43da-b3b5-b1f5f0e7fe40
+manager:cfreeman
 ---
 # Orchestrator Resources
 In addition to this online reference for [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], there are a number of resources that can provide additional information about building runbooks, by using [System Center 2012 \- Orchestrator SDK](http://go.microsoft.com/fwlink/p/?LinkId=230570) and applying best practices.  

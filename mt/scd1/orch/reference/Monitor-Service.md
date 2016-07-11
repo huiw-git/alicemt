@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 274d3f61-125f-4d90-9ab3-33208908534e
+manager:cfreeman
 ---
 # Monitor Service
 The Monitor Service activity invokes runbooks when a service has been started or stopped. You can use the Monitor Service activity to monitor services on any remote computer. Use the Monitor Service activity to create runbooks that take corrective actions when services unintentionally shut down. For example, if a SQL Server service that hosts critical data stops responding, you can use a Monitor Service activity with a [Start or Stop Service](../../orch/reference/Start-or-Stop-Service.md) activity to automatically restart the service.  

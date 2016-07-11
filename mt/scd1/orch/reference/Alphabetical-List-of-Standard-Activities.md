@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 66916d65-0972-4ae9-8a5b-ccc9168c5f1c
+manager:cfreeman
 ---
 # Alphabetical List of Standard Activities
 All standard activities are listed below.  

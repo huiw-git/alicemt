@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a850f6e2-a89f-4682-b2d8-548cb165f044
+manager:cfreeman
 ---
 # Using the Orchestration Console in System Center 2012 - Orchestrator
 The Orchestration console is a web\-based tool with which an operator can perform the following functions in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]:  

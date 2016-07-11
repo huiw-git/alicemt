@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a0af32cb-3faf-4f13-b9eb-eadc10effe1b
+manager:cfreeman
 ---
 # Designing a Runbook
 When you plan a new runbook, you should start with a defined process that you want to automate. This process determines your choice of runbook activities. Specifically, determine the following:  

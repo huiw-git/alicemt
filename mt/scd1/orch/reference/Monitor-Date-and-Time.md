@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e9baa069-6d81-43bc-8781-bdcc6d7ca5d3
+manager:cfreeman
 ---
 # Monitor Date and Time
 The Monitor Date\/Time activity invokes runbooks at a time or interval that you specify. Use the Monitor Date\/Time activity to invoke your runbooks at a specific time once a day, week, or month. You can also schedule runbooks to be invoked when a specific number of seconds have passed since it was last invoked, or immediately after the runbook is deployed.  

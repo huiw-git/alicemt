@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3e9d6cbd-fc68-4887-933a-92528dab6bcf
+manager:cfreeman
 ---
 # How to Automatically Close Alerts When Work Items Are Resolved in TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

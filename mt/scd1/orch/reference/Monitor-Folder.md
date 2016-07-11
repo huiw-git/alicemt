@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7a88688b-c7dd-4cc7-bda8-cd8ca52fdb05
+manager:cfreeman
 ---
 # Monitor Folder
 The Monitor Folder activity invokes a runbook when the folder that you specified has changed, or if the files within that folder have been changed. You can monitor the size of log files in a folder. If the files grow too large, the Monitor Folder activity can invoke a runbook that will archive, backup, and then purge the log files to clean up the folder.  

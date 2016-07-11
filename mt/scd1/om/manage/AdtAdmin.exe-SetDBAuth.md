@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82d634f0-c8dc-4a6f-8d52-4dad1716b209
+manager:cfreeman
 ---
 # AdtAdmin.exe SetDBAuth
 The *\/SetDBAuth* parameter specifies the authentication method that the ACS collector uses to access the ACS database. The two available authentication methods are Windows Authentication and SQL authentication. Windows Authentication is the most secure method but can be used only if the computer that runs the ACS collector and the computer that hosts the ACS database belong to the same Active Directory domain or to domains that trust each other.  

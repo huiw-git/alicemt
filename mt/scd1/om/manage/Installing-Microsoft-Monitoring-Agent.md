@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 885857c7-a4ac-4b57-aa97-941f8189a13a
+manager:cfreeman
 ---
 # Installing Microsoft Monitoring Agent
 You can obtain and install Microsoft Monitoring Agent in several ways. You can manually install it from the [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] media or the Microsoft Download Center, or you can deploy it automatically by using the **Administration** pane of the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console. Additionally, you can opt in to automatically get the latest updates of the agent from Microsoft Update. Local collection is a lightweight monitoring solution that does not require any special configuration. You do not need databases or special accounts.  

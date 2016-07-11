@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1f96ed45-b24c-4f3c-b1cd-93cbfc4b03c4
+manager:cfreeman
 ---
 # Comparing Monitoring Approaches for .NET Applications
 A general best practice is to always monitor your Microsoft .NET Framework applications \(continuous monitoring\) because this gives you information about baseline performance, and you receive timely notifications of application failures before many customers are affected. At times, however, you might need to start monitoring only to troubleshoot specific application problems \(on demand\). System Center provides a powerful monitoring solution that includes alerting and reporting that are not available when you use local collection. However, using System Center usually requires an administrator and a heavier infrastructure. Local collection is a lightweight monitoring solution that does not require any special configuration before you can start monitoring. For instance, you do not need to set up special databases or special accounts. Less data is collected, and you receive no real\-time alerts about application problems. Locally collected traces do not have performance counters or other diagnostic information that is available when you use Microsoft Monitoring Agent together with [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  

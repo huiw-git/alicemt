@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1aae7fd8-568c-43e2-b3a3-c68159d64908
+manager:cfreeman
 ---
 # How to Discover Network Devices in Operations Manager
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] performs network discovery by running discovery rules that you create. Each time the rule runs, it will attempt to find new devices within its definition or changes to devices that were previously discovered.  

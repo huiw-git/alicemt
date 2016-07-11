@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 20368082-7246-4fa3-855c-a911e7ecc330
+manager:cfreeman
 ---
 # Deploy and Start Runbooks
 This section describes how to deploy and start runbooks in your environment.  

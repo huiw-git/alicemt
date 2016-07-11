@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8a116b94-6bc4-4160-b539-4bd542b8ee5a
+manager:cfreeman
 ---
 # Using the Authoring Workspace in Operations Manager
 The options in the Authoring workspace allow you to create new monitoring scenarios. This could be to change or add monitoring in an existing management pack or to create a new management pack for an application that doesn’t have one.  

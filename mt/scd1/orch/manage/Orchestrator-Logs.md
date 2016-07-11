@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4c06b17d-fd0d-4a98-8013-f5e5954606ed
+manager:cfreeman
 ---
 # Orchestrator Logs
 This section provides information on common troubleshooting issues and the available tools that can assist in identifying root problems.  

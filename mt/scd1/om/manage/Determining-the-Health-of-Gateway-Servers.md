@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ed74aa35-54e0-47bb-ab85-38f5b67d4533
+manager:cfreeman
 ---
 # Determining the Health of Gateway Servers
 To determine the health of a gateway server, you must examine it from two perspectives. The first, most direct method is to examine the health status in the Operations console and in Health Explorer.  This examination will tell you the status of the monitored components, indicate whether or not there are any open alerts, and show you performance data.  The second, indirect method is to be sure that data from the agents that are being monitored through the gateway server is being reported in a timely fashion.  

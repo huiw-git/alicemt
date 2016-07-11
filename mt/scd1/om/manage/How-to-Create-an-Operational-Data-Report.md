@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 25536797-aa64-46d4-846c-0578d7b6b9b7
+manager:cfreeman
 ---
 # How to Create an Operational Data Report
 The Microsoft Customer Experience Improvement Program \(CEIP\) collects information about how you use Microsoft programs and about some of the issues you might encounter. Microsoft uses this information to improve the products and features you use most often and to help solve issues. Participation in the program is strictly voluntary.  

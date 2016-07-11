@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b52cd429-aed0-4c42-8f5d-31063665890c
+manager:cfreeman
 ---
 # How to Synchronize Alerts with TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3ffd9fca-cae1-420a-9e6f-ea57f3633045
+manager:cfreeman
 ---
 # How to Use Active Directory Domain Services to Assign Computers to Management Servers
 The Operations Manager Agent Assignment and Failover Wizard creates an agent assignment rule that uses Active Directory Domain Services \(AD DS\) to assign computers to a management group and assign the computers' primary management server and secondary management servers. Use the following procedures to start and use the wizard.  

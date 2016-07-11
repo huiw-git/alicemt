@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f1b561c-6298-4ee9-a64c-061eda1b01be
+manager:cfreeman
 ---
 # Troubleshoot Your Orchestrator Installation_2
 The latest troubleshooting information for [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] is available in the release notes at [Release Notes for System Center 2012 - Orchestrator_1](../Topic/Release%20Notes%20for%20System%20Center%202012%20-%20Orchestrator_1.md). The following information provides additional instructions and caveats that you can use during installation to resolve problems you might experience.  

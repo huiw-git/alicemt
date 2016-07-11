@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ac69f3db-00ab-4ca3-a2fc-f87d4503f1ed
+manager:cfreeman
 ---
 # Install the Visio 2010 Add-in
 The Visio 2010 Add\-in for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] has the following prerequisites:  

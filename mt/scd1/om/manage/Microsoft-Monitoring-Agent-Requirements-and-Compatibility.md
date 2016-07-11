@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4161fc9b-3471-480c-905a-33dbf129a99f
+manager:cfreeman
 ---
 # Microsoft Monitoring Agent Requirements and Compatibility
   

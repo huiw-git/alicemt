@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7fd5ca6b-cde4-4610-ba6d-6fbb7ca57373
+manager:cfreeman
 ---
 # Connecting Operations Manager With Other Management Systems
 Product connectors are used to synchronize [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] data with other management systems, such as those that monitor non\-Windows computers or create trouble\-tickets. Product connectors can integrate a deployment of Operations Manager into another management platform or connect other management systems into a full Operations Manager management solution.  

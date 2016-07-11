@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c3e73e3a-fe17-4fd4-8c8e-401b02f8dc35
+manager:cfreeman
 ---
 # How to Add Knowledge to a Management Pack
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] management packs include knowledge for rules, monitors, and alerts that helps you identify problems, causes, and resolutions.  

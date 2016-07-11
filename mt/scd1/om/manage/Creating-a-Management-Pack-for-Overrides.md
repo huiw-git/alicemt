@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b79a9cc2-08cc-4ac8-9e15-cc1e91f00cec
+manager:cfreeman
 ---
 # Creating a Management Pack for Overrides
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], in a number of wizards and dialog boxes, you select a destination management pack in which to store the results. You can select any unsealed management pack file in your management group or create a new one.  

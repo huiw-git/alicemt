@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 27551cb3-206c-4382-9a2d-831da1405c65
+manager:cfreeman
 ---
 # Supported UNIX and Linux Operating System Versions
 The following tables describe the required UNIX and Linux operating systems and package dependencies.  

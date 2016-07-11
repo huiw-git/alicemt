@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4b1150e4-ef0c-4fba-a358-53db2106399e
+manager:cfreeman
 ---
 # Read Text Log
 The Read Text Log activity will read lines in a structured text log file. If you have log files that change names, you can configure the Read Text Log activity to read from the newest file in a folder that matches a file name pattern. The Read Text Log activity can be used to check a log for errors and then take corrective action on the server that is creating the log or send an email to an administrator to escalate the issue.  

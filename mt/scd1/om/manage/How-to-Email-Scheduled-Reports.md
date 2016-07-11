@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 786b7295-6591-4c26-bec6-dabf5e5f9ff9
+manager:cfreeman
 ---
 # How to Email Scheduled Reports
 Before you can schedule a report for email delivery, you must configure the email settings in the Report Server using the Reporting Server Configuration Manager.  

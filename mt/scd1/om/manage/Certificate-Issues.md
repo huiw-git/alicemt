@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: af71b0c9-c9c4-4790-8511-513658bec529
+manager:cfreeman
 ---
 # Certificate Issues
 This topic describes resolutions to certificate issues for monitoring UNIX or Linux computers.  

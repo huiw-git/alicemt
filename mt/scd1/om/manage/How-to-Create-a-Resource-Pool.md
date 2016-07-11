@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1e1add1e-56df-435b-9b27-ba6eee74ace9
+manager:cfreeman
 ---
 # How to Create a Resource Pool
 A new feature in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] is the *resource pool*. A resource pool is a collection of management servers used to distribute work amongst themselves and take over work from a failed member.  

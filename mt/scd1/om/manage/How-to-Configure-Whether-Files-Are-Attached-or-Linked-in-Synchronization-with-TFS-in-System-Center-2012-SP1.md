@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 87b9480b-b64a-49aa-96d1-9b57a0b6bb5a
+manager:cfreeman
 ---
 # How to Configure Whether Files Are Attached or Linked in Synchronization with TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

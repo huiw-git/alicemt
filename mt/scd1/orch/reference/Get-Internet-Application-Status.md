@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 83143603-d47b-4162-8932-f91eb9cac53b
+manager:cfreeman
 ---
 # Get Internet Application Status
 The Get Internet Application Status activity checks the availability of an internet application server. You can check the availability of a Web \(HTTP\), Email \(SMTP\), Email \(POP3\), FTP, DNS, or custom server.  You can also configure a server so it is available after a power outage or a restart.  

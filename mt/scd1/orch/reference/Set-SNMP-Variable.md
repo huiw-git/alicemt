@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe39d6e7-10e3-470f-aa06-b5307a13a871
+manager:cfreeman
 ---
 # Set SNMP Variable
 The Set SNMP Variable activity will modify a variable, specified by its MIB, on a network device. Use the Set SNMP Variable to update a variable that reports on the failure or success of a critical runbook.  

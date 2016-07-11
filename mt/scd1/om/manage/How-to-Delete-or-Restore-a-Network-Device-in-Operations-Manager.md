@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 85dae573-5813-4fd1-b81a-6a05f6e1cb7f
+manager:cfreeman
 ---
 # How to Delete or Restore a Network Device in Operations Manager
 After [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] has discovered and is monitoring a network device, you might want to stop monitoring the device because it is being replaced or because there is no business value in monitoring that particular device or for any other reason. To stop monitoring a device, you can use maintenance mode or you can delete the network device from the discovery rule. You can also restore a deleted device that was discovered by a recursive discovery rule.  

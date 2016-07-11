@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 51b60a9a-0bfb-4bea-b89f-9f1797fc5a09
+manager:cfreeman
 ---
 # Examining Properties of Alerts, Rules, and Monitors
 The properties pages for alerts, rules, and monitors offer useful information and actions that you can take. The following tables explain what you can learn from properties for alerts, rules, and monitors and include tips on using the properties tabs.  

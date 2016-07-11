@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e29fed7f-28ec-48fe-b195-0e776a4778da
+manager:cfreeman
 ---
 # Viewing and Investigating Alerts for .NET Applications (Server-side Perspective)
 After you have configured .NET applications to be monitored, you can view alerts and begin investigating the issues.  

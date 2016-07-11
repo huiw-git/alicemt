@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 482c22ab-58c5-4e17-92ab-d282a6694fd5
+manager:cfreeman
 ---
 # How to Specify Which Alerts Generate Notifications (Conditions)
 When you create a subscription to be notified of Operations Manager alerts, you must specify the criteria or conditions that determine the alerts that will generate a notification. The following illustration shows the conditions you can choose from.  

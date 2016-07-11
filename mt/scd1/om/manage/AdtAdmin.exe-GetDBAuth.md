@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b5cec7a1-96ca-4782-b24a-ac822f9afbc4
+manager:cfreeman
 ---
 # AdtAdmin.exe GetDBAuth
 The *\/GetDBAuth* parameter displays the current authentication method used by the ACS collector to access the ACS database. The two available authentication methods are Windows Authentication and SQL authentication. If SQL authentication is used, the *\/GetDBAuth* parameter displays the name of the user account currently in use by the ACS collector to connect to the ACS database.  

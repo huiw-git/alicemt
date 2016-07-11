@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 532a7c83-4304-4ab7-839b-6d1fb1aa04f0
+manager:cfreeman
 ---
 # Fabric Monitoring
 A close integration between [!INCLUDE[vmmblue_1](../../om/manage/includes/vmmblue_1_md.md)] and [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] introduces System Center cloud monitoring of virtual layers for private cloud environments. The Management Pack for System Center 2012 \- Virtual Machine Manager monitors availability of VMM and the availability, health, and performance of all virtual machines and virtual machine hosts that VMM manages. The Fabric Health Dashboard shows a detailed overview of the health of your private clouds and the fabric that services those clouds. The dashboard helps you answer questions like “What is the health of my clouds and the fabric serving those clouds?” and helps you understand how your fabric components are connected. At a glance, you can see cloud health and the health of the underlying fabric\/virtual machines. You can also do root cause analysis by linking to existing dashboards, such as network monitoring dashboards and the [!INCLUDE[vmmblue_2](../../om/manage/includes/vmmblue_2_md.md)] diagram view can help you dive into network and storage monitoring.  

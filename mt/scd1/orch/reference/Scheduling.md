@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 550286d3-16ec-469f-b392-f262faca579b
+manager:cfreeman
 ---
 # Scheduling
 The following table provides a brief description of tasks you can accomplish when using each Scheduling activity.  

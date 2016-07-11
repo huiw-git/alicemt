@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 846ae2cb-ab9c-4d59-b0ca-3f0e82c8cbd6
+manager:cfreeman
 ---
 # Get Lines
 The Get Lines activity gets multiple lines from a text file according to criteria that you specify. You can use the Get Lines activity to get specific lines from any location in a text file.  

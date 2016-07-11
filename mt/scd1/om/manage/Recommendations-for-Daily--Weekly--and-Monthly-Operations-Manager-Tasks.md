@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fed40697-3352-445e-af90-3b58988dd9da
+manager:cfreeman
 ---
 # Recommendations for Daily, Weekly, and Monthly Operations Manager Tasks
   

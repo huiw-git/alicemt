@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e179b9b5-89aa-4ed0-b1fe-0edf8475ecc0
+manager:cfreeman
 ---
 # Regular Expressions
 In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], regular expressions let you match a string to a pattern. The regular expression can contain a number of different elements that define the pattern. [Smart Link Properties](assetId:///334614e1-4192-46b5-868b-13d4d61b9fcb) use regular expressions to perform pattern matching.  

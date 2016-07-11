@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ec1737c6-b1eb-4ce9-8ef2-ae1e3e28ce23
+manager:cfreeman
 ---
 # How to Install the Orchestrator Web Service
 Use the following steps to install the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] web service.  

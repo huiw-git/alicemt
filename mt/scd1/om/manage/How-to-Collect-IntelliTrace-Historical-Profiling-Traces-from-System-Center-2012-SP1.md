@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a359878e-8fcd-48a9-9d0c-a2bdd2b33c13
+manager:cfreeman
 ---
 # How to Collect IntelliTrace Historical Profiling Traces from System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

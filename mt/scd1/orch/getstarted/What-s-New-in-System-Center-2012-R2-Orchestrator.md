@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c6698db0-e9ba-4a8e-ac6e-30433156258b
+manager:cfreeman
 ---
 # What&#39;s New in System Center 2012 R2 Orchestrator
 The following new features are available in [!INCLUDE[orchblue_1](../../orch/deploy/includes/orchblue_1_md.md)]. To upgrade to [!INCLUDE[orchblue_1](../../orch/deploy/includes/orchblue_1_md.md)], see [Upgrading System Center 2012 SP1 Orchestrator to System Center 2012 R2](../../orch/deploy/Upgrading-System-Center-2012-SP1-Orchestrator-to-System-Center-2012-R2.md).  

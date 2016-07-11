@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 07fee562-5069-45b9-b48c-a816fced7284
+manager:cfreeman
 ---
 # Apply XSLT
 The Apply XSLT activity enables you to transform the content of an XML file according to the rules in an XSLT file that you specify. You can use the Apply XSLT activity to transform the content of an XML file to an HTML file.  

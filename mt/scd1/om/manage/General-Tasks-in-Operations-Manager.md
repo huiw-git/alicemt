@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ca8019c4-bb2d-4a4f-9528-4c456cbd7bea
+manager:cfreeman
 ---
 # General Tasks in Operations Manager
   

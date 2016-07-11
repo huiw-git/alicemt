@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f8f50175-3fc8-47c7-be35-e93c991444e3
+manager:cfreeman
 ---
 # Plan Your Orchestrator Deployment
 This section describes the planning required before you install [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 52d7d9a1-3296-4959-b5b7-2dac836c6752
+manager:cfreeman
 ---
 # How to View All Rules and Monitors Running on an Agent-Managed Computer
 Administrators for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] sometimes want to know which rules and monitors are running on a computer. This is simple to do with the **Show Running Rules and Monitors for this Health Service** task.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 21c02bba-dc10-4f9a-9d19-2ea9b3d34cf9
+manager:cfreeman
 ---
 # Variables_2
 When building runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], some settings are the same across activities. Variables let you specify a value that activities use in any runbook.  

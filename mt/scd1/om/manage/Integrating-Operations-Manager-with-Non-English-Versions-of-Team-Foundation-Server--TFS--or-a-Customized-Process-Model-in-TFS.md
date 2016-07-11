@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4d45376b-09e5-455e-98db-7fee30cf0885
+manager:cfreeman
 ---
 # Integrating Operations Manager with Non-English Versions of Team Foundation Server (TFS) or a Customized Process Model in TFS
 When you need to synchronize Operations Manager alerts and TFS work items, and your development team is using a non\-English process template in TFS \(included in non\-English versions of TFS\), you must configure Operations Manager so that it can synchronize alerts with TFS work items. This is a complex and detailed process.  

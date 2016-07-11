@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d491e346-f43e-4958-85cc-169305fc471e
+manager:cfreeman
 ---
 # File Management
 The following table provides a brief description of tasks you can accomplish when using each File Management activity.  

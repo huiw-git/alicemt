@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 32270078-3534-47a2-a382-81f24bd7979f
+manager:cfreeman
 ---
 # Define a Scope Using Operations Manager Groups
 The scope of a user role determines which objects that user role can view and perform actions on in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. A scope is comprised of one or more Operations Manager groups and is defined when creating a user role as part of the **Create User Role Wizard**. The **Group Scope** page of the **Create User Role Wizard** provides a list of all existing Operations Manager groups. You can choose all or some of these groups as the scope of the user role you are creating.  

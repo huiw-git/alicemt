@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d825cef7-e68a-4387-829e-c3602bed2b6a
+manager:cfreeman
 ---
 # Monitor WMI
 The Monitor WMI activity invokes a runbook when a WMI event is received as a result of the WMI event query that you specify.  You can check for changes in devices that are attached to the server and invoke runbooks that take corrective action when errors occur.  

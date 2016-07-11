@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 316d9611-b4a4-495f-8272-8273b6012efe
+manager:cfreeman
 ---
 # View an Operations Manager Distributed Application Diagram in Visio 2010
 When you export a distributed application from the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console and then open it in Microsoft Visio 2010 with the Visio Add\-in for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the diagram in the Visio document contains information about the health state of each object. This information is provided through a connection to [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)].  

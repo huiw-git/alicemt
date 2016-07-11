@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 405babd5-7790-4bc8-84d2-3d2127f3e8a6
+manager:cfreeman
 ---
 # Install with the Orchestrator Command Line Install Tool
 To install [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] at a command prompt, use Setup.exe with the command\-line options in the following table.  

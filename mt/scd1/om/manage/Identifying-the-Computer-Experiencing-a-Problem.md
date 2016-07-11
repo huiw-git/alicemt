@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 058aed83-3e31-487f-98fb-aca98c50ddbc
+manager:cfreeman
 ---
 # Identifying the Computer Experiencing a Problem
 This topic helps you answer questions such as “I see an alert that says logical disk defragmentation is high. Where is it high?”  

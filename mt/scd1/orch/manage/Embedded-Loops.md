@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fc9e2b46-a272-415c-a7f7-ab5b2242bcaa
+manager:cfreeman
 ---
 # Embedded Loops
 In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], looping can be configured for any runbook. By using loops, you can build automatic retries and monitor at any location in a runbook.  

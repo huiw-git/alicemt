@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1a28a022-698a-4bb9-8611-7e2fa799b372
+manager:cfreeman
 ---
 # Viewing Network Devices and Data in Operations Manager
 After [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] discovers your network devices, you can view information about the devices using the following procedures.  

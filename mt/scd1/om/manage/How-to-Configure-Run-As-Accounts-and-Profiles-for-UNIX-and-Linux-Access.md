@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f7c739f4-e51d-42f6-b55a-4c914e5fd95d
+manager:cfreeman
 ---
 # How to Configure Run As Accounts and Profiles for UNIX and Linux Access
 If you are the system administrator in charge of the monitoring of UNIX and Linux computers, you must create Run As accounts for agent maintenance operations, and for health and performance monitoring. These Run As accounts must then be associated with the Run As profiles defined in the UNIX and Linux management packs, so they can access the agents on UNIX and Linux computers. For an overview of the process, see [Accessing UNIX and Linux Computers in Operations Manager](../../om/manage/Accessing-UNIX-and-Linux-Computers-in-Operations-Manager.md).  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: edb543b9-e405-4a72-8864-d35c3704d318
+manager:cfreeman
 ---
 # How to Create an Event Analysis Report
 Use the following procedure to create an event analysis report.  

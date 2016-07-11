@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1bec7174-4cf0-464b-aeb3-c179d52fb1dd
+manager:cfreeman
 ---
 # Print File
 The Print File activity prints text files to a printer that you specify. You can use this activity to print log files for paper filing before the data is moved or deleted from a server.  

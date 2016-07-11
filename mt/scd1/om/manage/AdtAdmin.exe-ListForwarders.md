@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fadc16d3-c22b-438e-8804-75f6da5ce5d5
+manager:cfreeman
 ---
 # AdtAdmin.exe ListForwarders
 The *\/ListForwarders* parameter lists the ACS forwarders, along with some statistics on each, that have ever connected to the ACS collector. The data that displays is a subset of the data that displays using the *\/Stats* parameter. If no subparameters are used, all ACS forwarders that have ever connected to the ACS collector are included. If you specify an ACS group, all ACS forwarders that belong to the group are listed.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f6b1c3b7-4354-4a2d-ab0f-c2f859456caa
+manager:cfreeman
 ---
 # Change the Way Health State is Represented in Visio 2010
 By default, health state is depicted by using the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] health icons \(such as the green check mark for a healthy state\). You can customize the way that health state is shown by changing the data graphic associated with the object. For example, you can show the health state by filling the shape with red, yellow, green, or grey color to represent the three health states and to represent a managed object in maintenance mode.  

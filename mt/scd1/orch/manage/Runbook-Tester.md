@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ce993ecb-d4e2-41dd-91f6-1051507e28dd
+manager:cfreeman
 ---
 # Runbook Tester
 **Runbook Tester** lets you test runbooks in a debugging environment. You can run an entire runbook, step through it one activity at a time, or add breakpoints to stop the simulation at any activity you select. You start Runbook Tester from the toolbar above the central Design workspace in the **Runbook Designer**. When you click the Runbook Tester button, the Runbook Tester starts and loads the current runbook. The button is only enabled if the runbook is not currently running. You must stop the runbook before you can test it.  

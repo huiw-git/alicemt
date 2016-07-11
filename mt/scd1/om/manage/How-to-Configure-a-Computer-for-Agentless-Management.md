@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f437db65-cf59-49c6-ade4-3f7e2144a3aa
+manager:cfreeman
 ---
 # How to Configure a Computer for Agentless Management
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can gather performance and availability data on a computer that does not have an agent installed by using a proxy agent that is installed on another computer. Use agentless\-monitoring of computers when it is not possible or desirable to install an agent on a computer.  

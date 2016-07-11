@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 946a0d66-6bdc-4a2b-8788-5c8f25b6cd22
+manager:cfreeman
 ---
 # How to Associate a Run As Account to a Run As Profile
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], Run As accounts are associated with Run As profiles to provide the necessary credentials for workflows that use that Run As profile to run successfully. Both distribution and targeting of Run As accounts must be correctly configured for the Run As profile to work properly.  

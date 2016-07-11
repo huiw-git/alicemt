@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ccbc61b1-4919-4514-ac2e-ea68384e3be8
+manager:cfreeman
 ---
 # How to Configure Grooming Settings for the Operations Manager Database
 The grooming process removes unnecessary data from the Operations Manager database in order to maintain performance by managing its size. It deletes unnecessary records. You can configure the grooming setting for the following record types:  

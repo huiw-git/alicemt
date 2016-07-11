@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1c97c68d-f3f5-4840-86b5-43501d575edf
+manager:cfreeman
 ---
 # Monitor Process
 The Monitor Process activity invokes runbooks when a process has been started or stopped. A process is any executable file that is running. You can use the Monitor Process activity to monitor processes on any remote computer.  

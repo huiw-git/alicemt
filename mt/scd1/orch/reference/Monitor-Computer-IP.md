@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: eee8ce17-c286-41ac-9736-00e96fa78f71
+manager:cfreeman
 ---
 # Monitor Computer IP
 The Monitor Computer\/IP activity will send a ping to a remote computer or IP address and wait for a response. You can configure the Monitor Computer\/IP activity to invoke your runbook if the computer is either reachable or unreachable. The Monitor Computer\/IP activity can be used to invoke runbooks that will automatically notify administrators when a vital system has become unreachable on the network.  

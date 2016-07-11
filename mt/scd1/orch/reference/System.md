@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 441c0d81-a1d5-4218-bbe8-54184f1deb62
+manager:cfreeman
 ---
 # System
 The following table provides a brief description of tasks you can accomplish when using each System activity.  

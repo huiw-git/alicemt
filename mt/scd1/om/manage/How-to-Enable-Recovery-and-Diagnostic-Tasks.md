@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 75de042b-04af-4947-ae8f-d4d77985cac9
+manager:cfreeman
 ---
 # How to Enable Recovery and Diagnostic Tasks
 Monitors in Operations Manager for System Center 2012 can do more than notify you of problems by sending an alert. Some monitors also provide diagnostic and recovery tasks to help investigate and resolve those problems.  

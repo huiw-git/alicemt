@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 56918d8d-ddd2-45a6-9c95-1ddec9e079b3
+manager:cfreeman
 ---
 # How to Install a Management Server for System Center 2012 - Orchestrator
 Use the following steps to install an [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] management server.  

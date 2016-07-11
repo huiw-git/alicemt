@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 834609dd-c152-4a8e-8c59-069e5857f365
+manager:cfreeman
 ---
 # Junction
 The Junction activity allows you to wait for multiple branches in a runbook to complete before continuing past the junction. This activity can also publish data again from any branch so that downstream activities past the Junction activity can consume the data. Data from different branches than the one you selected will not be available.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 244f37c3-48e0-46a4-b3bc-2bd7046ba544
+manager:cfreeman
 ---
 # Monitor Event Log
 The Monitor Event Log activity invokes runbooks when new events that match a filter that you specify appear in the Windows Event Log. You can use the Monitor Event Log activity to run runbooks that will escalate, investigate, or correct any issues in response to events being generated to the Windows Event Log. For example, a security audit failure appears in the security log which will send an email to an administrator to notify them of the problem.  The second mode invokes your runbook when the size of the Windows Event Log reaches the maximum size allowed.  

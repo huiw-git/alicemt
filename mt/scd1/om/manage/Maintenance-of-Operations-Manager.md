@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 369f9347-081e-4247-8d77-c920caa08607
+manager:cfreeman
 ---
 # Maintenance of Operations Manager
   

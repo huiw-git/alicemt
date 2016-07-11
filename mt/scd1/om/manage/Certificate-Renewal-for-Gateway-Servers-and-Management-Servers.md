@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e06fe9ae-2d2a-443d-937b-9217091e320c
+manager:cfreeman
 ---
 # Certificate Renewal for Gateway Servers and Management Servers
 Eventually, the certificates that were obtained and installed on the gateway server and collection management servers will expire and will need to be replaced with new ones. You might also need to replace an existing certificate if, for security reasons, the certificate has been revoked.  

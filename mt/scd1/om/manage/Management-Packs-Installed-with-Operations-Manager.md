@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 13b9ecf3-5822-4f9d-97aa-b637e4fc68a3
+manager:cfreeman
 ---
 # Management Packs Installed with Operations Manager
 When you install Operations Manager, a component of System Center 2012, a number of management packs are installed as well. The following table describes the purposes of those management packs.  

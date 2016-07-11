@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 481ef283-c99f-4379-933a-1db86c3aceb2
+manager:cfreeman
 ---
 # Search and Replace Text
 The Search and Replace Text activity searches for and replaces text that you specify in a text file.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 58173cdc-97ea-4ecf-a7b8-4e48c30fea5b
+manager:cfreeman
 ---
 # Get Process Status
 The Get Process Status activity checks the status of a running process on any computer. Use the Get Process Status activity to check the status of a process before performing another action. For example, you can check that a process that was detected by the [Monitor Process](../../orch/reference/Monitor-Process.md) activity is still running before shutting it down with the [End Process](../../orch/reference/End-Process.md) activity.  

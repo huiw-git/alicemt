@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7e0dc83c-cf86-4ccd-b356-a2842e086755
+manager:cfreeman
 ---
 # Orchestrator Architecture
 This topic provides an overview of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], including a description of the system architecture, the internals of a typical runbook workflow, and the flow of a deployed runbook.  

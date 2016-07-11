@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 94fe3ff6-c9d9-46c9-8dde-288d8361ccc0
+manager:cfreeman
 ---
 # How to Create Notification Subscribers
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals by email, instant message \(IM\), or text message \(SMS\). Notifications can also run commands automatically when an alert is raised on a monitored system. A notification requires a channel, a subscriber, and a subscription.  

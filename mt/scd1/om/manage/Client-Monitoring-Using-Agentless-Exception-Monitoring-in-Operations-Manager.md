@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe53bb3b-9072-4b7d-a518-a210c3e1e17f
+manager:cfreeman
 ---
 # Client Monitoring Using Agentless Exception Monitoring in Operations Manager
 The Client Monitoring feature of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] enables you to monitor operating systems and applications for errors and participate in the Customer Experience Improvement Program \(CEIP\).  

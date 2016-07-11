@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 349554ed-af74-42fd-b061-bb75e0a3bd0f
+manager:cfreeman
 ---
 # End Process
 The End Process activity ends processes that are running on the runbook server or on a remote computer. The End Process activity can be used to shut down an application that is not responding. The activity returns **success** if the named process is successfully ended or if the name process is not running. This activity uses a satellite license.  

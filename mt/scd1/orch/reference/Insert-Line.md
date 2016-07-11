@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ae2bc14f-7027-484e-95c0-4cad77b8f5ef
+manager:cfreeman
 ---
 # Insert Line
 The Insert Line activity inserts lines into a text file on a line number that you specify.  

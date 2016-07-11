@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7707e8ac-d885-4453-b72f-14f208eaf531
+manager:cfreeman
 ---
 # How to View Orchestrator Data by Using PowerPivot
 You can use Microsoft PowerPivot for Microsoft Excel to create reports for [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]. You configure PowerPivot to use the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service as a data feed, filter the Source Tables for the data you want to use, and import the tables into the PowerPivot worksheet. PowerPivot lets you create relationships between tables, and manipulate the data to fit your requirements. By using the PivotTable feature in PowerPivot, you can generate a report that uses any of the data contained within the PowerPivot workbook.  

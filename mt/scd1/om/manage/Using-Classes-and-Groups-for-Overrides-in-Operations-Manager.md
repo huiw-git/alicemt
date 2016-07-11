@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 65b166bc-2e18-41f3-8062-ca3f8e8b412b
+manager:cfreeman
 ---
 # Using Classes and Groups for Overrides in Operations Manager
 This topic describes the differences between classes and groups in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], and how workflows, such as rules and monitors, apply to each. The following sections define classes and groups, and provide examples for applying overrides with the available override options.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 735265d1-d19a-45ef-a8b5-50c4ed724c9c
+manager:cfreeman
 ---
 # How to Create an Alert Logging Latency Report
 The following procedure is an example of how you create an alert logging latency report for a managed computer. An alert logging latency report shows you how much time it took from when an alert was generated until it was written into the Operations Manager database. An alert is not displayed in the Operations console until after it is written into the Operations Manager database. Alert latency can be a function of network delays in your environment.  

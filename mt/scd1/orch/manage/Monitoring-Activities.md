@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a5dd7238-924b-4de9-9a4a-044c432750f6
+manager:cfreeman
 ---
 # Monitoring Activities
 Monitoring activities are a specialized group of activities that are triggered by a state or event of a task outside of a runbook. For example, a monitor can wait for a particular event to occur in an event log, check the IP status of a certain computer, or run repeatedly on a predefined schedule.  

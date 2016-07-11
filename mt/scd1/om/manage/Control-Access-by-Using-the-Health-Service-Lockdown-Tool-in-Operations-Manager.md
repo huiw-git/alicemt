@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4f9a2852-5b2c-4738-a796-5a83fe10d6d3
+manager:cfreeman
 ---
 # Control Access by Using the Health Service Lockdown Tool in Operations Manager
 On computers requiring high security, for example a domain controller, you may need to deny certain identities access to rules, tasks, and monitors that might jeopardize the security of your server. The Health Service lockdown tool \(HSLockdown.exe\) enables you to use various command\-line options to control and limit the identities used to run a rule, task, or monitor.  

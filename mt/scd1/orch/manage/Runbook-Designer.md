@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d2872531-d700-4852-a02c-5ffbbaf4144e
+manager:cfreeman
 ---
 # Runbook Designer
 The **Runbook Designer** is the tool that you use to create, manage, and run runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]. The **Runbook Designer** is intended for users who must create or modify runbooks. Users who only have to run runbooks and view their status should use the Orchestration console which is documented in the [Using the Orchestration Console in System Center 2012 - Orchestrator](../../orch/manage/Using-the-Orchestration-Console-in-System-Center-2012---Orchestrator.md).  

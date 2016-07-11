@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 64c419e1-9169-4a2d-8c3d-cdbd9e4d7fe1
+manager:cfreeman
 ---
 # Compare Values
 The Compare Values activity compares two text values or two numerical values and then determines whether or not they are equal. This activity can also be used to test error messages or numbers against known issues and automatically route the runbook to the appropriate activity.  

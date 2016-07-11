@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8954602d-8f80-4a5d-8e69-fd8148122ac6
+manager:cfreeman
 ---
 # Map Network Path
 The Map Network Path activity enables you to map a network path using a UNC path.  

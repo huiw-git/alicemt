@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6aa411d0-05b4-40da-8e45-dcba0ad28e3c
+manager:cfreeman
 ---
 # Monitoring Service Level Objectives by Using Operations Manager
 To ensure that resources, such as applications and systems, are available and performing at acceptable levels, companies set goals for their service availability and response times. [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] provides the capability to monitor these service goals by tracking service level objectives.  

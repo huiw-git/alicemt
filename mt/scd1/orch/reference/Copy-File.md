@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f718d16-c8d9-48ba-8c84-907d3ec69437
+manager:cfreeman
 ---
 # Copy File
 The Copy File activity copies a file from one directory to another. You can also copy files to network shares that are available using UNC paths. Use the Copy File activity to copy important files that have been created or modified in a folder that is being monitored by the Monitor Folder activity to a backup location.  

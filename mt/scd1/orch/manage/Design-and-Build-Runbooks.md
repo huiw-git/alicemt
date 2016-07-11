@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9809d0d9-eadf-434a-bea5-4b5aa523ad5a
+manager:cfreeman
 ---
 # Design and Build Runbooks
 This section provides details about how to design, build, and test, runbooks by using [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  

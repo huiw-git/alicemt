@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: caf7af6f-5967-48a0-b0e5-47cb0e0314f7
+manager:cfreeman
 ---
 # Working with Events by Using Application Diagnostics
 Working with alerts is a standard part of working with [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. Alerts for .NET application monitoring show you the information you will recognize from other alerts, such as the general information and product knowledge. However, a .NET application alert also provides a link in the alert description. This link opens the event that raised the alert in Application Diagnostics. Here you can see far more information that will help you troubleshoot and identify your problem and solution.  

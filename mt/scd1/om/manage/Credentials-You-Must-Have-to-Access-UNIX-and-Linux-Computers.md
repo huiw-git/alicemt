@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: efbb6586-bd42-464d-b346-74ec846af70c
+manager:cfreeman
 ---
 # Credentials You Must Have to Access UNIX and Linux Computers
 This topic describes how you use credentials to install, maintain, upgrade, and uninstall agents.  

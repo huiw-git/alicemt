@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 44490141-2205-427b-a700-1e64ed61a561
+manager:cfreeman
 ---
 # Invoke Web Services
 The Invoke Web Services activity runs a web service with XML parameters you specify.  

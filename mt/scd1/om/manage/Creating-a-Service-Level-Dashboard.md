@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 08ea756b-01dd-4f6c-8326-4fec3ab3706e
+manager:cfreeman
 ---
 # Creating a Service Level Dashboard
 After you configure a service level objective, you can create a service level dashboard view to monitor the service level objective. The service level dashboard view displays a grid of service levels and a grid of service level objectives grid which lists the various objectives which have a goal or target value and whether success is either above or below that target value for the currently selected SLA\/instance. When you select an objective in the **Service Level Objectives** grid, a gauge and chart is displayed, as shown in the following image.  

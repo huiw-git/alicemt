@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d4dc4d68-410b-4b9d-a141-49642d6b261c
+manager:cfreeman
 ---
 # How to Upgrade System Center 2012 SP1 Orchestrator to System Center 2012 R2
 When you upgrade a server that runs [!INCLUDE[orchblue_1](../../orch/deploy/includes/orchblue_1_md.md)], all features that are installed on the server are upgraded. Before you begin the upgrade process, make sure that your server meets the minimum supported configurations. For more information, see the [System Requirements](assetId:///aabe0348-a207-46e4-87df-24aa993df984) topic in the [Orchestrator](http://go.microsoft.com/fwlink/?LinkId=264231) library on TechNet.  

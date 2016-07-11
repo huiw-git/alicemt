@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1c0f5967-227b-480c-a84f-965c7c232513
+manager:cfreeman
 ---
 # Tuning Monitoring by Using Targeting and Overrides
 When you import a management pack, [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] discovers the objects defined by the management pack and begins applying the management pack’s rules and monitors to the discovered objects. You should always import a new management pack in a pre\-production environment first so that you can evaluate the management pack and adjust or tune the management pack as necessary to meet your business needs.  

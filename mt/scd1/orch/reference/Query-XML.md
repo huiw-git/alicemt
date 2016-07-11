@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 79b4b836-e45c-4e2e-b32c-758a82b70eb3
+manager:cfreeman
 ---
 # Query XML
 The Query XML activity is used to perform an XPath query on an XML file. You can use this activity to search for a string in an XML file.  

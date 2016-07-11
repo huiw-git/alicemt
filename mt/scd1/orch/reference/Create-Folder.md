@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8fdf738a-6dc7-4173-a940-406d9cb81729
+manager:cfreeman
 ---
 # Create Folder
 The Create Folder activity creates a new folder on the local file system or a network location specified using a UNC path. Use the Create Folder activity to create folders dynamically with names that represent the context in which they were created. For example, on August 25 you can create **"C:\\backupfolderAug25"**.  

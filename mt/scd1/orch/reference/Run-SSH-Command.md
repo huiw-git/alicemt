@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f04d8a08-3621-4d03-b231-20994b0d5c93
+manager:cfreeman
 ---
 # Run SSH Command
 The Run SSH Command activity opens an SSH connection to a remote server and runs shell commands on that server. Use the Run SSH Command activity to run backup applications or a batch script that runs a set of complex commands on a non\-Windows computer. The Run SSH Command activity can run any command in a Secure Shell.  

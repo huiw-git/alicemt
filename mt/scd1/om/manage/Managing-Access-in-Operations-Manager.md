@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 379eb89c-572c-4e69-90d7-5be7a0620c92
+manager:cfreeman
 ---
 # Managing Access in Operations Manager
   

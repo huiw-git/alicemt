@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14d6a67e-4fae-4497-b25f-bc4019ed017f
+manager:cfreeman
 ---
 # Orchestrator Capabilities
 IT administrators perform many tasks and procedures to keep the health of their computing environment up\-to\-date and their business running. Tasks might include the following diverse activities, for example, new employees require that accounts and resources are configured, a business acquisition requires integrating a system from another vendor, and new hardware requires provisioning. Individual tasks and subtasks are automated, but typically, not the whole process. In addition, the administrators must maintain quality standards and system efficiency. [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] can tie disparate tasks and procedures together by using the graphical user\-interface Runbook Designer to create reliable, flexible, and efficient end\-to\-end solutions in the IT environment.  

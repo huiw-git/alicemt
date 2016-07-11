@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c2b63b0a-4c6e-40b3-a75e-2ca514df3bc4
+manager:cfreeman
 ---
 # Operations Guide for System Center 2012 - Operations Manager
 Operations Manager, a component of System Center 2012, enables you to monitor services, devices, and operations for many computers in a single console. Operators can gain rapid insight into the state of the IT environment and the IT services running across different systems and workloads by using numerous views that show state, health, and performance information, as well as alerts generated for availability, performance, configuration and security situations.  

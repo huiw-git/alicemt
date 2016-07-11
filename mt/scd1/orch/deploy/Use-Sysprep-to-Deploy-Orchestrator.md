@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 45a59d9a-6c39-4e47-a9e6-58ed51e7e815
+manager:cfreeman
 ---
 # Use Sysprep to Deploy Orchestrator
 You can deploy Orchestrator using Sysprep. This enables you to deploy any component in Orchestrator in a distributed environment in an automatic process.  

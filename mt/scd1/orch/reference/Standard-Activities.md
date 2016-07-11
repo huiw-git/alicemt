@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5b90c2b0-747f-423c-8ed3-22a6881c8c09
+manager:cfreeman
 ---
 # Standard Activities
 Activities are organized into categories to help you find the appropriate activity for the task you want to perform. The following table provides a brief description of tasks you can accomplish with each activity category.  

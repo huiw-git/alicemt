@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d84efd2b-be10-431e-9862-70ddccd2a940
+manager:cfreeman
 ---
 # Sending Notifications for Specific Computers and Specific Alerts to Specific Teams
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals. These notifications have three parts:  

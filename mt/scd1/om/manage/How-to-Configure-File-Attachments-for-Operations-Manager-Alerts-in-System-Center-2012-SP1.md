@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 162cbd87-6be8-43b8-b131-6bedc5f80e59
+manager:cfreeman
 ---
 # How to Configure File Attachments for Operations Manager Alerts in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

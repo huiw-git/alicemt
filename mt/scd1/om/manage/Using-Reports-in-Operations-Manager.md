@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7ca89cf1-ee9c-4859-a3fd-5028562ffaca
+manager:cfreeman
 ---
 # Using Reports in Operations Manager
 For a description of the differences between dashboard views and reports, see this [System Center Operations Manager blog post](http://go.microsoft.com/fwlink/p/?LinkId=234126).  

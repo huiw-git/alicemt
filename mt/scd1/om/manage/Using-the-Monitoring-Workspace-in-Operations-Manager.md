@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 83921ac3-655e-4279-8f16-88818c88349f
+manager:cfreeman
 ---
 # Using the Monitoring Workspace in Operations Manager
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the Monitoring workspace is the primary workspace for operators. The Monitoring workspace is basically the same in both the Operations and Web consoles.  

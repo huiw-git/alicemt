@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 44c3460d-4171-4838-84c7-a9c3bd75b28a
+manager:cfreeman
 ---
 # How to Back up Orchestrator
 A complete backup of an [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] environment consists of the following:  

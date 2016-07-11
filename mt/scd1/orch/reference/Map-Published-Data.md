@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d9ddc895-bc37-4139-bf6d-87f21e064ade
+manager:cfreeman
 ---
 # Map Published Data
 The Map Published Data activity transforms the existing Published Data items or variable values into new values according to the rules that you specify. You can use this activity to convert numeric values to word values, simplify multiple versions of software program names into one name, or perform other string conversion activities within a runbook.  

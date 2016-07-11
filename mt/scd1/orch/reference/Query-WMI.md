@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 979b6b2d-8aba-48e3-a42a-8553cdd08559
+manager:cfreeman
 ---
 # Query WMI
 The Query WMI activity will send a WMI query to a system that you specify and return the results. This activity also can be used to check statistics on a remote server to create audit trails that can be reviewed later.  

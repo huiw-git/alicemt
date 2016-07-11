@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2b286c07-c702-4ff9-8e4c-2865b34cf53d
+manager:cfreeman
 ---
 # Configure the Operations Manager Data Source in Visio 2010
 Before Visio 2010 can interact with [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you need to configure [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] as a data source for your Visio document. You also need to configure the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] web console address to enable opening the Health Explorer or Alert view directly from Visio. You need to configure these items for each Visio document you create.  

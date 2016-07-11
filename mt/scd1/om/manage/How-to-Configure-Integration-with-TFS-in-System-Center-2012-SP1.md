@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9a989cdb-c74e-4c0b-8d6a-c64f497a8fe1
+manager:cfreeman
 ---
 # How to Configure Integration with TFS in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

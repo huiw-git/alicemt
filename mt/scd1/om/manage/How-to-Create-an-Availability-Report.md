@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ed94a545-c245-4a52-a7fc-8f66b4ebbd67
+manager:cfreeman
 ---
 # How to Create an Availability Report
 The following procedure is an example of how you create an availability report for a managed computer. The procedure presented here is applicable to creating other types of availability reports. In this example procedure, you generate a report for the entire week.  

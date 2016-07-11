@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 18037830-1797-40c1-945e-811718969977
+manager:cfreeman
 ---
 # How to Automatically Assign New Alerts to Engineering in System Center 2012 SP1
 [!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  

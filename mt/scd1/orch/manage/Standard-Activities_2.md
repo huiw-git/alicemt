@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d12dfdd9-753b-4f7b-b6ca-7709f0090126
+manager:cfreeman
 ---
 # Standard Activities_2
 An installation of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] includes a set of standard activities. Using these activities, you can create powerful workflows to automate tasks and processes.  

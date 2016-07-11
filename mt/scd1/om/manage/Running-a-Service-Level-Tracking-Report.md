@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4b55aeec-869a-4072-89f5-0ae8e5a860ea
+manager:cfreeman
 ---
 # Running a Service Level Tracking Report
 You can create a report that shows how your application or group is performing in relation to the defined service level objectives. The report that is generated provides both high\-level information to give you a picture of the overall status at a glance, and detailed low\-level information to provide specific information on availability and performance metrics.  

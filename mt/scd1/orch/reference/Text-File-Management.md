@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59a60b8a-2fb3-4dc9-9d3a-06cfd66db866
+manager:cfreeman
 ---
 # Text File Management
 The following table provides a brief description of tasks you can accomplish when using each Text File Management activity.  

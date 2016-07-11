@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 803f04c3-333a-48e6-8835-4d67786b8291
+manager:cfreeman
 ---
 # Viewing Active Alerts
 To view active alerts, open the Operations console and click **Monitoring**. The Monitoring Overview displays a summary of health states and alerts:  

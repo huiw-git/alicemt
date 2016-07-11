@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5f1f3651-e2d2-4ab9-a8c4-456264dcdb24
+manager:cfreeman
 ---
 # Operations Manager Monitoring Scenarios
   

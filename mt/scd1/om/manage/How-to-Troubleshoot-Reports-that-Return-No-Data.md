@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3f1900ac-3d19-448e-bbdd-edf794d0ed8e
+manager:cfreeman
 ---
 # How to Troubleshoot Reports that Return No Data
 When running a Performance Report or Configuration Data Report, data might not be displayed. Use the following procedures to evaluate if any data has been collected for the report and how to find the proper parameters to use for the report. For this example, it is assumed that the Windows Server 2003 Operating System Management Pack has been imported.  

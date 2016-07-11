@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 28ef8261-7850-4e1d-839b-d1ee4dfd2ec6
+manager:cfreeman
 ---
 # AdtAdmin.exe UpdForwarder
 Using the *\/UpdForwarder* parameter, you can change the name and the value of an ACS forwarder and also change the group membership of an ACS forwarder.  

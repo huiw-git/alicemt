@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f4bb384b-146b-4e6b-b61e-9242189c9635
+manager:cfreeman
 ---
 # Activities
 In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], activities are the building blocks of runbooks. In general, individual activities perform three actions:  

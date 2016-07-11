@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14c847f2-448e-4140-b6d4-649ecb6e96a1
+manager:cfreeman
 ---
 # Changing the Active Directory Integration Setting for an Agent
 You can use the following procedure to change the Active Directory integration setting for an agent.  

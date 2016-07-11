@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 13f2661d-ad31-4d01-92b4-fb9b2e7173f8
+manager:cfreeman
 ---
 # Monitoring Java Applications
 Java Application Performance Monitoring \(APM\) in [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] lets you monitor Java applications to get details about application performance and exception events that can help you determine the root causes of problems. The System Center 2012 Management Pack for Java Application Performance Monitoring lets you monitor Java application performance and exception events by using [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] Application Advisor. With [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] Application Advisor, you can investigate method and resource timing for performance events, stack traces for exception events, Java specific counters for events \(such as Average Request Time, Requests Per Second, JVM Memory, and Class Loader\), and run some of the standard Application Performance Monitoring reports. Additionally, you get [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] level alerting on Java application server counters. Download the Management Pack for Java Application Performance Monitoring from the [Microsoft Download Center](http://go.microsoft.com/fwlink/?LinkId=313918).  

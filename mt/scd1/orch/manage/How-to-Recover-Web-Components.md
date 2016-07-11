@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: edc3c49a-93e9-4ec4-81e3-c454b54ae976
+manager:cfreeman
 ---
 # How to Recover Web Components
 The Web Service database reference does not get modified by the Database Configuration Utility \(only the installer performs this task\). You will need to manually modify it.  

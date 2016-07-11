@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d2cde140-80eb-4f59-b83e-449c782a03be
+manager:cfreeman
 ---
 # Migrate Orchestrator Between Environments
 This topic describes how to automatically move Orchestrator between environments. This could be useful when you want to just move to a new SQL Server 2008 R2 or if you want to move some or all of the components of Orchestrator.  

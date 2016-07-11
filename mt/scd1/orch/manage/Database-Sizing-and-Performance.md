@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 589ab8a8-f723-4da1-8488-683d4939c12a
+manager:cfreeman
 ---
 # Database Sizing and Performance
 Database sizing is the key to understanding the performance of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]. The runbook servers, management server, and web components all depend on the Orchestrator database for their operations. Problems with [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] deployments can arise from an incomplete understanding of the types of data in the database and how to manage them.  

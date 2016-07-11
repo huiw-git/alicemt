@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ca5b4132-d8bd-4052-95f3-d7df76ae426a
+manager:cfreeman
 ---
 # Decompress File
 The Decompress File activity decompresses the files contained in a zip archive file. You can extract files from zip archives that are downloaded using email or FTP.  

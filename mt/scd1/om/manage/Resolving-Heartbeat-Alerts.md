@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d5fba37d-0862-409e-a2be-cd75fe246274
+manager:cfreeman
 ---
 # Resolving Heartbeat Alerts
 The Health Service sends a heartbeat to a management server to verify that the system is still responding. When a specified number of heartbeats fail to arrive, [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] displays an alert.  

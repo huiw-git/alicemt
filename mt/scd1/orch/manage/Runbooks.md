@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cdeb0481-99c1-46d0-a85d-cad0a23d4b69
+manager:cfreeman
 ---
 # Runbooks
 Runbooks let you use a wide range of customization options. This section provides details for all properties and permission settings for runbooks.  

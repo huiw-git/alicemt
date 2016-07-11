@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 011ed34f-7aa9-41bd-99fc-8d6700af179e
+manager:cfreeman
 ---
 # Move Folder
 The Move Folder activity moves a folder and its sub\-folders from one directory to another. You can also move folders to network shares that are available using UNC paths. In addition, you can take files from a local or network folder that are made publicly available as an FTP location and move them to an internal folder.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0ab7c54c-88fa-41fd-87be-00f959384b7d
+manager:cfreeman
 ---
 # Read Line
 The Read Line activity reads lines from a text file. You can use the Read Line activity to read lines from a text file and pass them to another activity using published data.  

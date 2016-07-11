@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 42a40c29-2a15-4a94-9289-2b52ba7a1c79
+manager:cfreeman
 ---
 # How to Monitor Java Applications
 When you have a new Java application that you are learning about, you use Java Application Performance Monitoring to get baseline measures before you gradually scale up deployment. Here are some settings to start with that will help you get to know your new application. In addition, it is ideal that you begin monitoring in a test or development environment.  

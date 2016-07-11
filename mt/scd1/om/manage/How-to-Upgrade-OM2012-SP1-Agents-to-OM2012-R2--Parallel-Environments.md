@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4c5997cc-3b31-4c0d-855e-d2b8ab75a018
+manager:cfreeman
 ---
 # How to Upgrade OM2012 SP1 Agents to OM2012 R2  Parallel Environments
 This upgrade path contains an [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] scenario with parallel environments, sharing agents, so that the original [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)], [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] environment is left intact.  After the upgrade, the agents have been upgraded to [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] and are fully capable of working with native [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] functionality.  The [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)] agents are also able to “talk” to the [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)], [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] management server.  

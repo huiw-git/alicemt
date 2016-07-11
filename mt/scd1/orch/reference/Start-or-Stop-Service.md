@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d1aedb89-b6c9-44fd-9491-9818f5d1327a
+manager:cfreeman
 ---
 # Start or Stop Service
 The Start\/Stop Service activity will start, stop, pause, or restart a Windows service. The Start\/Stop Service activity can be used to restart a service that has stopped responding or shut down a service in preparation for a backup. This activity uses a satellite license.  

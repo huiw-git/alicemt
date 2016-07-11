@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b1ef0ce3-fa26-4b23-8bd0-5dc2b99fb45b
+manager:cfreeman
 ---
 # Monitoring .NET Applications
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can monitor web applications from server\- and client\-side perspectives to get details about application performance and reliability that can help you pinpoint the root causes of incidents. When you specify settings, the types of events to collect, the performance goals to measure, and servers to monitor, [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] application monitoring reveals how web\-based applications are running. You can see how frequently a problem is occurring, how a server was performing when a problem occurred, and the chain of events related to the slow request or method that is unreliable. This information is required to partner with software developers and database administrators to help ensure that applications perform correctly and reliably at optimal levels.  

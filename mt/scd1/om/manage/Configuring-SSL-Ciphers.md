@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3fadc6ff-e37c-4c2f-a58a-d7841b39f114
+manager:cfreeman
 ---
 # Configuring SSL Ciphers
 [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] correctly manages UNIX and Linux computers without changes to the default Secure Sockets Layer \(SSL\) cipher configuration. For most organizations, the default configuration is acceptable, but you should check your organization’s security policies to determine whether changes are required.  

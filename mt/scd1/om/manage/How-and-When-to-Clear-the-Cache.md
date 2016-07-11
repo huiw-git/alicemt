@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bea86d42-4838-46b0-96ac-75a0e8988e3c
+manager:cfreeman
 ---
 # How and When to Clear the Cache
 In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when troubleshooting an issue with the Operations console or with an agent, you may see recommendations to “clear the cache”. \(For example, see the Knowledge Base article [Troubleshooting gray agent state](http://go.microsoft.com/fwlink/p/?LinkID=200488).\) The following table explains how and when to clear the console cache or agent cache.  

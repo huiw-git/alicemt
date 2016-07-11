@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 006ab31c-26c3-4150-9544-5e99c32981d6
+manager:cfreeman
 ---
 # How to Run a Report
 Use the following procedure to run a report from the Reporting workspace. In this example, you will run an availability report.  

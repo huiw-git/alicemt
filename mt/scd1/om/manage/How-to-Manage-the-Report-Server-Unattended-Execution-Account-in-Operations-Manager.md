@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 15305141-083c-4b98-b745-28c7b68fcb46
+manager:cfreeman
 ---
 # How to Manage the Report Server Unattended Execution Account in Operations Manager
 The Operations Manager Report Server unattended execution account is used to query data from the Reporting Data Warehouse. Users that manage this account require only the Read user right. This account is not managed from within the Operations Manager user interface. Use this procedure to change the user name or password for this account.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6f7ce4cb-774a-4621-b257-ef1b3e573980
+manager:cfreeman
 ---
 # Monitoring Integration between Operations Manager and TFS in System Center 2012 SP1
 Synchronization between [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] and Team Foundation Server \(TFS\) makes efficient communication possible between information technology \(IT\) operations and developers. A healthy TFS environment is essential for all development processes. Depending on your environment, you can import TFS monitoring and management packs that give you real\-time visibility into the health of the TFS developer environment.  

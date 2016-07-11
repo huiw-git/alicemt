@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6f933313-7927-477f-a048-1296869a2c41
+manager:cfreeman
 ---
 # AdtAdmin.exe DelGroup
 The *\/DelGroup* parameter deletes a group from an ACS collector by using its name or group identification number. When a group is deleted, the forwarders that belong to the group are not deleted. Any forwarders assigned to a group when it is deleted are added to or still belong to the default top\-level groups.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 43f5cfc6-df95-4c03-80b4-c2157bc7f88f
+manager:cfreeman
 ---
 # Write Web Page
 The Write Web Page activity will create or add information to an HTML file. When creating new web pages with the Write Web Page activity, you can use templates that can contain any of the formatting that you require. When using the Write Web Page activity to create web pages, all occurrences of the tags <DOC\-TITLE> and <DOC\-TEXT> will be replaced by the title and text that you specify, respectively.  

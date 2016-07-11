@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 225d3776-a502-485d-a7ea-096b14f590a6
+manager:cfreeman
 ---
 # Using the Visio 2010 Add-in and SharePoint 2010 Visio Services Data Provider
 The Visio 2010 Add\-in for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] combines the strengths of two applications widely used in enterprise IT to simplify the creation of customized dashboards that show the health of an environment. The Visio Add\-in lets you create diagrams that show objects by geography on a map, by location in a data center or building, by role in a logical view of an application, or by topology for complex distributed applications such as Microsoft Exchange Server or technologies such as Active Directory Domain Services.  

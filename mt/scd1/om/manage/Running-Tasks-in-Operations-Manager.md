@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c30b4225-0463-49d6-bfaa-e9b45a047086
+manager:cfreeman
 ---
 # Running Tasks in Operations Manager
 In the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console, the **Tasks** pane provides links to tasks. A task is a user\-initiated action from the Operations console that is run on an Operations Manager agent. The tasks that are available depend on the management packs that are installed. For example, Operations Manager comes with a core set of functionality that provides the ping task. When you install the SQL Server management pack, it adds SQL\-specific tasks, such as a task to start or stop the SQL Server agent.  

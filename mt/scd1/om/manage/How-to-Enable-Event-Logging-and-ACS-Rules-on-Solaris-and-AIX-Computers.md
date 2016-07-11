@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 816c9151-eb03-4dca-9829-fed400c0524e
+manager:cfreeman
 ---
 # How to Enable Event Logging and ACS Rules on Solaris and AIX Computers
 This topic does not apply to Windows computers.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0148fedb-ffba-462f-a8fb-49778b4210f2
+manager:cfreeman
 ---
 # Format Date and Time
 The Format Date\/Time activity enables you to transform existing date and time formats into custom formats that you create.  

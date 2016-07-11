@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a1dd732b-61ab-4b90-8ae9-6dd18be78ad3
+manager:cfreeman
 ---
 # AdtAdmin.exe Stats
 The *\/Stats* parameter lists statistical information about ACS forwarders that are connected to the ACS collector. These statistics include identification numbers, SIDs, names, and assigned value numbers. The *\/Stats* parameter is used to verify recently completed configuration changes and to retrieve information that is needed when using other AdtAdmin parameters, such as *\/Disconnect* or *\/Setquery*. All ACS collectors, ACS groups, and ACS forwarders are included in the list unless you specify otherwise. Also, every statistic is listed, by default. If you want only a single statistic, you can specify which statistic that you want to display as part of the command syntax.  

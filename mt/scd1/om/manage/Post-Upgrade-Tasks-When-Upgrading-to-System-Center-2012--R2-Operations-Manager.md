@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bbd5dddd-b002-45fa-999a-3e751309ee93
+manager:cfreeman
 ---
 # Post-Upgrade Tasks When Upgrading to System Center 2012  R2 Operations Manager
 After you have completed the upgrade process to [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], you must perform a number of post\-upgrade tasks.  
