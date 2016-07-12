@@ -14,7 +14,7 @@ manager:cfreeman
 # Using the Enforced Attribute in Overrides
 When you configure an override to a rule, monitor, or discovery in Operations Manager for System Center 2012, you will notice an **Enforced** check box in the row for each value that you can override, as shown in the following illustration.  
   
-![Enforced checkbox for overrides](../../om/manage//OverrideEnforced.gif "OverrideEnforced")  
+![Enforced checkbox for overrides](../../om/manage/media/OverrideEnforced.gif "OverrideEnforced")  
   
 When the Enforced attribute is selected for an override, this setting ensures that the override will take precedence over all other overrides of the same type and context that do not have **Enforced** set.  
   

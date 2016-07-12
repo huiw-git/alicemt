@@ -12,7 +12,7 @@ ms.assetid: 7b146b6d-d127-4b5c-9008-a4ed5b7ae760
 manager:cfreeman
 ---
 # Using the Administration Workspace in Operations Manager
-In the [!INCLUDE[om12long](../../om/manage//om12long_md.md)] Operations console, the Administration workspace is the primary workspace for administrators. You use the Administration workspace to configure a management group and its managed objects.  
+In the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console, the Administration workspace is the primary workspace for administrators. You use the Administration workspace to configure a management group and its managed objects.  
   
 When you first open the Administration workspace or when you click **Administration** in the navigation pane, the Administration Overview opens, which displays task links for any required or optional configuration steps that have not been completed yet.  
   
@@ -71,7 +71,7 @@ You can use **Run As Configuration** in the Administration workspace to manage R
 |Profiles|To add, edit, and remove Run As accounts associated with a Run As profile.|[Managing Access in Operations Manager](../../om/manage/Managing-Access-in-Operations-Manager.md)|  
   
 ## <a name="BKMK_security"></a>Security  
-In [!INCLUDE[om12short](../../om/manage//om12short_md.md)], operations such as resolving alerts, running tasks, overriding monitors, viewing alerts, viewing events, and so on have been grouped into user roles, with each user role representing a particular job function. Role\-based security allows you to limit privileges that users have for various aspects of [!INCLUDE[om12short](../../om/manage//om12short_md.md)]. In **Security** in the Administration workspace, you can add and remove users to specific user roles. You can also modify the properties of user roles that you create.  
+In [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], operations such as resolving alerts, running tasks, overriding monitors, viewing alerts, viewing events, and so on have been grouped into user roles, with each user role representing a particular job function. Role\-based security allows you to limit privileges that users have for various aspects of [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)]. In **Security** in the Administration workspace, you can add and remove users to specific user roles. You can also modify the properties of user roles that you create.  
   
 For more information, see [Implementing User Roles](../../om/manage/Implementing-User-Roles.md).  
   

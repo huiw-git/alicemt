@@ -12,10 +12,10 @@ ms.assetid: 7668afd1-2bc8-4861-8279-63361029f3a3
 manager:cfreeman
 ---
 # Deploying Runbooks
-There are tools available in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] to help you manage the versions of your runbooks. These tools are described in the following sections.  
+There are tools available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] to help you manage the versions of your runbooks. These tools are described in the following sections.  
   
 ## Version Control  
-In [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], multiple users can create and update runbooks. However, only one user at a time can make changes to a runbook. This protects your work from being overwritten by someone else with the same permission level.  
+In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], multiple users can create and update runbooks. However, only one user at a time can make changes to a runbook. This protects your work from being overwritten by someone else with the same permission level.  
   
 To edit a runbook, you must check it out. Another user cannot edit that runbook until you either commit all changes by checking the runbook in or revert all changes by undoing the checkout.  
   

@@ -12,7 +12,7 @@ ms.assetid: 21b60698-13ee-48bc-8575-1c1534fbb981
 manager:cfreeman
 ---
 # Smart Links
-The links that connect individual activities in a runbook are called smart links. Smart links in [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] support precedence between two activities. Smart links invoke the next activity in the runbook as soon as the previous activity finishes successfully. Smart links also provide filtering capabilities for the data so you can limit the data passed to subsequent activities in the workflow.  
+The links that connect individual activities in a runbook are called smart links. Smart links in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] support precedence between two activities. Smart links invoke the next activity in the runbook as soon as the previous activity finishes successfully. Smart links also provide filtering capabilities for the data so you can limit the data passed to subsequent activities in the workflow.  
   
 ## Creating and configuring smart links  
 You can modify the smart link condition properties by double\-clicking the smart link.  
@@ -59,7 +59,7 @@ In the **Link Properties** dialog box, on the **General** tab, you can add Name 
 3.  Click **Finish**.  
   
 ## Include and Exclude Tabs  
-[!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] lets you configure conditions for passing data to the following tasks in the runbook. By using link conditions, you can build branching capabilities into your runbooks. For example, a runbook must stop a database server before backing it up. If the database server stops correctly, the runbook starts the backup application. If the database does not stop correctly, an email is sent to the administrator to escalate the issue.  
+[!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] lets you configure conditions for passing data to the following tasks in the runbook. By using link conditions, you can build branching capabilities into your runbooks. For example, a runbook must stop a database server before backing it up. If the database server stops correctly, the runbook starts the backup application. If the database does not stop correctly, an email is sent to the administrator to escalate the issue.  
   
 On the **Include** tab, you can specify the conditions that enable data to flow to the next activity in the runbook. The **Exclude** tab specifies the conditions that cause data to be excluded from the next activity in the runbook.  
   

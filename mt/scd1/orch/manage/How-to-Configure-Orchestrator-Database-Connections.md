@@ -28,13 +28,13 @@ When connecting to a rebuilt database:
   
 In contrast, DBconfig only creates a new database; it does not configure the security for the database. DBConfig configures the database schema in the database and creates the contents of **settings.dat**, which contains the connection details for the management server and runbook servers. For more information on running DBConfig, see [How to Change the Orchestrator Database](../../orch/manage/How-to-Change-the-Orchestrator-Database.md).  
   
-### To configure [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] database connections  
+### To configure [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] database connections  
   
 -   Run the DBsetup binary from the **Start** menu or from the **Program Files** folder.  
   
 ### To create a new database on a new database server  
   
-1.  Run the [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] Setup Wizard and install a new management server.  
+1.  Run the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] Setup Wizard and install a new management server.  
   
 2.  On the **Configure the database server** page in the setup wizard, point to the new database server.  
   

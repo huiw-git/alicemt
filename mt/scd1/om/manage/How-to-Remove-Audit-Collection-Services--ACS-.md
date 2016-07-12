@@ -12,7 +12,7 @@ ms.assetid: ce23ebff-79b3-4675-a9f2-7179a933de44
 manager:cfreeman
 ---
 # How to Remove Audit Collection Services (ACS)
-Each component of [!INCLUDE[om12long](../../om/manage//om12long_md.md)] Audit Collection Services \(ACS\) has a separate procedure for removing it.  
+Each component of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Audit Collection Services \(ACS\) has a separate procedure for removing it.  
   
 The ACS collector is removed by using the Audit Collection Services Collector Setup wizard. When you remove the ACS collector, the ACS database is not deleted. You delete the ACS database from within Microsoft SQL Server.  
   

@@ -12,7 +12,7 @@ ms.assetid: c3f75892-10f6-4690-bb82-0180991005e4
 manager:cfreeman
 ---
 # How to Suspend Monitoring Temporarily by Using Maintenance Mode
-Maintenance mode, available from the **Monitoring** workspace of the Operations console in [!INCLUDE[om12short](../../om/manage//om12short_md.md)], enables you to avoid any alerts or errors that might occur when a monitored object, such as a computer or distributed application, is taken offline for maintenance. Maintenance mode suspends the following features:  
+Maintenance mode, available from the **Monitoring** workspace of the Operations console in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], enables you to avoid any alerts or errors that might occur when a monitored object, such as a computer or distributed application, is taken offline for maintenance. Maintenance mode suspends the following features:  
   
 -   Rules and monitors  
   
@@ -78,7 +78,7 @@ Use the following procedure to place one or more monitored objects into maintena
 6.  In the **Windows Computers** pane, the maintenance mode icon disappears from the **Maintenance Mode** column for the computer you selected.  
   
     > [!NOTE]  
-    > Because [!INCLUDE[om12short](../../om/manage//om12short_md.md)] polls maintenance mode settings only once every 5 minutes, there can be a delay in an object's scheduled removal from maintenance mode.  
+    > Because [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] polls maintenance mode settings only once every 5 minutes, there can be a delay in an object's scheduled removal from maintenance mode.  
   
 ## See Also  
 [General Tasks in Operations Manager_1](../Topic/General%20Tasks%20in%20Operations%20Manager_1.md)  

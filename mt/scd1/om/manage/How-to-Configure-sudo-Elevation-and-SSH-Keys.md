@@ -12,7 +12,7 @@ ms.assetid: 0925eb82-bfc9-410b-8d8e-923c66c3f489
 manager:cfreeman
 ---
 # How to Configure sudo Elevation and SSH Keys
-Starting with [!INCLUDE[om12long](../../om/manage//om12long_md.md)], you can provide credentials for an unprivileged account to be elevated on a UNIX or Linux computer by using the sudo program, which allows users to run programs that have the security privileges of another user account. You can also use Secure Shell \(SSH\) keys instead of a password for secure communication between Operations Manager and the targeted computer.  
+Starting with [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can provide credentials for an unprivileged account to be elevated on a UNIX or Linux computer by using the sudo program, which allows users to run programs that have the security privileges of another user account. You can also use Secure Shell \(SSH\) keys instead of a password for secure communication between Operations Manager and the targeted computer.  
   
 This topic provides examples for creating an account for a low\-privileged user, implementing sudo, and creating an SSH key on a computer that is running Red Hat Enterprise Linux Server 6. These are examples only, and might not reflect your environment. The following examples provide a user with access to a full set of privileges.  
   

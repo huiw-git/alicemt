@@ -12,7 +12,7 @@ ms.assetid: 02119d3c-250d-46ed-80be-3609dfa832a8
 manager:cfreeman
 ---
 # How to View Group Members, State, and Diagram
-Use the following procedure in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] to view the objects that are members of a specific group.  
+Use the following procedure in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] to view the objects that are members of a specific group.  
   
 ### To view members, state, and diagram of a group  
   

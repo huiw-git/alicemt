@@ -12,7 +12,7 @@ ms.assetid: dab97fc0-0cd9-40cf-a5bb-2e304490fef4
 manager:cfreeman
 ---
 # How to Configure Automatic Alert Resolution
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], alerts are resolved automatically after a specific number of days. You can change the automatic alert resolution settings globally for the management group. Using automatic alert resolution, you can configure all active alerts with a resolution state of **New** to be changed to **Closed** after a specific number of days. You can also configure all active alerts with a resolution state of **New** to be changed to **Closed** after a specific number of days when the alert source is healthy.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], alerts are resolved automatically after a specific number of days. You can change the automatic alert resolution settings globally for the management group. Using automatic alert resolution, you can configure all active alerts with a resolution state of **New** to be changed to **Closed** after a specific number of days. You can also configure all active alerts with a resolution state of **New** to be changed to **Closed** after a specific number of days when the alert source is healthy.  
   
 ### To change the global settings for automatic alert resolution  
   
@@ -26,7 +26,7 @@ In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], alerts are resolved au
   
 5.  Change the days for either or both of the following settings:  
   
-    ![Global settings for automatic alert resolution](../../om/manage//OM12AutoAlertGlobal.gif "OM12AutoAlertGlobal")  
+    ![Global settings for automatic alert resolution](../../om/manage/media/OM12AutoAlertGlobal.gif "OM12AutoAlertGlobal")  
   
 6.  Click **OK**.  
   

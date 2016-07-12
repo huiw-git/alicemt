@@ -12,9 +12,9 @@ ms.assetid: 6caa975f-2005-422c-aa5e-a2904a36893a
 manager:cfreeman
 ---
 # How to Connect to the Operations Console
-The [!INCLUDE[om12long](../../om/manage//om12long_md.md)] Operations console can be installed on any computer that meets the [system requirements](http://go.microsoft.com/fwlink/?LinkID=%20212502). When you open the Operations console on a management server, the console connects to that management server, however you can use the following procedure to connect to a different management server. When you initially open the Operations console on a computer that is not a management server, you must specify the management server to connect to. The following image shows the **Connect To Server** dialog box.  
+The [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] Operations console can be installed on any computer that meets the [system requirements](http://go.microsoft.com/fwlink/?LinkID=%20212502). When you open the Operations console on a management server, the console connects to that management server, however you can use the following procedure to connect to a different management server. When you initially open the Operations console on a computer that is not a management server, you must specify the management server to connect to. The following image shows the **Connect To Server** dialog box.  
   
-![Dialog box to connect console to server](../../om/manage//Connecttoserver.gif "Connecttoserver")  
+![Dialog box to connect console to server](../../om/manage/media/Connecttoserver.gif "Connecttoserver")  
   
 ### To connect an Operations console to a management server  
   
@@ -28,7 +28,7 @@ The Operations console opens with the focus on the most recently viewed workspac
   
 -   In the Operations console, click **Tools** and then click **Connect** as shown in the following image, which will open the **Connect To Server** window.  
   
-    ![Connect option on Tools menu](../../om/manage//Tools_connect.gif "Tools_connect")  
+    ![Connect option on Tools menu](../../om/manage/media/Tools_connect.gif "Tools_connect")  
   
 ## See Also  
 [Comparing the Operations Console and Web Console in Operations Manager](../../om/manage/Comparing-the-Operations-Console-and-Web-Console-in-Operations-Manager.md)  

@@ -12,7 +12,7 @@ ms.assetid: 7067cf2d-8eb5-426d-a491-d0d116fef325
 manager:cfreeman
 ---
 # Inventory of Operations Manager Infrastructure
-Both maintaining and troubleshooting [!INCLUDE[om12long](../../om/manage//om12long_md.md)] can be easier when you have a comprehensive inventory of the Operations Manager infrastructure. Ideally, the inventory is started when you first install Operations Manager, and updated as you add features and extend monitoring. If you have an existing infrastructure and no inventory, we recommend that you invest the time to document a complete inventory. [Recommendations for Daily, Weekly, and Monthly Operations Manager Tasks](../../om/manage/Recommendations-for-Daily--Weekly--and-Monthly-Operations-Manager-Tasks.md) includes a monthly task to review and update the inventory.  
+Both maintaining and troubleshooting [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can be easier when you have a comprehensive inventory of the Operations Manager infrastructure. Ideally, the inventory is started when you first install Operations Manager, and updated as you add features and extend monitoring. If you have an existing infrastructure and no inventory, we recommend that you invest the time to document a complete inventory. [Recommendations for Daily, Weekly, and Monthly Operations Manager Tasks](../../om/manage/Recommendations-for-Daily--Weekly--and-Monthly-Operations-Manager-Tasks.md) includes a monthly task to review and update the inventory.  
   
 The following is a list of information you will find useful to include in your inventory.  
   

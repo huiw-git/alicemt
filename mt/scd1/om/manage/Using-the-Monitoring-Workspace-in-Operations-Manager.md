@@ -12,11 +12,11 @@ ms.assetid: 83921ac3-655e-4279-8f16-88818c88349f
 manager:cfreeman
 ---
 # Using the Monitoring Workspace in Operations Manager
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], the Monitoring workspace is the primary workspace for operators. The Monitoring workspace is basically the same in both the Operations and Web consoles.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the Monitoring workspace is the primary workspace for operators. The Monitoring workspace is basically the same in both the Operations and Web consoles.  
   
 When you open the Monitoring workspace, you see an overview that summarizes the health of distributed applications and computers, as well as the objects that are in maintenance mode, as shown in the following image.  
   
-![Monitoring overview summarizes alert status](../../om/manage//Monitor.jpg "Monitor")  
+![Monitoring overview summarizes alert status](../../om/manage/media/Monitor.jpg "Monitor")  
   
 In the **State and Alerts** overview, click any of the numbers to see a detailed view. For example, if you click the number shown for **Maintenance Mode**, a state view of all computers in maintenance mode opens.  
   

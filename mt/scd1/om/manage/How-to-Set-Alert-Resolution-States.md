@@ -12,7 +12,7 @@ ms.assetid: d2717f98-84fc-43d7-8c06-bdd5aaf386c0
 manager:cfreeman
 ---
 # How to Set Alert Resolution States
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], there are two default resolution states for alerts: **New** and **Closed**.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], there are two default resolution states for alerts: **New** and **Closed**.  
   
 When an alert is generated, its resolution state is **New**. Operators can change the resolution state for a new alert to Closed or to a custom resolution state that an administrator has created for the management group.  
   

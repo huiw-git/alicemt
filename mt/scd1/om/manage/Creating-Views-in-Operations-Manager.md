@@ -12,7 +12,7 @@ ms.assetid: ac556a83-37b4-4388-b033-d1a59c52ab79
 manager:cfreeman
 ---
 # Creating Views in Operations Manager
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] views display information that meets specific criteria. When you select a view, a query is sent to the Operations Manager database and the results of the query are displayed in the results pane. You can use the standard views created when Operations Manager is installed, views provided by management packs, or create your own custom views.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] views display information that meets specific criteria. When you select a view, a query is sent to the Operations Manager database and the results of the query are displayed in the results pane. You can use the standard views created when Operations Manager is installed, views provided by management packs, or create your own custom views.  
   
 You must have the rights of the Author role to create a view in the Monitoring workspace. If you are an operator, you can create a view in My Workspace. The procedures below create views in My Workspace, however the same procedures apply to creating a view in the Monitoring workspace.  
   
@@ -67,7 +67,7 @@ You can create a custom alert view that shows only those alerts that you want to
 6.  Click **OK** to create the view.  
   
 ## <a name="bkmk_howtocreateaneventview"></a>How to Create an Event View  
-An event view can only display events that are collected by a management pack. [!INCLUDE[om12short](../../om/manage//om12short_md.md)] does not collect all events.  
+An event view can only display events that are collected by a management pack. [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] does not collect all events.  
   
 #### To create an event view  
   
@@ -98,7 +98,7 @@ An event view can only display events that are collected by a management pack. [
 6.  Click **OK** to create the view.  
   
 ## <a name="bkmk_howtocreateastateview"></a>How to Create a State View  
-The state view in [!INCLUDE[om12short](../../om/manage//om12short_md.md)] is like most other view types in that you use the **Criteria** tab in the **Properties** dialog box of the view to define which objects you want shown in your view. You then use the **Display** tab to customize how the data looks in your view. Each section of the **Criteria** tab adds an additional filter to your view.  
+The state view in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] is like most other view types in that you use the **Criteria** tab in the **Properties** dialog box of the view to define which objects you want shown in your view. You then use the **Display** tab to customize how the data looks in your view. Each section of the **Criteria** tab adds an additional filter to your view.  
   
 > [!NOTE]  
 > When a state view is displayed, you might find that multiple objects are listed by the same name. For example, a Windows\-based computer object and management server object might have the same computer name. The Windows\-based computer object and the management server object will be listed on their own row in the state view and thus, the same computer name will be listed twice. This is expected behavior.  
@@ -123,7 +123,7 @@ The state view in [!INCLUDE[om12short](../../om/manage//om12short_md.md)] is lik
 6.  Click **OK** to create the view.  
   
 ## <a name="bkmk_howtocreateaperformanceview"></a>How to Create a Performance View  
-Performance views use data stored in the operational database. A performance view can only display performance counters that are collected by a management pack. [!INCLUDE[om12short](../../om/manage//om12short_md.md)] does not collect all performance counters.  
+Performance views use data stored in the operational database. A performance view can only display performance counters that are collected by a management pack. [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] does not collect all performance counters.  
   
 #### To create a performance view  
   
@@ -151,7 +151,7 @@ Performance views use data stored in the operational database. A performance vie
 6.  Click **OK** to create the view.  
   
 ## <a name="bkmk_howtocreateadiagramview"></a>How to Create a Diagram View  
-In [!INCLUDE[om12short](../../om/manage//om12short_md.md)], a diagram view uses a template to control the layout of the information in the diagram. You can choose from an existing template or create your own template. If you choose to create your own template, you configure the layout of the view while you are creating the view.  
+In [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], a diagram view uses a template to control the layout of the information in the diagram. You can choose from an existing template or create your own template. If you choose to create your own template, you configure the layout of the view while you are creating the view.  
   
 #### To create a diagram view  
   
@@ -174,7 +174,7 @@ In [!INCLUDE[om12short](../../om/manage//om12short_md.md)], a diagram view uses 
 9. On the **Line Properties** tab, choose the format for the lines of the boxes in your diagram by using the **Containment Line** settings. Choose the format for objects that are not grouped by boxes using the **Non Containment Line** settings. Click **Create**.  
   
 ## <a name="bkmk_howtocreateataskstatusview"></a>How to Create a Task Status View  
-The task status view in [!INCLUDE[om12short](../../om/manage//om12short_md.md)] is like most other view types in that you use the **Criteria** tab in the **Properties** dialog box of the view to define which objects you want shown in your view. You then use the **Display** tab to customize how the data looks in your view. Each section of the **Criteria** tab adds an additional filter to your view.  
+The task status view in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] is like most other view types in that you use the **Criteria** tab in the **Properties** dialog box of the view to define which objects you want shown in your view. You then use the **Display** tab to customize how the data looks in your view. Each section of the **Criteria** tab adds an additional filter to your view.  
   
 #### To create a task status view  
   
@@ -216,7 +216,7 @@ You can create a view that displays a specific web page. For example, you can cr
 5.  Click **OK**.  
   
 ## <a name="bkmk_howtocreateadashboardview"></a>How to Create a Dashboard View  
-You can create dashboard views in the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] web console as well as the Operations console.  
+You can create dashboard views in the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] web console as well as the Operations console.  
   
 > [!IMPORTANT]  
 > When a dashboard view uses data from the data warehouse database, operators might be able to view data that they would not otherwise have access to in views that use data from the operational database.  
@@ -230,7 +230,7 @@ For both layouts, after you create the dashboard view, you add widgets which wil
 > [!NOTE]  
 > A column or cell in a dashboard view can contain a widget or another dashboard view.  
   
-[!INCLUDE[om12short](../../om/manage//om12short_md.md)] contains the following widgets:  
+[!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] contains the following widgets:  
   
 -   State  
   

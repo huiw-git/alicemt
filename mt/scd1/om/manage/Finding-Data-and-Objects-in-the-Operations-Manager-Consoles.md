@@ -12,7 +12,7 @@ ms.assetid: d47793da-7d78-4794-b471-8dca0673d88e
 manager:cfreeman
 ---
 # Finding Data and Objects in the Operations Manager Consoles
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)], with the appropriate management packs imported, will provide you with a comprehensive view of what is going on with your monitored applications, hardware, and processes. This can result in a very large volume of data being displayed in the Operations console. Learning how to quickly locate the data you need is essential to efficient interaction with the console. You can use the **Scope**, **Find**, and **Search** buttons on the Operations console toolbar to filter your view of monitoring data so that you can find the exact monitoring object or group of objects that you need. You can also filter your data based on the number of hours or days you would like to show.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], with the appropriate management packs imported, will provide you with a comprehensive view of what is going on with your monitored applications, hardware, and processes. This can result in a very large volume of data being displayed in the Operations console. Learning how to quickly locate the data you need is essential to efficient interaction with the console. You can use the **Scope**, **Find**, and **Search** buttons on the Operations console toolbar to filter your view of monitoring data so that you can find the exact monitoring object or group of objects that you need. You can also filter your data based on the number of hours or days you would like to show.  
   
 > [!NOTE]  
 > Any time that you do not see the information you expect in the results pane, check the scope and time filters to ensure that the correct objects and time period are set for the results you need.  
@@ -35,7 +35,7 @@ Changing the scope of the monitoring view enables you to view only those objects
   
 2.  Click the **Scope** button on the Operations Manager toolbar. If this button is not available, check to make sure that you have an object, not a folder, selected in the Monitoring pane. The **Change View Scope** dialog box displays a list of existing groups and distributed applications.  
   
-    ![Dialog box to change scope](../../om/manage//Scoping.gif "Scoping")  
+    ![Dialog box to change scope](../../om/manage/media/Scoping.gif "Scoping")  
   
 3.  If the list is too long, you can find a specific group or distributed application by entering a word or phrase in the **Look for** field. After you make a selection, click **OK**. Now only the objects that meet the scope criteria are shown in the Results pane.  
   

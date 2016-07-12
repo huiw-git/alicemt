@@ -12,7 +12,7 @@ ms.assetid: d12dfdd9-753b-4f7b-b6ca-7709f0090126
 manager:cfreeman
 ---
 # Standard Activities_2
-An installation of [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] includes a set of standard activities. Using these activities, you can create powerful workflows to automate tasks and processes.  
+An installation of [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] includes a set of standard activities. Using these activities, you can create powerful workflows to automate tasks and processes.  
   
 For detailed reference information about each standard activity, see [Standard Activities](../../orch/reference/Standard-Activities.md) in the[Runbook Activity Reference for System Center 2012 - Orchestrator](../../orch/reference/Runbook-Activity-Reference-for-System-Center-2012---Orchestrator.md).  
   

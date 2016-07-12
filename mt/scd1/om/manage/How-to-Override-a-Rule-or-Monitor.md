@@ -12,7 +12,7 @@ ms.assetid: b8b52d9e-404f-4d3c-a890-48f5c698c99d
 manager:cfreeman
 ---
 # How to Override a Rule or Monitor
-Overrides change the configuration of [!INCLUDE[om12long](../../om/manage//om12long_md.md)] monitoring settings for monitors, attributes, object discoveries, and rules. When you create an override, you can apply it to a single managed object or to a group of managed objects. You must have Advanced Operator user rights to create and edit overrides.  
+Overrides change the configuration of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] monitoring settings for monitors, attributes, object discoveries, and rules. When you create an override, you can apply it to a single managed object or to a group of managed objects. You must have Advanced Operator user rights to create and edit overrides.  
   
 The use of overrides is key to controlling the amount of data that is collected by Operations Manager. When you create a monitor, rule, or attribute you target it at an object type, but often the available object types are broad in scope. You can then use groups and overrides together to narrow the focus of the monitor, rule, attribute, or object discovery. You can also override existing monitors, rules, attributes, or object discoveries that are from management packs.  
   

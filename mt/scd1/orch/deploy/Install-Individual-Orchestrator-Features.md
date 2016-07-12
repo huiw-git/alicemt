@@ -12,9 +12,9 @@ ms.assetid: 18fc78e2-1ab6-49db-bcd0-72816f463e4f
 manager:cfreeman
 ---
 # Install Individual Orchestrator Features
-This section provides information about how to install each of the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] features. You can use this information to install features on individual computers or to add additional servers or features to your [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] deployment.  
+This section provides information about how to install each of the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] features. You can use this information to install features on individual computers or to add additional servers or features to your [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] deployment.  
   
-## How to install individual [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] features  
+## How to install individual [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] features  
   
 -   [How to Install a Management Server for System Center 2012 - Orchestrator](../../orch/deploy/How-to-Install-a-Management-Server-for-System-Center-2012---Orchestrator.md)  
   

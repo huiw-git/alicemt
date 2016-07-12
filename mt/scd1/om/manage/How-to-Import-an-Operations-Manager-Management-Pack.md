@@ -12,7 +12,7 @@ ms.assetid: 3b7bba9a-04b2-412f-9421-8d702c3ca462
 manager:cfreeman
 ---
 # How to Import an Operations Manager Management Pack
-There are numerous management packs available for [!INCLUDE[om12long](../../om/manage//om12long_md.md)]. You have several options for importing management packs:  
+There are numerous management packs available for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. You have several options for importing management packs:  
   
 -   Import directly from the catalog on the [Microsoft Pinpoint Site](http://go.microsoft.com/fwlink/?LinkId=82105) by using the Operations console.  
   

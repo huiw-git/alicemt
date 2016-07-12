@@ -18,7 +18,7 @@ Creating work items in Team Foundation Server \(TFS\) with large attachments can
   
 1.  In TFS, configure the maximum attachment size for work items to accommodate your business needs. For more information, see [How to: Set the Maximum Attachment Size for Work Items](http://go.microsoft.com/fwlink/p/?LinkId=272016).  
   
-2.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
+2.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
   
 3.  To set the scope of displayed rules, click **Scope**, and then click **View all targets**. Locate and select **TFS Collection**. Click **OK**.  
   
@@ -38,7 +38,7 @@ Creating work items in Team Foundation Server \(TFS\) with large attachments can
     > [!NOTE]  
     > By default, alert attachments that are synchronized with TFS work items are added as links that point to the alert attachment network file share.  
   
-2.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
+2.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
   
 3.  To set the scope of displayed rules, click **Scope**, and then click **View all targets**. Locate and select **TFS Collection**. Click **OK**.  
   

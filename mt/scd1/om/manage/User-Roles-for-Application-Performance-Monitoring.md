@@ -14,7 +14,7 @@ manager:cfreeman
 # User Roles for Application Performance Monitoring
   
 ## .NET Application Performance Monitoring Tasks and User Roles  
-This table shows the [!INCLUDE[om12long](../../om/manage//om12long_md.md)] .NET Application Performance Monitoring tasks and the user roles with their permissions.  
+This table shows the [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] .NET Application Performance Monitoring tasks and the user roles with their permissions.  
   
 Legend:  
   

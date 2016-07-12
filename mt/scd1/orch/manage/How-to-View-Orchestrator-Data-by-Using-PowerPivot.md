@@ -12,9 +12,9 @@ ms.assetid: 7707e8ac-d885-4453-b72f-14f208eaf531
 manager:cfreeman
 ---
 # How to View Orchestrator Data by Using PowerPivot
-You can use Microsoft PowerPivot for Microsoft Excel to create reports for [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)]. You configure PowerPivot to use the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service as a data feed, filter the Source Tables for the data you want to use, and import the tables into the PowerPivot worksheet. PowerPivot lets you create relationships between tables, and manipulate the data to fit your requirements. By using the PivotTable feature in PowerPivot, you can generate a report that uses any of the data contained within the PowerPivot workbook.  
+You can use Microsoft PowerPivot for Microsoft Excel to create reports for [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]. You configure PowerPivot to use the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service as a data feed, filter the Source Tables for the data you want to use, and import the tables into the PowerPivot worksheet. PowerPivot lets you create relationships between tables, and manipulate the data to fit your requirements. By using the PivotTable feature in PowerPivot, you can generate a report that uses any of the data contained within the PowerPivot workbook.  
   
-## Connect the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service to PowerPivot for Excel  
+## Connect the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service to PowerPivot for Excel  
 You must install PowerPivot for Excel to enable the product.  
   
 PowerPivot for Excel requires Excel 2010 \(64\-bit or 32\-bit\).  
@@ -23,12 +23,12 @@ PowerPivot for Excel requires Excel 2010 \(64\-bit or 32\-bit\).
   
 1.  Follow the instructions found at [Install PowerPivot for Excel](http://go.microsoft.com/fwlink/p/?LinkID=184678).  
   
-Use PowerPivot to configure a connection to [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service. [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] uses the Open Data Protocol \(OData\), which PowerPivot can consume.  
+Use PowerPivot to configure a connection to [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service. [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] uses the Open Data Protocol \(OData\), which PowerPivot can consume.  
   
 > [!NOTE]  
 > The OData provider in PowerPivot does not support the data contained in the Runbook Diagram box. Attempts to add a Runbook Diagram table will fail.  
   
-#### To create a connection to an [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] feed  
+#### To create a connection to an [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] feed  
   
 1.  Open Excel.  
   
@@ -38,7 +38,7 @@ Use PowerPivot to configure a connection to [!INCLUDE[orchshort](../../om/manage
   
 4.  Click **From Data Feeds** on the ribbon. A **Table Import Wizard** opens.  
   
-5.  Enter the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service URL in the **Data Feed URL** box. The web service URL is on port 81 of the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] SQL Server. For example, http:\/\/orchestrator:81\/Orchestrator2012\/Orchestrator.svc.  
+5.  Enter the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service URL in the **Data Feed URL** box. The web service URL is on port 81 of the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] SQL Server. For example, http:\/\/orchestrator:81\/Orchestrator2012\/Orchestrator.svc.  
   
 6.  Click **Test Connection**.  
   
@@ -86,7 +86,7 @@ The following procedure describes the steps to create a pivot table containing a
   
 4.  Click **From Data Feeds** on the ribbon. A **Table Import** wizard opens.  
   
-5.  Enter the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service URL in the **Data Feed URL** box.  
+5.  Enter the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service URL in the **Data Feed URL** box.  
   
 6.  Click **Next**.  
   

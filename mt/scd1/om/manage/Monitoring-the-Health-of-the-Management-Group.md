@@ -12,7 +12,7 @@ ms.assetid: 42973387-51b3-4276-a2e4-522f1eba2435
 manager:cfreeman
 ---
 # Monitoring the Health of the Management Group
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] introduces a new dashboard view that provides a comprehensive picture of the health of your management group. The dashboard tries to answer the question, “do I need to do anything?”  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] introduces a new dashboard view that provides a comprehensive picture of the health of your management group. The dashboard tries to answer the question, “do I need to do anything?”  
   
 The **Management Group Health** view allows you to see at a glance the health state of all management group functions, such as resource pools, and the management group infrastructure, such as management servers. It also shows you recent agent health state including gray agents, agent configuration for agents pending management, and agent versions.  
   
@@ -23,7 +23,7 @@ You can display **Management Group Health** on a SharePoint site by using the Op
 This topic describes the specific information you will see in each cell of the **Management Group Health** dashboard view.  
   
 ## Management Group Functions  
-![Health of management group functions](../../om/manage//OM12MgtGpHealth_Function.gif "OM12MgtGpHealth_Function")  
+![Health of management group functions](../../om/manage/media/OM12MgtGpHealth_Function.gif "OM12MgtGpHealth_Function")  
   
 **Management Group Functions** shows you the health state of any of the following functions that are installed in your management group:  
   
@@ -44,7 +44,7 @@ This topic describes the specific information you will see in each cell of the *
 You can open Health Explorer, alert view, diagram view, event view, performance view, and state view for any of the functions listed. To open a different view, right\-click the display name for the function, and click **Health Explorer** or **Navigation**.  
   
 ## Management Group Infrastructure  
-![Health of management group infrastructure](../../om/manage//OM12MgtGpHealth_Infrastructure.gif "OM12MgtGpHealth_Infrastructure")  
+![Health of management group infrastructure](../../om/manage/media/OM12MgtGpHealth_Infrastructure.gif "OM12MgtGpHealth_Infrastructure")  
   
 **Management Group Infrastructure** shows you the health state of any of the following infrastructure features that are installed in your management group:  
   
@@ -63,7 +63,7 @@ You can open Health Explorer, alert view, diagram view, event view, performance 
 You can open Health Explorer, alert view, diagram view, event view, performance view, and state view for any of the features listed. To open a different view, right\-click the display name for the feature, and click **Health Explorer** or **Navigation**.  
   
 ## Agent Health State  
-![Health of agents over past 7 days](../../om/manage//OM12MgtGpHealth_AgentHealth.gif "OM12MgtGpHealth_AgentHealth")  
+![Health of agents over past 7 days](../../om/manage/media/OM12MgtGpHealth_AgentHealth.gif "OM12MgtGpHealth_AgentHealth")  
   
 **Agent Health State** displays a graph of health states for all agents over the past 7 days.  
   
@@ -73,7 +73,7 @@ You can open Health Explorer, alert view, diagram view, event view, performance 
 The graph captures all possible agent states, including “unavailable”, or “gray”, agents. It is possible to unselect health states, if you only want to focus on certain health states.  
   
 ## Agent Configuration  
-![Agents pending approval or installation failed](../../om/manage//OM12MgtGpHealth_AgentConfig.gif "OM12MgtGpHealth_AgentConfig")  
+![Agents pending approval or installation failed](../../om/manage/media/OM12MgtGpHealth_AgentConfig.gif "OM12MgtGpHealth_AgentConfig")  
   
 In **Agent Configuration**, you can see how the status of agents in the **Pending Management** folder in the **Administration** workspace. Agents can be pending management for the following reasons:  
   
@@ -94,7 +94,7 @@ In **Agent Configuration**, you can see how the status of agents in the **Pendin
 -   Repair failed  
   
 ## Agent Versions  
-![Version number installed on agents](../../om/manage//OM12MgtGpHealth_AgentVersion.gif "OM12MgtGpHealth_AgentVersion")  
+![Version number installed on agents](../../om/manage/media/OM12MgtGpHealth_AgentVersion.gif "OM12MgtGpHealth_AgentVersion")  
   
 **Agent Versions** lists the number of agents running each agent version number, including cumulative updates.  
   

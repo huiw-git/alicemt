@@ -12,7 +12,7 @@ ms.assetid: 6f0353ac-5847-483d-ac1d-d2bbc1268838
 manager:cfreeman
 ---
 # Counters
-When building runbooks in [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], you might find that there are values that must be incremented, such as keeping track of the number of backup attempts that a runbook made. Counters let you modify and check the status of a number that you can use to keep track of important statistics. You create a counter in the Connections pane in the Runbook Designer, and then get and modify it by using the [Get Counter Value](../../orch/reference/Get-Counter-Value.md) and [Modify Counter](../../orch/reference/Modify-Counter.md) activities. Each of these activities presents the value of the counter as [Published Data](../../orch/manage/Published-Data.md) so that it can be used by other activities and links.  
+When building runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], you might find that there are values that must be incremented, such as keeping track of the number of backup attempts that a runbook made. Counters let you modify and check the status of a number that you can use to keep track of important statistics. You create a counter in the Connections pane in the Runbook Designer, and then get and modify it by using the [Get Counter Value](../../orch/reference/Get-Counter-Value.md) and [Modify Counter](../../orch/reference/Modify-Counter.md) activities. Each of these activities presents the value of the counter as [Published Data](../../orch/manage/Published-Data.md) so that it can be used by other activities and links.  
   
 > [!IMPORTANT]  
 > The access permissions for counters can be modified, but the Runbook server does not enforce these permissions.  
@@ -21,7 +21,7 @@ When building runbooks in [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)
 > You cannot run multiple, simultaneous jobs for runbooks that contain Modify Counter activities because simultaneous jobs of the same runbook that modify \(set, reset, increment, or decrement\) a counter can cause the counter value to become unreliable. You can, however, read the value of counters in runbooks that run simultaneously.  
   
 > [!IMPORTANT]  
-> [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] does not support moving multiple counters with multiple\-selection. To move more than one counter to another folder, you must move each counter individually.  
+> [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] does not support moving multiple counters with multiple\-selection. To move more than one counter to another folder, you must move each counter individually.  
   
 Use the following procedures to create a counter and to organize counters.  
   

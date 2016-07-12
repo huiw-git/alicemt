@@ -12,7 +12,7 @@ ms.assetid: b27af613-4283-4fc5-bb5a-c5af294bdd22
 manager:cfreeman
 ---
 # Examples of Using Advanced Search in Operations Manager
-The following table lists examples of using advanced search to find objects in [!INCLUDE[om12long](../../om/manage//om12long_md.md)]:  
+The following table lists examples of using advanced search to find objects in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]:  
   
 |To find|Use this object, condition, and value|  
 |-----------|-----------------------------------------|  

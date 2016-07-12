@@ -12,7 +12,7 @@ ms.assetid: 6afa5807-9393-4fc9-92c2-aa7427d72f2f
 manager:cfreeman
 ---
 # Monitoring UNIX and Linux Computers by Using Operations Manager
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] provides monitoring of UNIX and Linux computers similar to monitoring of Windows computers. You can monitor health, performance, obtain reports, run tasks, and implement needed customizations.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] provides monitoring of UNIX and Linux computers similar to monitoring of Windows computers. You can monitor health, performance, obtain reports, run tasks, and implement needed customizations.  
   
 You can monitor the following aspects of UNIX and Linux computers:  
   

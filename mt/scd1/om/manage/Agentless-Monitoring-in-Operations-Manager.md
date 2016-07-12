@@ -12,7 +12,7 @@ ms.assetid: e5b25d0f-9316-42d2-aeb9-4ba0b0afc6cf
 manager:cfreeman
 ---
 # Agentless Monitoring in Operations Manager
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] can gather performance and availability data on a computer that does not have an agent installed by using a proxy agent that is installed on another computer. Use agentless\-monitoring of computers when it is not possible or desirable to install an agent on a computer.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can gather performance and availability data on a computer that does not have an agent installed by using a proxy agent that is installed on another computer. Use agentless\-monitoring of computers when it is not possible or desirable to install an agent on a computer.  
   
 An agentless\-managed computer is a Windows\-based computer that is discovered by using the Operations console. You assign an management server or agent\-managed computer to provide remote \(proxy\) agent functionality for the computers.  
   

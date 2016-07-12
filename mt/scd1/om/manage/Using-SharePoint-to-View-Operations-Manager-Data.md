@@ -12,7 +12,7 @@ ms.assetid: d19b28c0-a346-4806-8973-18d5f40ce4fb
 manager:cfreeman
 ---
 # Using SharePoint to View Operations Manager Data
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] includes a SharePoint Web Part that displays selected dashboards from the web console. A configured Web Part allows you to see at a glance the availability and performance metrics for applications in your environment.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] includes a SharePoint Web Part that displays selected dashboards from the web console. A configured Web Part allows you to see at a glance the availability and performance metrics for applications in your environment.  
   
 The Operations Manager Web Part is particularly useful for providing current status views to individuals in your organization who are not Operations Manager users. Use the following procedures, as applicable, to set up dashboards on a SharePoint page.  
   

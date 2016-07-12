@@ -12,7 +12,7 @@ ms.assetid: e6c36fe0-9fde-474f-a862-446598da5973
 manager:cfreeman
 ---
 # Standard Views in Operations Manager
-Several views are created by default when [!INCLUDE[om12long](../../om/manage//om12long_md.md)] is installed. Management packs also contain views. When a management pack is imported, a folder that contains the views that are defined in the management pack is created in the Monitoring workspace.  
+Several views are created by default when [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] is installed. Management packs also contain views. When a management pack is imported, a folder that contains the views that are defined in the management pack is created in the Monitoring workspace.  
   
 The following table describes the views and folders of the views available when Operations Manager is installed. For views added by a management pack, see the management pack guide for information.  
   

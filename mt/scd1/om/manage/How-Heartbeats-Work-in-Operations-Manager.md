@@ -12,11 +12,11 @@ ms.assetid: 86d48b3b-7498-4d62-b554-2dd0346cd371
 manager:cfreeman
 ---
 # How Heartbeats Work in Operations Manager
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] uses *heartbeats* to monitor communication channels between an agent and the agent’s primary management server. A heartbeat is a packet of data sent from the agent to the management server on a regular basis, by default every 60 seconds, using port 5723 \(UDP\).  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] uses *heartbeats* to monitor communication channels between an agent and the agent’s primary management server. A heartbeat is a packet of data sent from the agent to the management server on a regular basis, by default every 60 seconds, using port 5723 \(UDP\).  
   
 When an agent fails to send a heartbeat 4 times, a **Health Service Heartbeat Failure** alert is generated and the management server attempts to contact the computer by using ping. If the computer does not respond to the ping, a **Failed to Connect to Computer** alert is generated. The following illustration shows this process.  
   
-![The heartbeat process illustrated](../../om/manage//OM12heartbeat.gif "OM12heartbeat")  
+![The heartbeat process illustrated](../../om/manage/media/OM12heartbeat.gif "OM12heartbeat")  
   
 When you see both alerts, you know the computer cannot be contacted by the management server. When you see only the heartbeat failure alert, you know the computer can be contacted but there is a problem with the agent. Both alerts are closed automatically when heartbeats resume.  
   
@@ -27,7 +27,7 @@ The health state for the agent\-managed computer will change to critical \(red\)
   
 You can change the heartbeat interval for all agents and number of missed heartbeats for all management servers in **Settings** in the **Administration** workspace, as shown in the following illustration.  
   
-![Administration workspace, Heartbeat settings](../../om/manage//OM12HeartbeatSettings.gif "OM12HeartbeatSettings")  
+![Administration workspace, Heartbeat settings](../../om/manage/media/OM12HeartbeatSettings.gif "OM12HeartbeatSettings")  
   
 You can also override the global heartbeat interval for individual agents and the number of missed heartbeats for individual management servers by opening the properties for the computer in **Agent Managed** or **Management Servers** in the **Administration** workspace. For example, you might increase the heartbeat interval for a computer that has a slow connection to the network.  
   

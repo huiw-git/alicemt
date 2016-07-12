@@ -12,7 +12,7 @@ ms.assetid: 74661318-fc5d-42f7-8a43-d1bcac5f12c5
 manager:cfreeman
 ---
 # Using Operations Manager Shell
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], the Operations Manager Shell is installed with the Operations Manager console; it provides a command\-line environment and task\-based scripting technology that you can use to automate many Operations Manager administrative tasks.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the Operations Manager Shell is installed with the Operations Manager console; it provides a command\-line environment and task\-based scripting technology that you can use to automate many Operations Manager administrative tasks.  
   
 The Operations Manager Shell is built on Windows PowerShell. The Operations Manager Shell extends Windows PowerShell with an additional set of *cmdlets*, which can either be run directly from the command shell prompt or called from within a script. Cmdlets can be used individually to perform a specific task, or they can be combined with other cmdlets to perform complex administrative tasks. Unlike traditional command\-line environments that work by returning text results to the end user or routing \(“piping”\) text to different command\-line utilities, Windows PowerShell manipulates Microsoft .NET Framework objects directly. This provides a more robust and efficient mechanism for interacting with the system.  
   

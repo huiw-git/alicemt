@@ -22,7 +22,7 @@ The Fabric Monitoring Diagram view gives you a diagram of the entire infrastruct
   
     Diagram View nodes show the health roll up, so if a node as healthy, you know that everything beneath is also healthy. Similarly, if a node is marked unhealthy, something in that node is having a problem.  
   
-    ![Fabric Monitoring Diagram View](../../om/manage//1FabricMonitoring_DiagramView.gif "1FabricMonitoring_DiagramView")  
+    ![Fabric Monitoring Diagram View](../../om/manage/media/1FabricMonitoring_DiagramView.gif "1FabricMonitoring_DiagramView")  
   
 2.  To see where a problem is occurring, click a node that is marked as unhealthy and expand it until you begin to find unhealthy nodes within that tree. When you find the problem you want to investigate right\-click the node and select **Health Explorer**.  
   

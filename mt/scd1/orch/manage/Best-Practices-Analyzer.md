@@ -49,7 +49,7 @@ Uninstall process:
 4.  Review the results and recommendations.  
   
 ## Orchestrator rules  
-[!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] configuration checks:  
+[!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] configuration checks:  
   
 |Orchestrator Component|Rule|Description|  
 |--------------------------|--------|---------------|  

@@ -14,7 +14,7 @@ manager:cfreeman
 # Monitor a Folder within a Runbook
 This sample shows you how to create a simple monitor runbook that monitors a folder for new text files. When a file is detected, the runbook sends an event log message, and then starts another runbook.  
   
-![Monitor Folder](../../orch/manage//Orch2012_Sample_MonitorFolder.jpg "Orch2012_Sample_MonitorFolder")  
+![Monitor Folder](../../orch/manage/media/Orch2012_Sample_MonitorFolder.jpg "Orch2012_Sample_MonitorFolder")  
   
 ## Create and test a monitor runbook  
 The procedures to create, configure, and test a sample runbook that monitors a folder are described below.  
@@ -89,7 +89,7 @@ The procedures to create, configure, and test a sample runbook that monitors a f
 15. Click **Finish**.  
   
     > [!NOTE]  
-    > In this sample, the **Invoke Runbook** activity is not configured. For more information about configuring this activity, see the [Invoke Runbook](../../orch/reference/Invoke-Runbook.md) activity in the [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] Runbook Activity Reference.  
+    > In this sample, the **Invoke Runbook** activity is not configured. For more information about configuring this activity, see the [Invoke Runbook](../../orch/reference/Invoke-Runbook.md) activity in the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] Runbook Activity Reference.  
   
 #### To modify runbook settings  
   

@@ -12,25 +12,25 @@ ms.assetid: c040ea4d-b702-4763-a012-b23471b7f591
 manager:cfreeman
 ---
 # How to Configure Integration with TFS in System Center 2012 R2
-In [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)], you can synchronize [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts and TFS work items. After enabling synchronization, information technology \(IT\) operations can assign alerts to the engineering team. When you first assign an alert to engineering, TFS creates a new work item. The workflow then tracks and synchronizes changes that are made to TFS work items and changes that are made to associated [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts. You can synchronize alerts with team projects in TFS 2012, TFS 2010, or both.  
+In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], you can synchronize [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts and TFS work items. After enabling synchronization, information technology \(IT\) operations can assign alerts to the engineering team. When you first assign an alert to engineering, TFS creates a new work item. The workflow then tracks and synchronizes changes that are made to TFS work items and changes that are made to associated [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts. You can synchronize alerts with team projects in TFS 2012, TFS 2010, or both.  
   
 > [!IMPORTANT]  
-> If your environment was upgraded from [!INCLUDE[sc2012sp1_long](../../om/manage//sc2012sp1_long_md.md)] to [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] and used the versions of the management packs that shipped with [!INCLUDE[sc2012sp1_short](../../om/manage//sc2012sp1_short_md.md)], you can continue to use them, but you will be limited to the scenarios that [!INCLUDE[sc2012sp1_short](../../om/manage//sc2012sp1_short_md.md)] supported. If you want to simultaneously synchronize [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts with Team Foundation Server \(TFS\) and Service Manager, you need to use the management packs shipped with [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)].  
+> If your environment was upgraded from [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)] to [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] and used the versions of the management packs that shipped with [!INCLUDE[sc2012sp1_short](../../om/manage/includes/sc2012sp1_short_md.md)], you can continue to use them, but you will be limited to the scenarios that [!INCLUDE[sc2012sp1_short](../../om/manage/includes/sc2012sp1_short_md.md)] supported. If you want to simultaneously synchronize [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts with Team Foundation Server \(TFS\) and Service Manager, you need to use the management packs shipped with [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)].  
   
 > [!IMPORTANT]  
-> Before you enable configuration, you must have TFS administrator credentials to be able to import the Operational Issue Work Item Type Definition that is used by integration with TFS. Additionally, you must have a configured domain account with TFS contributor rights in the team projects that you want to synchronize [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts with.  
+> Before you enable configuration, you must have TFS administrator credentials to be able to import the Operational Issue Work Item Type Definition that is used by integration with TFS. Additionally, you must have a configured domain account with TFS contributor rights in the team projects that you want to synchronize [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts with.  
   
 ### To prepare your environment for synchronization with TFS  
   
 1.  Import and configure the Alert Attachment Management Pack. For more information, see [How to Configure File Attachments for Operations Manager Alerts in System Center 2012 R2](../../om/manage/How-to-Configure-File-Attachments-for-Operations-Manager-Alerts-in-System-Center-2012-R2.md).  
   
-2.  Decide which management servers you want to use to synchronize [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts and TFS work items. Each management server that is used for synchronization must have TFS Object Model installed. You can install the TFS Object Model for TFS 2010 from the MSDN Download Center \([Team Foundation Server 2010 SP1 Object Model Installer](http://go.microsoft.com/fwlink/p/?LinkID=239918)\) or by installing the TFS Object Model for TFS 2012 from the MSDN Download Center \([Team Foundation Server 2012 Object Model Installer](http://go.microsoft.com/fwlink/?LinkId=275135)\). You can also install the TFS Object Model for TFS 2012 when you install Visual Studio 2012. Installing TFS on a server also installs the TFS Object Model on that server.  
+2.  Decide which management servers you want to use to synchronize [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts and TFS work items. Each management server that is used for synchronization must have TFS Object Model installed. You can install the TFS Object Model for TFS 2010 from the MSDN Download Center \([Team Foundation Server 2010 SP1 Object Model Installer](http://go.microsoft.com/fwlink/p/?LinkID=239918)\) or by installing the TFS Object Model for TFS 2012 from the MSDN Download Center \([Team Foundation Server 2012 Object Model Installer](http://go.microsoft.com/fwlink/?LinkId=275135)\). You can also install the TFS Object Model for TFS 2012 when you install Visual Studio 2012. Installing TFS on a server also installs the TFS Object Model on that server.  
   
     > [!IMPORTANT]  
-    > You can use TFS Object Model 2010 or TFS Object Model 2012 for synchronization with TFS. TFS Object Model 2013 is not currently compatible with the version of synchronization released with [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)]. To synchronize with TFS 2013, you need to install TFS Object Model 2012. However, in order to synchronize with TFS 2012 using TFS Object Model 2010, you must manually import the Operational Issue work item type definition \(WITD\) into each team project that will be used for synchronization. Do this by using the **witadmin** command\-line tool. For more information about manually importing the Operational Issue WITD, see [How to Manually Import an Operational Issue WITD to TFS in System Center 2012 R2](../../om/manage/How-to-Manually-Import-an-Operational-Issue-WITD-to-TFS-in-System-Center-2012-R2.md).  
+    > You can use TFS Object Model 2010 or TFS Object Model 2012 for synchronization with TFS. TFS Object Model 2013 is not currently compatible with the version of synchronization released with [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)]. To synchronize with TFS 2013, you need to install TFS Object Model 2012. However, in order to synchronize with TFS 2012 using TFS Object Model 2010, you must manually import the Operational Issue work item type definition \(WITD\) into each team project that will be used for synchronization. Do this by using the **witadmin** command\-line tool. For more information about manually importing the Operational Issue WITD, see [How to Manually Import an Operational Issue WITD to TFS in System Center 2012 R2](../../om/manage/How-to-Manually-Import-an-Operational-Issue-WITD-to-TFS-in-System-Center-2012-R2.md).  
   
     > [!TIP]  
-    > Installing synchronization on all management servers in the management group will help to simplify maintenance and bring redundancy into the integration between [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] and TFS.  
+    > Installing synchronization on all management servers in the management group will help to simplify maintenance and bring redundancy into the integration between [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] and TFS.  
   
 3.  Create a domain account that will be used for TFS synchronization.  
   
@@ -40,9 +40,9 @@ In [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)], you can synchronize [!
   
 ### To configure synchronization for the TFS Work Item Synchronization Management Pack  
   
-1.  Import the TFS Work Item Synchronization Management Pack from the [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] installation media. In the [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] console, click **Administration**, click **Management Packs**, and then, in the **Tasks** pane, click **Import Management Packs**. In the Import Management Packs Wizard, click **Add**, and then click **Add from disk**. Import the TFS Work Item Synchronization Management Pack \(Microsoft.SystemCenter.TFSWISynchronization.mpb\) from the ManagementPacks folder on the [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] installation media. Click **Install**, and then click **Close**.  
+1.  Import the TFS Work Item Synchronization Management Pack from the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] installation media. In the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console, click **Administration**, click **Management Packs**, and then, in the **Tasks** pane, click **Import Management Packs**. In the Import Management Packs Wizard, click **Add**, and then click **Add from disk**. Import the TFS Work Item Synchronization Management Pack \(Microsoft.SystemCenter.TFSWISynchronization.mpb\) from the ManagementPacks folder on the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] installation media. Click **Install**, and then click **Close**.  
   
-2.  To begin configuring the TFS Work Item Synchronization Management Pack, in the [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] console, in the navigation pane, click **Authoring**, click **Management Pack Templates**, and then, in the **Tasks** pane, click **Add Monitoring Wizard**.  
+2.  To begin configuring the TFS Work Item Synchronization Management Pack, in the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console, in the navigation pane, click **Authoring**, click **Management Pack Templates**, and then, in the **Tasks** pane, click **Add Monitoring Wizard**.  
   
     > [!IMPORTANT]  
     > You must run the Add Monitoring Wizard for each team project collection that you want to synchronize alerts with.  
@@ -58,13 +58,13 @@ In [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)], you can synchronize [!
   
     **Server Settings page**  
   
-    ![TFS configuration Server Settings page](../../om/manage//DevOps_ConfigIntegrationTFS_ServerSettingsPage.gif "DevOps_ConfigIntegrationTFS_ServerSettingsPage")  
+    ![TFS configuration Server Settings page](../../om/manage/media/DevOps_ConfigIntegrationTFS_ServerSettingsPage.gif "DevOps_ConfigIntegrationTFS_ServerSettingsPage")  
   
 6.  On the **Project Settings** page, specify the **Project** and **Area Path** that will be used to synchronize all alerts. You can customize these settings for each .NET application component that was previously configured for monitoring with .NET Application Performance Monitoring \(APM\). To customize the team project and TFS area path for an APM component, click **Add**, which will add a new row. Choose a target **Team Project** and **Area Path** combination, and then click the \(**…**\) button to select which configured application components will synchronize with this team project and area path. The application components must already be configured for monitoring with the .NET Application Performance Monitoring template. For more information, see [.NET Application Performance Monitoring Template](../Topic/.NET%20Application%20Performance%20Monitoring%20Template.md).  
   
     **Project Settings page**  
   
-    ![TFS configuration Project Settings page](../../om/manage//DevOps_ConfigIntegrationTFS_ProjectSettingsPage.gif "DevOps_ConfigIntegrationTFS_ProjectSettingsPage")  
+    ![TFS configuration Project Settings page](../../om/manage/media/DevOps_ConfigIntegrationTFS_ProjectSettingsPage.gif "DevOps_ConfigIntegrationTFS_ProjectSettingsPage")  
   
     > [!NOTE]  
     > You can configure synchronization with multiple Team Foundation Servers or multiple Team Project Collections by running the configuration wizard multiple times. However, only one configuration can have the **Default Team Project** and **Default Area Path** specified.  
@@ -89,7 +89,7 @@ If you change a destination team project for synchronization, the rules in the f
   
 #### To change synchronization settings  
   
-1.  To change synchronization settings, in the [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] console, in the navigation pane, click **Authoring**, expand **Management Pack Templates**, and then click **TFS Work Item Synchronization**.  
+1.  To change synchronization settings, in the [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] console, in the navigation pane, click **Authoring**, expand **Management Pack Templates**, and then click **TFS Work Item Synchronization**.  
   
 2.  Locate a previously configured team project collection, and in the **Tasks** pane, click **Properties**.  
   
@@ -112,7 +112,7 @@ If you change a destination team project for synchronization, the rules in the f
   
 **Procedures Related to Configuring Integration with TFS**  
   
-For additional information, see the following procedures related to configuring integration with TFS in [!INCLUDE[sc2012r2_1](../../om/manage//sc2012r2_1_md.md)]:  
+For additional information, see the following procedures related to configuring integration with TFS in [!INCLUDE[sc2012r2_1](../../om/manage/includes/sc2012r2_1_md.md)]:  
   
 -   [How to Change the Frequency of Synchronization for Integration with TFS in System Center 2012 R2](../../om/manage/How-to-Change-the-Frequency-of-Synchronization-for-Integration-with-TFS-in-System-Center-2012-R2.md)  
   

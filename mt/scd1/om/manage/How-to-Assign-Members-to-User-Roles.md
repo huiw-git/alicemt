@@ -12,7 +12,7 @@ ms.assetid: 3227d809-5f3f-4e64-8356-8029c2e5b6f7
 manager:cfreeman
 ---
 # How to Assign Members to User Roles
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] provides eight standard user roles that are created during setup. You can assign groups and individuals to these built\-in user roles to provide them with the ability to perform certain tasks and to access certain information.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] provides eight standard user roles that are created during setup. You can assign groups and individuals to these built\-in user roles to provide them with the ability to perform certain tasks and to access certain information.  
   
 The following table describes the built\-in user roles, which have global scope for the management group. To limit the scope for a user, create a new user role. For more information, see [Implementing User Roles](../../om/manage/Implementing-User-Roles.md).  
   

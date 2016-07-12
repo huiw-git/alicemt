@@ -12,7 +12,7 @@ ms.assetid: 12dba3ee-d394-4575-8fc0-2c403b2818ed
 manager:cfreeman
 ---
 # How to Connect to the Web Console
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], the web console provides a monitoring interface for a management group that can be opened on any computer that has connectivity to the web console server. The web console is limited to My Workspace and the Monitoring workspace.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the web console provides a monitoring interface for a management group that can be opened on any computer that has connectivity to the web console server. The web console is limited to My Workspace and the Monitoring workspace.  
   
 > [!NOTE]  
 > You must use Internet Explorer 7, Internet Explorer 8, or Internet Explorer 9 to connect to the Operations Manager web console. In addition, the Operations Manager web console requires that JavaScript be enabled. To enable JavaScript in Internet Explorer, open **Internet Options**, and click the **Security** tab. Select the zone for the web console \(Internet, Local intranet, or Trusted sites\), and then click **Custom level**. Enable **Active scripting**, click **OK**, click **OK**, and then connect to the web console.  

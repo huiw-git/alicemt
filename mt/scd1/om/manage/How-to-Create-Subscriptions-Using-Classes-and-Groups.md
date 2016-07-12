@@ -12,7 +12,7 @@ ms.assetid: 8b93ee35-4d7b-4242-ad7f-17e4e8302af6
 manager:cfreeman
 ---
 # How to Create Subscriptions Using Classes and Groups
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals. These notifications have three parts:  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals. These notifications have three parts:  
   
 -   A channel, which can be email, instant message \(IM\), or text message \(SMS\). Notifications can also run commands automatically when an alert is raised on a monitored system.  
   

@@ -12,7 +12,7 @@ ms.assetid: 1aae7fd8-568c-43e2-b3a3-c68159d64908
 manager:cfreeman
 ---
 # How to Discover Network Devices in Operations Manager
-[!INCLUDE[om12long](../../om/manage//om12long_md.md)] performs network discovery by running discovery rules that you create. Each time the rule runs, it will attempt to find new devices within its definition or changes to devices that were previously discovered.  
+[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] performs network discovery by running discovery rules that you create. Each time the rule runs, it will attempt to find new devices within its definition or changes to devices that were previously discovered.  
   
 > [!NOTE]  
 > Discovery of a large number of devices can take several hours to complete.  
@@ -202,7 +202,7 @@ You must ensure the following firewall configuration before creating the network
   
     1.  **Probing**  
   
-        During the probing phase, [!INCLUDE[om12short](../../om/manage//om12short_md.md)] attempts to contact device using the specified protocol, as follows:  
+        During the probing phase, [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] attempts to contact device using the specified protocol, as follows:  
   
         -   ICMP only: ping the device  
   
@@ -212,11 +212,11 @@ You must ensure the following firewall configuration before creating the network
   
     2.  **Processing**  
   
-        After probing is complete, [!INCLUDE[om12short](../../om/manage//om12short_md.md)] processes all of the components of the device, such as ports and interfaces, memory, processors, VLAN membership, and HSRP groups.  
+        After probing is complete, [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] processes all of the components of the device, such as ports and interfaces, memory, processors, VLAN membership, and HSRP groups.  
   
     3.  **Post Processing**  
   
-        [!INCLUDE[om12short](../../om/manage//om12short_md.md)] correlates network device ports to the servers that the ports are connected to, inserts items into the operational database, and associates Run As accounts.  
+        [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] correlates network device ports to the servers that the ports are connected to, inserts items into the operational database, and associates Run As accounts.  
   
 15. To confirm the successful discovery and management of the devices, select **Device Management**, and then select **Network Devices**. You should see your discovered devices listed in the results pane.  
   

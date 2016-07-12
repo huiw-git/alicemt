@@ -12,7 +12,7 @@ ms.assetid: 1d4f1e8c-38c3-4ee2-819f-9e47073b38e2
 manager:cfreeman
 ---
 # Using Management Packs
-Management packs contain settings that enable agents to monitor a specific service or application in [!INCLUDE[om12long](../../om/manage//om12long_md.md)]. These settings include discovery information that allows management servers to automatically detect and begin monitoring objects, a knowledge base that contains error and troubleshooting information, rules and monitors that generate alerts, and reports.  
+Management packs contain settings that enable agents to monitor a specific service or application in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)]. These settings include discovery information that allows management servers to automatically detect and begin monitoring objects, a knowledge base that contains error and troubleshooting information, rules and monitors that generate alerts, and reports.  
   
 Management packs might also contain tasks, diagnostics, and recovery tools and guidance to help fix problems.  
   

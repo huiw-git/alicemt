@@ -15,7 +15,7 @@ manager:cfreeman
 When you enable Client Monitoring for a management group, you can configure it to forward error reports for Microsoft products to Microsoft. Error Transmission settings allow you to specify which error reports are sent to Microsoft and the additional diagnostic data that is included with the error reports.  
   
 > [!NOTE]  
-> For information about enabling the Client Monitoring feature of [!INCLUDE[om12long](../../om/manage//om12long_md.md)], see [How to Configure a Management Server for Client Monitoring](../../om/manage/How-to-Configure-a-Management-Server-for-Client-Monitoring.md).  
+> For information about enabling the Client Monitoring feature of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], see [How to Configure a Management Server for Client Monitoring](../../om/manage/How-to-Configure-a-Management-Server-for-Client-Monitoring.md).  
   
 ### To find the Error Transmission tab of the Global Management Server Settings \- Privacy dialog box  
   

@@ -12,7 +12,7 @@ ms.assetid: ec0035ba-4997-4340-88f1-05565b4ea796
 manager:cfreeman
 ---
 # How to Configure Clients for Client Monitoring
-This topic provides the procedure to configure clients for the Client Monitoring feature of [!INCLUDE[om12long](../../om/manage//om12long_md.md)].  
+This topic provides the procedure to configure clients for the Client Monitoring feature of [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  
   
 > [!IMPORTANT]  
 > You must first configure a management server for the server component of Client Monitoring by running the Client Monitoring Configuration Wizard. For more information, see [How to Configure a Management Server for Client Monitoring](../../om/manage/How-to-Configure-a-Management-Server-for-Client-Monitoring.md).  

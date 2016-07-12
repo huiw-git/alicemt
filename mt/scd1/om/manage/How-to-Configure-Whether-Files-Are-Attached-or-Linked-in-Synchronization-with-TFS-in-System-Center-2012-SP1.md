@@ -12,7 +12,7 @@ ms.assetid: 87b9480b-b64a-49aa-96d1-9b57a0b6bb5a
 manager:cfreeman
 ---
 # How to Configure Whether Files Are Attached or Linked in Synchronization with TFS in System Center 2012 SP1
-[!INCLUDE[sc2012sp1notetopic](../../om/manage//sc2012sp1notetopic_md.md)]  
+[!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  
   
 Creating work items in Team Foundation Server \(TFS\) with large attachments can take a lot of database space. This is why you might want to save the attachments on a network file share and link to these files from the TFS work items rather than physically attaching them to the work items. By default files are saved as links rather than attachments, however, this creates additional requirements for maintaining the files and controlling permissions. If you want to keep attachments in the database, you can override this default and configure TFS integration to physically attach files and remove them from the network file share. You can also choose to attach the files and keep the files on the network share.  
   
@@ -20,7 +20,7 @@ Creating work items in Team Foundation Server \(TFS\) with large attachments can
   
 1.  In TFS, configure the maximum attachment size for work items to accommodate your business needs. For more information, see [How to: Set the Maximum Attachment Size for Work Items](http://go.microsoft.com/fwlink/p/?LinkId=272016).  
   
-2.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
+2.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
   
 3.  To set the scope of displayed rules, click **Scope**, and then click **View all targets**. Locate and select **TFS Collection**. Click **OK**.  
   
@@ -40,7 +40,7 @@ Creating work items in Team Foundation Server \(TFS\) with large attachments can
     > [!NOTE]  
     > By default, alert attachments that are synchronized with TFS work items are added as links that point to the alert attachment network file share.  
   
-2.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
+2.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**.  
   
 3.  To set the scope of displayed rules, click **Scope**, and then click **View all targets**. Locate and select **TFS Collection**. Click **OK**.  
   

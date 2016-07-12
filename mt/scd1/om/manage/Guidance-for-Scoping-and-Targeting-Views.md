@@ -12,7 +12,7 @@ ms.assetid: 32c6092a-6e1d-4bed-8b54-c3ddc49f53d8
 manager:cfreeman
 ---
 # Guidance for Scoping and Targeting Views
-In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], you can use groups to limit a view in the Operations console, making it easier to find the specific information you need. You can change the scope for any existing view \(other than dashboard views\) to a specific group; however, this change only applies to the user who makes it and does not persist when the console is restarted.  
+In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can use groups to limit a view in the Operations console, making it easier to find the specific information you need. You can change the scope for any existing view \(other than dashboard views\) to a specific group; however, this change only applies to the user who makes it and does not persist when the console is restarted.  
   
 For persistent management, you can create views that are scoped to a specific group. You can also scope the following widgets in a dashboard view:  
   

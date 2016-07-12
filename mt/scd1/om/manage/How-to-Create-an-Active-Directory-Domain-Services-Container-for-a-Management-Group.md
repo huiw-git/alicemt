@@ -12,7 +12,7 @@ ms.assetid: 51705eeb-fdc1-4c11-8c01-0c73a73d31ec
 manager:cfreeman
 ---
 # How to Create an Active Directory Domain Services Container for a Management Group
-You can use the following command\-line syntax and procedure to create an Active Directory Domain Service \(AD DS\) container for a [!INCLUDE[om12long](../../om/manage//om12long_md.md)] management group. MOMADAdmin.exe is provided for this purpose and is installed with the Operations Manager management server. MOMADAdmin.exe must be run by an administrator of the specified domain. It can be run on a computer running Microsoft Windows 2000 SP4, Windows XP SP2, and Windows Server 2003 with Microsoft .NET Framework 2.0 installed.  
+You can use the following command\-line syntax and procedure to create an Active Directory Domain Service \(AD DS\) container for a [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] management group. MOMADAdmin.exe is provided for this purpose and is installed with the Operations Manager management server. MOMADAdmin.exe must be run by an administrator of the specified domain. It can be run on a computer running Microsoft Windows 2000 SP4, Windows XP SP2, and Windows Server 2003 with Microsoft .NET Framework 2.0 installed.  
   
 **Command line syntax:**  
   

@@ -12,16 +12,16 @@ ms.assetid: 21c02bba-dc10-4f9a-9d19-2ea9b3d34cf9
 manager:cfreeman
 ---
 # Variables_2
-When building runbooks in [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], some settings are the same across activities. Variables let you specify a value that activities use in any runbook.  
+When building runbooks in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], some settings are the same across activities. Variables let you specify a value that activities use in any runbook.  
   
 > [!IMPORTANT]  
 > The access permissions for variables can be modified, but the runbook server does not enforce these permissions.  
   
 > [!IMPORTANT]  
-> Be aware that in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)], variables that reference system variables, for example **%ProgramFiles%**, return values from a 32\-bit runtime environment. This is because [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] is a 32\-bit application.  
+> Be aware that in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)], variables that reference system variables, for example **%ProgramFiles%**, return values from a 32\-bit runtime environment. This is because [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] is a 32\-bit application.  
   
 > [!NOTE]  
-> [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] does not support moving multiple variables with multiple\-selection. To move more than one variable to another folder, you must move each variable individually.  
+> [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] does not support moving multiple variables with multiple\-selection. To move more than one variable to another folder, you must move each variable individually.  
   
 Use the following procedures to create, insert, and organize variables.  
   
@@ -44,7 +44,7 @@ Use the following procedures to create, insert, and organize variables.
 7.  Click **Finish**.  
   
 > [!IMPORTANT]  
-> [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] does not let you combine an encrypted variable with plain text as a parameter value in a runbook.  
+> [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] does not let you combine an encrypted variable with plain text as a parameter value in a runbook.  
   
 ### To insert a variable in an activity  
   
