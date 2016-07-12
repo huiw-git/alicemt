@@ -12,7 +12,7 @@ ms.assetid: c3e73e3a-fe17-4fd4-8c8e-401b02f8dc35
 manager:cfreeman
 ---
 # How to Add Knowledge to a Management Pack
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] management packs include knowledge for rules, monitors, and alerts that helps you identify problems, causes, and resolutions.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] management packs include knowledge for rules, monitors, and alerts that helps you identify problems, causes, and resolutions.  
   
 Knowledge is referred to as *product knowledge* or *company knowledge*. Product knowledge is embedded in a rule or monitor when it is authored. Company knowledge is added by management group administrators to expand the troubleshooting information and provide company\-specific information for operators. Administrators can use company knowledge to document any overrides implemented for a monitor or rule, along with the explanation for the customization and any other information that might be useful.  
   

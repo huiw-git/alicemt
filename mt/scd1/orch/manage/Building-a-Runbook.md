@@ -12,7 +12,7 @@ ms.assetid: 17d8d1d1-2326-4925-84a0-c83e82cf7806
 manager:cfreeman
 ---
 # Building a Runbook
-This topic describes the basic process for building a [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] runbook.  
+This topic describes the basic process for building a [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] runbook.  
   
 > [!NOTE]  
 > For a list of topics that contain more details about the information covered here, see [Runbook data processing](../../orch/manage/Building-a-Runbook.md#BMK_Runbookdataprocessing).  
@@ -27,7 +27,7 @@ This topic describes the basic process for building a [!INCLUDE[orchlong](../../
   
 #### To create a new runbook  
   
-1.  On the computer where the Runbook Designer is installed, click **Start**, point to **All Programs**, click **[!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)]**, and then click **Runbook Designer**.  
+1.  On the computer where the Runbook Designer is installed, click **Start**, point to **All Programs**, click **[!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)]**, and then click **Runbook Designer**.  
   
 2.  In Runbook Designer, in the **Connections** pane, click the **Runbooks** folder.  
   

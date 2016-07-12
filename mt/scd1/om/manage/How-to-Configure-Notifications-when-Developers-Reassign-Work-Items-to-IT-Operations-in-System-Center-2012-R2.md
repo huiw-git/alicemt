@@ -18,7 +18,7 @@ Use the following procedure to configure notifications when developers assign wo
   
 ### To configure notifications when developers assign work items to IT operations  
   
-1.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Administration**, expand **Notifications**, and then click **Subscriptions**.  
+1.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Administration**, expand **Notifications**, and then click **Subscriptions**.  
   
 2.  In the **Tasks** pane, click **New**.  
   

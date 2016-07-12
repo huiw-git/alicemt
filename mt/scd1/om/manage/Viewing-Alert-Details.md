@@ -12,11 +12,11 @@ ms.assetid: f79c5f48-ea55-4fe1-9097-364933d30f1c
 manager:cfreeman
 ---
 # Viewing Alert Details
-Alerts in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] include information to help you investigate and resolve the issues that caused the alerts.  
+Alerts in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] include information to help you investigate and resolve the issues that caused the alerts.  
   
 To view the details for an alert, in the **Monitoring** workspace, click **Active Alerts**, and then click an alert in the results pane.  
   
-![Details for a selected alert](../../om/manage/media/OM12AlertDetails.gif "OM12AlertDetails")  
+![Details for a selected alert](../../om/manage//OM12AlertDetails.gif "OM12AlertDetails")  
   
 **Tips**  
   

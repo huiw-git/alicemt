@@ -12,7 +12,7 @@ ms.assetid: 35142d1f-9771-46ea-a3ba-014f0a904593
 manager:cfreeman
 ---
 # How to Restart a Management Server
-Sometimes you need to restart a [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] management server, such as when you update the operating system. To reduce the impact on your monitoring activities, follow these guidelines:  
+Sometimes you need to restart a [!INCLUDE[om12long](../../om/manage//om12long_md.md)] management server, such as when you update the operating system. To reduce the impact on your monitoring activities, follow these guidelines:  
   
 -   When your management group has only one management server, do not place the management server in maintenance mode before restarting. Schedule the restart for a time when you expect the least activity, such as after business hours.  
   

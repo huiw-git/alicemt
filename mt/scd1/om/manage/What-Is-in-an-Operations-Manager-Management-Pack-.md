@@ -12,7 +12,7 @@ ms.assetid: 85abccbf-62b5-4f57-b04d-4f03d52b5fae
 manager:cfreeman
 ---
 # What Is in an Operations Manager Management Pack?
-Management packs typically contain monitoring settings for applications and services. After a management pack is imported into a management group, [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] immediately begins monitoring objects based on default configurations and thresholds that are set by the management pack.  
+Management packs typically contain monitoring settings for applications and services. After a management pack is imported into a management group, [!INCLUDE[om12long](../../om/manage//om12long_md.md)] immediately begins monitoring objects based on default configurations and thresholds that are set by the management pack.  
   
 Each management pack can contain any or all of the following parts:  
   
@@ -81,7 +81,7 @@ In general, management packs obtained from an application or hardware device ven
 Although you cannot change the settings in a sealed management pack, you can still customize the applied settings of a management pack after it is imported by using overrides or by creating additional settings such as rules, monitors, and tasks that supersede the management pack's default settings. All customizations that you create are saved to a separate management pack file.  
   
 ## Management Pack Libraries and Dependencies  
-Certain management packs are referred to as *libraries*, because they provide a foundation of classes on which other management packs depend. A management pack that you download from the Operations Manager Catalog might include a library management pack. Several library management packs are imported as part of the Operations Manager installation process. For a list of management packs imported during the installation of [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)], see [Management Packs Installed with Operations Manager](../../om/manage/Management-Packs-Installed-with-Operations-Manager.md).  
+Certain management packs are referred to as *libraries*, because they provide a foundation of classes on which other management packs depend. A management pack that you download from the Operations Manager Catalog might include a library management pack. Several library management packs are imported as part of the Operations Manager installation process. For a list of management packs imported during the installation of [!INCLUDE[om12short](../../om/manage//om12short_md.md)], see [Management Packs Installed with Operations Manager](../../om/manage/Management-Packs-Installed-with-Operations-Manager.md).  
   
 A dependency exists when a management pack references other management packs. You must import all referenced management packs before you can import the management pack that depends on those management packs. Management packs include a management pack guide that should document the dependencies of the management pack. In addition, if you attempt to import a management pack and the management packs that it is dependent on are not present, the **Import Management Packs** dialog box will display a message that the management pack will fail to import and a list of the missing management packs. After you import a management pack, you can view its dependencies in the Operations console.  
   

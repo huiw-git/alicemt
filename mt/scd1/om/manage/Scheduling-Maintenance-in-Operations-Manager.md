@@ -12,10 +12,10 @@ ms.assetid: 78329674-d244-44cb-b03e-6dc3b6362468
 manager:cfreeman
 ---
 # Scheduling Maintenance in Operations Manager
-This topic details the default schedule for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] maintenance tasks.  
+This topic details the default schedule for [!INCLUDE[om12long](../../om/manage//om12long_md.md)] maintenance tasks.  
   
 ## Maintenance Tasks Schedule  
-By default, [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] performs maintenance tasks daily to maintain optimal performance of the Operations Manager database.  These maintenance tasks are defined as system rules in the Operations Manager management pack.  
+By default, [!INCLUDE[om12short](../../om/manage//om12short_md.md)] performs maintenance tasks daily to maintain optimal performance of the Operations Manager database.  These maintenance tasks are defined as system rules in the Operations Manager management pack.  
   
 The following table displays the maintenance tasks and the time they are scheduled to run:  
   

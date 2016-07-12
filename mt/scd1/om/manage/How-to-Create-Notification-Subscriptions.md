@@ -12,7 +12,7 @@ ms.assetid: 8361d0b2-8b6d-462c-aee0-800eda31dd21
 manager:cfreeman
 ---
 # How to Create Notification Subscriptions
-In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals by email, instant message \(IM\), or text message \(SMS\). Notifications can also run commands automatically when an alert is raised on a monitored system. A notification requires a channel, a subscriber, and a subscription.  
+In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], when an alert is generated, Operations Manager can notify designated individuals by email, instant message \(IM\), or text message \(SMS\). Notifications can also run commands automatically when an alert is raised on a monitored system. A notification requires a channel, a subscriber, and a subscription.  
   
 These procedures explain how to configure a notification subscription. A subscription defines the criteria for a notification, such as when a critical alert is generated. A subscription also defines the channel to be used for the notification and the subscribers to receive the notification.  
   

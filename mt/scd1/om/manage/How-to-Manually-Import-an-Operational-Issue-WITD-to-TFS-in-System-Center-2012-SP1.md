@@ -12,9 +12,9 @@ ms.assetid: 569d0986-e50a-43de-9f38-b2712e621811
 manager:cfreeman
 ---
 # How to Manually Import an Operational Issue WITD to TFS in System Center 2012 SP1
-[!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  
+[!INCLUDE[sc2012sp1notetopic](../../om/manage//sc2012sp1notetopic_md.md)]  
   
-In [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)], [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] integration with Team Foundation Server \(TFS\) introduces a new work item type, *Operational Issue*, which must be present in each team project that synchronization uses. Generally, the TFS Work Item Synchronization Configuration Wizard can import this work item type definition \(WITD\). In some cases, however, you must manually import the WITD directly to TFS. You must manually import the Operational Issue WITD in the following cases:  
+In [!INCLUDE[sc2012sp1_long](../../om/manage//sc2012sp1_long_md.md)], [!INCLUDE[om12short](../../om/manage//om12short_md.md)] integration with Team Foundation Server \(TFS\) introduces a new work item type, *Operational Issue*, which must be present in each team project that synchronization uses. Generally, the TFS Work Item Synchronization Configuration Wizard can import this work item type definition \(WITD\). In some cases, however, you must manually import the WITD directly to TFS. You must manually import the Operational Issue WITD in the following cases:  
   
 -   A separate TFS administrator controls the development process model in TFS.  
   
@@ -29,7 +29,7 @@ In [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)], [!
   
 ### To manually import the Operational Issue WITD file  
   
-1.  Locate the correct Operational Issue WITD for your version of TFS on the installation media for [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] in [!INCLUDE[sc2012sp1_short](../../om/manage/includes/sc2012sp1_short_md.md)] in the **SupportTools** folder. For TFS 2010, the file name is OperationalIssue.xml. For TFS 2012, the file name is OperationalIssue\_11.xml.  
+1.  Locate the correct Operational Issue WITD for your version of TFS on the installation media for [!INCLUDE[om12short](../../om/manage//om12short_md.md)] in [!INCLUDE[sc2012sp1_short](../../om/manage//sc2012sp1_short_md.md)] in the **SupportTools** folder. For TFS 2010, the file name is OperationalIssue.xml. For TFS 2012, the file name is OperationalIssue\_11.xml.  
   
 2.  Use TFS administrator credentials to run the **witadmin** command\-line tool in TFS and import the Operational Issue WITD to each TFS project you plan to use with synchronization.  
   

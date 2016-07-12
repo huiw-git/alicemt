@@ -12,7 +12,7 @@ ms.assetid: 5771bb2d-ca23-4807-8ce9-6c35ef95efc6
 manager:cfreeman
 ---
 # How to Create Groups in Operations Manager
-You can use groups in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] to scope views, reports, overrides, and alert notifications. You create groups in the **Authoring** workspace in the Operations console.  
+You can use groups in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] to scope views, reports, overrides, and alert notifications. You create groups in the **Authoring** workspace in the Operations console.  
   
 In the Operations console, you can only create instance groups. The difference between instance groups and computers groups is:  
   
@@ -24,11 +24,11 @@ To create a group based on a hosting relationship, such as all computers that ar
   
 The most common objects you will place in your groups are **Windows Computer** objects.  The most common way to dynamically assign computers to the groups is by using a *property* of the **Windows Computer** class. For example, **Organizational Unit** is a property of the **Windows Computer** class, so you can create a group that makes all computers in a specific organizational unit members of the same group. The following image shows the properties of an object in the **Windows Computer** class, which you can view in the details pane of the **Monitoring** workspace by selecting the **Windows Computers** state view.  
   
-![Properties of a Windows computer object](../../om/manage/media/WindowsComputerProperties.gif "WindowsComputerProperties")  
+![Properties of a Windows computer object](../../om/manage//WindowsComputerProperties.gif "WindowsComputerProperties")  
   
 You can assign both explicit and dynamic members in the same group definition, and you can exclude explicit members. For examples of dynamic group queries and formulas, see [Operations Manager Dynamic Group Examples](http://go.microsoft.com/fwlink/p/?LinkId=242241).  
   
-### To create a group in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)]  
+### To create a group in [!INCLUDE[om12short](../../om/manage//om12short_md.md)]  
   
 1.  Log on to the computer with an account that is a member of the Operations Manager Administrators role.  
   

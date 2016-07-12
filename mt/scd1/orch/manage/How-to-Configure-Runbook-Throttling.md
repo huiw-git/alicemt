@@ -36,7 +36,7 @@ By default, each runbook server is configured to simultaneously run a maximum of
   
         **aspt \* 40**  
   
-3.  Restart the **[!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] Runbook Service**.  
+3.  Restart the **[!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] Runbook Service**.  
   
 ## See Also  
 [Administering System Center 2012 - Orchestrator](../../orch/manage/Administering-System-Center-2012---Orchestrator.md)  

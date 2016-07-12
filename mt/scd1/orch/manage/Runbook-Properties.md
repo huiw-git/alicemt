@@ -156,7 +156,7 @@ You access the Returned Data values through Published Data in one of several way
   
 -   View the Published Data from the Runbook Designer or Orchestration console.  
   
--   Use the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] web service to return the Published Data programmatically.  
+-   Use the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] web service to return the Published Data programmatically.  
   
 For more information about the standard activities Invoke Runbook, Initialize Data, and Return Data, see the [Runbook Activity Reference for System Center 2012 - Orchestrator](../../orch/reference/Runbook-Activity-Reference-for-System-Center-2012---Orchestrator.md).  
   

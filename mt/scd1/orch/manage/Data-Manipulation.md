@@ -12,7 +12,7 @@ ms.assetid: 26ba0035-91c7-4bd8-ba7e-047649113f52
 manager:cfreeman
 ---
 # Data Manipulation
-With [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], you can manipulate string data from text files, returned data, or other sources, and convert it into a usable form. You can also perform simple arithmetic operations, such as calculating sums and differences, and performing division and multiplication operations. For example, you can extract text from a text file by using a **Text File Management** activity, trim leading and trailing spaces from the text, and then retrieve specific parts of the text that you can pass to other activities as returned data items.  
+With [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], you can manipulate string data from text files, returned data, or other sources, and convert it into a usable form. You can also perform simple arithmetic operations, such as calculating sums and differences, and performing division and multiplication operations. For example, you can extract text from a text file by using a **Text File Management** activity, trim leading and trailing spaces from the text, and then retrieve specific parts of the text that you can pass to other activities as returned data items.  
   
 ## Data Manipulation  
   

@@ -12,7 +12,7 @@ ms.assetid: dc415913-fa91-4c84-b80e-1f394efb2df6
 manager:cfreeman
 ---
 # Scheduling Reports
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] enables you to schedule report delivery for reports that you have created and saved. Scheduled reports can be sent by email to specified individuals and groups. Scheduled reports can also be delivered to the cache in the SQL Server Report Server and thereby shorten the time required to retrieve a report.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] enables you to schedule report delivery for reports that you have created and saved. Scheduled reports can be sent by email to specified individuals and groups. Scheduled reports can also be delivered to the cache in the SQL Server Report Server and thereby shorten the time required to retrieve a report.  
   
 ## Scheduling Reports topics  
   

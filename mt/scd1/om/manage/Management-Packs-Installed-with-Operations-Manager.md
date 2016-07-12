@@ -26,7 +26,7 @@ When you install Operations Manager, a component of System Center 2012, a numbe
 |Reporting|-   Data Warehouse Internal Library<br />-   Date Warehouse Library<br />-   Microsoft Data Warehouse Reports<br />-   Microsoft Generic Report Library<br />-   Microsoft ODR Report Library<br />-   Microsoft Service Level Report Library<br />-   Microsoft.SystemCenter.Reports.Deployment|  
 |Audit collection services \(ACS\)|-   Microsoft Audit Collection Services|  
   
-The following unsealed management packs are included in [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)]:  
+The following unsealed management packs are included in [!INCLUDE[om12short](../../om/manage//om12short_md.md)]:  
   
 -   Client Monitoring Overrides Management Pack  
   

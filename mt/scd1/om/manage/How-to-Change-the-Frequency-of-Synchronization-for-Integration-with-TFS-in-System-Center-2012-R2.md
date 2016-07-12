@@ -12,7 +12,7 @@ ms.assetid: 6f25951a-37b4-4f95-9f25-ea9532b736bc
 manager:cfreeman
 ---
 # How to Change the Frequency of Synchronization for Integration with TFS in System Center 2012 R2
-In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], synchronizing [!INCLUDE[omblue_2](../../om/manage/includes/omblue_2_md.md)] alerts and work items is key to working effectively and efficiently with your development team. When you assign an alert to engineering, the matching work item in Team Foundation Server \(TFS\) will not be created immediately. The synchronization frequency is controlled by overrides in the Operations Manager TFS Work Item Synchronization management pack \(Microsoft.SystemCenter.TFSWISynchronization.mpb\). To change the synchronization frequency, you can change the overrides listed in the following table.  
+In [!INCLUDE[omblue_1](../../om/manage//omblue_1_md.md)], synchronizing [!INCLUDE[omblue_2](../../om/manage//omblue_2_md.md)] alerts and work items is key to working effectively and efficiently with your development team. When you assign an alert to engineering, the matching work item in Team Foundation Server \(TFS\) will not be created immediately. The synchronization frequency is controlled by overrides in the Operations Manager TFS Work Item Synchronization management pack \(Microsoft.SystemCenter.TFSWISynchronization.mpb\). To change the synchronization frequency, you can change the overrides listed in the following table.  
   
 |Override description|Target object|Rule|Parameter|Default Value|  
 |------------------------|-----------------|--------|-------------|-----------------|  
@@ -29,7 +29,7 @@ In [!INCLUDE[omblue_1](../../om/manage/includes/omblue_1_md.md)], synchronizing 
   
 1.  Using the table above, find the override parameter that you want to change.  
   
-2.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**. To set the scope of displayed rules, click **Scope**, and then select **View all targets**. Locate and select **TFS Collection** and **TFS Connector**. Click **OK**.  
+2.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Rules**. To set the scope of displayed rules, click **Scope**, and then select **View all targets**. Locate and select **TFS Collection** and **TFS Connector**. Click **OK**.  
   
     > [!IMPORTANT]  
     > If you are using IntelliTrace, you must also select **IntelliTrace attachments for APM alerts singleton object**.  

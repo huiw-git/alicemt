@@ -14,17 +14,17 @@ manager:cfreeman
 # Viewing Active Alerts
 To view active alerts, open the Operations console and click **Monitoring**. The Monitoring Overview displays a summary of health states and alerts:  
   
-![Monitoring overview summarizes alert status](../../om/manage/media/Monitor.jpg "Monitor")  
+![Monitoring overview summarizes alert status](../../om/manage//Monitor.jpg "Monitor")  
   
 To view the actual alerts, click **Active Alerts** in the navigation pane.  
   
 **Tip**: If you are using the web console, you can filter the view of alerts by severity:  
   
-![Filter alerts by severity](../../om/manage/media/ConsoleFilter.gif "ConsoleFilter")  
+![Filter alerts by severity](../../om/manage//ConsoleFilter.gif "ConsoleFilter")  
   
 The list of alerts in the Results pane includes the severity, source, maintenance mode status, name, resolution state, and when the alert was created:  
   
-![Active Alerts](../../om/manage/media/ActiveAlerts.gif "ActiveAlerts")  
+![Active Alerts](../../om/manage//ActiveAlerts.gif "ActiveAlerts")  
   
 The following folders in the Monitoring workspace include a standard Active Alerts view scoped to the objects for that folder.  
   

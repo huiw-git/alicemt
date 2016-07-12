@@ -12,7 +12,7 @@ ms.assetid: 1c0f5967-227b-480c-a84f-965c7c232513
 manager:cfreeman
 ---
 # Tuning Monitoring by Using Targeting and Overrides
-When you import a management pack, [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] discovers the objects defined by the management pack and begins applying the management pack’s rules and monitors to the discovered objects. You should always import a new management pack in a pre\-production environment first so that you can evaluate the management pack and adjust or tune the management pack as necessary to meet your business needs.  
+When you import a management pack, [!INCLUDE[om12long](../../om/manage//om12long_md.md)] discovers the objects defined by the management pack and begins applying the management pack’s rules and monitors to the discovered objects. You should always import a new management pack in a pre\-production environment first so that you can evaluate the management pack and adjust or tune the management pack as necessary to meet your business needs.  
   
 To tune a management pack effectively, you should involve the service owner or subject matter experts, the operations team members who monitor the alerts and events and take action when something requires attention, and the engineering team responsible for the Operations Manager infrastructure. Depending on the service that is monitored by the management pack, you might also include the networking or security teams.  Those responsible for the Operations Manager infrastructure might not have the knowledge and experience with the service to effectively tune the management pack without expert input.  
   

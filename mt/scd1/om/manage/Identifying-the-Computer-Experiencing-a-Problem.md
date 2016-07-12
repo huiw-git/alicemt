@@ -18,21 +18,21 @@ This topic helps you answer questions such as “I see an alert that says logica
   
 1.  Click the alert.  
   
-    ![Select alert in Results pane](../../om/manage/media/HowToAlert1.gif "HowToAlert1")  
+    ![Select alert in Results pane](../../om/manage//HowToAlert1.gif "HowToAlert1")  
   
 2.  Look in the **Details** section for the **Path**.  
   
-    ![See Path in alert details](../../om/manage/media/HowToAlert2.gif "HowToAlert2")  
+    ![See Path in alert details](../../om/manage//HowToAlert2.gif "HowToAlert2")  
   
     Notice that this alert also includes the affected computer in the **Description**.  
   
 3.  Click **Windows Computers** to view the state of the computer.  
   
-    ![Windows Computers monitoring view](../../om/manage/media/HowToAlert3.gif "HowToAlert3")  
+    ![Windows Computers monitoring view](../../om/manage//HowToAlert3.gif "HowToAlert3")  
   
 4.  Right\-click the computer, point to **Open**, and click **Health Explorer**:  
   
-    ![Open Health Explorer](../../om/manage/media/HowToAlert4.gif "HowToAlert4")  
+    ![Open Health Explorer](../../om/manage//HowToAlert4.gif "HowToAlert4")  
   
 In this illustration, you see that the logical disk fragmentation levels for C: and D: on this computer are in a warning state. Notice that the state rolls up to the **Performance** state for each disk, then to **Hardware Performance** for the computer, then to **Performance** for the computer, and finally to **Entity Health** for the computer.  
   

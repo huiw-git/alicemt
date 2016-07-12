@@ -12,7 +12,7 @@ ms.assetid: 27525d97-ed8e-43f3-afb2-63718b2bd48a
 manager:cfreeman
 ---
 # Monitoring Audit Collection Services Performance
-In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], the Audit Collection Services \(ACS\) collector service includes two performance objects that have a total of 16 counters: the Collector object and the Collector Client object. The Collector object has 14 counters, and the Collector Client object has two counters. The counters in the Collector object record performance statistics from the perspective of the ACS collector. The Collector Client counters record performance statistics from the perspective of a single ACS forwarder.  
+In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], the Audit Collection Services \(ACS\) collector service includes two performance objects that have a total of 16 counters: the Collector object and the Collector Client object. The Collector object has 14 counters, and the Collector Client object has two counters. The counters in the Collector object record performance statistics from the perspective of the ACS collector. The Collector Client counters record performance statistics from the perspective of a single ACS forwarder.  
   
 Performance objects and counters are viewable in Windows Reliability and Performance Monitor, which is a Microsoft Management Console \(MMC\) snap\-in that combines the functionality of previous stand\-alone tools including Performance Logs and Alerts, Server Performance Advisor, and System Monitor.  
   

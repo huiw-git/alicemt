@@ -12,11 +12,11 @@ ms.assetid: 853cb8d0-3662-4f38-8f80-ce8dac9fcab1
 manager:cfreeman
 ---
 # Using Runbooks in System Center 2012 - Orchestrator
-Welcome to the [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] Runbook Guide. This document describes [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] runbooks. This document provides information about the tools available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] and guidance on how to automate tasks and processes for your IT environment. Topics include how to write, test, and deploy a runbook with [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)].  
+Welcome to the [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] Runbook Guide. This document describes [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] runbooks. This document provides information about the tools available in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] and guidance on how to automate tasks and processes for your IT environment. Topics include how to write, test, and deploy a runbook with [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)].  
   
-For more information on building custom solutions with [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] in [!INCLUDE[sc2012](../../om/manage/includes/sc2012_md.md)], see [System Center 2012 Integration Guide \- Orchestrator](http://go.microsoft.com/fwlink/?LinkID=280268).  
+For more information on building custom solutions with [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] in [!INCLUDE[sc2012](../../om/manage//sc2012_md.md)], see [System Center 2012 Integration Guide \- Orchestrator](http://go.microsoft.com/fwlink/?LinkID=280268).  
   
-## [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] Runbooks  
+## [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] Runbooks  
   
 -   [Runbook Concepts](../../orch/manage/Runbook-Concepts.md)  
   
@@ -32,7 +32,7 @@ For more information on building custom solutions with [!INCLUDE[orchshort](../.
   
 -   [Deploy and Start Runbooks](../../orch/manage/Deploy-and-Start-Runbooks.md)  
   
-    Describes how to deploy runbooks to your [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] environment.  
+    Describes how to deploy runbooks to your [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] environment.  
   
 -   [Runbook Samples](../../orch/manage/Runbook-Samples.md)  
   

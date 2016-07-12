@@ -12,7 +12,7 @@ ms.assetid: 4c7dd39d-d3f7-492a-af19-a45b1b2d235a
 manager:cfreeman
 ---
 # Schedules_1
-[!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] uses schedules to define the times when runbooks can run. For example, there are times when it is inappropriate to run some runbooks, such as backing up a runbook on a main server during regular business hours. You can create a schedule that runs according to a complex interval, such as the first and third Mondays and Thursdays of every month, except when these days fall on a holiday.  
+[!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] uses schedules to define the times when runbooks can run. For example, there are times when it is inappropriate to run some runbooks, such as backing up a runbook on a main server during regular business hours. You can create a schedule that runs according to a complex interval, such as the first and third Mondays and Thursdays of every month, except when these days fall on a holiday.  
   
 Schedules use the system clock of the Runbook server that runs the runbook. This enables schedules to function in virtual machine environments, and to continue running even when the system clock is adjusted because of the move to or from daylight savings time.  
   
@@ -25,7 +25,7 @@ Runbooks that start before a prohibited time run until finished, even if they ar
 > If a runbook is scheduled to start during an hour that is skipped when the system clock is adjusted forward by one hour, that starting time is skipped, and the runbook starts at the next scheduled time. If a runbook is scheduled to start during an hour that occurs two times because the system clock is adjusted backward by one hour, the runbook starts two times.  
   
 > [!NOTE]  
-> [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] does not support moving multiple schedules with multiple\-selection. To move more than one schedule to another folder, you must move each schedule individually.  
+> [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] does not support moving multiple schedules with multiple\-selection. To move more than one schedule to another folder, you must move each schedule individually.  
   
 ## Conditional Links  
 In addition to assigning a schedule to a runbook, you can use a [Check Schedule](../../orch/reference/Check-Schedule.md) activity to use a schedule for conditional logic in a runbook. This activity checks a particular schedule and returns a published data item with a value of true or false specifying whether the current time is within the schedule. This published data item can be used by a link to determine whether to run a particular activity or to continue to the workflow.  

@@ -12,12 +12,12 @@ ms.assetid: 15659296-b944-4838-902d-99b3b8757e60
 manager:cfreeman
 ---
 # Accessibility Features of Orchestrator
-In addition to accessibility features and tools in Windows, the following feature makes [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] more accessible for people with disabilities.  
+In addition to accessibility features and tools in Windows, the following feature makes [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] more accessible for people with disabilities.  
   
 For information about using the Orchestrator Command Line Install tool, see [Install with the Orchestrator Command Line Install Tool](../../orch/deploy/Install-with-the-Orchestrator-Command-Line-Install-Tool.md) in [Deploying System Center 2012 - Orchestrator](../../orch/deploy/Deploying-System-Center-2012---Orchestrator.md).  
   
 > [!NOTE]  
-> [!INCLUDE[accessibility6](../../orch/manage/includes/accessibility6_md.md)]  
+> [!INCLUDE[accessibility6](../../orch/manage//accessibility6_md.md)]  
   
 ## Using Keyboard Shortcuts in the Orchestration Console  
   

@@ -12,15 +12,15 @@ ms.assetid: c551f130-68cf-46cf-ae38-b8366a3952a0
 manager:cfreeman
 ---
 # Using Event View to Investigate Problems
-In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can use an event view for an alert to help you investigate the problem that caused the alert.  
+In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], you can use an event view for an alert to help you investigate the problem that caused the alert.  
   
 Right\-click an alert, point to **Open**, and click **Event View**. In the **Event View** window, you see information about the events associated with the alert.  
   
-![Events view](../../om/manage/media/EventsView.gif "EventsView")  
+![Events view](../../om/manage//EventsView.gif "EventsView")  
   
 In the **Details** pane, click **Generating Rule** to view information about the rule that generated the alert. The **General** tab shows you the name, description, and the source management pack of the rule.  
   
-![View details of rule that generated an event](../../om/manage/media/GeneratingRule.gif "GeneratingRule")  
+![View details of rule that generated an event](../../om/manage//GeneratingRule.gif "GeneratingRule")  
   
 ## See Also  
 [How Heartbeats Work in Operations Manager](../../om/manage/How-Heartbeats-Work-in-Operations-Manager.md)  

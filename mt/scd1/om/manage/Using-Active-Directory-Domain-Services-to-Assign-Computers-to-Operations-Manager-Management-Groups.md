@@ -12,7 +12,7 @@ ms.assetid: f6c0aefa-d842-4f09-9c7e-681a81055851
 manager:cfreeman
 ---
 # Using Active Directory Domain Services to Assign Computers to Operations Manager Management Groups
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] allows you to take advantage of your investment in Active Directory Domain Services \(AD DS\) by enabling you to use it to assign agent\-managed computers to management groups.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] allows you to take advantage of your investment in Active Directory Domain Services \(AD DS\) by enabling you to use it to assign agent\-managed computers to management groups.  
   
 To assign computers to management groups by using AD DS:  
   

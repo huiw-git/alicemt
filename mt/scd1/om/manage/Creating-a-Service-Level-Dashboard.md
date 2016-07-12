@@ -14,7 +14,7 @@ manager:cfreeman
 # Creating a Service Level Dashboard
 After you configure a service level objective, you can create a service level dashboard view to monitor the service level objective. The service level dashboard view displays a grid of service levels and a grid of service level objectives grid which lists the various objectives which have a goal or target value and whether success is either above or below that target value for the currently selected SLA\/instance. When you select an objective in the **Service Level Objectives** grid, a gauge and chart is displayed, as shown in the following image.  
   
-![example of service level dashboard](../../om/manage/media/SLAdashboard.gif "SLAdashboard")  
+![example of service level dashboard](../../om/manage//SLAdashboard.gif "SLAdashboard")  
   
 The gauge will show the average actual value, along with the target value and a indication as to whether the value and goal relationship corresponds to success \(green\) or failure \(red\). The chart will show a time history of the actual values, which will be a function of the aggregation of the values in the data warehouse, which will depend on the timeframe of the configured dashboard, as to whether the values come from the Hourly or Daily aggregation table.  
   

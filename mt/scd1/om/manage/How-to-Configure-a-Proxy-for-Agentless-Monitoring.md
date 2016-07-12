@@ -12,7 +12,7 @@ ms.assetid: 9a3c14c5-98cf-4de2-a6ce-6383d3b231f5
 manager:cfreeman
 ---
 # How to Configure a Proxy for Agentless Monitoring
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can monitor Microsoft Windows\-based computers on which an agent is not installed by using an agent on another computer to act as a proxy. This is called agentless management.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] can monitor Microsoft Windows\-based computers on which an agent is not installed by using an agent on another computer to act as a proxy. This is called agentless management.  
   
 > [!NOTE]  
 > Not all management packs support agentless management, so make sure agentless management will serve your needs before using it. For example, the Active Directory and Microsoft Exchange Server 2003 management packs do not support agentless management.  

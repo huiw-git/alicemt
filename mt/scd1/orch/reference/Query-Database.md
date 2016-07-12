@@ -49,7 +49,7 @@ Use the following information to configure the Query Database activity.
 |**Database type**|Select the **Database type** from the drop\-down list. The options include the following:<br /><br />-   Access<br />-   ODBC<br />-   Oracle<br />-   SQL Server|  
   
 > [!IMPORTANT]  
-> When [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] is installed on a non\-English operating system, and you set the **Connection** for **Database type** to **SQL Server**, the Server input value cannot be **localhost**. You must use the actual computer name.  
+> When [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] is installed on a non\-English operating system, and you set the **Connection** for **Database type** to **SQL Server**, the Server input value cannot be **localhost**. You must use the actual computer name.  
   
 Configuration instructions for each **Connection** tab **Database type** are listed in the following tables.  
   

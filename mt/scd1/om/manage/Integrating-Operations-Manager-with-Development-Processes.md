@@ -14,7 +14,7 @@ manager:cfreeman
 # Integrating Operations Manager with Development Processes
 Streamlining the communications between development and information technology \(IT\) operations teams \(often called DevOps\) can help you decrease the time it takes for application maintenance and delivery into production, where your application delivers value to customers. To speed interactions between these teams, it is essential to quickly detect and fix problems that might need assistance from the engineering team.  
   
-These topics can help you integrate your version of [!INCLUDE[sc2012](../../om/manage/includes/sc2012_md.md)] with development tools, such as Team Foundation Server \(TFS\) and Visual Studio. This integration enables deep troubleshooting and provides greater efficiency between development and IT operations teams.  
+These topics can help you integrate your version of [!INCLUDE[sc2012](../../om/manage//sc2012_md.md)] with development tools, such as Team Foundation Server \(TFS\) and Visual Studio. This integration enables deep troubleshooting and provides greater efficiency between development and IT operations teams.  
   
 ## Integrating Operations Manager with Development Processes \(DevOps\) Topics  
   

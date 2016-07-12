@@ -12,11 +12,11 @@ ms.assetid: 2aa0a67f-6ef5-49b8-b607-95461d84fc33
 manager:cfreeman
 ---
 # Managing Run As Accounts and Profiles
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] workflows, such as rules, tasks, monitors, and discoveries, require credentials to run on a targeted agent or computer. By default, workflows use the default action account for the agent or computer. The credentials for the default action account are configured when [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] is installed.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] workflows, such as rules, tasks, monitors, and discoveries, require credentials to run on a targeted agent or computer. By default, workflows use the default action account for the agent or computer. The credentials for the default action account are configured when [!INCLUDE[om12short](../../om/manage//om12short_md.md)] is installed.  
   
 When a workflow requires rights and privileges that the default action account cannot provide, the workflow can be written to use a Run As profile. A Run As profile can have multiple Run As accounts associated with it. The Run As accounts allow you to specify the necessary credentials for specific computers. Multiple workflows can use the same Run As profile. The following image illustrates the relationship between workflows, Run As profiles, and Run As accounts.  
   
-![Workflows use Run As profile to use Run As account](../../om/manage/media/RunAsConcept.jpg "RunAsConcept")  
+![Workflows use Run As profile to use Run As account](../../om/manage//RunAsConcept.jpg "RunAsConcept")  
   
 In the image, three workflows use the same Run As profile. The Run As profile has three associated Run As accounts. In this example, each workflow that uses the Run As profile will run on Computer A using the credentials for Run As account 1, on Computer B and C using the credentials for Run As account 2, and on Computer D using the credentials for Run As account 3.  
   

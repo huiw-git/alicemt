@@ -12,7 +12,7 @@ ms.assetid: abe7d1da-fb15-4229-8133-d98e374b1623
 manager:cfreeman
 ---
 # Tools
-To create and test a runbook in [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], use the Runbook Designer and the Runbook Tester.  
+To create and test a runbook in [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], use the Runbook Designer and the Runbook Tester.  
   
 -   [Runbook Designer](../../orch/manage/Runbook-Designer.md)  
   

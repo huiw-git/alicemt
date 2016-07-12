@@ -18,15 +18,15 @@ By default, when the Health Explorer window opens, all monitors in a failed stat
   
 The following illustration shows monitors in a healthy state:  
   
-![Health explorer showing healthy states](../../om/manage/media/HealthyMonitors.gif "HealthyMonitors")  
+![Health explorer showing healthy states](../../om/manage//HealthyMonitors.gif "HealthyMonitors")  
   
 The following illustration shows some monitors in a critical state:  
   
-![Critical monitors in Health Explorer](../../om/manage/media/CriticalMonitors.gif "CriticalMonitors")  
+![Critical monitors in Health Explorer](../../om/manage//CriticalMonitors.gif "CriticalMonitors")  
   
 Click a monitor to view more information about the monitor in the **Details** pane. The **State Change Events** tab in the **Details** pane shows you when the state for the monitor changed, and the details give you information for the context of the state change:  
   
-![Details on State Change Events tab](../../om/manage/media/StateChangeEvents.gif "StateChangeEvents")  
+![Details on State Change Events tab](../../om/manage//StateChangeEvents.gif "StateChangeEvents")  
   
 ## See Also  
 [How Heartbeats Work in Operations Manager](../../om/manage/How-Heartbeats-Work-in-Operations-Manager.md)  

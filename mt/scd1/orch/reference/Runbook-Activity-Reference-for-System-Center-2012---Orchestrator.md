@@ -12,18 +12,18 @@ ms.assetid: b0ad7005-07a6-48bf-8690-b9885d6bb9a2
 manager:cfreeman
 ---
 # Runbook Activity Reference for System Center 2012 - Orchestrator
-[!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] includes an extensive set of standard activities that enable you to create runbooks to automate your data center procedures. This guide contains detailed information about using each of the standard activities  
+[!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] includes an extensive set of standard activities that enable you to create runbooks to automate your data center procedures. This guide contains detailed information about using each of the standard activities  
   
 ## Standard Activities  
   
 -   [Standard Activities](../../orch/reference/Standard-Activities.md)  
   
-    Describes all of the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] Standard Activities.  
+    Describes all of the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] Standard Activities.  
   
 ## Privacy  
-[!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] is committed to protecting your privacy, while delivering software that brings you the performance, power, and convenience you want. [!INCLUDE[crdefault](../../orch/reference/includes/crdefault_md.md)] the [Privacy Statement for System Center 2012 \- Orchestrator](assetId:///bab5f7fc-05bf-4c8c-ac49-53d60d3c1cd6).  
+[!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] is committed to protecting your privacy, while delivering software that brings you the performance, power, and convenience you want. [!INCLUDE[crdefault](../../orch/reference//crdefault_md.md)] the [Privacy Statement for System Center 2012 \- Orchestrator](assetId:///bab5f7fc-05bf-4c8c-ac49-53d60d3c1cd6).  
   
-[!INCLUDE[crabout](../../orch/deploy/includes/crabout_md.md)] the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] Release Candidate, see [Release Notes for System Center 2012 - Orchestrator](../Topic/Release%20Notes%20for%20System%20Center%202012%20-%20Orchestrator.md).  
+[!INCLUDE[crabout](../../orch/deploy//crabout_md.md)] the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] Release Candidate, see [Release Notes for System Center 2012 - Orchestrator](../Topic/Release%20Notes%20for%20System%20Center%202012%20-%20Orchestrator.md).  
   
 ## Other resources for this product  
   

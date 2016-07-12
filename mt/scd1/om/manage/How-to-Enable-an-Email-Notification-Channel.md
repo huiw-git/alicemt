@@ -12,7 +12,7 @@ ms.assetid: eb68582d-fe83-4d79-9017-55673f7f65b9
 manager:cfreeman
 ---
 # How to Enable an Email Notification Channel
-To configure alert notifications for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that will send alert notifications to subscribers by using email.  
+To configure alert notifications for [!INCLUDE[om12long](../../om/manage//om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that will send alert notifications to subscribers by using email.  
   
 Before you begin, gather the following information:  
   

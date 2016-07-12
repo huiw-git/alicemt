@@ -12,7 +12,7 @@ ms.assetid: 93f9a932-d99d-41b2-ad0c-f5e179f1cccf
 manager:cfreeman
 ---
 # How to Enable a Text Message (SMS) Notification Channel
-To configure alert notifications for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that will send alert notifications to subscribers by using a Short Message Service \(SMS\) or text message.  
+To configure alert notifications for [!INCLUDE[om12long](../../om/manage//om12long_md.md)], your first task is to enable a notification channel. This topic describes how to configure a channel that will send alert notifications to subscribers by using a Short Message Service \(SMS\) or text message.  
   
 > [!NOTE]  
 > The modem used for SMS must support SMS Protocol Data Unit \(PDU\) mode.  

@@ -52,7 +52,7 @@ The **Runbook Audit History** tracks the changes to each activity in a runbook. 
 You can view the **Runbook Audit History** on the **Audit History** tab of the Runbook Designer. The entries for the currently selected runbook will be displayed. Double\-click an entry to open the **Details** dialog box where you can view a list of all activities that were part of the change. Select one of the entries to view the activity that was performed in addition to the old and new values of any properties that were changed.  
   
 ## <a name="Purge"></a>Purging Runbook Logs  
-The **Runbook Designer** provides a **Log Purge** feature. [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] log data can be purged on demand, or on a scheduled basis. A good practice is to schedule a log purge regularly during off\-peak hours to maintain the database.  
+The **Runbook Designer** provides a **Log Purge** feature. [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] log data can be purged on demand, or on a scheduled basis. A good practice is to schedule a log purge regularly during off\-peak hours to maintain the database.  
   
 > [!NOTE]  
 > When logs are purged, the data is deleted from Orchestration database and cannot be recovered.  
@@ -68,7 +68,7 @@ You can schedule the runbook logs to be purged on a regular basis by selecting f
 |Time|1:00 AM|  
 |Retain|Keep last 5000 entries|  
   
-The default log purge job purges all but the last 500 log entries per runbook. This means that if an [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] deployment had 20 runbooks, the default purge would keep the last 500 log entries for each runbook, for a maximum of 10,000 log entries for the database for all runbooks.  
+The default log purge job purges all but the last 500 log entries per runbook. This means that if an [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] deployment had 20 runbooks, the default purge would keep the last 500 log entries for each runbook, for a maximum of 10,000 log entries for the database for all runbooks.  
   
 You can continue to use these defaults or change the settings by using the following process in the Runbook Designer.  
   
@@ -141,7 +141,7 @@ The following process describes how to run this stored procedure by using the Mi
 3.  In the **Object Explorer**, expand **Databases**, and then click **Orchestrator**.  
   
     > [!NOTE]  
-    > If you used a different name for the [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] database, select that name.  
+    > If you used a different name for the [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] database, select that name.  
   
 4.  Expand **Programmability**, and then click **Stored Procedures**.  
   

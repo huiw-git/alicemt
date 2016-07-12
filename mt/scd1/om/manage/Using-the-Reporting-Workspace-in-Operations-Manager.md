@@ -12,7 +12,7 @@ ms.assetid: dbfffaab-d49c-42a5-bbb3-77cbeae9b841
 manager:cfreeman
 ---
 # Using the Reporting Workspace in Operations Manager
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] provides extensive reporting capabilities, including multiple report libraries that you can select from to customize reports for your specific requirements. Reports perform a query against the data warehouse database and return the results in an easy\-to\-read format.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] provides extensive reporting capabilities, including multiple report libraries that you can select from to customize reports for your specific requirements. Reports perform a query against the data warehouse database and return the results in an easy\-to\-read format.  
   
 > [!IMPORTANT]  
 > Users must be a member of the Report Operator Users role to run reports.  

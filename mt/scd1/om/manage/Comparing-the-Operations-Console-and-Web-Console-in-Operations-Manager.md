@@ -12,19 +12,19 @@ ms.assetid: dc90726f-0058-4a94-a78d-520df32b2b7e
 manager:cfreeman
 ---
 # Comparing the Operations Console and Web Console in Operations Manager
-[!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] operators use a console to view monitoring data. The consoles available are the Operations console and the web console. The Operations console allows you to perform all actions that your user role allows, while the web console displays only My Workspace and the Monitoring workspace.  
+[!INCLUDE[om12long](../../om/manage//om12long_md.md)] operators use a console to view monitoring data. The consoles available are the Operations console and the web console. The Operations console allows you to perform all actions that your user role allows, while the web console displays only My Workspace and the Monitoring workspace.  
   
 Both consoles share a similar layout:  
   
-![Diagram of the console panes](../../om/manage/media/Consoleframe.gif "Consoleframe")  
+![Diagram of the console panes](../../om/manage//Consoleframe.gif "Consoleframe")  
   
 Each navigation button opens a specific workspace, such as Monitoring or Administration. In the Operations console, the following navigation buttons may be available, depending on the user role you are assigned:  
   
-![Navigation buttons in Operations Console](../../om/manage/media/OpsConsoleNavButtons.gif "OpsConsoleNavButtons")  
+![Navigation buttons in Operations Console](../../om/manage//OpsConsoleNavButtons.gif "OpsConsoleNavButtons")  
   
 In the web console, only Monitoring and My Workspace are available:  
   
-![Navigation buttons in Web console](../../om/manage/media/Webconsolenavbuttons.gif "Webconsolenavbuttons")  
+![Navigation buttons in Web console](../../om/manage//Webconsolenavbuttons.gif "Webconsolenavbuttons")  
   
 > [!TIP]  
 > In the Operations console, you can change the navigation buttons into small icons and increase the space available in the navigation pane by clicking on the top border of the navigation buttons and dragging downward. You can also hide and reveal the navigation and task panes.  

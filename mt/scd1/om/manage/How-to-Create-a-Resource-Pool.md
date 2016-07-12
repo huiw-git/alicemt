@@ -12,7 +12,7 @@ ms.assetid: 1e1add1e-56df-435b-9b27-ba6eee74ace9
 manager:cfreeman
 ---
 # How to Create a Resource Pool
-A new feature in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] is the *resource pool*. A resource pool is a collection of management servers used to distribute work amongst themselves and take over work from a failed member.  
+A new feature in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] is the *resource pool*. A resource pool is a collection of management servers used to distribute work amongst themselves and take over work from a failed member.  
   
 You can use resource pools for:  
   
@@ -22,7 +22,7 @@ You can use resource pools for:
   
 Resource pools ensure the continuity of monitoring by providing multiple management servers that can take on monitoring workflows if one of the management servers becomes unavailable. You can create resource pools for specific purposes. For example, you might create a resource pool of management servers that are located in the same geographic area to provide network device monitoring.  
   
-When [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] is installed, three resource pools are created: All Management Servers Resource Pool, Notifications Resource Pool, and AD Assignment Resource Pool. All management servers are automatically members of these resource pools. For information about removing a management server from the Notifications Resource Pool and AD Assignment Resource Pool, see [Modifying Resource Pool Membership](../../om/manage/How-to-Create-a-Resource-Pool.md#bkmk_modifyingresourcepoolmembership).  
+When [!INCLUDE[om12short](../../om/manage//om12short_md.md)] is installed, three resource pools are created: All Management Servers Resource Pool, Notifications Resource Pool, and AD Assignment Resource Pool. All management servers are automatically members of these resource pools. For information about removing a management server from the Notifications Resource Pool and AD Assignment Resource Pool, see [Modifying Resource Pool Membership](../../om/manage/How-to-Create-a-Resource-Pool.md#bkmk_modifyingresourcepoolmembership).  
   
 > [!NOTE]  
 > The membership of the All Management Servers Resource Pool is read\-only.  

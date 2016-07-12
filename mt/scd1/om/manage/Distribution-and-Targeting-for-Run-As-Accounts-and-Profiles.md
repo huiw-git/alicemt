@@ -16,7 +16,7 @@ Run As accounts are associated with Run As profiles to provide the necessary cre
   
 When you configure a Run As profile, you select the Run As accounts you want to associate with the Run As profile. When you create that association, you specify the class, group, or object that the Run As account will be used to manage, as shown in the following image. This establishes the target of the Run As account.  
   
-![Select target for Run As profile and account](../../om/manage/media/RunAsTarget.gif "RunAsTarget")  
+![Select target for Run As profile and account](../../om/manage//RunAsTarget.gif "RunAsTarget")  
   
 Distribution is an attribute of a Run As account in which you specify which computers will receive the Run As account credentials. You can choose to distribute the Run As account credentials to every agent\-managed computer or only to selected computers.  
   
@@ -35,7 +35,7 @@ When you select **A selected class, group, or object**, you can limit the use of
 > The Run As account credentials must be distributed to…  
   
 ## Comparing More Secure and Less Secure Distribution  
-[!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] distributes the Run As account credentials to either all agent\-managed computers \(the less secure option\) or only to computers that you specify \(the more secure option\). If Operations Manager automatically distributed the Runs As account according to discovery a security risk would be introduced into your environment as illustrated in the following example. This is why an automatic distribution option was not included in Operations Manager.  
+[!INCLUDE[om12short](../../om/manage//om12short_md.md)] distributes the Run As account credentials to either all agent\-managed computers \(the less secure option\) or only to computers that you specify \(the more secure option\). If Operations Manager automatically distributed the Runs As account according to discovery a security risk would be introduced into your environment as illustrated in the following example. This is why an automatic distribution option was not included in Operations Manager.  
   
 For example, Operations Manager identifies a computer as hosting SQL Server 2005 based on the presence of a registry key. It is possible to create that same registry key on a computer that is not actually running an instance of SQL Server 2005. If Operations Manager were to automatically distribute the credentials to all agent managed computers that have been identified as SQL Server 2005 computers, then the credentials would be sent to the imposter SQL Server and they would be available to someone with administrator rights on that server.  
   

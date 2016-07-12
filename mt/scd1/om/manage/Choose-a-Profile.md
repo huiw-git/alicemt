@@ -12,9 +12,9 @@ ms.assetid: beca23da-0eb7-4f85-93a6-be48e0dd68ff
 manager:cfreeman
 ---
 # Choose a Profile
-Before you start the Create User Role Wizard, select one profile that applies to the user role you are creating. A profile determines the actions that a user can perform. Profiles have a defined set of rights and you cannot add or remove any of these assigned rights. When creating user roles for operators and other users, select the profile that most closely matches the responsibilities of the group of users in your [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] deployment.  
+Before you start the Create User Role Wizard, select one profile that applies to the user role you are creating. A profile determines the actions that a user can perform. Profiles have a defined set of rights and you cannot add or remove any of these assigned rights. When creating user roles for operators and other users, select the profile that most closely matches the responsibilities of the group of users in your [!INCLUDE[om12long](../../om/manage//om12long_md.md)] deployment.  
   
-[!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] can monitor many types of applications in the enterprise. As the Operations Manager administrator, you want to limit access to monitoring data. Role\-based security allows you to limit privileges that users have for various aspects of Operations Manager.  
+[!INCLUDE[om12short](../../om/manage//om12short_md.md)] can monitor many types of applications in the enterprise. As the Operations Manager administrator, you want to limit access to monitoring data. Role\-based security allows you to limit privileges that users have for various aspects of Operations Manager.  
   
 > [!IMPORTANT]  
 > Adding a machine account to a user role member allows all services on that computer to have software development kit \(SDK\) access. It is recommended that you do not add a machine account to any user role.  

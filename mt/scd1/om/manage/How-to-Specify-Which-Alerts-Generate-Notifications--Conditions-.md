@@ -14,7 +14,7 @@ manager:cfreeman
 # How to Specify Which Alerts Generate Notifications (Conditions)
 When you create a subscription to be notified of Operations Manager alerts, you must specify the criteria or conditions that determine the alerts that will generate a notification. The following illustration shows the conditions you can choose from.  
   
-![List of conditions for alerts](../../om/manage/media/OM12_AlertConditions.gif "OM12_AlertConditions")  
+![List of conditions for alerts](../../om/manage//OM12_AlertConditions.gif "OM12_AlertConditions")  
   
 When you select a condition, it is added to the **Criteria description**. In the **Criteria description** box, the word **specific** is blue and underlined, and is a placeholder for the value for the condition. Click **specific** to set the value for that condition.  
   

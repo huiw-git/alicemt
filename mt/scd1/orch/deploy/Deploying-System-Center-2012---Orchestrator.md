@@ -12,21 +12,21 @@ ms.assetid: 1715a3e0-a217-42de-b916-d13b881de346
 manager:cfreeman
 ---
 # Deploying System Center 2012 - Orchestrator
-[!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] is a workflow management solution for the data center. It enables you to automate the creation, monitoring, and deployment of resources in your environment. This document describes [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)] planning and deployment.  
+[!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] is a workflow management solution for the data center. It enables you to automate the creation, monitoring, and deployment of resources in your environment. This document describes [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)] planning and deployment.  
   
 ## Deployment topics  
   
 -   [Deployment Overview](../../orch/deploy/Deployment-Overview.md)  
   
-    Provides a brief overview of the steps to deploy [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)].  
+    Provides a brief overview of the steps to deploy [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)].  
   
 -   [Plan Your Orchestrator Deployment](../../orch/deploy/Plan-Your-Orchestrator-Deployment.md)  
   
-    Provides planning guidelines and best practices for your [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] deployment.  
+    Provides planning guidelines and best practices for your [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] deployment.  
   
 -   [Install Orchestrator](../../orch/deploy/Install-Orchestrator.md)  
   
-    Provides step\-by\-step instructions to install [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)].  
+    Provides step\-by\-step instructions to install [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)].  
   
 -   [Perform Post-Installation Tasks](../../orch/deploy/Perform-Post-Installation-Tasks.md)  
   

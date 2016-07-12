@@ -12,7 +12,7 @@ ms.assetid: 776718ed-aaae-44ef-a5ef-1065ebe47e96
 manager:cfreeman
 ---
 # Diagnostic and Recovery Tasks
-Monitors in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] can do more than notify you of problems by sending an alert. Some monitors also provide diagnostic and recovery tasks to help investigate and resolve those problems.  
+Monitors in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] can do more than notify you of problems by sending an alert. Some monitors also provide diagnostic and recovery tasks to help investigate and resolve those problems.  
   
 A task is a script or other executable code that runs either on the computer running the Operations console or on the server, client, or device that is being managed. Tasks can potentially perform any kind of activity, including restarting a failed application and deleting files.  
   

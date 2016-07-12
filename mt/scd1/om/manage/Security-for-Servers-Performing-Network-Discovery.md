@@ -19,7 +19,7 @@ You must ensure the following firewall configuration for network monitoring:
 -   If your network devices are using a port other than 161 and 162, you need to open bi\-directional UDP traffic on these ports as well.  
   
 > [!IMPORTANT]  
-> Note for customers who used EMC Solutions for Microsoft System Center Operations Manager: EMC Smarts included tools to create an isolation layer to prevent denial of service attacks. In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you need to protect your network against packet storms by using external tools.  
+> Note for customers who used EMC Solutions for Microsoft System Center Operations Manager: EMC Smarts included tools to create an isolation layer to prevent denial of service attacks. In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], you need to protect your network against packet storms by using external tools.  
   
 ## See Also  
 [Monitoring Networks by Using Operations Manager](../../om/manage/Monitoring-Networks-by-Using-Operations-Manager.md)  

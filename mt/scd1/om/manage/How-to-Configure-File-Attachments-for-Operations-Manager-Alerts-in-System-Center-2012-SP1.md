@@ -12,12 +12,12 @@ ms.assetid: 162cbd87-6be8-43b8-b131-6bedc5f80e59
 manager:cfreeman
 ---
 # How to Configure File Attachments for Operations Manager Alerts in System Center 2012 SP1
-[!INCLUDE[sc2012sp1notetopic](../../om/manage/includes/sc2012sp1notetopic_md.md)]  
+[!INCLUDE[sc2012sp1notetopic](../../om/manage//sc2012sp1notetopic_md.md)]  
   
-Some management packs for [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] attach additional information to alerts. This information is stored as files on the network share, and it is updated by workflows that run on the management servers. Only management servers write to this network share. Other computers in the management group can add attachments to alerts. They do so by uploading files to the management server first. Therefore, these other computers do not need direct access to the file share. Files are uploaded to the management server using the same secure [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] channel that agents use to communicate with the management servers. A separate Run As profile controls the credentials that the management servers use to access the network file share.  
+Some management packs for [!INCLUDE[om12short](../../om/manage//om12short_md.md)] attach additional information to alerts. This information is stored as files on the network share, and it is updated by workflows that run on the management servers. Only management servers write to this network share. Other computers in the management group can add attachments to alerts. They do so by uploading files to the management server first. Therefore, these other computers do not need direct access to the file share. Files are uploaded to the management server using the same secure [!INCLUDE[om12short](../../om/manage//om12short_md.md)] channel that agents use to communicate with the management servers. A separate Run As profile controls the credentials that the management servers use to access the network file share.  
   
 > [!IMPORTANT]  
-> As a preliminary action, you must configure file attachments for [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] alerts in [!INCLUDE[sc2012sp1_long](../../om/manage/includes/sc2012sp1_long_md.md)]. This will enable integration with Team Foundation Server \(TFS\), IntelliTrace Historical Profiling, sharing Application Performance Monitoring events with developers, Global Service Monitor web tests, and any other scenarios that require files to be associated with [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] alerts.  
+> As a preliminary action, you must configure file attachments for [!INCLUDE[om12short](../../om/manage//om12short_md.md)] alerts in [!INCLUDE[sc2012sp1_long](../../om/manage//sc2012sp1_long_md.md)]. This will enable integration with Team Foundation Server \(TFS\), IntelliTrace Historical Profiling, sharing Application Performance Monitoring events with developers, Global Service Monitor web tests, and any other scenarios that require files to be associated with [!INCLUDE[om12short](../../om/manage//om12short_md.md)] alerts.  
   
 ### To configure file attachments for Operations Manager alerts  
   
@@ -28,21 +28,21 @@ Some management packs for [!INCLUDE[om12short](../../om/manage/includes/om12shor
   
 2.  Create an active directory account that has read\/write permission to the Alert Attachment network file share. Make this account a local administrator on each management server that you plan to use for synchronizing with Team Foundation Server. Make sure that the disk space quota on the network file share does not restrict this account from writing a large amount of information. This account will be used to retrieve the files that are uploaded to the management server and will place those files on the Alert Attachment network file share.  
   
-3.  In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click the **Administration** button, click **Management Packs**, and then in the **Tasks** pane, click **Import Management Packs**. In the Import Management Packs Wizard, click **Add**, and then click **Add from disk**. Import the Alert Attachment Management Pack \(Microsoft.SystemCenter.AlertAttachment.mpb\) from the ManagementPacks folder on the [!INCLUDE[sc2012sp1_short](../../om/manage/includes/sc2012sp1_short_md.md)][!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] installation media. Click **Install**, and then click **Close**.  
+3.  In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click the **Administration** button, click **Management Packs**, and then in the **Tasks** pane, click **Import Management Packs**. In the Import Management Packs Wizard, click **Add**, and then click **Add from disk**. Import the Alert Attachment Management Pack \(Microsoft.SystemCenter.AlertAttachment.mpb\) from the ManagementPacks folder on the [!INCLUDE[sc2012sp1_short](../../om/manage//sc2012sp1_short_md.md)][!INCLUDE[om12short](../../om/manage//om12short_md.md)] installation media. Click **Install**, and then click **Close**.  
   
-4.  Configure the Run As profile to use the account that you created for file attachments. In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Administration**, expand **Run As Configuration**, and then click **Profiles**. Double\-click **Alert Attachment Management Account**. Locate and configure the Alert Attachment Management Account for all targeted objects. For more information about using Run As profiles, see [Managing Run As Accounts and Profiles](../../om/manage/Managing-Run-As-Accounts-and-Profiles.md).  
+4.  Configure the Run As profile to use the account that you created for file attachments. In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Administration**, expand **Run As Configuration**, and then click **Profiles**. Double\-click **Alert Attachment Management Account**. Locate and configure the Alert Attachment Management Account for all targeted objects. For more information about using Run As profiles, see [Managing Run As Accounts and Profiles](../../om/manage/Managing-Run-As-Accounts-and-Profiles.md).  
   
     **The location of the Alert Attachment Management Account to be configured**  
   
-    ![Highlight Run As Profile to configure](../../om/manage/media/DevOps_ConfigFileAttach_1AcctToConfig.gif "DevOps_ConfigFileAttach_1AcctToConfig")  
+    ![Highlight Run As Profile to configure](../../om/manage//DevOps_ConfigFileAttach_1AcctToConfig.gif "DevOps_ConfigFileAttach_1AcctToConfig")  
   
-5.  Enable the Alert Attachment discovery rule, and configure the override to point to the Alert Attachment file share location. In the [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Object Discoveries**. To set the object discovery scope, click **Scope**, and then click **View all targets**. Locate and select **Alert Attachment File Share**. Click **OK**.  
+5.  Enable the Alert Attachment discovery rule, and configure the override to point to the Alert Attachment file share location. In the [!INCLUDE[om12short](../../om/manage//om12short_md.md)] console, click **Authoring**, expand **Management Pack Objects**, and then click **Object Discoveries**. To set the object discovery scope, click **Scope**, and then click **View all targets**. Locate and select **Alert Attachment File Share**. Click **OK**.  
   
     In the list of scoped objects, expand **Discovered Type: Alert Attachment File Share**, right\-click **Alert attachment file share discovery**, click **Overrides**, click **Override the Object Discovery**, and then click **For all objects of class: Collection Server**.  
   
     **Override menus**  
   
-    ![Configure override for Alert Attachment file share](../../om/manage/media/DevOps_ConfigFileAttach_2.gif "DevOps_ConfigFileAttach_2")  
+    ![Configure override for Alert Attachment file share](../../om/manage//DevOps_ConfigFileAttach_2.gif "DevOps_ConfigFileAttach_2")  
   
     On the **Override Properties** page, set **Enabled** to **True**, and then set **Path to the alert attachment file share** to the location of the network file share you created.  
   
@@ -53,5 +53,5 @@ Some management packs for [!INCLUDE[om12short](../../om/manage/includes/om12shor
   
     **Override Properties page**  
   
-    ![Override Properties page](../../om/manage/media/DevOps_ConfigFileAttach_3.gif "DevOps_ConfigFileAttach_3")  
+    ![Override Properties page](../../om/manage//DevOps_ConfigFileAttach_3.gif "DevOps_ConfigFileAttach_3")  
   

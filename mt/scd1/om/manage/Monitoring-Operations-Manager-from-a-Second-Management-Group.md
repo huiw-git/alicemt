@@ -12,7 +12,7 @@ ms.assetid: 4e16ee23-917d-4c0c-91c9-3ee9ebd64b7c
 manager:cfreeman
 ---
 # Monitoring Operations Manager from a Second Management Group
-Businesses using [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] in multiple management groups sometimes want to monitor one management group from another management group. This topic provides some tips for monitoring one management group \(management group A\) from a second management group \(management group B\).  
+Businesses using [!INCLUDE[om12long](../../om/manage//om12long_md.md)] in multiple management groups sometimes want to monitor one management group from another management group. This topic provides some tips for monitoring one management group \(management group A\) from a second management group \(management group B\).  
   
 -   You can install an agent on management servers in management group A from management group B. If you install the agent manually, configure the agent to report to a management server in management group B.  
   

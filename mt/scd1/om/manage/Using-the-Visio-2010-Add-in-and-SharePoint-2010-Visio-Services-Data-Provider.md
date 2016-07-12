@@ -12,23 +12,23 @@ ms.assetid: 225d3776-a502-485d-a7ea-096b14f590a6
 manager:cfreeman
 ---
 # Using the Visio 2010 Add-in and SharePoint 2010 Visio Services Data Provider
-The Visio 2010 Add\-in for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] combines the strengths of two applications widely used in enterprise IT to simplify the creation of customized dashboards that show the health of an environment. The Visio Add\-in lets you create diagrams that show objects by geography on a map, by location in a data center or building, by role in a logical view of an application, or by topology for complex distributed applications such as Microsoft Exchange Server or technologies such as Active Directory Domain Services.  
+The Visio 2010 Add\-in for [!INCLUDE[om12long](../../om/manage//om12long_md.md)] combines the strengths of two applications widely used in enterprise IT to simplify the creation of customized dashboards that show the health of an environment. The Visio Add\-in lets you create diagrams that show objects by geography on a map, by location in a data center or building, by role in a logical view of an application, or by topology for complex distributed applications such as Microsoft Exchange Server or technologies such as Active Directory Domain Services.  
   
-The SharePoint 2010 Visio Services Data Provider for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] enables you to take the customized dashboards you create with the Visio 2010 Add\-in and include them in SharePoint 2010 Web sites. These Web\-based dashboards are updated and provide access to instant status information through the familiar SharePoint browser\-based experience.  
+The SharePoint 2010 Visio Services Data Provider for [!INCLUDE[om12long](../../om/manage//om12long_md.md)] enables you to take the customized dashboards you create with the Visio 2010 Add\-in and include them in SharePoint 2010 Web sites. These Web\-based dashboards are updated and provide access to instant status information through the familiar SharePoint browser\-based experience.  
   
 The Visio 2010 Add\-in and SharePoint 2010 Visio Services Data Provider have the following features:  
   
--   Distributed applications exported from [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] as Visio documents automatically show live health state information on the exported objects when opened in Microsoft Office Visio.  
+-   Distributed applications exported from [!INCLUDE[om12short](../../om/manage//om12short_md.md)] as Visio documents automatically show live health state information on the exported objects when opened in Microsoft Office Visio.  
   
 -   You can easily create new Visio documents and link shapes to any managed object \(such as a computer, database, Web site, or perspective\) to show the current health state.  
   
--   You can automatically link entire existing Visio documents to the computer and to network devices managed by [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] by matching computer names or IP addresses.  
+-   You can automatically link entire existing Visio documents to the computer and to network devices managed by [!INCLUDE[om12short](../../om/manage//om12short_md.md)] by matching computer names or IP addresses.  
   
 -   Health states can be automatically refreshed in Visio documents. You can use this option along with Visio’s full\-screen view to create dashboard views suitable for use as a summary display in a data center control room.  
   
--   Predefined data graphics enable you to switch from [!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] health icons to the shape color for health state.  
+-   Predefined data graphics enable you to switch from [!INCLUDE[om12short](../../om/manage//om12short_md.md)] health icons to the shape color for health state.  
   
--   Health states can be automatically refreshed in published Visio documents that are hosted in SharePoint 2010 document libraries, when the Visio Services data provider for [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] is installed and configured on the SharePoint 2010 server farm.  
+-   Health states can be automatically refreshed in published Visio documents that are hosted in SharePoint 2010 document libraries, when the Visio Services data provider for [!INCLUDE[om12long](../../om/manage//om12long_md.md)] is installed and configured on the SharePoint 2010 server farm.  
   
 The following topics provide information about how to install, configure, and use the Visio Add\-in and the SharePoint 2010 Visio Services Data Provider.  
   

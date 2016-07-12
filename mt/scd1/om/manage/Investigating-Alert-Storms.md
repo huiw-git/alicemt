@@ -12,7 +12,7 @@ ms.assetid: 3c27434a-ea3a-45b6-b8ce-3821222aba80
 manager:cfreeman
 ---
 # Investigating Alert Storms
-A large and sudden increase in the number of alerts is called an alert storm. An alert storm can be a symptom of massive changes of some kind within your management group, such as the catastrophic failure of networks. An alert storm can also be a symptom of configuration issues within [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)].  
+A large and sudden increase in the number of alerts is called an alert storm. An alert storm can be a symptom of massive changes of some kind within your management group, such as the catastrophic failure of networks. An alert storm can also be a symptom of configuration issues within [!INCLUDE[om12long](../../om/manage//om12long_md.md)].  
   
 Installing new or updated management packs can give rise to an alert storm. Monitors in a management pack begin working as soon as the management pack has been imported. Use best practices in importing management packs to minimize alert storms.  
   
@@ -21,7 +21,7 @@ For general, real\-time monitoring of alerts, use the **Active Alerts** view. Ma
   
 Check for large numbers of alerts when your network undergoes changes. Monitor closely when you install a new management pack.  
   
-[!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] offers reports that can be useful in identifying alert storms. From an Operations console with access to a reporting server, look at the **Microsoft Generic Report Library**. The reports **Most Common Alerts** and **Most Common Events** help identify high\-volume alerts.  
+[!INCLUDE[om12short](../../om/manage//om12short_md.md)] offers reports that can be useful in identifying alert storms. From an Operations console with access to a reporting server, look at the **Microsoft Generic Report Library**. The reports **Most Common Alerts** and **Most Common Events** help identify high\-volume alerts.  
   
 ## Modifying Monitors and Rules  
 If you are getting a large number of alerts that do not point to issues in your managed systems, you need to modify the monitors or rules that create those alerts.  
@@ -33,7 +33,7 @@ Modify the monitor using overrides. The procedure for overriding rules is the sa
 ## About Suppressed Alerts  
 Rules offer the option of suppressing duplicate alerts. A suppressed alert is not displayed in the Operations console. Each suppressed alert increments the repeat count for the alert that is displayed. You can examine the repeat count in the properties for an alert.  
   
-[!INCLUDE[om12short](../../om/manage/includes/om12short_md.md)] suppresses only duplicate alerts as defined by the alert suppression criteria. Fields stated in the suppression criteria must be identical for the alert to be considered a duplicate and suppressed. An alert must be created by the same rule and be unresolved to be considered a duplicate.  
+[!INCLUDE[om12short](../../om/manage//om12short_md.md)] suppresses only duplicate alerts as defined by the alert suppression criteria. Fields stated in the suppression criteria must be identical for the alert to be considered a duplicate and suppressed. An alert must be created by the same rule and be unresolved to be considered a duplicate.  
   
 ## See Also  
 [How Heartbeats Work in Operations Manager](../../om/manage/How-Heartbeats-Work-in-Operations-Manager.md)  

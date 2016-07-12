@@ -12,7 +12,7 @@ ms.assetid: f4bb384b-146b-4e6b-b61e-9242189c9635
 manager:cfreeman
 ---
 # Activities
-In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], activities are the building blocks of runbooks. In general, individual activities perform three actions:  
+In [!INCLUDE[orchlong](../../orch/deploy//orchlong_md.md)], activities are the building blocks of runbooks. In general, individual activities perform three actions:  
   
 -   Access Published Data  
   
@@ -20,13 +20,13 @@ In [!INCLUDE[orchlong](../../orch/deploy/includes/orchlong_md.md)], activities a
   
 -   Publish new data  
   
-All activities, regardless of origin or type, share common behaviors. This section describes the types of activities available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)] and their common behaviors.  
+All activities, regardless of origin or type, share common behaviors. This section describes the types of activities available in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)] and their common behaviors.  
   
 ## Activities  
   
 -   [Standard Activities_2](../../orch/manage/Standard-Activities_2.md)  
   
-    Describes standard activities available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)].  
+    Describes standard activities available in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)].  
   
 -   [Monitoring Activities](../../orch/manage/Monitoring-Activities.md)  
   
@@ -34,7 +34,7 @@ All activities, regardless of origin or type, share common behaviors. This secti
   
 -   [Customized Activities](../../orch/manage/Customized-Activities.md)  
   
-    Describes customization options available in [!INCLUDE[orchshort](../../om/manage/includes/orchshort_md.md)].  
+    Describes customization options available in [!INCLUDE[orchshort](../../om/manage//orchshort_md.md)].  
   
 -   [Common Activity Properties](../../orch/manage/Common-Activity-Properties.md)  
   

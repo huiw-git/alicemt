@@ -12,7 +12,7 @@ ms.assetid: e468129e-f883-4c05-8d95-6afad5396868
 manager:cfreeman
 ---
 # Implementing User Roles
-In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], user roles are the method you use to assign the rights needed to access monitoring data and perform actions. User roles are designed to apply to groups of users that need access to and perform actions on the same group of monitored objects. By default, only the Operations Manager Administrator account has the right to view and act on monitoring data. All other users must have a user role assigned in order to view or act on monitoring data.  
+In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], user roles are the method you use to assign the rights needed to access monitoring data and perform actions. User roles are designed to apply to groups of users that need access to and perform actions on the same group of monitored objects. By default, only the Operations Manager Administrator account has the right to view and act on monitoring data. All other users must have a user role assigned in order to view or act on monitoring data.  
   
 User roles are created using the Create User Role Wizard. In this wizard, you configure which Active Directory security groups are assigned this user role, which Operations Manager group or groups of monitored objects this user can access, and which tasks and views this user role can access.  
   

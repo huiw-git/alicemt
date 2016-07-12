@@ -12,7 +12,7 @@ ms.assetid: 0f6934ea-1998-4bd5-987a-41cf4e24d408
 manager:cfreeman
 ---
 # How to Customize Message Content for Notifications
-In [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)], you can customize the format that will be used for messages that notify you of alerts. The format of an alert notification is determined by the channel by which the notification is sent. Each channel type has a default format, as shown in the following examples.  
+In [!INCLUDE[om12long](../../om/manage//om12long_md.md)], you can customize the format that will be used for messages that notify you of alerts. The format of an alert notification is determined by the channel by which the notification is sent. Each channel type has a default format, as shown in the following examples.  
   
 > [!NOTE]  
 > The command channel type is not mentioned because it generates a command rather than a notification message.  
@@ -35,7 +35,7 @@ You can change the format on the **Format** page of the channel type wizard when
   
 4.  Click the button to the right of the box to display the information you can add to the subject or message for notifications, as shown in the following illustration.  
   
-    ![Options for notification messages](../../om/manage/media/NotificationFormatOptions.gif "NotificationFormatOptions")  
+    ![Options for notification messages](../../om/manage//NotificationFormatOptions.gif "NotificationFormatOptions")  
   
 5.  Click any item in that list to add the corresponding variable to the notification message. For example, if you click **Alert Severity**, the following variable will be added to the box:  
   

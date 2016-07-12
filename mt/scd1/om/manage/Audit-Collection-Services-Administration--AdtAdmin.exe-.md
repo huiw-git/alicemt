@@ -12,7 +12,7 @@ ms.assetid: 4d469e19-e42e-4bdc-bd78-f573fb76d12f
 manager:cfreeman
 ---
 # Audit Collection Services Administration (AdtAdmin.exe)
-The primary tool for managing Audit Collection Services \(ACS\) in [!INCLUDE[om12long](../../om/manage/includes/om12long_md.md)] is a command\-line tool, AdtAdmin.exe, which is run locally on an ACS collector. You can use AdtAdmin to view current configurations and change the default configurations that apply to the ACS collector and ACS forwarders. AdtAdmin also allows you to apply filters that limit the events that are stored in the ACS database. These filters are formatted as Windows Management Instrumentation \(WMI\) Query Language \(WQL\) queries. \(WQL is a subset of the American National Standards Institute Structured Query Language \(ANSI SQL\) with minor semantic changes to support WMI.\)  
+The primary tool for managing Audit Collection Services \(ACS\) in [!INCLUDE[om12long](../../om/manage//om12long_md.md)] is a command\-line tool, AdtAdmin.exe, which is run locally on an ACS collector. You can use AdtAdmin to view current configurations and change the default configurations that apply to the ACS collector and ACS forwarders. AdtAdmin also allows you to apply filters that limit the events that are stored in the ACS database. These filters are formatted as Windows Management Instrumentation \(WMI\) Query Language \(WQL\) queries. \(WQL is a subset of the American National Standards Institute Structured Query Language \(ANSI SQL\) with minor semantic changes to support WMI.\)  
   
 ## AdtAdmin Syntax  
 AdtAdmin has 12 parameters, each of which has a few to several subparameters. The general syntax of AdtAdmin is as follows:  
