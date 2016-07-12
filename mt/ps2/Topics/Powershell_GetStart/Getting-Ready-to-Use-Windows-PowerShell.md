@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6dc7052d-cc5a-4220-950f-98f963a2b587
+manager:stevenka
 ---
 # Getting Ready to Use Windows PowerShell
 When [!INCLUDE[wps_2](../../Topics/Powershell_GetStart/includes/wps_2_md.md)] is installed and started, consider the following setup options. You can perform these tasks at any time.

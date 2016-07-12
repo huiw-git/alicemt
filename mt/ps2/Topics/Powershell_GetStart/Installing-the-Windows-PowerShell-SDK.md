@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c3636b45-61aa-4720-85f0-58312c4fc8f9
-manager:Msmbaldwin
+manager:mbaldwin
 ---
 # Installing the Windows PowerShell SDK
 <?xml version="1.0" encoding="utf-8"?>

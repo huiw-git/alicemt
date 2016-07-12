@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 57125436-3d1e-4e7f-b5c4-8f0ecb49d642
+manager:stevenka
 ---
 # Starting Windows PowerShell on Earlier Versions of Windows
 This section explains how to start [!INCLUDE[wps_2](../../Topics/Powershell_GetStart/includes/wps_2_md.md)] and [!INCLUDE[mshgraphicalhost](../../Topics/Powershell_GetStart/includes/mshgraphicalhost_md.md)] on [!INCLUDE[win7_client_firstref](../../Topics/Powershell_GetStart/includes/win7_client_firstref_md.md)], [!INCLUDE[win7_server_firstref](../../Topics/Powershell_GetStart/includes/win7_server_firstref_md.md)], and [!INCLUDE[lserver](../../Topics/Powershell_CmdLineHlp/includes/lserver_md.md)]. It also explains how to enable the optional feature for [!INCLUDE[mshgraphicalhostshort](../../Topics/Powershell_GetStart/includes/mshgraphicalhostshort_md.md)] in [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)] on [!INCLUDE[win7_server_firstref](../../Topics/Powershell_GetStart/includes/win7_server_firstref_md.md)] and [!INCLUDE[lserver](../../Topics/Powershell_CmdLineHlp/includes/lserver_md.md)].

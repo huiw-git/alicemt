@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6d1d3c75-3be4-4fc9-8805-ca9b2c454d42
+manager:stevenka
 ---
 # Windows PowerShell System Requirements
 This topic lists the system requirements for [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)] and [!INCLUDE[psversion4](../../Topics/Powershell_GetStart/includes/psversion4_md.md)], and for special features, such as [!INCLUDE[mshgraphicalhost](../../Topics/Powershell_GetStart/includes/mshgraphicalhost_md.md)], CIM commands, and workflows.

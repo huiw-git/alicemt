@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6dc6d8f9-8978-46e9-a92f-169af37e2817
+manager:stevenka
 ---
 # How to Debug Scripts in Windows PowerShell ISE
 This topic describes how to debug scripts on a local computer by using the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] visual debugging features.

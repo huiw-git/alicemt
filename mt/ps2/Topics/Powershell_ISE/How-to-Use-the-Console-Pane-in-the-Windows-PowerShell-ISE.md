@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 44d67705-87c7-4a69-a53e-6471fdebb757
+manager:stevenka
 ---
 # How to Use the Console Pane in the Windows PowerShell ISE
 The Console pane in the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] operates exactly like the stand\-alone [!INCLUDE[ise_2](../../Topics/Powershell_ISE/includes/ise_2_md.md)] console window.

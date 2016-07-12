@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 64fb5f37-90a8-4b89-9fc8-c6b8fcc0c7d0
+manager:stevenka
 ---
 # Using the Windows PowerShell ISE
 This topics in this document describe how you can use features of the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] to be more productive.

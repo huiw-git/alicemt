@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c10c18c7-9ece-4fd0-83dc-a19c53d4fd83
+manager:stevenka
 ---
 # How to Create a PowerShell Tab in Windows PowerShell ISE
 Tabs in the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] allow you to simultaneously create and use several execution environments within the same application. Each PowerShell tab corresponds to a separate execution environment or session.

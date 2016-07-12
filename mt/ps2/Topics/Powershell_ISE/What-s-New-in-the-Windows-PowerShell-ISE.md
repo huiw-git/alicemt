@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 38648d47-7c27-4b37-a40e-ad29948519c2
+manager:stevenka
 ---
 # What&#39;s New in the Windows PowerShell ISE
 This topic explains the new and updated features that have been introduced in versions of [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)].

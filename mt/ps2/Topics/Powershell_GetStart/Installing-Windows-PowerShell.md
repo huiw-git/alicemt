@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6fbb0409-5a54-48ec-95e6-7f8b7d8c4969
+manager:stevenka
 ---
 # Installing Windows PowerShell
 [!INCLUDE[win8_client_1](../../Topics/Powershell_GetStart/includes/win8_client_1_md.md)] and [!INCLUDE[win8_server_1](../../Topics/Powershell_GetStart/includes/win8_server_1_md.md)] include [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)] and all of its prerequisites. The system also includes the [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)] engine for backward compatibility with host programs that cannot use [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)].

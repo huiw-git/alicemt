@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 12b31890-2609-4a76-8c24-0ebe78084f50
+manager:stevenka
 ---
 # Starting the 32-Bit Version of Windows PowerShell
 When you install [!INCLUDE[mshshort](../../Topics/Powershell_GetStart/includes/mshshort_md.md)] on a 64\-bit computer, **Windows PowerShell (x86)**, a 32\-bit version of [!INCLUDE[mshshort](../../Topics/Powershell_GetStart/includes/mshshort_md.md)] is installed in addition to the 64\-bit version. When you run [!INCLUDE[mshshort](../../Topics/Powershell_GetStart/includes/mshshort_md.md)], the 64\-bit version runs by default.

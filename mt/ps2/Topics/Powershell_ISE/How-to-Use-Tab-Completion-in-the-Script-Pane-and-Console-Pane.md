@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3b752c3c-0bd0-4eca-a2d3-2d5a37fd9d84
+manager:stevenka
 ---
 # How to Use Tab Completion in the Script Pane and Console Pane
 Tab completion provides automatic Help when you are typing in the Script Pane or in the Command Pane. Use the following steps to take advantage of this feature:
