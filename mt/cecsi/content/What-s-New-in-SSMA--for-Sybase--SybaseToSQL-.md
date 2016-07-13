@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2be0cf8d-6dbe-443a-abbd-036249922205
+manager:lonnyb
 ---
 # What&#39;s New in SSMA  for Sybase (SybaseToSQL)
 This topic lists SSMA for Sybase changes in each release.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9bc6273f-e8b1-430b-81a5-14330a783562
+manager:lonnyb
 ---
 # Save Metadata  (MySQLToSQL)
 The **Save Metadata** dialog box prompts you to load metadata into your SSMA project before saving it. This lets you have a complete project file that you can use offline and send to other people, such as technical support personnel.  

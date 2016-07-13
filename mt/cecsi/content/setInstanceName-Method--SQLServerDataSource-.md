@@ -14,6 +14,7 @@ apilocation:
   - sqljdbc.jar
 apitype: Assembly
 ms.assetid: 58833726-3a7e-46be-ac0e-4c602d865262
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

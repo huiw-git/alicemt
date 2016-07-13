@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f305ebb6-7393-4a43-abb3-6332b739d690
+manager:b-tomb
 ---
 # What&#39;s New in SSMA  for Oracle (OracleToSQL)
 This topic lists SSMA for Oracle changes in each release.  

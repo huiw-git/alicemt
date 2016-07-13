@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 21e19635-340d-49bb-b39d-4867102fb5df
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -958,7 +959,7 @@ public class Program
  For more information, see the **allowEncryptedValueModifications** bulk copy option below, and [Using Always Encrypted with the JDBC Driver](../content/Using-Always-Encrypted-with-the-JDBC-Driver.md).  
   
 > [!IMPORTANT]  
->  Limitation of the Microsoft JDBC Driver 6.0 for SQL Server \(Preview\), when bulk copying data from a CSV file to encrypted columns:  
+>  Limitation of the Microsoft JDBC Driver 6.0 for SQL Server, when bulk copying data from a CSV file to encrypted columns:  
 >   
 >  Only the Transact\-SQL default string literal format is supported for the date and time types  
 >   

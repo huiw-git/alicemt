@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9a545233-1b0a-488a-a1ec-c33aa608dcc1
+manager:lonnyb
 ---
 # Project Settings(Loading System objects) (DB2ToSQL)
 The Loading System Objects page of the **Project Settings** dialog box lets you specify which DB2 system objects SSMA converts and loads into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

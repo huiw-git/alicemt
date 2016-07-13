@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 64dfe192-965c-49d4-a3ea-848fbc5f619f
+manager:lonnyb
 ---
 # Creating Script Files (AccessToSQL)
 The first step before launching the SSMA console application is to create the script file and if required creating the variable value file and the server connection file.  

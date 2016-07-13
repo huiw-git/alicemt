@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_cancel
 apitype: NA
 ms.assetid: 75798c9b-f711-445d-9b8f-ba4d405ca50a
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

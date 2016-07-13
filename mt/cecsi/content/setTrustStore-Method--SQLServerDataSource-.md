@@ -14,6 +14,7 @@ apilocation:
   - setTrustStore Method (SQLServerDataSource)
 apitype: Assembly
 ms.assetid: bab5485d-4547-426c-adbe-44e2b5702d1d
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

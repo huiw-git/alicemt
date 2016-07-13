@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 apitype: COM
 ms.assetid: 6efe8b5d-a2d5-43a9-a5ea-f9244f8d4ec9
+manager:sonalm
 ---
 # Ordinal Property (ADO MD Position)
 <?xml version="1.0" encoding="utf-8"?>

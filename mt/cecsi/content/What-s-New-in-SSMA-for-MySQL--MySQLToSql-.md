@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1451a0b0-6713-4d0c-954f-ea3d8fce1d31
+manager:lonnyb
 ---
 # What&#39;s New in SSMA for MySQL (MySQLToSql)
 This topic lists SSMA for MySQL changes in each release.  

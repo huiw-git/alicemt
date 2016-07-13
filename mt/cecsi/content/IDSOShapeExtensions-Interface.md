@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ad4ba313-1161-4bc7-b8f6-4083305bc81e
+manager:sonalm
 ---
 # IDSOShapeExtensions Interface
 <?xml version="1.0" encoding="utf-8"?>

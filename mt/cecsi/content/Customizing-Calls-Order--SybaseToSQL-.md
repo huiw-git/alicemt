@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 47f160ce-f8f2-489e-9c3a-690c9fa25259
+manager:lonnyb
 ---
 # Customizing Calls Order (SybaseToSQL)
 At this step you select the order in which the objects to test will be invoked.  

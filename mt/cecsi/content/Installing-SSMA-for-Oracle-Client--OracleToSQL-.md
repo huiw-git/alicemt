@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d5d4903d-e296-4bbf-8780-63674c4d62d5
+manager:b-tomb
 ---
 # Installing SSMA for Oracle Client (OracleToSQL)
 The SSMA client consists of the program files that perform the following tasks:  

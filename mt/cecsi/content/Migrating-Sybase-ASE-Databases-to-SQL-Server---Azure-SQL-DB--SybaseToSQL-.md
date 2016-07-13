@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ed7952d4-8331-44d7-bccf-3440e17238b2
+manager:lonnyb
 ---
 # Migrating Sybase ASE Databases to SQL Server - Azure SQL DB (SybaseToSQL)
 SQL Server Migration Assistant (SSMA) for Sybase is a comprehensive environment that helps you quickly migrate Sybase Adaptive Server Enterprise (ASE) databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB. By using SSMA for Sybase, you can review database objects and data, assess databases for migration, migrate database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB, and then migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB.  

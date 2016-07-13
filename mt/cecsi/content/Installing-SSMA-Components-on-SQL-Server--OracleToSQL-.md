@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 33070e5f-4e39-4b70-ae81-b8af6e4983c5
+manager:b-tomb
 ---
 # Installing SSMA Components on SQL Server (OracleToSQL)
 In addition to installing SSMA, you must also install components on the computer that is running [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)]. These components include the SSMA extension pack, which supports data migration, and Oracle providers to enable server\-to\-server connectivity.  

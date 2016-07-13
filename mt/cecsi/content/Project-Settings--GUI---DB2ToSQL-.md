@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b2cdb71a-f301-45b3-878c-382356c93b4b
+manager:lonnyb
 ---
 # Project Settings (GUI) (DB2ToSQL)
 The GUI project settings let you configure how data appears on the **Data** tab and whether to show the assessment report after conversion or not.  

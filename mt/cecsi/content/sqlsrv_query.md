@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_query
 apitype: NA
 ms.assetid: 9fa7c4c8-4da8-4299-9893-f61815055aa3
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

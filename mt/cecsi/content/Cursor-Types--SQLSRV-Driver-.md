@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8472d839-8124-4a62-a83c-7e771b0d4962
+manager:jhubbard
 ---
 # Cursor Types (SQLSRV Driver)
 The SQLSRV driver lets you create a result set with rows that you can access in any order, depending on the cursor type.  This topic will discuss client\-side \(buffered\) and server\-side \(unbuffered\) cursors.  

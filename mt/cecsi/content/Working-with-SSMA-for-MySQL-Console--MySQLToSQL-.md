@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 240aaad1-d65d-4dea-b60b-315cb1ac733d
+manager:lonnyb
 ---
 # Working with SSMA for MySQL Console (MySQLToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) for MySQL is now accessible through a console application at command line. The script files form the input to the application for executing the commands. As a console application, SSMA enables script\-level interfacing, reduces the migration cycle, and scales the migration effort.  

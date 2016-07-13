@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cac20b18-0a6d-4243-bbda-a5d1b9476441
+manager:jhubbard
 ---
 # Step 3: Proof of concept connecting to SQL using Ruby
 This example should be considered a proof of concept only.  The sample code is simplified for clarity, and does not necessarily represent best practices recommended by Microsoft.  

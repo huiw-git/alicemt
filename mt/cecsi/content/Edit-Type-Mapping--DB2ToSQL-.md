@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f93c4b7d-74fc-4856-bf42-035289918e83
+manager:lonnyb
 ---
 # Edit Type Mapping (DB2ToSQL)
 The **Edit Type Mapping** dialog box lets you specify how types are mapped between the source and destination database objects.  

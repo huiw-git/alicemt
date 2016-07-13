@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ca64f234-38f2-4607-a9d6-d4906e48e336
+manager:lonnyb
 ---
 # Global Settings (Output Window) (AccessToSQL)
 Use the **Global Settings** dialog box to specify settings for SSMA.  

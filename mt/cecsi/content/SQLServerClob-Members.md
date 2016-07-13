@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 apitype: Assembly
 ms.assetid: 7db785ca-edd5-4833-8053-17fdbf87279a
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_begin_transaction
 apitype: NA
 ms.assetid: 0b223bc8-4047-4329-9cbf-d350ab0fb886
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

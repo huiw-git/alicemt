@@ -7,6 +7,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 apitype: COM
 ms.assetid: acc15d40-68a6-4ba9-85bd-12d331aecaa6
+manager:sonalm
 translation.priority.ht: 
   - de-de
   - es-es

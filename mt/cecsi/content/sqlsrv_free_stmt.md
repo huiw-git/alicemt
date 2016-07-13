@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_free_stmt
 apitype: NA
 ms.assetid: 3c71f432-36ad-41e1-8ac7-587c82539448
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e0ef67bf-80a6-4e6c-a82d-5d46e0623c6c
+manager:lonnyb
 ---
 # Converting Access Database Objects (AccessToSQL)
 After you have added Access databases and connected to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, SSMA displays metadata for Access and [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure database objects. You can now select Access database objects, and then convert the schemas into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure schemas.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9b80a9e0-08e7-4b4d-b5ec-cc998d3f5114
+manager:lonnyb
 ---
 # Preparing Access Databases for Migration (AccessToSQL)
 Before you migrate Access databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you must determine which databases to migrate, and then make sure those databases are ready for migration.  

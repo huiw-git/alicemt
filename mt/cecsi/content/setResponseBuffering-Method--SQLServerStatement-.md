@@ -14,6 +14,7 @@ apilocation:
   - SQLServerStatement.setResponseBuffering(String responseBufferingValue)
 apitype: Assembly
 ms.assetid: 9f489835-6cda-4c8c-b139-079639a169cf
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

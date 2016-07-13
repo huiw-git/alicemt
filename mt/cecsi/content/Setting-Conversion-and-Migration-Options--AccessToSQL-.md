@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0a7304df-2f35-4453-96ef-7ac83dea1167
+manager:lonnyb
 ---
 # Setting Conversion and Migration Options (AccessToSQL)
 For each SSMA project, you can set project\-level options. These options specify how objects are converted, how data is migrated, and how source data types map to target data types. Before you convert objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure or migrate data into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, verify that the configuration options are appropriate for the project.  

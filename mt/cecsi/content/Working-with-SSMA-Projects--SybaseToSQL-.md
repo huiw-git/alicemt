@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 11091d95-c488-48c3-891a-743cac94ac93
+manager:lonnyb
 ---
 # Working with SSMA Projects (SybaseToSQL)
 To migrate Sybase Adaptive Server Enterprise (ASE) databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, you first create an SSMA project. The project is a file that contains metadata about the ASE databases that you want to migrate to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, metadata about the target instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure that will receive the migrated objects and data, [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure connection information, and project settings.  

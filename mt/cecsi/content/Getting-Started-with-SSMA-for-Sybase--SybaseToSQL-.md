@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c4098516-f0fc-4690-97bb-3766dfd43156
+manager:lonnyb
 ---
 # Getting Started with SSMA for Sybase (SybaseToSQL)
 [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) for Sybase lets you quickly convert Sybase Adaptive Server Enterprise (ASE) database schemas to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure schemas, upload the resulting schemas into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, and migrate data from Sybase ASE to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure.  

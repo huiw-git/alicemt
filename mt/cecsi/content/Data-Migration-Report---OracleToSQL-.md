@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d63aa7e2-62c6-4c84-b3da-dcf2d89ee134
+manager:v-petlar
 ---
 # Data Migration Report  (OracleToSQL)
 The **Data Migration Report** dialog box appears after you migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

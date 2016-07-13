@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4bb8466e-2199-4f00-8513-b04e9586723d
+manager:b-tomb
 ---
 # Project Settings (Type Mapping) (OracleToSQL)
 The Type Mapping page of the **Project Settings** dialog box contains settings that customize how SSMA converts Oracle data types into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] data types.  

@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_rollback
 apitype: NA
 ms.assetid: 6e6bac39-45af-428c-bc32-f773482562ee
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

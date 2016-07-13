@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ae7b5af8-eeb5-4c40-9f76-ebbab3d29e5d
+manager:b-tomb
 ---
 # Shortcut Keys(Oracle To SQL)
 You can use keyboard shortcuts to navigate through SSMA application. For more information, see the following topics.  

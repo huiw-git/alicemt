@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ccad6262-01e1-447a-bd2b-c105154c80ce
+manager:b-tomb
 ---
 # Generating Reports (OracleToSQL)
 The reports of certain activities performed using commands are generated in SSMA Console at object tree level.  

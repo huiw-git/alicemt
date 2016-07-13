@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 40c1eb02-26b2-44ba-969d-6c430c61c281
+manager:lonnyb
 ---
 # SQL Server Migration Assistant for Access (AccessToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) for Access is a tool for migrating databases from [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] Access versions 97 through 2010 to [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2005 \/ [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2008 \/ [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2012 \/ [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2014 \/ [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2016 \/ [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] SQL Azure. SSMA for Access converts Access database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure database objects, loads those objects into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, and then migrates data from Access to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure.  

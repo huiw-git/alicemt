@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 86cbd39f-6dac-409a-9ce1-7dd54403f84b
+manager:lonnyb
 ---
 # Migrating DB2 Data into SQL Server (DB2ToSQL)
 After you have successfully synchronized the converted objects with [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you can migrate data from DB2 to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9c396df4-5676-4f32-9c57-70d4f15f9b7a
+manager:lonnyb
 ---
 # Data Migration Settings (MySQLToSQL)
   

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fd92aa77-21e3-41ac-8f3e-08608a734b7f
+manager:lonnyb
 ---
 # Project Settings (GUI)  (MySQLToSQL)
 The GUI project settings let you configure how data appears on the **Data** tab and if to include data reports with assessment reports.  

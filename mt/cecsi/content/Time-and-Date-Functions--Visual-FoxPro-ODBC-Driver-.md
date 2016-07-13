@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c1fb63b7-af50-45d6-8dec-ae6ea7119527
+manager:jhubbard
 ---
 # Time and Date Functions (Visual FoxPro ODBC Driver)
 <?xml version="1.0" encoding="utf-8"?>

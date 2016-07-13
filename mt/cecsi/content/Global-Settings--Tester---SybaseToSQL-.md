@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6f0b9cea-5a24-4e42-8bbf-c4516b00da23
+manager:lonnyb
 ---
 # Global Settings (Tester) (SybaseToSQL)
 Use the Tester page of the **Global Settings** dialog box to specify settings for SSMA Tester.  

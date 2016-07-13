@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0bc0d5e8-b092-413e-a0ee-7ef2c516d324
+manager:lonnyb
 ---
 # Global Settings (Editor) (SybaseToSQL)
 Use the Editor page of the **Global Settings** dialog box to specify settings for code editor windows.  

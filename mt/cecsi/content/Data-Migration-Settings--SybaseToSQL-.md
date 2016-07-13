@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 94d7a083-2dbc-4e3d-94dd-92b7ff9d0c2d
+manager:lonnyb
 ---
 # Data Migration Settings (SybaseToSQL)
   

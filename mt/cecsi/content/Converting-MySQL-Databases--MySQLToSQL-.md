@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ac21850b-fb32-4704-9985-5759b7c688c7
+manager:lonnyb
 ---
 # Converting MySQL Databases (MySQLToSQL)
 After you have connected to MySQL, connected to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, and set project and data mapping options, you can convert MySQL database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure database objects.  

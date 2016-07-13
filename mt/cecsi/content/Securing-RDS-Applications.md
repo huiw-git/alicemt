@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82fb1330-d6c6-4c17-ad3e-d417ff822b25
+manager:sonalm
 translation.priority.ht: 
   - de-de
   - es-es

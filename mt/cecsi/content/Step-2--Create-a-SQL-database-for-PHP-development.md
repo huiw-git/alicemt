@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 91046e09-837d-4c4a-9f4f-3a10042f1c19
+manager:jhubbard
 ---
 # Step 2: Create a SQL database for PHP development
 [!INCLUDE[CreateDatabase](../content/includes/CreateDatabase.md)]

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8b2a49b0-4296-4f3f-9e56-323aa6a6fa8e
+manager:lonnyb
 ---
 # Finishing Test Case Preparation (SybaseToSQL)
 The wizard's final page displays the Test Case description and information about objects involved in the test. In addition, on this page you can set the test execution options.  

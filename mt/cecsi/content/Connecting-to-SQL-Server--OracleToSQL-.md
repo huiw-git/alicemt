@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1b2a8059-1829-4904-a82f-9c06de1e245f
+manager:b-tomb
 ---
 # Connecting to SQL Server (OracleToSQL)
 To migrate Oracle databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2005, [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2008, [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2008 R2 or [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2012 or [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2014 you must connect to any of these target instances of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)]. When you connect, SSMA obtains metadata about all the databases in the instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] and displays database metadata in the [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Metadata Explorer. SSMA stores information about which instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] you are connected to, but does not store passwords.  

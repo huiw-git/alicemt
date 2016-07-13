@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bcebc635-c638-4ddb-924c-b9ccfef86388
+manager:lonnyb
 ---
 # Project Settings (Conversion) (AccessToSQL)
 The Conversion project settings let you configure how objects are converted from Access database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure database objects.  

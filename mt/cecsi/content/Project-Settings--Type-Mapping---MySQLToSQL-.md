@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 136fdf6d-657f-447b-af41-49bbc6e0e93e
+manager:lonnyb
 ---
 # Project Settings (Type Mapping) (MySQLToSQL)
 The Type Mapping project settings let you set default type mappings for the SSMA project. You can also specify type mappings for individual database objects. For more information see [Mapping MySQL and SQL Server Data Types](assetId:///dc80a882-8c3d-4824-b83f-c091d5becda5).  

@@ -14,6 +14,7 @@ apilocation:
   - getEncrypt Method (SQLServerDataSource)
 apitype: Assembly
 ms.assetid: 1cdb12dd-6e6f-4bbd-8f5f-9e630f3ee2c9
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

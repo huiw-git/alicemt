@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a63e4112-4b5d-4b7a-a5c2-06a24e86ab1b
+manager:b-tomb
 ---
 # Global Settings (Editor) (OracleToSQL)
 Use the Editor page of the **Global Settings** dialog box to specify settings for code editor windows.  

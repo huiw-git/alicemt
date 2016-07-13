@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e01f8be5-ce68-4c9f-bd13-d65e73a16470
+manager:b-tomb
 ---
 # Appendix - 1 (OracleToSQL)
 Quick view of the SSMA Console command line options:  

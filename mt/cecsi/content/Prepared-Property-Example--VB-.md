@@ -8,6 +8,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e3a3db2d-7f73-4288-ad08-5468f251d610
+manager:sonalm
 ---
 # Prepared Property Example (VB)
 <?xml version="1.0" encoding="utf-8"?>

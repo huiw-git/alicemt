@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 99f0db69-ce1a-49cf-9c24-0b9abfa4e0c3
+manager:jhubbard
 ---
 # Programming Guide for JDBC SQL Driver
 * [Connecting to the SQL Server with the JDBC Driver](../content/Connecting-to-SQL-Server-with-the-JDBC-Driver.md)

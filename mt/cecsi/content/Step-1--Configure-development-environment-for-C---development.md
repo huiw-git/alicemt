@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2b2303ba-c9bc-4fc8-9e44-cfa8f2f21d4a
+manager:jhubbard
 ---
 # Step 1: Configure development environment for C++ development
 You will need to configure your development environment with the prerequisites in order to develop an application using the ODBC Driver for SQL Server.    

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 04bba43a-7bed-4d3c-bb62-8e9ab2adf9e3
+manager:lonnyb
 ---
 # Menu commands and other shortcut keys (AccessToSQL)
 The following sections describe the keyboard shortcuts to access menu commands and other shortcut keys used in various dialog boxes of SSMA for Access application.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 55e5bc68-3040-4f07-bb00-0408a17c9821
+manager:b-tomb
 ---
 # Creating Script Files (OracleToSQL)
 The first step before launching the SSMA console application is to create the script file and if required creating the variable value file and the server connection file.  

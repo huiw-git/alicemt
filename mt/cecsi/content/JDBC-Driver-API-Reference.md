@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e4e1ae9d-18a6-41db-8bd2-9cf0eee4cccb
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -37,11 +38,11 @@ translation.priority.ht:
 >   
 >  API details for Bulk Copy, available starting with Microsoft JDBC Driver 4.2  for SQL Server, are not found in this section. See [Using Bulk Copy with the JDBC Driver](../content/Using-Bulk-Copy-with-the-JDBC-Driver.md).  
 >   
->  API details for Always Encrypted, available starting with  Microsoft JDBC Driver 6.0 \(Preview\) for SQL Server, are not found in this section. See [Always Encrypted API Reference for the JDBC Driver](../content/Always-Encrypted-API-Reference-for-the-JDBC-Driver.md)  
+>  API details for Always Encrypted, available starting with  Microsoft JDBC Driver 6.0 for SQL Server, are not found in this section. See [Always Encrypted API Reference for the JDBC Driver](../content/Always-Encrypted-API-Reference-for-the-JDBC-Driver.md)  
 >   
->  API details for Using Table\-Valued Parameters, available starting with  Microsoft JDBC Driver 6.0 \(Preview\) for SQL Server, are not found in this section. See [Using Table-Valued Parameters](../content/Using-Table-Valued-Parameters.md)  
+>  API details for Using Table\-Valued Parameters, available starting with  Microsoft JDBC Driver 6.0 for SQL Server, are not found in this section. See [Using Table-Valued Parameters](../content/Using-Table-Valued-Parameters.md)  
 >   
->  Microsoft JDBC Drivers 6.0 \(Preview\) and 4.2 support compilation with JDK 5.0, 6.0, 7.0, and 8.0.  
+>  Microsoft JDBC Drivers 6.0 and 4.2 support compilation with JDK 5.0, 6.0, 7.0, and 8.0.  
 >   
 >  Microsoft JDBC Driver 4.1 supports compilation with JDK 5.0, 6.0, and 7.0.  
 >   

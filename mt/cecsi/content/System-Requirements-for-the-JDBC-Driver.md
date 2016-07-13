@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 447792bb-f39b-49b4-9fd0-1ef4154c74ab
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -27,7 +28,7 @@ translation.priority.ht:
   
 -   [!INCLUDE[jdbcNoVersion](../content/includes/jdbcNoVersion_md.md)]  
   
-     You can download the Microsoft JDBC Drivers 6.0 \(Preview\), 4.2, 4.1, and 4.0 for SQL Server from [Microsoft Download Center](http://www.microsoft.com/download/details.aspx?id=11774).  
+     You can download the Microsoft JDBC Drivers 6.0, 4.2, 4.1, and 4.0 for SQL Server from [Microsoft Download Center](http://www.microsoft.com/download/details.aspx?id=11774).  
   
 -   Java Runtime Environment  
   
@@ -40,13 +41,13 @@ translation.priority.ht:
   
  When you deploy the [!INCLUDE[jdbcNoVersion](../content/includes/jdbcNoVersion_md.md)] on Windows and UNIX operating systems, you must use the installation packages, *sqljdbc\_\<version\>\_enu.exe* and *sqljdbc\_\<version\>\_enu.tar.gz*, respectively. For more information about how to deploy the JDBC Driver, see [Deploying the JDBC Driver](../content/Deploying-the-JDBC-Driver.md) topic.  
   
- **Microsoft JDBC Driver 6.0 \(Preview\) and 4.2 for SQL Server:**  
+ **Microsoft JDBC Driver 6.0 and 4.2 for SQL Server:**  
   
- To support backward compatibility and possible upgrade scenarios, the JDBC Drivers 6.0 \(Preview\) and 4.2 include four JAR class libraries in each installation package: **sqljdbc.jar**, **sqljdbc4.jar**, **sqljdbc41.jar**, and **sqljdbc42.jar**. Note: **sqljdbc.jar**, **sqljdbc4.jar** are provided only for backwards compatibility, and do not contain new features included with driver versions 6.0, 4.2,  and 4.1.  
+ To support backward compatibility and possible upgrade scenarios, the JDBC Drivers 6.0 and 4.2 include four JAR class libraries in each installation package: **sqljdbc.jar**, **sqljdbc4.jar**, **sqljdbc41.jar**, and **sqljdbc42.jar**. Note: **sqljdbc.jar**, **sqljdbc4.jar** are provided only for backwards compatibility, and do not contain new features included with driver versions 6.0, 4.2,  and 4.1.  
   
  The JDBC driver is designed to work with and be supported by all major Sun equivalent Java virtual machines, but is tested only on Sun JRE 5.0, 6.0, 7.0, and 8.0.  
   
- The following summarizes support provided by the four JAR files included with Microsoft JDBC Drivers 6.0 \(Preview\) and 4.2 for SQL Server:  
+ The following summarizes support provided by the four JAR files included with Microsoft JDBC Drivers 6.0 and 4.2 for SQL Server:  
   
 |JAR|JDBC Version Compliance|Recommended Java|Description|  
 |---------|-----------------------------|----------------------|-----------------|  

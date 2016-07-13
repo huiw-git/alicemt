@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4e47bb04-cf9b-41a0-923e-bdab9ba0c51d
+manager:b-tomb
 ---
 # Working with SSMA for Oracle Console (OracleToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) release for Oracle is now accessible through a console application at command line. The script files form the input to the application for executing the commands. As a console application, SSMA enables script\-level interfacing, reduces the migration cycle, and scales the migration effort.  

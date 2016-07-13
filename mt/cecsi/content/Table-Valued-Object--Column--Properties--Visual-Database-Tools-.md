@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 212d9bcd-aded-4313-a6b9-d7e2270e5954
+manager:jhubbard
 translation.priority.mt: 
   - de-de
   - es-es

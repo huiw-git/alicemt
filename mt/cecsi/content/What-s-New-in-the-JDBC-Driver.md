@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 074f211e-984a-4b76-bb15-ee36f5946f12
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -24,10 +25,10 @@ translation.priority.ht:
 ---
 # What&#39;s New in the JDBC Driver
     
-## Updates in Microsoft JDBC Driver 6.0 \(Preview\) for SQL Server  
+## Updates in Microsoft JDBC Driver 6.0 for SQL Server  
  **Always Encrypted**  
   
- Support for the recently released Always Encrypted feature in SQL Server 2016 \(Preview\), a new security feature that ensures sensitive data is never seen in plaintext in a SQL Server instance. Always Encrypted works by transparently encrypting the data in the application, so that SQL Server will only handle the encrypted data and not plaintext values. Even if the SQL instance or the host machine is compromised, all an attacker can get is ciphertext of sensitive data. For details see [Using Always Encrypted with the JDBC Driver](../content/Using-Always-Encrypted-with-the-JDBC-Driver.md).  
+ Support for the recently released Always Encrypted feature in SQL Server 2016, a new security feature that ensures sensitive data is never seen in plaintext in a SQL Server instance. Always Encrypted works by transparently encrypting the data in the application, so that SQL Server will only handle the encrypted data and not plaintext values. Even if the SQL instance or the host machine is compromised, all an attacker can get is ciphertext of sensitive data. For details see [Using Always Encrypted with the JDBC Driver](../content/Using-Always-Encrypted-with-the-JDBC-Driver.md).  
   
  **Internationalized Domain Name \(IDN\)**  
   
@@ -100,9 +101,9 @@ translation.priority.ht:
   
  Beginning in [!INCLUDE[jdbc_40](../content/includes/jdbc_40_md.md)], the JDBC driver will pass the format identifier from the application to the database server. To get the updated behavior, make sure the sqljdbc\_xa.dll on the server is updated. For more information on copying an updated version of sqljdbc\_xa.dll to the server, see [Understanding XA Transactions](../content/Understanding-XA-Transactions.md).  
   
-## Itanium Not Supported for JDBC Driver 6.0 \(Preview\), 4.2, 4.1, and 4.0 Applications  
+## Itanium Not Supported for JDBC Driver 6.0, 4.2, 4.1, and 4.0 Applications  
   
- Microsoft JDBC Drivers 6.0 \(Preview\), 4.2, 4.1, and 4.0 for SQL Server applications are not supported to run on an Itanium computer.  
+ Microsoft JDBC Drivers 6.0, 4.2, 4.1, and 4.0 for SQL Server applications are not supported to run on an Itanium computer.  
   
 ## See Also  
  [Overview of the JDBC Driver](../content/Overview-of-the-JDBC-Driver.md)  

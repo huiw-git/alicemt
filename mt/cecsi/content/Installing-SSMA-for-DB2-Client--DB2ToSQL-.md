@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3ae2a470-6afd-4512-b6d1-fcbe6afe88ad
+manager:lonnyb
 ---
 # Installing SSMA for DB2 Client (DB2ToSQL)
 The SSMA client consists of the program files that perform the following tasks:  

@@ -8,6 +8,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f5375fa1-4711-4f7e-9ba4-54c427f71325
+manager:sonalm
 ---
 # Refresh Method Example (VB)
 <?xml version="1.0" encoding="utf-8"?>

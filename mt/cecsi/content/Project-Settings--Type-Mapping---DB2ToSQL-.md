@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cf426c69-6a8e-4d19-951d-6661d5ae2562
+manager:lonnyb
 ---
 # Project Settings (Type Mapping) (DB2ToSQL)
 The Type Mapping page of the **Project Settings** dialog box contains settings that customize how SSMA converts DB2 data types into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] data types.  

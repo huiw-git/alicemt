@@ -14,6 +14,7 @@ apilocation:
   - sqlsrv32.dll
 apitype: dllExport
 ms.assetid: 0451d2f9-0f4f-46ba-b252-670956a52183
+manager:jhubbard
 translation.priority.ht: 
   - en-gb
 ---

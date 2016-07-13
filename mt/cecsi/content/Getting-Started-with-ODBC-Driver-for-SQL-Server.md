@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c92624f9-34c7-4cff-a443-db037120a88e
+manager:jhubbard
 ---
 # Getting Started with ODBC Driver for SQL Server
 ## Getting Started  

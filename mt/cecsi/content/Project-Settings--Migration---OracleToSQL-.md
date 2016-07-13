@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fcd6b988-633b-4b2b-9f36-6368b5e86b60
+manager:b-tomb
 ---
 # Project Settings (Migration) (OracleToSQL)
 The Migration page of the **Project Settings** dialog box contains settings that customize how SSMA migrates data from Oracle to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

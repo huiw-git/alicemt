@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 05544ca6-1e07-486c-bf03-e8c2c25b3024
+manager:jhubbard
 ---
 # Direct Statement Execution and Prepared Statement Execution in the PDO_SQLSRV Driver
 This topic discusses how you can use the PDO::SQLSRV\_ATTR\_DIRECT\_QUERY attribute to specify direct statement execution instead of the default, which is prepared statement execution.  When the driver prepares a statement, it can result in better performance if the statement will be executed more than once using bound parameters.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 545eeda2-9829-4187-a858-619a96b4b71d
+manager:b-tomb
 ---
 # Selecting and Configuring Affected Objects (OracleToSQL)
 At this page you can select tables and foreign keys, changes in which should be compared when SSMA verifies the results of execution for the objects chosen in the previous step. Also, you can customize the verification parameters.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14be607f-f1dc-4201-a664-5fa4682cfaae
+manager:jhubbard
 ---
 # Step 2: Create a SQL database for Node.js development
 [!INCLUDE[CreateDatabase](../content/includes/CreateDatabase.md)]

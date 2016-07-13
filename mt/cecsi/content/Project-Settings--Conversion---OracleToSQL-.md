@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a98a5e07-eb5e-47b9-a6f2-e2cb3a18309c
+manager:b-tomb
 ---
 # Project Settings (Conversion) (OracleToSQL)
 The Conversion page of the **Project Settings** dialog box contains settings that customize how SSMA converts Oracle syntax to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] syntax.  

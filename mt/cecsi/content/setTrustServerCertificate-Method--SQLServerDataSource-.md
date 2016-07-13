@@ -14,6 +14,7 @@ apilocation:
   - setTrustServerCertificate Method (SQLServerDataSource)
 apitype: Assembly
 ms.assetid: 6c37b518-147e-4cd9-9eff-b48a3f5888c6
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

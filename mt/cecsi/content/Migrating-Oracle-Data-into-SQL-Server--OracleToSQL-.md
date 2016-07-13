@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e23c5268-41ed-4e55-9fe7-a11376202a13
+manager:b-tomb
 ---
 # Migrating Oracle Data into SQL Server (OracleToSQL)
 After you have successfully synchronized the converted objects with [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you can migrate data from Oracle to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

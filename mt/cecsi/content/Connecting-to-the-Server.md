@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c251a239-e0bd-4f45-9207-b76651072dd0
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -38,7 +39,7 @@ The [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)] can connect t
 |[Connection Options](../content/Connection-Options.md)|Lists the options that are permitted in the associative array that contains connection attributes.|  
 |[PHP Driver for SQL Server Support for LocalDB](../content/PHP-Driver-for-SQL-Server-Support-for-LocalDB.md)|Describes [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)] support for the LocalDB feature, which was added in [!INCLUDE[ssSQL11](../content/includes/ssSQL11_md.md)].|  
 |[PHP Driver for SQL Server Support for High Availability, Disaster Recovery](../content/PHP-Driver-for-SQL-Server-Support-for-High-Availability--Disaster-Recovery.md)|Discusses how your application can be configured to take advantage of the high\-availability, disaster recovery features added in [!INCLUDE[ssSQL11](../content/includes/ssSQL11_md.md)].|  
-|[Connecting to Microsoft Azure SQL Database](../Topic/Connecting%20to%20Windows%20Azure%20SQL%20Database.md)|Discusses how to connect to an Azure SQL Database.|  
+|[Connecting to Microsoft Azure SQL Database](../content/Connecting-to-Microsoft-Azure-SQL-Database.md)|Discusses how to connect to an Azure SQL Database.|  
   
 ## See Also  
 [Programming Guide for PHP SQL Driver](../content/Programming-Guide-for-PHP-SQL-Driver.md)

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82f8857f-7ab1-4738-ab6e-b1e95ea94924
+manager:lonnyb
 ---
 # Project Settings (Migration) (SybaseToSQL)
 The Migration page of the **Project Settings** dialog box contains settings that customize how SSMA migrates data from Sybase Adaptive Server Enterprise (ASE) to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

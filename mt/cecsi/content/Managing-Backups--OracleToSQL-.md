@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a1a03ef9-b6e8-4127-bad0-eae261251472
+manager:b-tomb
 ---
 # Managing Backups (OracleToSQL)
 Oracle Backup Management lets you backup and restore table data before or after running a test. You can also manage the backup content with Manage Backup Contents dialog.  

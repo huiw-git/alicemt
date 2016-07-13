@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 524f95ef-10bd-497c-84ca-c06a0ae794fb
+manager:lonnyb
 ---
 # Connect to Sybase (SybaseToSQL)
 Use the **Connect to Sybase** dialog box to connect to the Sybase Adaptive Server Enterprise (ASE) instance that you want to migrate.  

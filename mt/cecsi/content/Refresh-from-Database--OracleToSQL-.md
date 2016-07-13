@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 84492f44-c368-4c75-954d-7307a2d2bbc0
+manager:b-tomb
 ---
 # Refresh from Database (OracleToSQL)
 The **Refresh from Database** dialog box lets you select which objects to refresh from the Oracle database. Rows in the dialog box are color coded based on the state of the metadata:  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 43219dbe-bcfa-427d-9242-f07b1455f15f
+manager:lonnyb
 ---
 # Getting Started with SSMA for Sybase Console (SybaseToSQL)
 This section describes the procedure to launch and get started with the Sybase console application. Also listed, herein, are the conventions used in a typical SSMA Console output window.  

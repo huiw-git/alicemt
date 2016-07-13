@@ -23,6 +23,10 @@ translation.priority.mt:
 ---
 # SQL Server Management Studio - Changelog (SSMS)
 ### SSMS July 2016 generally available release (13.0.15500.91)
+* *Edit, July 5th:* **Improved support for SQL Server 2016 (1200 compatibility level) tabular databases in the Analysis Services Process dialog and the Analysis Services deployment wizard.**
+
+* *Edit, July 5th:* **New option in SSMS 'query execution options' dialog to set 'XACT_ABORT'. This option is enabled by default in this release of SSMS and instructs SQL Server to rollback the entire transaction and abort the batch if a run-time error occurs.**
+
 * **Support for Azure SQL Data Warehouse in SSMS.**
 
 * **Significant updates to the SQL Server PowerShell module. This includes a new [SQL PowerShell module and new CMDLETs for Always Encrypted, SQL Agent, and SQL Error Logs](https://blogs.technet.microsoft.com/dataplatforminsider/2016/06/30/sql-powershell-july-2016-update)**.
@@ -35,8 +39,6 @@ translation.priority.mt:
  
 * **New Restore dialog to streamline restoring a SQL Server 2016 database backup from the Microsoft Azure storage service.**
  
-* **Improved support for SQL Server 2016 (1200 compatibility level) tabular databases in the Analysis Services Process dialog.**
-
 * **Bug fix in SSMS query designer to allow adding tables to the designer if a user doesn’t have SELECT permissions on them.**
 
 * **Bug fix to add IntelliSense support for 'TRY_CAST()', and 'TRY_CONVERT()' functions.**  

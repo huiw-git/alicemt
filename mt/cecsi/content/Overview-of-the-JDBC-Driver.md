@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 939a8773-2583-49a4-bf00-6b892fbe39dc
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -23,7 +24,7 @@ translation.priority.ht:
   - zh-tw
 ---
 # Overview of the JDBC Driver
-  The Microsoft JDBC Driver 6.0 \(Preview\) for SQL Server is a Type 4 Java Database Connectivity \(JDBC\) 4.2 compliant driver that provides robust data access to SQL Server 2016 \(Preview\), SQL Server 2014, SQL Server 2012, SQL Server 2008 R2, SQL Server 2008, and Azure SQL Database.  
+  The Microsoft JDBC Driver 6.0 for SQL Server is a Type 4 Java Database Connectivity \(JDBC\) 4.2 compliant driver that provides robust data access to SQL Server 2016, SQL Server 2014, SQL Server 2012, SQL Server 2008 R2, SQL Server 2008, and Azure SQL Database.  
   
  The topics in this section provide a general overview of the JDBC driver, including the system requirements needed to use it, how it can be used, and where you can go for more information.  
   

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 271c0438-8af1-45e5-b96a-4b1cabe32707
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -519,7 +520,7 @@ WITH
   
  The CEK needs to be encrypted by calling MyCustomKeyStore.encryptColumnEncryptionKey\(\) method, and then needs to be created in the database using the CREATE COLUMN ENCRYPTION KEY T\-SQL command. Any columns encrypted with this CEK can now use the custom key store provider with Always Encrypted data.  
   
-### Force Encryption on Input Parameters  
+### Force encryption on input parameters  
  The Force Encryption feature enforces encryption of a parameter when using Always Encrypted. If force encryption is used and SQL Server informs the driver that the parameter does not need to be encrypted, the query using the parameter will fail. This property provides additional protection against security attacks that involve a compromised SQL Server providing incorrect encryption metadata to the client, which may lead to data disclosure. The set\* methods in SQLServerPreparedStatement and SQLServerCallableStatement classes and the update\* methods in the SQLServerResultSet class are overloaded to accept a boolean argument to specify force encryption setting. If the value of this argument is false, the driver will not force encryption on parameters. If force encryption is set to true, the query parameter will only be set if the destination column is encrypted and Always Encrypted is enabled on the connection or on the statement. This gives an extra layer of security, ensuring that no data is mistakenly written to an unencrypted column when it is expected to be encrypted.  
   
  For more information on the SQLServerPreparedStatement and SQLServerCallableStatement methods that are overloaded with the force encryption setting, see [Always Encrypted API Reference for the JDBC Driver](../content/Always-Encrypted-API-Reference-for-the-JDBC-Driver.md)  
@@ -532,7 +533,15 @@ The JDBC driver caches the plain text value of the column encrytion key for opti
 For example, to set a time-to-live value of 10 minutes, use
     
     SQLServerConnection.setColumnEncryptionKeyCacheTtl (10, TimeUnit.MINUTES)  
-  
+
+### Configuring how java.sql.Time values are sent to the server
+The sendTimeAsDatetime connection property is used to configure how the java.sql.Time value is sent to the server. When sendTimeAsDatetime=false, the time value is sent as SQL Server time type and when sendTimeAsDatetime=true, the time value is sent as a datetime type. Not that, when a time column is encrypted, the sendTimeAsDatetime property must be false as encrypted columns do not support the conversion from time to datetime. Also note that this property is by default true, so when using encrypted time columns, you will have to set it to false. Otherwise the driver will throw as exception. The SQLServerConnection class has two methods, starting with version 6.0 of the driver to configure the value of this property programmatically:
+ 
+* public void setSendTimeAsDatetime(boolean sendTimeAsDateTimeValue)
+* public boolean getSendTimeAsDatetime()
+
+For more information on this property visit [Configuring How java.sql.Time Values are Sent to the Server](https://msdn.microsoft.com/library/ff427224(v=sql.110).aspx). 
+
 ## See Also  
  [Always Encrypted \(Database Engine\)](https://msdn.microsoft.com/library/mt163865.aspx)  
   

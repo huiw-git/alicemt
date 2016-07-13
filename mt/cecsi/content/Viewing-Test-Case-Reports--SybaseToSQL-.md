@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cb75d281-43ef-4f4a-b754-2c4ee3b62ae7
+manager:lonnyb
 ---
 # Viewing Test Case Reports (SybaseToSQL)
 The Test Case Report shows the test verification results and general test information. In case of a test failure, information about any mismatched data in verified objects is also displayed.  

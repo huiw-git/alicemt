@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82374ad2-7737-4164-a489-13261ba393d4
+manager:lonnyb
 ---
 # Linking Access Applications to SQL Server - Azure SQL DB (AccessToSQL)
 If you want to use your existing Access applications with [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you can link your original Access tables to the migrated [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure tables. Linking modifies your Access database so that your queries, forms, reports, and data access pages use the data in the [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure database instead of the data in your Access database.  

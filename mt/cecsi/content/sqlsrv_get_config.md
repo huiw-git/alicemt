@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_get_config
 apitype: NA
 ms.assetid: ce2befc2-af98-45bb-8d41-60f1674dccfc
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

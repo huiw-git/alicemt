@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5a4c6bd5-0c79-4f81-a977-0561392d8d50
+manager:sonalm
 ---
 # GetDataProviderDSO Method
 <?xml version="1.0" encoding="utf-8"?>

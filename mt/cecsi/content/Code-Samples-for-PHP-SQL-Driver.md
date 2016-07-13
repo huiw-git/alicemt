@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3a5d218a-1490-4c61-a20c-4d71f6600c97
+manager:jhubbard
 ---
 # Code Samples for PHP SQL Driver
 

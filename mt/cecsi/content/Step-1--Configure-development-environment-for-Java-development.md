@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a59cac14-32f5-4fa3-ad38-81a3e1e9d29c
+manager:jhubbard
 ---
 # Step 1: Configure development environment for Java development
   

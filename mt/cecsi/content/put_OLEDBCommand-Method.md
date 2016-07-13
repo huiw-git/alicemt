@@ -6,6 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ca6a5804-bf5c-4afc-99db-22904bc0b33d
+manager:sonalm
 ---
 # put_OLEDBCommand Method
 <?xml version="1.0" encoding="utf-8"?>

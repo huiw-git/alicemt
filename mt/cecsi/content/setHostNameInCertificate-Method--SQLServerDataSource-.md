@@ -14,6 +14,7 @@ apilocation:
   - setHostNameInCertificate Method (SQLServerDataSource)
 apitype: Assembly
 ms.assetid: 2bcf4f2e-a103-4374-abc4-ffad4ce8e3c0
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

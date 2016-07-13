@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 49ea6a6e-78d4-40f8-85eb-180b527f0537
+manager:jhubbard
 ---
 # Cursor Types (PDO_SQLSRV Driver)
 The PDO\_SQLSRV driver lets you create scrollable result sets with one of several cursors.  

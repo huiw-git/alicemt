@@ -14,6 +14,7 @@ apilocation:
   - SQLServerCallableStatement.getAsciiStream(int paramIndex)
 apitype: Assembly
 ms.assetid: 9d8b235e-4208-40ee-b5a5-bc76f73b82f8
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

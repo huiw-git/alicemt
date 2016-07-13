@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 apitype: dllExport
 ms.assetid: b7a49774-f458-44ce-9a04-a0457501405b
+manager:jhubbard
 translation.priority.ht: 
   - en-gb
 ---

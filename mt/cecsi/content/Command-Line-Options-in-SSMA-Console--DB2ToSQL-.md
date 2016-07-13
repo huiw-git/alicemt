@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 237354e9-25c4-4386-9d1f-ca0618d4a9a0
+manager:lonnyb
 ---
 # Command Line Options in SSMA Console (DB2ToSQL)
 Microsoft provides you with a robust set command line options to execute and control SSMA activities. The ensuing sections detail the same.  

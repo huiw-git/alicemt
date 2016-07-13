@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 46ebada7-db36-4ae9-b7ae-baa4b854b237
+manager:lonnyb
 ---
 # Data Migration Report (DB2ToSQL)
 The **Data Migration Report** dialog box appears after you migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

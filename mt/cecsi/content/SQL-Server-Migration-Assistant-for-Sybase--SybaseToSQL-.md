@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59e63eac-8a7e-4d54-be1c-0633a9bf510d
+manager:lonnyb
 ---
 # SQL Server Migration Assistant for Sybase (SybaseToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) for Sybase Adaptive Server Enterprise (ASE) is a tool for migrating ASE databases to [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2005 or [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2008 or [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2012 or [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2014 or [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2016 or [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] SQL Azure. SSMA for Sybase converts ASE database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] database objects, creates those objects in [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure, and then migrates data from ASE to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure.  

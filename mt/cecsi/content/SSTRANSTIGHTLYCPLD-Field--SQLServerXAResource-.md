@@ -14,6 +14,7 @@ apilocation:
   - SSTRANSTIGHTLYCPLD Field (SQLServerXAResource)
 apitype: Assembly
 ms.assetid: 379857c3-9de1-4964-8782-32df317cbfbb
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

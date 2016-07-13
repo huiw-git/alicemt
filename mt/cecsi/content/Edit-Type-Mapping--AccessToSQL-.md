@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7f9d9530-6c04-41d9-bbe7-d91820a30066
+manager:lonnyb
 ---
 # Edit Type Mapping (AccessToSQL)
 The **Edit Type Mapping** dialog box lets you specify how types are mapped between the source and destination database objects.  

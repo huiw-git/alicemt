@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 45d1b1b6-363d-4924-bcb1-b2582b60f76b
+manager:jhubbard
 ---
 # Ruby Driver for SQL Server
 You can  connect to a SQL Database using Ruby on Windows, Linux, or Mac.   

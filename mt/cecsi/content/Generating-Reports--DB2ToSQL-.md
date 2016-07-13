@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 69ef5fd9-190d-4c58-8199-b3f77d5e1883
+manager:lonnyb
 ---
 # Generating Reports (DB2ToSQL)
 The reports of certain activities performed using commands are generated in SSMA Console at object tree level.  

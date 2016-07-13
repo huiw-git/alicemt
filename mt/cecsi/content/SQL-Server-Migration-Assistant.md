@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d0233525-a83b-4279-813e-c554042abd0e
+manager:lonnyb
 translation.priority.ht: 
   - de-de
   - es-es
@@ -36,21 +37,11 @@ Microsoft SQL Server Migration Assistant (SSMA) is a tool to automate database m
 -  [ SQL Server Migration Assistant for Sybase ASE](../content/SQL-Server-Migration-Assistant-for-Sybase--SybaseToSQL-.md)  
 
 ## Downloads
-- SSMA for Access
-  - [SSMA 6](http://aka.ms/ssmaforaccess)
-  - [SSMA 6.1 Preview (supports SQL Server 2016)](http://www.microsoft.com/en-us/download/details.aspx?id=51473)
-- SSMA for DB2
-  - [SSMA 6](http://aka.ms/ssmafordb2)
-  - [SSMA 6.1 Preview (Supports SQL Server 2016)](http://www.microsoft.com/en-us/download/details.aspx?id=51469)
-- SSMA for MySql
-  - [SSMA 6](http://aka.ms/ssmaformysql)
-  - [SSMA 6.1 Preview (Supports SQL Server 2016)](http://www.microsoft.com/en-us/download/details.aspx?id=51470)
-- SSMA for Oracle
-  -  [SSMA 6](http://aka.ms/ssmafororacle)
-  -  [SSMA 6.1 Preview (Supports SQL Server 2016)](https://www.microsoft.com/en-us/download/details.aspx?id=51471)
-- SSMA for Sybase ASE
-  -  [SSMA 6](http://aka.ms/ssmaforsybase)
-  -  [SSMA 6.1 Preview (Supports SQL Server 2016)](http://www.microsoft.com/en-us/download/details.aspx?id=51472)
+- [SSMA for Access](http://aka.ms/ssmaforaccess)
+- [SSMA for DB2](http://aka.ms/ssmafordb2)
+- [SSMA for MySql](http://aka.ms/ssmaformysql)
+- [SSMA for Oracle](http://aka.ms/ssmafororacle)
+- [SSMA for Sybase ASE](http://aka.ms/ssmaforsybase)
  
 ## Getting SSMA Support  
 **Help and support for Microsoft SQL Server Migration Assistant (SSMA):**  

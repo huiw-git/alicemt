@@ -11,6 +11,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9b608b0b-6b38-42da-bb83-79df8c170cd7
+manager:jhubbard
 ---
 # Step 4: Connect resiliently to SQL with ADO.NET
   

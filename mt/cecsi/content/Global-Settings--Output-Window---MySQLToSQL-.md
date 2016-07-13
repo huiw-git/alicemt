@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9355fb1b-5cd4-49a2-839c-4b06057ea6c4
+manager:lonnyb
 ---
 # Global Settings (Output Window) (MySQLToSQL)
 Use the **Global Settings** dialog box to specify settings for SSMA.  

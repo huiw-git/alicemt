@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9cba6a0d-5f21-49af-ac5a-17d199973590
+manager:jhubbard
 ---
 # Step 1: Configure development environment for ADO.NET development
   

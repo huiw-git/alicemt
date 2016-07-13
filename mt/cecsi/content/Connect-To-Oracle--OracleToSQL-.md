@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 23a48cb6-ff30-49bb-b4a7-603ebcab336f
+manager:b-tomb
 ---
 # Connect To Oracle (OracleToSQL)
 Use the **Connect to Oracle** dialog box to connect to the Oracle database that you want to migrate.  

@@ -14,6 +14,7 @@ apilocation:
   - SQLServerCallableStatement.getBinaryStream(int paramIndex)
 apitype: Assembly
 ms.assetid: a766818e-cd05-4a07-a1ae-88966017448c
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

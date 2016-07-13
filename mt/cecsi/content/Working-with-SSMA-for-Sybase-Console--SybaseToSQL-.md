@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c465e477-c479-4aa8-918d-58bf30884789
+manager:lonnyb
 ---
 # Working with SSMA for Sybase Console (SybaseToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA), release for Sybase Adaptive Server Enterprise (ASE), is now accessible through a console application at command line. The script files form the input to the application for executing the commands. As a console application, SSMA enables script\-level interfacing, reduces the migration cycle, and scales the migration effort.  

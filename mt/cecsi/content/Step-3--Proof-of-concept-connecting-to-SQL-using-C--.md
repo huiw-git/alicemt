@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 162fcd09-2611-40f2-8693-2fddc50c79a0
+manager:jhubbard
 ---
 # Step 3: Proof of concept connecting to SQL using C++
 ## Welcome to CAPS Markdown Editor!  

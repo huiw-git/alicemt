@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 96538007-1099-40c8-9902-edd07c5620ee
+manager:lonnyb
 ---
 # Connect to Azure SQL DB  (SybaseToSQL)
 Use the Connect to Azure SQL DB dialog box to connect to the Azure SQL DB database that you want to migrate.  

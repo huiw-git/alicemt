@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 57f13a0e-f966-43f8-8188-9d66a15376f2
+manager:jhubbard
 ---
 # Overview of SQL Server Drivers
 SQL Server supports a wide variety of drivers, which are used by client applications or services to connect and query for data.  Please see below for a summary of the different drivers, both current and legacy.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a7451a85-18e5-4fd0-bbcb-2f15a1117290
+manager:jhubbard
 ---
 # Step 3: Proof of concept connecting to SQL using PHP
 ## Step 1:  Connect  

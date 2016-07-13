@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 19278f6a-6d58-4867-9d71-c6228040466e
+manager:lonnyb
 ---
 # Generating Reports (SybaseToSQL)
 The reports of certain activities performed using commands are generated in SSMA Console at object tree level.  

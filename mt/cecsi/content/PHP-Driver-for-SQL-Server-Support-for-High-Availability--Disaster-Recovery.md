@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 73a80821-d345-4fea-b076-f4aabeb4af3e
+manager:jhubbard
 ---
 # PHP Driver for SQL Server Support for High Availability, Disaster Recovery
 This topic discusses [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)] support \(added in version 3.0\) for high\-availability, disaster recovery \-\- [!INCLUDE[ssHADR](../content/includes/ssHADR_md.md)].  [!INCLUDE[ssHADR](../content/includes/ssHADR_md.md)] support was added in [!INCLUDE[ssSQL11](../content/includes/ssSQL11_md.md)]. For more information about [!INCLUDE[ssHADR](../content/includes/ssHADR_md.md)], see [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Books Online.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 42b26160-354f-460c-a1e4-167017af3a0b
+manager:v-petlar
 ---
 # Global Settings (Output Window)  (OracleToSQL)
 Use the **Global Settings** dialog box to specify settings for SSMA.  

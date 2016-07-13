@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a153e4ce-992d-4211-9a0f-c0998c706402
+manager:jhubbard
 ---
 # Example Application (PDO_SQLSRV Driver)
 The AdventureWorks Product Reviews example application is a Web application that uses the PDO\_SQLSRV driver of the [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)]. The application lets a user search for products by entering a keyword, see reviews for a selected product, write a review for a selected product, and upload an image for a selected product.  

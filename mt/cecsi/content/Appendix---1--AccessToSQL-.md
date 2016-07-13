@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 00665e16-2990-4bfc-8e17-d97ca9fb4999
+manager:lonnyb
 ---
 # Appendix - 1 (AccessToSQL)
 Quick view of the SSMA Console command line options:  

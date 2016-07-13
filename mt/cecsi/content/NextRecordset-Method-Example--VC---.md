@@ -8,6 +8,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8bb72817-0cf5-4ce9-9fb8-043c89da941c
+manager:sonalm
 translation.priority.ht: 
   - de-de
   - es-es

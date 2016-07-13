@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4ec83e96-88a5-4b7b-8d5a-f3429d9a936b
+manager:lonnyb
 ---
 # Convert, Load, and Migrate (AccessToSQL)
 The **Convert, Load, and Migrate** dialog box reports migration status when you use the Convert, Load, and Migrate button or the Migration Wizard.  

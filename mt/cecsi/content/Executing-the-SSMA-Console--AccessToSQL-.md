@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: aa1bf665-8dc0-4259-b36f-46ae67197a43
+manager:lonnyb
 ---
 # Executing the SSMA Console (AccessToSQL)
 Microsoft provides you with a robust set of script file commands and command line options to execute and control SSMA activities. The ensuing sections detail the same.  

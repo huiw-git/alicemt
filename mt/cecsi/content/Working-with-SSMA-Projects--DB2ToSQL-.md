@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 07abef8a-28e8-4a66-927c-c9a5b8c938ef
+manager:lonnyb
 ---
 # Working with SSMA Projects (DB2ToSQL)
 To migrate DB2 databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you first create an SSMA project. The project is a file that contains the following information:  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0bce6022-00bd-45c6-9671-eaa9dfa395a8
+manager:jhubbard
 ---
 # Step 1: Configure development environment for PHP development
 ## Windows  

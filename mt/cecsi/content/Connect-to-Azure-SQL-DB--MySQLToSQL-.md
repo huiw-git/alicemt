@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 81623d27-25af-444f-9779-1edb8c6fb470
+manager:lonnyb
 ---
 # Connect to Azure SQL DB (MySQLToSQL)
 Use the Connect to SQL Azure dialog box to connect to the SQL Azure database that you want to migrate.  

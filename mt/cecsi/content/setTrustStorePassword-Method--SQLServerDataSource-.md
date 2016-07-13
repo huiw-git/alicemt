@@ -14,6 +14,7 @@ apilocation:
   - setTrustStorePassword Method (SQLServerDataSource)
 apitype: Assembly
 ms.assetid: fa87cbde-71cc-4f21-bc07-f8ba2b6a0a3f
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

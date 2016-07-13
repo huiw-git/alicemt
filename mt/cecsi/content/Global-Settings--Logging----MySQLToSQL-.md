@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0d033492-5ec3-473a-8de1-821894ec9518
+manager:lonnyb
 ---
 # Global Settings (Logging)  (MySQLToSQL)
 Use the **Global Settings** dialog box to specify the logging settings for SSMA. Typically, you would change these settings only when working with product support.  

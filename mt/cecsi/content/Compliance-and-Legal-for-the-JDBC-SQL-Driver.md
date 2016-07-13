@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0ac8dc45-373c-4ac6-92fc-34b8455e5654
+manager:jhubbard
 ---
 # Compliance and Legal for the JDBC SQL Driver
 * [JDBC Driver Copyright and Legal Information](../content/JDBC-Driver-Copyright-and-Legal-Information.md)

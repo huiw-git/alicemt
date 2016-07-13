@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c5769e67-99f7-4bc1-a4fa-8941dad33d35
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -28,19 +29,13 @@ translation.priority.ht:
  The Microsoft Support Lifecycle \(MSL\) policy provides transparent, predictable information regarding the support lifecycle of Microsoft products. JDBC driver versions 3.0 and 4.x have five year Mainstream support from the driver release date. Mainstream support is defined on the  Microsoft support lifecycle website.  
   
  Extended and custom support options are not available for the Microsoft JDBC Driver.  
-  
- The following Microsoft JDBC Drivers are in Preview.  
-  
-||||  
-|-|-|-|  
-|Driver Name|Driver Version|End of Support|  
-|Microsoft JDBC Driver 6.0 \(Preview\) for SQL Server|6.0|TBD|  
-  
+    
  The following Microsoft JDBC Drivers are supported, until the indicated End of Support date.  
   
 ||||  
 |-|-|-|  
-|Driver Name|Driver Version|End of Support|  
+|Driver Name|Driver Version|End of Support|
+|Microsoft JDBC Driver 6.0 for SQL Server|6.0|July 14, 2026|    
 |Microsoft JDBC Driver 4.2 for SQL Server|4.2|August 24, 2020|  
 |Microsoft JDBC Driver 4.1 for SQL Server|4.1|December 12, 2019|  
 |Microsoft JDBC Driver 4.0 for SQL Server|4.0|March 6, 2017|  
@@ -61,7 +56,7 @@ translation.priority.ht:
   
 |||||||||||  
 |-|-|-|-|-|-|-|-|-|-|  
-|Driver Version|SQL Server 2000|SQL Server 2005|SQL Server 2008|SQL Server 2008R2|SQL Server 2012|Azure SQL Database|PDW 2008R2 AU3<sup>4</sup>|SQL Server 2014|SQL Server 2016 \(Preview\)|  
+|Driver Version|SQL Server 2000|SQL Server 2005|SQL Server 2008|SQL Server 2008R2|SQL Server 2012|Azure SQL Database|PDW 2008R2 AU3<sup>4</sup>|SQL Server 2014|SQL Server 2016|  
 |6.0|N|Y|Y|Y|Y|Y|Y|Y|Y|  
 |4.2|N|N|Y|Y|Y|Y|Y|Y|Y|  
 |4.1|N|N|Y|Y|Y|Y|Y|Y|Y|  

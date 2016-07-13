@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f245c017-023e-4880-8721-8908d339525e
+manager:lonnyb
 ---
 # Getting Started with SSMA  for DB2 Console (DB2ToSQL)
 This section describes the procedure to launch and get started with the DB2 console application. Also listed, herein, are the conventions used in a typical SSMA Console output window.  

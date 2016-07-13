@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1ba3f758-f39b-4f5f-91ca-516cedc78979
+manager:jhubbard
 translation.priority.mt: 
   - de-de
   - es-es
@@ -70,8 +71,7 @@ Any valid [!INCLUDE[dnprdnshort](../content/includes/dnprdnshort_md.md)] command
 > [!CAUTION]  
 > Any valid [!INCLUDE[tsql](../content/includes/tsql_md.md)] statement can be embedded in and executed from a report. Running a report under a high\-privileged user account makes it possible for any of these embedded instructions to execute without challenge.  
   
-## Report Samples  
-[Report samples](http://go.microsoft.com/fwlink/?LinkId=81792), including the standard reports that are created by [!INCLUDE[msCoName](../content/includes/msCoName_md.md)], are available for download. These samples may be modified by using [!INCLUDE[ssBIDevStudioFull](../content/includes/ssBIDevStudioFull_md.md)].  
+
   
 ## See Also  
 [Add a Custom Report to Management Studio](../content/Add-a-Custom-Report-to-Management-Studio.md)  

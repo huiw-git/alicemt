@@ -10,6 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 19ea7cdc-02ff-45f9-b6f2-c87c2793aa9b
+manager:jeffreyg
 translation.priority.ht: 
   - de-de
   - es-es

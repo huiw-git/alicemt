@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e11452b7-ba94-4367-a745-5ccf1764acec
+manager:lonnyb
 ---
 # Global Settings (Dialogs)  (SybaseToSQL)
 Use the Dialogs page of the **Global Settings** dialog box to specify the default user action and warning settings for SSMA.  

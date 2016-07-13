@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6d392a5e-b08e-4b35-9e99-61260888fc41
+manager:jhubbard
 ---
 # Step 1: Configure development environment for Python development
 You will need to configure your development environment with the prerequisites in order to develop an application using the Python Driver for SQL Server.    

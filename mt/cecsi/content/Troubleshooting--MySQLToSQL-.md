@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9435f6c2-16e7-41b1-906d-d9f09b336f8f
+manager:lonnyb
 ---
 # Troubleshooting (MySQLToSQL)
 It is not uncommon to run into migration issues midway executing the console scripts or commands.  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2246ddeb-7c2f-46f3-8a91-cdd718d39b40
+manager:jhubbard
 ---
 # Step 3: Proof of concept connecting to SQL using Python
 This example should be considered a proof of concept only.  The sample code is simplified for clarity, and does not necessarily represent best practices recommended by Microsoft.  

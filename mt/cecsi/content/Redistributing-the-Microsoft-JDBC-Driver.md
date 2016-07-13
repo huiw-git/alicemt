@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 625d64d3-6e7c-41c2-912a-38fdf6695922
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -34,4 +35,7 @@ translation.priority.ht:
   
  If you do not have one already, you can get a  [Windows Live ID](https://signup.live.com/)  
   
+
+## Redistribute the Microsoft JDBC 4.1, 4.2, and 6.0 Driver
+Please review the “Distributable Code” clause in the license agreements for the 4.1, 4.2, and 6.0 versions of the driver.
   

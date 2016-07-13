@@ -14,6 +14,7 @@ apilocation:
   - SQLServerCallableStatement.getCharacterStream(String paramName)
 apitype: Assembly
 ms.assetid: 5281e1b8-19b8-4fe5-83be-929d1987e25d
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

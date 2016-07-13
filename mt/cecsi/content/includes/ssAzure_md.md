@@ -25,4 +25,4 @@ translation.priority.ht:
   - zh-hk
   - zh-tw
 ---
- SQL Azure Database 
+ Azure SQL Database 

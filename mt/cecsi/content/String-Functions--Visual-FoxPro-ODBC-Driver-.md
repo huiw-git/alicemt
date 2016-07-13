@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1974fd26-ef0d-45d5-860b-298917c8e9c3
+manager:jhubbard
 ---
 # String Functions (Visual FoxPro ODBC Driver)
 <?xml version="1.0" encoding="utf-8"?>

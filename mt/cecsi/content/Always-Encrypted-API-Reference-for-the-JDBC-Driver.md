@@ -9,12 +9,13 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
+manager:jhubbard
 ---
 # Always Encrypted API Reference for the JDBC Driver
-  Always Encrypted allows clients to encrypt sensitive data inside client applications and never reveal the encryption keys to SQL Server. An Always Encrypted enabled driver installed on the client computer achieves this by automatically encrypting and decrypting sensitive data in the SQL Server client application. The driver encrypts the data in sensitive columns before passing the data to SQL Server, and automatically rewrites queries so that the semantics to the application are preserved. Similarly, the driver transparently decrypts data stored in encrypted database columns that are contained in query results. For more information, see [Always Encrypted \(Database Engine\)](https://msdn.microsoft.com/en-us/library/mt163865.aspx) and [Using Always Encrypted with the JDBC Driver](../content/Using-Always-Encrypted-with-the-JDBC-Driver.md).  
+  Always Encrypted allows clients to encrypt sensitive data inside client applications and never reveal the encryption keys to SQL Server. An Always Encrypted enabled driver installed on the client computer achieves this by automatically encrypting and decrypting sensitive data in the SQL Server client application. The driver encrypts the data in sensitive columns before passing the data to SQL Server, and automatically rewrites queries so that the semantics to the application are preserved. Similarly, the driver transparently decrypts data stored in encrypted database columns that are contained in query results. For more information, see [Always Encrypted \(Database Engine\)](https://msdn.microsoft.com/library/mt163865.aspx) and [Using Always Encrypted with the JDBC Driver](../content/Using-Always-Encrypted-with-the-JDBC-Driver.md).  
   
 > [!NOTE]  
->  Always Encrypted is supported only by Microsoft JDBC Driver 6.0 \(Preview\) or higher for SQL Server with SQL Server 2016 \(Preview\).  
+>  Always Encrypted is supported only by Microsoft JDBC Driver 6.0 or higher for SQL Server with SQL Server 2016.  
   
  There are several new additions and modifications to the JDBC driver API for use in client applications that use Always Encrypted.  
   
@@ -31,27 +32,32 @@ ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
   
 |Name|Description|  
 |----------|-----------------|  
-|New method:<br /><br /> public void setColumnEncryptionSetting\(String columnEncryptionSetting\)|Enables\/disables Always Encrypted functionality for the data source object.<br /><br /> The default is Disabled.|  
-|New method:<br /><br /> public String getColumnEncryptionSetting\(\)|Retrieves the Always Encrypted functionality setting for the data source object.|  
+|public void setColumnEncryptionSetting\(String columnEncryptionSetting\)|Enables\/disables Always Encrypted functionality for the data source object.<br /><br /> The default is Disabled.|  
+|public String getColumnEncryptionSetting\(\)|Retrieves the Always Encrypted functionality setting for the data source object.|
+|public void setKeyStoreAuthentication(String keyStoreAuthentication)|Sets the name that identifies a key store. Only value supported is the "JavaKeyStorePassword" for identifiying the Java Key Store.<br/><br/>The default is null.|
+|public String getKeyStoreAuthentication()|Gets the value of the keyStoreAuthentication setting for the data source object.|
+|public void setKeyStoreSecret(String keyStoreSecret)|Sets the password for the Java keystore. Note that, for Java Key Store provider the password for the keystore and the key must be the same. Note that, keyStoreAuthentication must be set with "JavaKeyStorePassword".|
+|public void setKeyStoreLocation(String keyStoreLocation)|Sets the location including the file name for the Java keystore. Note that, keyStoreAuthentication must be set with "JavaKeyStorePassword".|
+|public String getKeyStoreLocation()|Retrieves the keyStoreLocation for the Java Key Store.|
   
- **SQLServerColumnEncryptionJVMKeyStoreProvider Class**  
+ **SQLServerColumnEncryptionJavaKeyStoreProvider Class**  
   
- The implementation of the key store provider for JVM Key Store. This class enables using certificates stored in the JVM Key Store as column master keys.  
+ The implementation of the key store provider for Java Key Store. This class enables using certificates stored in the Java keystore as column master keys.  
   
  Constructors  
   
 |Name|Description|  
 |----------|-----------------|  
-|public SQLServerColumnEncryptionJVMKeyStoreProvider\(String keyStorePath, char\[\] keyStorePwd, Map\<String, char\[\]\> certPwds\)|Key store provider for JVM Key Store.|  
+|public SQLServerColumnEncryptionJavaKeyStoreProvider\(String keyStoreLocation, char[] keyStoreSecret)|Key store provider for the Java Key Store.|  
   
  Methods  
   
 |Name|Description|  
 |----------|-----------------|  
-|public void updateColumnMasterKeyCredentials\(String cmkPath, char\[\] pwd\)|Updates or \(creates if non\-existent\) the password for a Column Master Key stored in the JVM Key Store.|  
-|public void removeColumnMasterKeyCredentials\(String cmkPath\)|Removes the Column Master Key for this provider.|  
 |public byte\[\] decryptColumnEncryptionKey\(String masterKeyPath, String encryptionAlgorithm, byte\[\] encryptedColumnEncryptionKey\)|Decrypts the specified encrypted value of a column encryption key. The encrypted value is expected to be encrypted using the certificate with the specified key path and using the specified algorithm.<br /><br /> **The format of the key path should be one of the following:**<br /><br /> Thumbprint:\<certificate\_thumbprint\><br /><br /> Alias:\<certificate\_alias\><br /><br /> \(Overrides SQLServerColumnEncryptionKeyStoreProvider.decryptColumnEncryptionKey\(String, String, Byte\[\]\).\)|  
 |public byte\[\] encryptColumnEncryptionKey\(String masterKeyPath, String encryptionAlgorithm, byte\[\] plainTextColumnEncryptionKey\)|Encrypts a column encryption key using the certificate with the specified key path and using the specified algorithm.<br /><br /> **The format of the key path should be one of the following:**<br /><br /> Thumbprint:\<certificate\_thumbprint\><br /><br /> Alias:\<certificate\_alias\><br /><br /> \(Overrides SQLServerColumnEncryptionKeyStoreProvider.encryptColumnEncryptionKey\(String, String, Byte\[\]\).\)|  
+|public void setName(String name)|Sets the name of this key store provider.|
+|public String getName()|Gets the name of this key store provider.|
   
  **SQLServerColumnEncryptionAzureKeyVaultProvider Class**  
   
@@ -69,6 +75,9 @@ ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
 |----------|-----------------|  
 |public byte\[\] decryptColumnEncryptionKey\(String masterKeyPath, String encryptionAlgorithm, byte\[\] encryptedColumnEncryptionKey\)|Decrypts the specified encrypted value of a column encryption key. The encrypted value is expected to be encrypted using the specified column key IDmaster key and using the specified algorithm. <br />\(Overrides SQLServerColumnEncryptionKeyStoreProvider.decryptColumnEncryptionKey\(String, String, Byte\[\]\).\)|  
 |public byte\[\] encryptColumnEncryptionKey\(String masterKeyPath, String encryptionAlgorithm, byte\[\] columnEncryptionKey\)|Encrypts a column encryption key using the specified column master key and using the specified algorithm. <br />\(Overrides SQLServerColumnEncryptionKeyStoreProvider.encryptColumnEncryptionKey\(String, String, Byte\[\]\).\)|  
+|public void setName(String name)|Sets the name of this key store provider.|
+|public String getName()|Gets the name of this key store provider.|  
+  
   
  **SQLServerKeyVaultAuthenticationCallback Interface**  
   
@@ -80,7 +89,7 @@ ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
 |----------|-----------------|  
 |public String getAccessToken\(String authority, String resource, String scope\);|The method needs to be overridden. The method is used to get access token to Azure Key Vault.|  
   
- **SSQLServerColumnEncryptionKeyStoreProvider Class**  
+ **SQLServerColumnEncryptionKeyStoreProvider Class**  
   
  Extend this class to implement a custom key store provider.  
   
@@ -93,7 +102,9 @@ ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
 |Name|Description|  
 |----------|-----------------|  
 |public abstract byte\[\] decryptColumnEncryptionKey \(String masterKeyPath, String encryptionAlgorithm, byte \[\] encryptedColumnEncryptionKey\)|Base class method for decrypting the specified encrypted value of a column encryption key. The encrypted value is expected to be encrypted using the column master key with the specified key path and using the specified algorithm.|  
-|public abstract byte\[\] encryptColumnEncryptionKey \(String masterKeyPath, String encryptionAlgorithm, byte\[\]  columnEncryptionKey\)|Base class method for encrypting a column encryption key using the column master key with the specified key path and using the specified algorithm.|  
+|public abstract byte\[\] encryptColumnEncryptionKey \(String masterKeyPath, String encryptionAlgorithm, byte\[\]  columnEncryptionKey\)|Base class method for encrypting a column encryption key using the column master key with the specified key path and using the specified algorithm.|
+|public abstract void setName(String name)|Sets the name of this key store provider.|
+|public abstract String getName()|Gets the name of this key store provider.|  
   
  New or overloaded methods in **SQLServerPreparedStatement** Class  
   
@@ -110,6 +121,11 @@ ms.assetid: 6962a2aa-9508-4d4f-a78c-905e2bc68615
 |public void registerOutParameter\(int parameterIndex, int sqlType, int precision, int scale\)<br /><br /> public void registerOutParameter\(int parameterIndex, SQLType sqlType, int precision, int scale\)<br /><br /> public void registerOutParameter\(String parameterName, int sqlType, int precision, int scale\)<br /><br /> public void registerOutParameter\(String parameterName, SQLType sqlType, int precision, int scale\)<br />public void setBigDecimal\(String parameterName, BigDecimal bd, int precision, int scale\)<br /><br /> public void setTime\(String parameterName, java.sql.Time t, int scale\)<br /><br /> public void setTimestamp\(String parameterName, java.sql.Timestamp t, int scale\)<br /><br /> public void setDateTimeOffset\(String parameterName, microsoft.sql.DateTimeOffset t, int scale\)|These methods are overloaded with a precision or a scale argument or both to support Always Encrypted for specific data types that require precision and scale information.|  
 |public void setDateTime\(String parameterName, java.sql.Timestamp x\)<br /><br /> public void setSmallDateTime\(String parameterName, java.sql.Timestamp x\)<br /><br /> public void setUniqueIdentifier\(String parameterName, UUID guid\)<br /><br /> public void setMoney\(String parameterName, BigDecimal bd\)<br /><br /> public void setSmallMoney\(String parameterName, BigDecimal bd\)|These methods are added to support Always Encrypted for the data types money, smallmoney, uniqueidentifier, datetime and smalldatetime.|  
 |public void setObject\(String parameterName, Object o, int n, int m, boolean forceEncrypt\)<br /><br /> public void setObject\(String parameterName, Object obj, SQLType jdbcType, int scale, boolean forceEncrypt\)<br /><br /> public void setDate\(String parameterName, java.sql.Date x, Calendar c, boolean forceEncrypt\)<br /><br /> public void setTime\(String parameterName, java.sql.Time t, int scale, boolean forceEncrypt\)<br /><br /> public void setTime\(String parameterName, java.sql.Time x, Calendar c, boolean forceEncrypt\)<br /><br /> public void setDateTime\(String parameterName, java.sql.Timestamp x, boolean forceEncrypt\)<br /><br /> public void setDateTimeOffset\(String parameterName, microsoft.sql.DateTimeOffset t, int scale, boolean forceEncrypt\)<br /><br /> public void setSmallDateTime\(String parameterName, java.sql.Timestamp x, boolean forceEncrypt\)<br /><br /> public void setTimestamp\(String parameterName, java.sql.Timestamp t, int scale, boolean forceEncrypt\)<br /><br /> public void setTimestamp\(String parameterName, java.sql.Timestamp x, boolean forceEncrypt\)<br /><br /> public void setUniqueIdentifier\(String parameterName, UUID guid, boolean forceEncrypt\)<br /><br /> public void setBytes\(String parameterName, byte\[\] b, boolean forceEncrypt\)<br /><br /> public void setByte\(String parameterName, byte b, boolean forceEncrypt\)<br /><br /> public void setString\(String parameterName, String s, boolean forceEncrypt\)<br /><br /> public final void setNString\(String parameterName, String value, boolean forceEncrypt\)<br /><br /> public void setMoney\(String parameterName, BigDecimal bd, boolean forceEncrypt\)<br /><br /> public void setSmallMoney\(String parameterName, BigDecimal bd, boolean forceEncrypt\)<br /><br /> public void setBigDecimal\(String parameterName, BigDecimal bd, int precision, int scale, boolean forceEncrypt\)<br /><br /> public void setDouble\(String parameterName, double d, boolean forceEncrypt\)<br /><br /> public void setFloat\(String parameterName, float f, boolean forceEncrypt\)<br /><br /> public void setInt\(String parameterName, int i, boolean forceEncrypt\)<br /><br /> public void setLong\(String parameterName, long l, boolean forceEncrypt\)<br /><br /> public void setShort\(String parameterName, short s, boolean forceEncrypt\)<br /><br /> public void setBoolean\(String parameterNames, boolean b, boolean forceEncrypt\)|Sets the designated parameter to the given java value.<br /><br /> If the boolean forceEncrypt is set to true, the query parameter will only be set if the designation column is encrypted and Always Encrypted is enabled on the connection or on the statement.<br /><br /> If the boolean forceEncrypt is set to false, the driver will not force encryption on parameters.|  
+  
+
+  
+  
+  
   
  **SQLServerStatementColumnEncryptionSetting Enum**  
   

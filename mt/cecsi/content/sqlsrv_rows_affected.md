@@ -12,6 +12,7 @@ apiname:
   - sqlsrv_rows_affected
 apitype: NA
 ms.assetid: 6f43fbfc-fc92-449b-82d0-33fa780e8f09
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

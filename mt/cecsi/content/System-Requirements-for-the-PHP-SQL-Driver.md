@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5db4b75f-c605-4785-9560-399a533c0fc9
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -58,7 +59,7 @@ If you are using the SQLSRV driver, [sqlsrv_client_info](../content/sqlsrv_clien
 
 
 ## Database Versions
--   Azure SQL Databases are supported. For information see [Connecting to Microsoft Azure SQL Database](../Topic/Connecting%20to%20Windows%20Azure%20SQL%20Database.md). 
+-   Azure SQL Databases are supported. For information see [Connecting to Microsoft Azure SQL Database](../content/Connecting-to-Microsoft-Azure-SQL-Database.md). 
 
 - [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)] version 3.1 and later support SQL Server 2008 and later
 - [!INCLUDE[ssDriverPHP](../content/includes/ssDriverPHP_md.md)] version 2.0 and 3.0 support SQL Server 2005 and later

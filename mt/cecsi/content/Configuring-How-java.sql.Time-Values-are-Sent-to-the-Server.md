@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 07eb00dd-621a-46f9-a5a5-8cab4d6058b5
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -56,6 +57,13 @@ translation.priority.ht:
 -   Use java.sql.Time when working with the **time**[!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] data type.  
   
 -   Use java.sql.Timestamp when working with the **datetime**, **smalldatetime**, and **datetime2**[!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] data types.  
+  
+Note that sendTimeAsDatetime must be false for encrypted columns as encrypted columns do not support the conversion from time to datetime. Beginning with Microsoft JDBC Driver 6.0 for SQL Server, the SQLServerConnection class has the following two methods to set/get the value of the sendTimeAsDatetime property.
+
+```
+  public boolean getSendTimeAsDatetime()
+  public void setSendTimeAsDatetime(boolean sendTimeAsDateTimeValue)
+```
   
 ## See Also  
  [Understanding the JDBC Driver Data Types](../content/Understanding-the-JDBC-Driver-Data-Types.md)  

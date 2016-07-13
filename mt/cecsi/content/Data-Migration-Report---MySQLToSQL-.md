@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5524a575-67dd-4ef6-9d17-3412df9b9f9c
+manager:lonnyb
 ---
 # Data Migration Report  (MySQLToSQL)
 The **Data Migration Report** dialog box appears after you migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

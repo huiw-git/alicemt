@@ -8,6 +8,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bd2b9d85-e75e-4fc8-a392-076582019caa
+manager:sonalm
 ---
 # BOF, EOF, and Bookmark Properties Example (VC++)
 <?xml version="1.0" encoding="utf-8"?>

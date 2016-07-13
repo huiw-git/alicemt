@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: eeb80fa5-f530-4f21-beee-25f5a4b8ace6
+manager:lonnyb
 ---
 # Project Settings (Conversion) (SybaseToSQL)
 The Conversion page of the **Project Settings** dialog box contains settings that customize how SSMA converts Sybase Adaptive Server Enterprise (ASE) syntax to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or SQL Azure syntax.  

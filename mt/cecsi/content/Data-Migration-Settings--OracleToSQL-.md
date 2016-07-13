@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 91f7f558-025d-4f4d-ac2c-aa095e7d1ace
+manager:b-tomb
 ---
 # Data Migration Settings (OracleToSQL)
   

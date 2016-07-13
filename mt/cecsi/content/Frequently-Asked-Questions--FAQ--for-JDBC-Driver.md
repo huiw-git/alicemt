@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cbc0e397-ecf2-4494-87b2-a492609bceae
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es
@@ -29,7 +30,7 @@ translation.priority.ht:
  See the [Microsoft JDBC Driver for SQL Server Support Matrix](../content/Microsoft-JDBC-Driver-for-SQL-Server-Support-Matrix.md) page for details.  
   
  What should I know when upgrading my driver?  
- The Microsoft JDBC Driver 6.0 \(Preview\) and 4.2 for SQL Server support both JDBC 3.0 and JDBC 4.2 specifications and include four JAR class libraries in the installation package as follows:  
+ The Microsoft JDBC Driver 6.0 and 4.2 for SQL Server support both JDBC 3.0 and JDBC 4.2 specifications and include four JAR class libraries in the installation package as follows:  
   
 ||||  
 |-|-|-|  

@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d315ad6a-0d50-4093-80c2-2f11217237c2
+manager:jhubbard
 ---
 # PHP Driver for SQL Server Support for LocalDB
 Beginning in [!INCLUDE[ssSQL11](../content/includes/ssSQL11_md.md)], a lightweight version of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], called LocalDB, will be available. This topic discusses how to connect to a database in a LocalDB instance.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e770c2f2-52b9-4471-a207-0d35df41399c
+manager:lonnyb
 ---
 # Installing SSMA  for Sybase Client (SybaseToSQL)
 The SSMA client consists of the program files that are used to connect to a Sybase Adaptive Server Enterprise (ASE) database server and an instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB, convert ASE database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB syntax, load the objects into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQL DB, and then migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] or Azure SQLDB.  

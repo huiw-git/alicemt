@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 84abdd92-682c-404b-879d-7879bdf5b468
+manager:b-tomb
 ---
 # SQL Server Migration Assistant for Oracle (OracleToSQL)
 [!INCLUDE[msCoName](../content/includes/msCoName_md.md)] [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Migration Assistant (SSMA) for Oracle is a tool for migrating Oracle databases to [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2005, [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2008, [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2012, [!INCLUDE[msCoName](../content/includes/msCoName_md.md)][!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] 2014. SSMA for Oracle converts Oracle database objects to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] database objects, creates those objects in [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], and then migrates data from Oracle to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

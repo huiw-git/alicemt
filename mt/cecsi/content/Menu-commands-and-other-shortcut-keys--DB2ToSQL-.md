@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 13189359-73ff-45cf-8225-2a8f7194accc
+manager:lonnyb
 ---
 # Menu commands and other shortcut keys (DB2ToSQL)
 The following sections describe the keyboard shortcuts to access menu commands and other shortcut keys used in various dialog boxes of SSMA for DB2 application.  

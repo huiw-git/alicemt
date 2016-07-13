@@ -14,6 +14,7 @@ apilocation:
   - SQLServerStatement.getResponseBuffering()
 apitype: Assembly
 ms.assetid: a9a9ffdd-7ce3-4e0a-907c-34d6a54e6865
+manager:jhubbard
 translation.priority.ht: 
   - de-de
   - es-es

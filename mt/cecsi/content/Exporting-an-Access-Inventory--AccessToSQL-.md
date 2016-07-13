@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7e1941fb-3d14-4265-aff6-c77a4026d0ed
+manager:lonnyb
 ---
 # Exporting an Access Inventory (AccessToSQL)
 If you have multiple Access databases and you are not sure which ones to migrate into [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you can export an inventory of all Access databases in a project. You can then review and query the inventory metadata to determine which databases and objects within those databases to migrate. This inventory lets you quickly find answers to questions, such as the following:  

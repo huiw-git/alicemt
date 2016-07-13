@@ -9,7 +9,8 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: adafeeef-4255-4924-8042-02f503d599ca
-translation.priority.mt: 
+manager:jhubbard
+translation.priority.ht: 
   - de-de
   - es-es
   - fr-fr
@@ -27,10 +28,14 @@ SQL Server Management Studio (SSMS) is an integrated environment for accessing, 
 | ![download](../content/media/download.png) Download SQL Server Management Studio (SSMS)  |  
 |---|  
 |**[Download SQL Server Management Studio July 2016](http://go.microsoft.com/fwlink/?LinkID=820751)**|  
-  
+
+> [!IMPORTANT]
+> This release of SSMS enables [the 'XACT_ABORT' option in SSMS](https://msdn.microsoft.com/library/ms188792.aspx#Anchor_1) by default. This option instructs SQL Server to rollback the entire transaction and abort the batch if a run-time error occurs. You can disable this option in the SQL Server Query Execution options dialog page.
+
 > [!NOTE]  
 > This generally available release of SSMS is free and does not require a SQL Server license to install and use.  
-  
+
+ 
 ## SQL Server Management Studio   
 **Version Information**  
   
@@ -49,12 +54,19 @@ This release of SSMS supports the following platforms when used with the latest 
  Windows 10, Windows 8, Windows 8.1, Windows 7 (SP1), Windows Server 2012 (64\-bit), Windows Server 2012 R2 (64\-bit), Windows Server 2008 R2 (64\-bit)  
    
  **Available Languages**  
+> [!NOTE]  
+> Non-English localized releases of SSMS require the [KB 2862966 security update package](https://support.microsoft.com/en-us/kb/2862966) if installing on: Windows 8, Windows 7, Windows Server 2012, and Windows Server 2008 R2. 
+  
  This release of SSMS can be installed in the following languages:  
 [Chinese (People's Republic of China)](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x804) | [Chinese (Taiwan)](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x404) | [English (United States)](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x409) | [French](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x40c)  
 [German](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x407) | [Italian](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x410) | [Japanese](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x411) | [Korean](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x412) | [Portuguese (Brazil)](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x416) | [Russian](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x419) | [Spanish](http://go.microsoft.com/fwlink/?LinkID=820751&clcid=0x40a)  
-  
-  
+
+ 
 ## Changelog  
+* ***Edit, July 5th:*** Improved support for SQL Server 2016 (1200 compatibility level) tabular databases in the Analysis Services Process dialog and the Analysis Services Deployment wizard.
+
+* ***Edit, July 5th:*** New option in SSMS 'query execution options' dialog to set 'XACT_ABORT'. This option is enabled by default in this release of SSMS and instructs SQL Server to rollback the entire transaction and abort the batch if a run-time error occurs.
+
 * Support for Azure SQL Data Warehouse in SSMS.
 
 * Significant updates to the SQL Server PowerShell module. This includes a new [SQL PowerShell module and new CMDLETs for Always Encrypted, SQL Agent, and SQL Error Logs](https://blogs.technet.microsoft.com/dataplatforminsider/2016/06/30/sql-powershell-july-2016-update).
@@ -66,8 +78,6 @@ This release of SSMS supports the following platforms when used with the latest 
 * New ‘Backup to URL’ dialog to support the creation of Azure storage credentials for SQL Server 2016 database backups. This provides a more streamlined experience for storing database backups in an Azure storage account.
  
 * New Restore dialog to streamline restoring a SQL Server 2016 database backup from the Microsoft Azure storage service. 
- 
-* Improved support for SQL Server 2016 (1200 compatibility level) tabular databases in the Analysis Services Process dialog.
 
 * Bug fix in SSMS query designer to allow adding tables to the designer if a user doesn’t have SELECT permissions on them.
 

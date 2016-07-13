@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bac234ef-bc16-47e6-8a7c-aa6e76d860c5
+manager:lonnyb
 ---
 # Data Migration Report (SybaseToSQL)
 The **Data Migration Report** dialog box appears after you migrate data to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

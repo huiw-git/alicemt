@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fc00e683-189e-4765-b280-84927d635126
+manager:b-tomb
 ---
 # Menu commands and other shortcut keys(Oracle To SQL)
 The following sections describe the keyboard shortcuts to access menu commands and other shortcut keys used in various dialog boxes of SSMA for Oracle application.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a24d3fc0-6911-4bfa-828a-197abf222e02
+manager:lonnyb
 ---
 # What&#39;s New in SSMA for Access(AccessToSQL)
 This topic lists SSMA for Access changes in each release.  

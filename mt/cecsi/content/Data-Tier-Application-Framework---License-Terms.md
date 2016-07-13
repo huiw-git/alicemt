@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 68b76541-ab99-436a-982b-f18c46bc6fe3
+manager:jhubbard
 ---
 # Data-Tier Application Framework - License Terms
 ## MICROSOFT SOFTWARE LICENSE TERMS  

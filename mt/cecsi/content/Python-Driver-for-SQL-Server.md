@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3a1568d1-917b-46d3-b5cb-facdc740408f
+manager:jhubbard
 ---
 # Python Driver for SQL Server
 You can  connect to a SQL Database using Python on Windows, Linux, or Mac.  

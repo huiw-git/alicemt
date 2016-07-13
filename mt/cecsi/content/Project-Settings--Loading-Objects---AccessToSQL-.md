@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9ec1c1e8-a3e1-4e81-bf49-631f87daa209
+manager:lonnyb
 ---
 # Project Settings (Loading Objects) (AccessToSQL)
 The Loading Objects project settings let you configure how Access database objects are synchronized with SQL Server database objects.  

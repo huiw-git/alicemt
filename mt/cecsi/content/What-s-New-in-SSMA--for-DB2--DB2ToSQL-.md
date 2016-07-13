@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1cc38f85-3caa-42d0-8c76-a380c1d15c67
+manager:lonnyb
 ---
 # What&#39;s New in SSMA  for DB2 (DB2ToSQL)
 This topic lists SSMA for DB2 changes in each release.  

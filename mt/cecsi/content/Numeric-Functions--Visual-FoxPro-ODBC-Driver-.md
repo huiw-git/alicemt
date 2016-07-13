@@ -9,6 +9,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7caab48e-cbb5-4bbc-a09b-5cf902e5bc45
+manager:jhubbard
 ---
 # Numeric Functions (Visual FoxPro ODBC Driver)
 <?xml version="1.0" encoding="utf-8"?>

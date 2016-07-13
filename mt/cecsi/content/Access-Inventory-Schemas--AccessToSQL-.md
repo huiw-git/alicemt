@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fdd3cff2-4d62-4395-8acf-71ea8f17f524
+manager:lonnyb
 ---
 # Access Inventory Schemas (AccessToSQL)
 The following sections describe the tables that are created by SSMA when you export Access schemas to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)].  

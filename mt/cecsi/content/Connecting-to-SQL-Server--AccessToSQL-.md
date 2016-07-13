@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f84cf007-ddf1-4396-a07c-3e0729abc769
+manager:lonnyb
 ---
 # Connecting to SQL Server (AccessToSQL)
 To migrate Access databases to [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)], you must connect to the target instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)]. When you connect, SSMA obtains metadata about the databases in the instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] and displays database metadata in [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Metadata Explorer. SSMA stores information about which instance of [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] that you are connected to, but does not store passwords.  

@@ -8,6 +8,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a219df74-543a-4aec-aeeb-79f90ac3e2ee
+manager:lonnyb
 ---
 # Selecting and Configuring Affected Objects (SybaseToSQL)
 At this page you can select tables and foreign keys, changes in which should be compared when SSMA verifies the results of execution for the objects chosen in the previous step. Also, you can customize the verification parameters.  
