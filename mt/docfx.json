@@ -22,7 +22,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "mt/**"
+          "mt/**",
+          "**/includes/**",
         ],
         "src": null,
         "dest": null
