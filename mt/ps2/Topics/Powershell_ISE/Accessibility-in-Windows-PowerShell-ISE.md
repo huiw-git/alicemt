@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a078f9d1-dd6b-4323-b16d-0622cd993aa8
-manager:stevenka
+manager: stevenka
 ---
 # Accessibility in Windows PowerShell ISE
 This topic describes the accessibility features of [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] that you might find helpful.

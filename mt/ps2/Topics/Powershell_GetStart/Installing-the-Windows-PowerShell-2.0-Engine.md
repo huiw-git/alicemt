@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82928f2b-f96a-4ae6-a0d0-6e7b181da308
-manager:stevenka
+manager: stevenka
 ---
 # Installing the Windows PowerShell 2.0 Engine
 This topic explains how to install the [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)] Engine.

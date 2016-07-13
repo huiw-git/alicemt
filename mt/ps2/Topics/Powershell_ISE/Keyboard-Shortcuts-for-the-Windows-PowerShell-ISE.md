@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8328b946-0f02-4ef4-ac28-2743a1b4043b
-manager:stevenka
+manager: stevenka
 ---
 # Keyboard Shortcuts for the Windows PowerShell ISE
 Use the following keyboard shortcuts to perform actions in [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)]. [!INCLUDE[ise_2](../../Topics/Powershell_ISE/includes/ise_2_md.md)] is available as part of the Windows Server and Windows client operating systems, but can also be installed on some older Windows operating systems as part of the [Windows Management Framework 4.0 download package](http://go.microsoft.com/fwlink/?LinkID=293881).

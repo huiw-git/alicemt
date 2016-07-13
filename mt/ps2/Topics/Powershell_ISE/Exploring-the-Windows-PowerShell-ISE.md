@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e0d2c6e8-5126-40e7-a1e1-d1cff29fe94a
-manager:stevenka
+manager: stevenka
 ---
 # Exploring the Windows PowerShell ISE
 You can use the [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)] to create, run, and debug commands and scripts. The [!INCLUDE[ise_2](../../Topics/Powershell_ISE/includes/ise_2_md.md)] consists of the menu bar, Windows PowerShell tabs, the toolbar, script tabs, a Script Pane, a Console Pane, a status bar, a text\-size slider and context\-sensitive Help.

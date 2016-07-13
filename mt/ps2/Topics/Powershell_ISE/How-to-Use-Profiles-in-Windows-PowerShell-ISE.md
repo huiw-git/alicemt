@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0219626a-6da5-4acc-b630-d058e8b29cc6
-manager:stevenka
+manager: stevenka
 ---
 # How to Use Profiles in Windows PowerShell ISE
 This topic explains how to use Profiles in [!INCLUDE[ise_1](../../Topics/Powershell_ISE/includes/ise_1_md.md)]. We recommend that before performing the tasks in this section, you review [about_Profiles [v4]](assetId:///e1d9e30a-70cc-4f36-949f-fc7cd96b4054), or in the Console Pane, type, “get\-help about\_profiles” and press **ENTER**.

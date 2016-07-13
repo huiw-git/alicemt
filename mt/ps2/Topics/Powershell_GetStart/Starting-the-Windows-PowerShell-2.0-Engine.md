@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: edafc2fa-7576-49c2-bbba-9336f4bcfc28
-manager:stevenka
+manager: stevenka
 ---
 # Starting the Windows PowerShell 2.0 Engine
 This section explains how to start the [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)] Engine on [!INCLUDE[winblue_client_2](../../Topics/Powershell_GetStart/includes/winblue_client_2_md.md)], [!INCLUDE[winblue_server_2](../../Topics/Powershell_GetStart/includes/winblue_server_2_md.md)], [!INCLUDE[win8_client_2](../../Topics/Powershell_GetStart/includes/win8_client_2_md.md)], and [!INCLUDE[win8_server_2](../../Topics/Powershell_GetStart/includes/win8_server_2_md.md)], which include the [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)] Engine, and on other systems on which [!INCLUDE[psversion2](../../Topics/Powershell_CmdLineHlp/includes/psversion2_md.md)], [!INCLUDE[psversion3](../../Topics/Powershell_CmdLineHlp/includes/psversion3_md.md)], and [!INCLUDE[psversion4](../../Topics/Powershell_GetStart/includes/psversion4_md.md)] are installed.

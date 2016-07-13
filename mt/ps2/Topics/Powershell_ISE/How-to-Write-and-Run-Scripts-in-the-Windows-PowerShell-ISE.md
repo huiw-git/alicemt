@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 62f916d9-b3a1-484a-bdfb-41f57112c22b
-manager:stevenka
+manager: stevenka
 ---
 # How to Write and Run Scripts in the Windows PowerShell ISE
 This topic describes how to create, edit, run, and save scripts in the Script Pane.

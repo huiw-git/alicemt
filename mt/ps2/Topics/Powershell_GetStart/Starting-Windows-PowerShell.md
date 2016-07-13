@@ -7,7 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59b649a2-c90c-4cf4-bf95-a740c59148e7
-manager:stevenka
+manager: stevenka
 ---
 # Starting Windows PowerShell
 To start [!INCLUDE[wps_1](../../Topics/Powershell_GetStart/includes/wps_1_md.md)] on [!INCLUDE[winblue_server_1](../../Topics/Powershell_GetStart/includes/winblue_server_1_md.md)], [!INCLUDE[winblue_client_1](../../Topics/Powershell_GetStart/includes/winblue_client_1_md.md)], [!INCLUDE[win8_server_2](../../Topics/Powershell_GetStart/includes/win8_server_2_md.md)], and [!INCLUDE[win8_client_2](../../Topics/Powershell_GetStart/includes/win8_client_2_md.md)], see [Common Management Tasks and Navigation](http://technet.microsoft.com/library/hh831491.aspx).
