@@ -1,0 +1,40 @@
+---
+translation.priority.ht: 
+  - ar-sa
+  - bg-bg
+  - cs-cz
+  - da-dk
+  - de-de
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - he-il
+  - hr-hr
+  - hu-hu
+  - it-it
+  - ja-jp
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-br
+  - pt-pt
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - sr-latn-rs
+  - sv-se
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-hk
+  - zh-tw
+---
+ SQL Server 2012 

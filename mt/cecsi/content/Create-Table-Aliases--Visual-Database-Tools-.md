@@ -1,0 +1,50 @@
+---
+title: Create Table Aliases (Visual Database Tools)
+ms.custom: na
+ms.date: 07/12/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - tools-ssms
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 49e61e85-8abf-4ca7-8c70-7e9f8f1078bd
+manager: jhubbard
+translation.priority.mt: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+---
+# Create Table Aliases (Visual Database Tools)
+Aliases can make it easier to work with table names. Using aliases is helpful when:  
+  
+-   You want to make the statement in the [SQL Pane](../content/SQL-Pane--Visual-Database-Tools-.md) shorter and easier to read.  
+  
+-   You refer to the table name often in your query — such as in qualifying column names — and want to be sure you stay within a specific character\-length limit for your query. (Some databases impose a maximum length for queries.)  
+  
+-   You are working with multiple instances of the same table (such as in a self\-join) and need a way to refer to one instance or the other.  
+  
+For example, you can create an alias `"e"` for a table name `employee`\_`information`, and then refer to the table as `"e"` throughout the rest of the query.  
+  
+### To create an alias for a table or table\-valued object  
+  
+1.  Add the table or table\-valued object to your query.  
+  
+2.  In the **Diagram Pane**, right\-click the object for which you want to create an alias, then select **Properties** from the shortcut menu.  
+  
+3.  In the **Properties** window, enter the alias in the **Alias** field.  
+  
+## See Also  
+[Add Tables to Queries &#40;Visual Database Tools&#41;](../content/Add-Tables-to-Queries--Visual-Database-Tools-.md)  
+[Sort and Group Query Results &#40;Visual Database Tools&#41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
+[Summarize Query Results &#40;Visual Database Tools&#41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md)  
+[Perform Basic Operations with Queries &#40;Visual Database Tools&#41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
+  

@@ -1,0 +1,34 @@
+---
+title: Add Related Tables to Diagrams (Visual Database Tools)
+ms.custom: na
+ms.date: 07/12/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - tools-ssms
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: be6f421b-5697-4a52-8cab-ed5f90c3f506
+manager: jhubbard
+translation.priority.mt: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+---
+# Add Related Tables to Diagrams (Visual Database Tools)
+You can quickly add to a database diagram all of the tables that are involved in a relationship with a selected table.  
+  
+### To add related tables to a diagram  
+  
+1.  Add the table with relationships to a database diagram.  
+  
+2.  Right\-click the table and from the shortcut menu and click **Add Related Tables**.  
+  

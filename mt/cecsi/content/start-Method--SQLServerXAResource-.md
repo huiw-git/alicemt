@@ -1,0 +1,63 @@
+---
+title: start Method (SQLServerXAResource)
+ms.custom: na
+ms.date: 07/13/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+apiname: 
+  - SQLServerXAResource.start
+apilocation: 
+  - sqljdbc.jar
+apitype: Assembly
+ms.assetid: 33c90213-92f7-416b-b2fa-67a1afe64e97
+manager: jhubbard
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - sv-se
+  - zh-cn
+  - zh-tw
+---
+# start Method (SQLServerXAResource)
+  Starts work on behalf of a transaction branch that is specified in the Xid object.  
+  
+## Syntax  
+  
+```  
+  
+public void start(javax.transaction.xa.Xid xid,  
+                  int flags)  
+```  
+  
+#### Parameters  
+ *xid*  
+  
+ An Xid object.  
+  
+ *flags*  
+  
+ An **int** value.  
+  
+## Exceptions  
+ javax.transaction.xa.XAException  
+  
+## Remarks  
+ This start method is specified by the start method in the javax.transaction.xa.XAResource interface.  
+  
+## See Also  
+ [SQLServerXAResource Methods](../content/SQLServerXAResource-Methods.md)   
+ [SQLServerXAResource Members](../content/SQLServerXAResource-Members.md)   
+ [SQLServerXAResource Class](../content/SQLServerXAResource-Class.md)  
+  
+  
