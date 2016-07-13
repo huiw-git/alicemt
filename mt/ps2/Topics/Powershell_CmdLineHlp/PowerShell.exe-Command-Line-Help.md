@@ -1,6 +1,7 @@
 ---
 title: PowerShell.exe Command-Line Help
 ms.custom: na
+ms.date: 06/24/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

@@ -1,6 +1,7 @@
 ---
 title: Starting Windows PowerShell on Earlier Versions of Windows
 ms.custom: na
+ms.date: 06/24/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
