@@ -69,7 +69,7 @@ When you attempt to uninstall the ATA Center or ATA Gateway, if the ATA installa
 
 -   Add a new String value named `InstallationPath` with a value of `C:\Program Files\Microsoft Advanced Threat Analytics\Center` . This is the default installation folder. If you changed the installation folder enter the path where ATA is installed.
 
-    ![ATA uninstall center bug](../../ems/ATA_Content/media/ATA-uninstall-center-bug.jpg "ATA uninstall center bug")
+    ![](../Image/ATA%20uninstall%20center%20bug.jpg)
 
 **ATA Gateway**
 
