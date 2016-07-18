@@ -66,7 +66,7 @@ Perform the following steps on the ATA Center server.
     |ATA Center Service SSL Certificate|This is the certificate that will be used by the ATA Center service.|Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment.|
     |ATA Console IP address|This is the IP address that will be used by IIS for the ATA Console.|Click the down arrow to select the IP address used by the ATA Console. **Note:** Make a note of this IP address to make it easier to access the ATA Console from the ATA Gateway.|
     |ATA Console SSL certificate|This is the certificate to be used by IIS.|Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment.|
-    ![ATA Center Configuration](../../ems/ATA_Content/media/ATA-Center-Configuration.JPG "ATA Center Configuration")
+    ![](../Image/ATA%20Center%20Configuration.JPG)
 
 7.  Click **Install** to install ATA and its components and create the connection between the ATA Center and the ATA Console.
 
