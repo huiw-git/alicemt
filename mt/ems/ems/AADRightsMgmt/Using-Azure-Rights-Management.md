@@ -8,10 +8,9 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
-caps.latest.revision: 25
+caps.latest.revision: 26
 translation.priority.ht: 
   - bg-bg
-  - de-de
   - el-gr
   - es-es
   - et-ee
@@ -19,7 +18,6 @@ translation.priority.ht:
   - fr-fr
   - hr-hr
   - it-it
-  - ja-jp
   - kk-kz
   - ko-kr
   - lt-lt
@@ -38,7 +36,9 @@ translation.priority.ht:
 translation.priority.mt: 
   - cs-cz
   - da-dk
+  - de-de
   - hu-hu
+  - ja-jp
   - nb-no
   - nl-nl
   - pl-pl
@@ -50,6 +50,8 @@ translation.priority.mt:
 > This information is for IT administrators and consultants who have deployed Microsoft Azure Rights Management (Azure RMS). If you are looking for user help and information about how to use Rights Management for a specific application, use the help and guidance that accompanies your application.
 > 
 > For example, for Office applications, click the Help icon and enter search terms such as **Rights Management** or **IRM**. For the RMS sharing application for Windows, see the [Rights Management sharing application user guide](http://technet.microsoft.com/library/dn339006.aspx).
+
+![1-aadp onboarding process-v3](../../ems/AADRightsMgmt/media/1-aadp-onboarding-process-v3.png)
 
 This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]:
 
