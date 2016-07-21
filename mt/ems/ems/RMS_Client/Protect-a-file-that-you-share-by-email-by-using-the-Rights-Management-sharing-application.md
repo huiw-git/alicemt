@@ -7,7 +7,6 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 0
 ms.assetid: 4c1cd1d3-78dd-4f90-8b37-dcc9205a6736
 caps.latest.revision: 25
 translation.priority.ht: 
