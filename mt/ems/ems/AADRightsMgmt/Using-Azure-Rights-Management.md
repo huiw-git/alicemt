@@ -8,7 +8,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
-caps.latest.revision: 26
+caps.latest.revision: 27
 translation.priority.ht: 
   - bg-bg
   - el-gr
@@ -52,6 +52,8 @@ translation.priority.mt:
 > For example, for Office applications, click the Help icon and enter search terms such as **Rights Management** or **IRM**. For the RMS sharing application for Windows, see the [Rights Management sharing application user guide](http://technet.microsoft.com/library/dn339006.aspx).
 
 ![1-aadp onboarding process-v3](../../ems/AADRightsMgmt/media/1-aadp-onboarding-process-v3.png)
+
+[!INCLUDE[test test test](../../ems/AADRightsMgmt/includes/test-test-test.md)]
 
 This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]:
 
