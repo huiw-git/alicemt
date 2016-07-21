@@ -1,13 +1,15 @@
 ---
 title: Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 965581c8-be3c-43b4-8145-5cefd29c7636
+caps.latest.revision: 25
 translation.priority.ht: 
   - bg-bg
   - de-de

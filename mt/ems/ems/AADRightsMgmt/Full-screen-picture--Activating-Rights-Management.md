@@ -2,12 +2,13 @@
 title: Full screen picture: Activating Rights Management
 ms.custom: 
   - test
-ms.date: 12/22/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 98d53a12-3b19-4622-bb1e-75ef56df5438
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

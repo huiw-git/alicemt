@@ -1,13 +1,15 @@
 ---
 title: Installing Windows PowerShell for Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 0d665ed6-b1de-4d63-854a-bc57c1c49844
+caps.latest.revision: 19
 translation.priority.ht: 
   - bg-bg
   - el-gr

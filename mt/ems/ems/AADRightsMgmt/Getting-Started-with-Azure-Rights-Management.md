@@ -1,13 +1,15 @@
 ---
 title: Getting Started with Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-08-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 5214667c-ec69-42ca-8bbf-8cb22da8c62e
+caps.latest.revision: 16
 translation.priority.ht: 
   - bg-bg
   - de-de

@@ -1,13 +1,15 @@
 ---
 title: Remove protection from a file by using the Rights Management sharing application
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: da95b938-eaad-4c83-a21e-ff1d4872aae4
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

@@ -11,6 +11,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 279d79f2-962c-4c6f-9702-29744a5d50e2
+caps.latest.revision: 24
 ---
 # ATA Capacity Planning
 This topic helps you determine how many ATA servers will be needed to support your network.

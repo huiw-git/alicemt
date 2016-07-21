@@ -1,13 +1,14 @@
 ---
 title: Logging and Analyzing Azure Rights Management Usage
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a735f3f7-6eb2-4901-9084-8c3cd3a9087e
+caps.latest.revision: 16
 translation.priority.ht: 
   - de-de
   - es-es

@@ -11,6 +11,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
+caps.latest.revision: 17
 translation.priority.mt: 
   - de-de
   - ja-jp

@@ -1,13 +1,15 @@
 ---
 title: Configuring Custom Templates for Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 1775d8d0-9a59-42c8-914f-ce285b71ac1c
+caps.latest.revision: 18
 translation.priority.ht: 
   - es-es
   - fr-fr

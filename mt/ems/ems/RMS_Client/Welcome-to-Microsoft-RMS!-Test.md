@@ -6,6 +6,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 23ca5ffe-a3c3-475a-a3c9-b77b898eef80
+caps.latest.revision: 25
 translation.priority.ht: 
   - cs-cz
   - de-de

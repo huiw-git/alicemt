@@ -1,13 +1,15 @@
 ---
 title: Rights Management (RMS) Client
 ms.custom: na
-ms.date: 03/02/2016
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 4768c144-b47b-445c-a7b7-16e432536be3
+caps.latest.revision: 25
 robots: noindex,nofollow
 translation.priority.ht: 
   - de-de

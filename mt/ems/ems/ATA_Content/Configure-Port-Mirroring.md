@@ -11,6 +11,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cdaddca3-e26e-4137-b553-8ed3f389c460
+caps.latest.revision: 24
 ---
 # Configure Port Mirroring
 The main data source used by ATA is deep packet inspection of the network traffic to and from your domain controllers. For ATA to see the network traffic, port mirroring needs to be configured. Port mirroring copies the traffic on one port, known as the source port, to another port, known as the destination port.  ATA works with most solutions that can mirror traffic - if the traffic can be port mirrored to ATA, it can be used to analyze threats to your system. To configure port mirroring, refer to your vendor's documentation.

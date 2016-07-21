@@ -1,13 +1,15 @@
 ---
 title: How Applications Support Azure Rights Management
 ms.custom: na
-ms.date: 03/02/2016
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 2cdc7bde-4044-4021-b887-11476f99afd9
+caps.latest.revision: 16
 translation.priority.ht: 
   - bg-bg
   - da-dk

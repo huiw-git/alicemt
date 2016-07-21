@@ -1,13 +1,15 @@
 ---
 title: Comparing Azure Rights Management and AD RMS
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 8123bd62-1814-4d79-b306-e20c1a00e264
+caps.latest.revision: 9
 translation.priority.ht: 
   - bg-bg
   - el-gr

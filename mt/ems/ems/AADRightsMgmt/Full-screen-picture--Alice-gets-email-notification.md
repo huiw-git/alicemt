@@ -1,12 +1,13 @@
 ---
 title: Full screen picture: Alice gets email notification
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f642a2e-58ad-44ab-9f81-f890d15380f9
+caps.latest.revision: 25
 robots: nofollow
 translation.priority.ht: 
   - de-de

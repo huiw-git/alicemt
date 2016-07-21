@@ -1,13 +1,15 @@
 ---
 title: Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-08-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: acb4c00b-d3a9-4d74-94fe-91eeb481f7e3
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

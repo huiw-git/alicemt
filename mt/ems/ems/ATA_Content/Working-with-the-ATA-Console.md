@@ -11,6 +11,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1bf264d9-9697-44b5-9533-e1c498da4f07
+caps.latest.revision: 24
 ---
 # Working with the ATA Console
 This section describes the ATA Console.

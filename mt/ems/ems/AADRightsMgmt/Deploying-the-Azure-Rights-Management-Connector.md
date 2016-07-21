@@ -1,13 +1,15 @@
 ---
 title: Deploying the Azure Rights Management Connector
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 90e7e33f-9ecc-497b-89c5-09205ffc5066
+caps.latest.revision: 9
 translation.priority.ht: 
   - es-es
   - fr-fr

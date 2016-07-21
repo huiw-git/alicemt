@@ -7,6 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cd9f05e7-26e6-45e0-8d38-67d8232b1cae
+caps.latest.revision: 24
 ---
 # Benefits of Intune App SDK
 Insert introduction here.

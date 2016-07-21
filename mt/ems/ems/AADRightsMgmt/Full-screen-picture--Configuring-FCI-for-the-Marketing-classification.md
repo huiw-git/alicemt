@@ -1,12 +1,13 @@
 ---
 title: Full screen picture: Configuring FCI for the Marketing classification
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ba3e247d-ea5e-4009-8eac-74f70270ece0
+caps.latest.revision: 25
 robots: nofollow
 translation.priority.ht: 
   - de-de

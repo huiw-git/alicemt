@@ -1,13 +1,15 @@
 ---
 title: Rights Management sharing application: Version release history
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 6751bd90-959f-4eba-91ed-6588ac983762
+caps.latest.revision: 9
 translation.priority.ht: 
   - es-es
   - fr-fr

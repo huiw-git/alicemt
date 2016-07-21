@@ -1,13 +1,15 @@
 ---
 title: Information and Support for Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 7cc73d92-27d6-49ff-a8ab-2fae73519b4b
+caps.latest.revision: 31
 translation.priority.ht: 
   - de-de
   - es-es

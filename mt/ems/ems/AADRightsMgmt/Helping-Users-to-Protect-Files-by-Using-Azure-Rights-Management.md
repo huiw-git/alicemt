@@ -1,13 +1,15 @@
 ---
 title: Helping Users to Protect Files by Using Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 58f9a6ff-4121-4c8c-9865-1bb290604ad2
+caps.latest.revision: 16
 translation.priority.ht: 
   - de-de
   - es-es

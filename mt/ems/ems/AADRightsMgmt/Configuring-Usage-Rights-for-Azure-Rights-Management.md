@@ -1,13 +1,15 @@
 ---
 title: Configuring Usage Rights for Azure Rights Management
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-08-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 97ddde38-b91b-42a5-8eb4-3ce6ce15393d
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

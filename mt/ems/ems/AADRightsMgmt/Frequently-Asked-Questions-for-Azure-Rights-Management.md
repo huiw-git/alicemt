@@ -1,13 +1,15 @@
 ---
 title: Frequently Asked Questions for Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 71ce491f-41c1-4d15-9646-455a6eaa157d
+caps.latest.revision: 16
 translation.priority.ht: 
   - de-de
   - es-es

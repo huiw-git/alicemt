@@ -1,13 +1,15 @@
 ---
 title: RMS Protection with Windows Server File Classification Infrastructure (FCI)
 ms.custom: na
-ms.date: 04/27/2016
+ms.date: 2015-10-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 9aa693db-9727-4284-9f64-867681e114c9
+caps.latest.revision: 33
 translation.priority.ht: 
   - de-de
   - es-es

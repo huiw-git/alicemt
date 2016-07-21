@@ -1,13 +1,15 @@
 ---
 title: RMS Client Deployment Notes
 ms.custom: na
-ms.date: 03/02/2016
+ms.date: 2015-08-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 03cc8c6f-3b63-4794-8d92-a5df4cdf598f
+caps.latest.revision: 21
 robots: noindex,nofollow
 translation.priority.ht: 
   - es-es

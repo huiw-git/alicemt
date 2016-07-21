@@ -1,13 +1,15 @@
 ---
 title: Protect a file that you share by email by using the Rights Management sharing application
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 4c1cd1d3-78dd-4f90-8b37-dcc9205a6736
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

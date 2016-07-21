@@ -1,12 +1,13 @@
 ---
 title: Full screen picture: Confidential report accidentally sent to wrong person
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-11-01
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ad666594-68df-4289-835a-235b2af9bf4b
+caps.latest.revision: 25
 robots: nofollow
 translation.priority.ht: 
   - de-de

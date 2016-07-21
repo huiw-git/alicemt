@@ -1,13 +1,15 @@
 ---
 title: Protect a file on a device (protect in-place) by using the Rights Management sharing application
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 33920329-5247-4f6c-8651-6227afb4a1fa
+caps.latest.revision: 25
 translation.priority.ht: 
   - de-de
   - es-es

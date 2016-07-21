@@ -1,13 +1,15 @@
 ---
 title: Administering Azure Rights Management by Using Windows PowerShell
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: a890e04a-4b70-41b5-8d5f-3c210a669faa
+caps.latest.revision: 25
 translation.priority.ht: 
   - bg-bg
   - de-de

@@ -1,13 +1,15 @@
 ---
 title: Download and install the Rights Management sharing application
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 2015-09-01
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 0
 ms.assetid: 2bf09690-9dba-43b7-9e0a-0110915d4081
+caps.latest.revision: 25
 robots: nofollow
 translation.priority.ht: 
   - de-de
