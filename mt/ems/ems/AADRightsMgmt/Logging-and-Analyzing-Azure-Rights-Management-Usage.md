@@ -1,5 +1,5 @@
 ---
-title: Logging and Analyzing Azure Rights Management Usage
+title: "Logging and Analyzing Azure Rights Management Usage"
 ms.custom: na
 ms.date: 2015-10-01
 ms.reviewer: na

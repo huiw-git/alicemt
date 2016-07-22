@@ -1,5 +1,5 @@
 ---
-title: Operations for Your Azure Rights Management Tenant Key
+title: "Operations for Your Azure Rights Management Tenant Key"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

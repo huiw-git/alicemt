@@ -1,5 +1,5 @@
 ---
-title: Activating Azure Rights Management
+title: "Activating Azure Rights Management"
 ms.custom: na
 ms.date: 2015-10-01
 ms.reviewer: na

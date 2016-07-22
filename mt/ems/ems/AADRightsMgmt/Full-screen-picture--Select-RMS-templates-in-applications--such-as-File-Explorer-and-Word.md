@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Select RMS templates in applications, such as File Explorer and Word
+title: "Full screen picture: Select RMS templates in applications, such as File Explorer and Word"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

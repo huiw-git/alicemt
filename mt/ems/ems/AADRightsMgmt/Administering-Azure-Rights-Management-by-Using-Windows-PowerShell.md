@@ -1,5 +1,5 @@
 ---
-title: Administering Azure Rights Management by Using Windows PowerShell
+title: "Administering Azure Rights Management by Using Windows PowerShell"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

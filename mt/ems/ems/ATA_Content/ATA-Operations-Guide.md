@@ -1,5 +1,5 @@
 ---
-title: ATA Operations Guide
+title: "ATA Operations Guide"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

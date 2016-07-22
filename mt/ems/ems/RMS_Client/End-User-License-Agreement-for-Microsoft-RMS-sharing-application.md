@@ -1,5 +1,5 @@
 ---
-title: End User License Agreement for Microsoft RMS sharing application
+title: "End User License Agreement for Microsoft RMS sharing application"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

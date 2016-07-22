@@ -1,5 +1,5 @@
 ---
-title: Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
+title: "Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

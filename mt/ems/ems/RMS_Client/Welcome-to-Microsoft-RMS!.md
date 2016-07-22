@@ -1,5 +1,5 @@
 ---
-title: Welcome to Microsoft RMS!
+title: "Welcome to Microsoft RMS!"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

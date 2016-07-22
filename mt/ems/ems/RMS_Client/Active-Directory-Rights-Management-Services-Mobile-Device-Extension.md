@@ -1,5 +1,5 @@
 ---
-title: Active Directory Rights Management Services Mobile Device Extension
+title: "Active Directory Rights Management Services Mobile Device Extension"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

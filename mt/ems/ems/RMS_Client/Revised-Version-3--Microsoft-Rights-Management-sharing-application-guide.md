@@ -1,5 +1,5 @@
 ---
-title: Revised Version 3: Microsoft Rights Management sharing application guide
+title: "Revised Version 3: Microsoft Rights Management sharing application guide"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: RMS Client Deployment Notes
+title: "RMS Client Deployment Notes"
 ms.custom: na
 ms.date: 2015-08-01
 ms.reviewer: na

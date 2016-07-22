@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Installing and Configuring the RMS connector for FCI
+title: "Full screen picture: Installing and Configuring the RMS connector for FCI"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

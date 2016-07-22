@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Enabling IRM for a library
+title: "Full screen picture: Enabling IRM for a library"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

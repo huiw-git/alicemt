@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Configuring FCI for the Marketing classification
+title: "Full screen picture: Configuring FCI for the Marketing classification"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

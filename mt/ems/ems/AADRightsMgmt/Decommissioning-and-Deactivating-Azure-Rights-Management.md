@@ -1,5 +1,5 @@
 ---
-title: Decommissioning and Deactivating Azure Rights Management
+title: "Decommissioning and Deactivating Azure Rights Management"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Remove protection from a file by using the Rights Management sharing application
+title: "Remove protection from a file by using the Rights Management sharing application"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

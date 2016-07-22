@@ -1,5 +1,5 @@
 ---
-title: Configure Event Collection
+title: "Configure Event Collection"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

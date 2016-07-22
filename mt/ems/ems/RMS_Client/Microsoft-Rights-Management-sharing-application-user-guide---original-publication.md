@@ -1,5 +1,5 @@
 ---
-title: Microsoft Rights Management sharing application user guide - original publication
+title: "Microsoft Rights Management sharing application user guide - original publication"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

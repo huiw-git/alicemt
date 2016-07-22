@@ -1,5 +1,5 @@
 ---
-title: Rights Management sharing application: Version release history
+title: "Rights Management sharing application: Version release history"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

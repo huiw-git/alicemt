@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: RMS templates in the Azure Management Portal
+title: "Full screen picture: RMS templates in the Azure Management Portal"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

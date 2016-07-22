@@ -1,5 +1,5 @@
 ---
-title: Deploying the Azure Rights Management Connector
+title: "Deploying the Azure Rights Management Connector"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

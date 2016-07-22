@@ -1,5 +1,5 @@
 ---
-title: Rights Management sharing application administrator guide
+title: "Rights Management sharing application administrator guide"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

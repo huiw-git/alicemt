@@ -1,5 +1,5 @@
 ---
-title: Manage Telemetry Settings
+title: "Manage Telemetry Settings"
 ms.custom: na
 ms.date: 07/22/2016
 ms.prod: identity-ata

@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Configuring DLP for Azure RMS
+title: "Full screen picture: Configuring DLP for Azure RMS"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

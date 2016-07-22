@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Bob opens the attachment on his iPad
+title: "Full screen picture: Bob opens the attachment on his iPad"
 ms.custom: 
   - test
 ms.date: 2015-11-01

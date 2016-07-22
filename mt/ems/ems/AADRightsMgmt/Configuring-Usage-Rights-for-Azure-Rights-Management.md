@@ -1,5 +1,5 @@
 ---
-title: Configuring Usage Rights for Azure Rights Management
+title: "Configuring Usage Rights for Azure Rights Management"
 ms.custom: na
 ms.date: 2015-08-01
 ms.reviewer: na

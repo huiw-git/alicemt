@@ -1,5 +1,5 @@
 ---
-title: Quick Start Tutorial for Azure Rights Management
+title: "Quick Start Tutorial for Azure Rights Management"
 ms.custom: na
 ms.date: 2015-10-01
 ms.reviewer: na

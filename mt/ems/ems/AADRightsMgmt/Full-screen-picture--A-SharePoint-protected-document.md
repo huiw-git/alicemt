@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: A SharePoint protected document
+title: "Full screen picture: A SharePoint protected document"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

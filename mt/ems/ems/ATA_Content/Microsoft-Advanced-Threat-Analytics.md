@@ -1,5 +1,5 @@
 ---
-title: Microsoft Advanced Threat Analytics
+title: "Microsoft Advanced Threat Analytics"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

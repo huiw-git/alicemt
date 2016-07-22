@@ -1,5 +1,5 @@
 ---
-title: Terminology for Azure Rights Management
+title: "Terminology for Azure Rights Management"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

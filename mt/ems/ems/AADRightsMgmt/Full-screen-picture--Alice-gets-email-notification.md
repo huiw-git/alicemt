@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Alice gets email notification
+title: "Full screen picture: Alice gets email notification"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

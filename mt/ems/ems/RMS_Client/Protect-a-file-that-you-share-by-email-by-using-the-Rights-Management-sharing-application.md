@@ -1,5 +1,5 @@
 ---
-title: Protect a file that you share by email by using the Rights Management sharing application
+title: "Protect a file that you share by email by using the Rights Management sharing application"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

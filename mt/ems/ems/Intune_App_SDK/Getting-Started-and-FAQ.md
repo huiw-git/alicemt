@@ -1,5 +1,5 @@
 ---
-title: Getting Started and FAQ
+title: "Getting Started and FAQ"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

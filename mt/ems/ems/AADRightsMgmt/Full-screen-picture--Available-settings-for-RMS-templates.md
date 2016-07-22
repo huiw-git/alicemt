@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Available settings for RMS templates
+title: "Full screen picture: Available settings for RMS templates"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

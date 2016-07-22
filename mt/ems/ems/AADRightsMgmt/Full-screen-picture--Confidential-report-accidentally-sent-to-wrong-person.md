@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Confidential report accidentally sent to wrong person
+title: "Full screen picture: Confidential report accidentally sent to wrong person"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

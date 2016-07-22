@@ -1,5 +1,5 @@
 ---
-title: ATA Database Management
+title: "ATA Database Management"
 ms.custom: na
 ms.date: 07/22/2016
 ms.prod: identity-ata

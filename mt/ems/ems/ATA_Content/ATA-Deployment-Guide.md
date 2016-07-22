@@ -1,5 +1,5 @@
 ---
-title: ATA Deployment Guide
+title: "ATA Deployment Guide"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

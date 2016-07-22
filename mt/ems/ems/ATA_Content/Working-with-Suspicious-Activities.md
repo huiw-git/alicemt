@@ -1,5 +1,5 @@
 ---
-title: Working with Suspicious Activities
+title: "Working with Suspicious Activities"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

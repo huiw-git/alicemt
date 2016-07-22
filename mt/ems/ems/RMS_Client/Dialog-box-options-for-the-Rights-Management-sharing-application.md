@@ -1,5 +1,5 @@
 ---
-title: Dialog box options for the Rights Management sharing application
+title: "Dialog box options for the Rights Management sharing application"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Appendix C: Sample Advanced Threat Analytics deployment diagrams
+title: "Appendix C: Sample Advanced Threat Analytics deployment diagrams"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

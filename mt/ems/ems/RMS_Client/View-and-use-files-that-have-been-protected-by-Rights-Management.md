@@ -1,5 +1,5 @@
 ---
-title: View and use files that have been protected by Rights Management
+title: "View and use files that have been protected by Rights Management"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

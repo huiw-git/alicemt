@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: An external email protected by DLP and Azure RMS
+title: "Full screen picture: An external email protected by DLP and Azure RMS"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

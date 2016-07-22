@@ -1,5 +1,5 @@
 ---
-title: Azure Rights Management
+title: "Azure Rights Management"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

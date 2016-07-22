@@ -1,5 +1,5 @@
 ---
-title: Track and revoke your documents when you use the RMS sharing application
+title: "Track and revoke your documents when you use the RMS sharing application"
 ms.custom: na
 ms.date: 2015-10-01
 ms.reviewer: na

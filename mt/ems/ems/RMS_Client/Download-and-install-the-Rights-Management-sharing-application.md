@@ -1,5 +1,5 @@
 ---
-title: Download and install the Rights Management sharing application
+title: "Download and install the Rights Management sharing application"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Alice shares protected attachment
+title: "Full screen picture: Alice shares protected attachment"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

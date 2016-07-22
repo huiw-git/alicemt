@@ -1,5 +1,5 @@
 ---
-title: Revised Version 2: Rights Management sharing application user guide - working version, sandbox only
+title: "Revised Version 2: Rights Management sharing application user guide - working version, sandbox only"
 ms.custom: na
 ms.date: 07/22/2016
 ms.reviewer: na

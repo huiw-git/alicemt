@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Activating Rights Management
+title: "Full screen picture: Activating Rights Management"
 ms.custom: 
   - test
 ms.date: 2015-11-01

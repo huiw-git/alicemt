@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: Enabling IRM on SharePoint Online
+title: "Full screen picture: Enabling IRM on SharePoint Online"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Working with ATA Detection Settings
+title: "Working with ATA Detection Settings"
 ms.custom: 
   - ATA
 ms.date: 07/22/2016

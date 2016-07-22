@@ -1,5 +1,5 @@
 ---
-title: Helping Users to Protect Files by Using Azure Rights Management
+title: "Helping Users to Protect Files by Using Azure Rights Management"
 ms.custom: na
 ms.date: 2015-09-01
 ms.reviewer: na

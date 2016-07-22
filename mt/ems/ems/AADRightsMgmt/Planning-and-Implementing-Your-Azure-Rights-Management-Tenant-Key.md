@@ -1,5 +1,5 @@
 ---
-title: Planning and Implementing Your Azure Rights Management Tenant Key
+title: "Planning and Implementing Your Azure Rights Management Tenant Key"
 ms.custom: na
 ms.date: 2015-10-01
 ms.reviewer: na

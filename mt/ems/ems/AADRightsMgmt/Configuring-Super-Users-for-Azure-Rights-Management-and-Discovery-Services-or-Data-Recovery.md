@@ -1,5 +1,5 @@
 ---
-title: Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery
+title: "Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery"
 ms.custom: na
 ms.date: 2015-08-01
 ms.reviewer: na

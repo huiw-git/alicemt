@@ -1,5 +1,5 @@
 ---
-title: Full screen picture: An unprotected email (internal)
+title: "Full screen picture: An unprotected email (internal)"
 ms.custom: na
 ms.date: 2015-11-01
 ms.reviewer: na
