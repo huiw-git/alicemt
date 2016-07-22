@@ -2,7 +2,7 @@
 title: Working with ATA Alerts
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14cb7513-5dc8-49cb-b3e0-94f469c443dd
 caps.latest.revision: 18
+manager: zhenjiao
 translation.priority.mt: 
   - de-de
   - ja-jp

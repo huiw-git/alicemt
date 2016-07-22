@@ -2,7 +2,7 @@
 title: ATA FAQ
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e1954834-ff49-4ac1-b78c-06693569abff
 caps.latest.revision: 24
+manager: zhenjiao
 ---
 # ATA FAQ
 This section provides answers to frequently asked questions about Microsoft Advanced Threat Analytics.

@@ -2,7 +2,7 @@
 title: Working with Suspicious Activities
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 44d7c899-816c-4f7f-91d3-84a09d291a24
 caps.latest.revision: 24
+manager: zhenjiao
 ---
 # Working with Suspicious Activities
 This topic explains the basics of how to work with Advanced Threat Analytics.

@@ -2,7 +2,7 @@
 title: ATA Installation
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
 caps.latest.revision: 17
+manager: zhenjiao
 translation.priority.mt: 
   - de-de
   - ja-jp

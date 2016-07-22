@@ -1,7 +1,7 @@
 ---
 title: ATA Database Management
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -9,6 +9,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1d27dba8-fb30-4cce-a68a-f0b1df02b977
 caps.latest.revision: 24
+manager: zhenjiao
 ---
 # ATA Database Management
 If you need to move, backup or restore the ATA database, use these procedures for working with MongoDB.

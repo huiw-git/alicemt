@@ -9,6 +9,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 206a0bfe-0912-4e0e-aa15-484b000b264c
 caps.latest.revision: 25
+manager: zhenjiao
 translation.priority.ht: 
   - bg-bg
   - de-de

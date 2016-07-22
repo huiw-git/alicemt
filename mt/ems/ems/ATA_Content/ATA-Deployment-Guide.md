@@ -2,7 +2,7 @@
 title: ATA Deployment Guide
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
 caps.latest.revision: 24
+manager: zhenjiao
 ---
 # ATA Deployment Guide
 To deploy ATA, follow these steps:

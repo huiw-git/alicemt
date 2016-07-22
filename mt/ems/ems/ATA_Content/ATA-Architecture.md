@@ -2,7 +2,7 @@
 title: ATA Architecture
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 892b16d2-58a6-49f9-8693-1e5f69d8299c
 caps.latest.revision: 17
+manager: zhenjiao
 translation.priority.mt: 
   - de-de
   - ja-jp

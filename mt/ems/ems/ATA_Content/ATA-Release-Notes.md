@@ -2,7 +2,7 @@
 title: ATA Release Notes
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
 caps.latest.revision: 24
+manager: zhenjiao
 ---
 # ATA Release Notes
 These release notes provide information about known issues in this version of  Advanced Threat Analytics.
