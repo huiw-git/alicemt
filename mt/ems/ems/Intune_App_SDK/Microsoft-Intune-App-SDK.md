@@ -8,7 +8,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0f2da5a4-e14f-4990-b6db-29cf94bc3048
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # Microsoft Intune App SDK
 Insert introduction here.

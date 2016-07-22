@@ -1,12 +1,14 @@
 ---
 title: Revised Version 2: Rights Management sharing application user guide - working version, sandbox only
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 5f341ddf-bdff-4a96-8aa0-9aeb4b81c63c
 caps.latest.revision: 25
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - de-de

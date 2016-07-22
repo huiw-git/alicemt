@@ -9,6 +9,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7dba5ff9-a61d-4a83-8adc-d6ffb0e85df6
 caps.latest.revision: 25
+author: karthikaraman
+manager: jeffgilb
 robots: nofollow
 translation.priority.ht: 
   - de-de

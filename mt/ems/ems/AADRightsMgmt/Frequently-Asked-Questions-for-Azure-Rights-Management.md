@@ -9,7 +9,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 71ce491f-41c1-4d15-9646-455a6eaa157d
 caps.latest.revision: 16
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - de-de
   - es-es

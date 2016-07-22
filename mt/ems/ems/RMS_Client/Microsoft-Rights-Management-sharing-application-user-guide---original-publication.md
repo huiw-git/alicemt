@@ -1,12 +1,14 @@
 ---
 title: Microsoft Rights Management sharing application user guide - original publication
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 350b6869-084d-4e8a-a4d3-df44a40fa13b
 caps.latest.revision: 18
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - es-es

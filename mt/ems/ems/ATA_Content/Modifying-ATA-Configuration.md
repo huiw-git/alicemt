@@ -12,7 +12,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bcf0f7d3-8027-45c0-8002-19f71fcb30a6
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # Modifying ATA Configuration
 If you need to update your configuration after initial installation and deployment of ATA, use this topic for guidance.

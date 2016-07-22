@@ -8,7 +8,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 779843bd-1ebc-4eaa-8c0a-43e8be027438
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # Getting Started and FAQ
 Insert introduction here.

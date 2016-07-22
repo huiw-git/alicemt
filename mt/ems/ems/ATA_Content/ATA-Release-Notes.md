@@ -12,7 +12,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # ATA Release Notes
 These release notes provide information about known issues in this version of  Advanced Threat Analytics.

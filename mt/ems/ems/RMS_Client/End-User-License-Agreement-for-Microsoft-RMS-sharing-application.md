@@ -1,12 +1,14 @@
 ---
 title: End User License Agreement for Microsoft RMS sharing application
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 51414f23-7eeb-4613-8d06-30fb87eb93ef
 caps.latest.revision: 25
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - de-de

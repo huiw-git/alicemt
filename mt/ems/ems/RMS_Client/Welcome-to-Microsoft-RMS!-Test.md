@@ -1,12 +1,14 @@
 ---
 title: Welcome to Microsoft RMS! Test
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 23ca5ffe-a3c3-475a-a3c9-b77b898eef80
 caps.latest.revision: 25
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - de-de

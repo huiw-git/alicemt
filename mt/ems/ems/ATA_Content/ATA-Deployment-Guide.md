@@ -12,7 +12,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # ATA Deployment Guide
 To deploy ATA, follow these steps:

@@ -1,12 +1,14 @@
 ---
 title: Rights Management sharing application user guide - revision for single topic
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/22/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: f10c8e7e-aa83-473d-857a-f01a7908552e
 caps.latest.revision: 22
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - es-es

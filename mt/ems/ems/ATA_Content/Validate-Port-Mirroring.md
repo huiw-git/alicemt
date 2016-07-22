@@ -12,7 +12,8 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ebd41719-c91a-4fdd-bcab-2affa2a2cace
 caps.latest.revision: 24
-manager: zhenjiao
+author: karthikaraman
+manager: jeffgilb
 ---
 # Validate Port Mirroring
 The following steps walk you through the process for validating that port mirroring is properly configured.
