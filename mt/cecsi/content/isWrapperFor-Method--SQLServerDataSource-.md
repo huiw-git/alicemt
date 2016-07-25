@@ -1,0 +1,61 @@
+---
+title: "isWrapperFor Method (SQLServerDataSource)"
+ms.custom: na
+ms.date: 07/18/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: f77af027-c021-4a17-b264-1ee592bfdd84
+caps.latest.revision: 21
+manager: jhubbard
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - sv-se
+  - zh-cn
+  - zh-tw
+---
+# isWrapperFor Method (SQLServerDataSource)
+  Indicates whether this data source object is a wrapper for the specified interface.  
+  
+## Syntax  
+  
+```  
+  
+public boolean isWrapperFor(Class iface)  
+```  
+  
+#### Parameters  
+ *iface*  
+  
+ A **class** defining an interface.  
+  
+## Return Value  
+ **true** if this object implements the interface or wraps an object that implements the interface. Otherwise, **false**.  
+  
+## Exceptions  
+ [SQLServerException](../content/SQLServerException-Class.md)  
+  
+## Remarks  
+ The [isWrapperFor](../content/isWrapperFor-Method--SQLServerDataSource-.md) method and the [unwrap](../content/unwrap-Method--SQLServerDataSource-.md) method are defined by the java.sql.Wrapper interface, which is introduced in the JDBC 4.0 Spec.  
+  
+ If this method returns true, calling [unwrap](../content/unwrap-Method--SQLServerDataSource-.md) with the same argument will succeed.  
+  
+ For more information, see [Wrappers and Interfaces](../content/Wrappers-and-Interfaces.md).  
+  
+## See Also  
+ [unwrap Method &#40;SQLServerDataSource&#41;](../content/unwrap-Method--SQLServerDataSource-.md)   
+ [SQLServerDataSource Members](../content/SQLServerDataSource-Members.md)   
+ [SQLServerDataSource Class](../content/SQLServerDataSource-Class.md)  
+  
+  

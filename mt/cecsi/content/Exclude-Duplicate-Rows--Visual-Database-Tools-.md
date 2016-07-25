@@ -1,0 +1,44 @@
+---
+title: "Exclude Duplicate Rows (Visual Database Tools)"
+ms.custom: na
+ms.date: 07/18/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - tools-ssms
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: ab35a363-421d-4665-946b-ae3f6397af50
+caps.latest.revision: 4
+manager: jhubbard
+translation.priority.mt: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+---
+# Exclude Duplicate Rows (Visual Database Tools)
+If you want to see only unique values in a result set, you can specify that you want to exclude duplicates from the result set.  
+  
+### To exclude duplicate rows from the result set  
+  
+1.  Right-click the background of the Diagram pane, then choose **Properties** from the shortcut menu.  
+  
+2.  In the Property window, click **Distinct values** and set the value to **Yes**.  
+  
+    The Query and View Designer inserts the keyword DISTINCT in front of the list of display columns in the SQL statement.  
+  
+    > [!NOTE]  
+    > If you use the DISTINCT keyword you may not be able to modify the result set in the results pane.  
+  
+## See Also  
+[Specify Search Criteria &#40;Visual Database Tools&#41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
+[Sort and Group Query Results &#40;Visual Database Tools&#41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
+  

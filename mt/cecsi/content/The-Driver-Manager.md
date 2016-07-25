@@ -1,0 +1,31 @@
+---
+title: "The Driver Manager"
+ms.custom: na
+ms.date: 07/12/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 559e4de1-16c9-4998-94f5-6431122040cd
+caps.latest.revision: 6
+manager: jhubbard
+translation.priority.ht: 
+  - en-gb
+---
+# The Driver Manager
+<?xml version="1.0" encoding="utf-8"?>
+<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
+  <introduction>
+    <para>The <legacyItalic>Driver Manager</legacyItalic> is a library that manages communication between applications and drivers. For example, on Microsoft® Windows® platforms, the Driver Manager is a dynamic-link library (DLL) that is written by Microsoft and can be redistributed by users of the redistributable MDAC 2.8 SP1 SDK.</para>
+    <para>The Driver Manager exists mainly as a convenience to application writers and solves a number of problems common to all applications. These include determining which driver to load based on a data source name, loading and unloading drivers, and calling functions in drivers.</para>
+    <para>To see why the latter is a problem, consider what would happen if the application called functions in the driver directly. Unless the application was linked directly to a particular driver, it would have to build a table of pointers to the functions in that driver and call those functions by pointer. Using the same code for more than one driver at a time would add yet another level of complexity. The application would first have to set a function pointer to point to the correct function in the correct driver, and then call the function through that pointer.</para>
+    <para>The Driver Manager solves this problem by providing a single place to call each function. The application is linked to the Driver Manager and calls ODBC functions in the Driver Manager, not the driver. The application identifies the target driver and data source with a <legacyItalic>connection handle</legacyItalic>. When it loads a driver, the Driver Manager builds a table of pointers to the functions in that driver. It uses the connection handle passed by the application to find the address of the function in the target driver and calls that function by address.</para>
+    <para>For the most part, the Driver Manager just passes function calls from the application to the correct driver. However, it also implements some functions (<legacyBold>SQLDataSources</legacyBold>, <legacyBold>SQLDrivers</legacyBold>, and <legacyBold>SQLGetFunctions</legacyBold>) and performs basic error checking. For example, the Driver Manager checks that handles are not null pointers, that functions are called in the correct order, and that certain function arguments are valid. For a complete description of the errors checked by the Driver Manager, see the reference section for each function and <legacyLink xlink:href="15088dbe-896f-4296-b397-02bb3d0ac0fb">Appendix B: ODBC State Transition Tables</legacyLink>.</para>
+    <para>The final major role of the Driver Manager is loading and unloading drivers. The application loads and unloads only the Driver Manager. When it wants to use a particular driver, it calls a connection function (<legacyBold>SQLConnect</legacyBold>, <legacyBold>SQLDriverConnect</legacyBold>, or <legacyBold>SQLBrowseConnect</legacyBold>) in the Driver Manager and specifies the name of a particular data source or driver, such as "Accounting" or "SQL Server." Using this name, the Driver Manager searches the data source information for the driver's file name, such as Sqlsrvr.dll. It then loads the driver (assuming it is not already loaded), stores the address of each function in the driver, and calls the connection function in the driver, which then initializes itself and connects to the data source.</para>
+    <para>When the application is done using the driver, it calls <legacyBold>SQLDisconnect</legacyBold> in the Driver Manager. The Driver Manager calls this function in the driver, which disconnects from the data source. However, the Driver Manager keeps the driver in memory in case the application reconnects to it. It unloads the driver only when the application frees the connection used by the driver or uses the connection for a different driver, and no other connections use the driver. For a complete description of the Driver Manager's role in loading and unloading drivers, see <legacyLink xlink:href="77c05630-5a8b-467d-b80e-c705dc06d601">Driver Manager's Role in the Connection Process</legacyLink>.</para>
+  </introduction>
+  <relatedTopics />
+</developerConceptualDocument>

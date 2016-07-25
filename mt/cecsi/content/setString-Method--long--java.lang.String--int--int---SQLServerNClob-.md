@@ -1,0 +1,69 @@
+---
+title: "setString Method (long, java.lang.String, int, int) (SQLServerNClob)"
+ms.custom: na
+ms.date: 07/18/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 2d5e9f50-15b2-4c76-8bfc-3b5be49c2781
+caps.latest.revision: 11
+manager: jhubbard
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - sv-se
+  - zh-cn
+  - zh-tw
+---
+# setString Method (long, java.lang.String, int, int) (SQLServerNClob)
+  Writes the specified string to the NCLOB starting at the specified position, based on the specified offset and length.  
+  
+## Syntax  
+  
+```  
+  
+int setString(long pos,  
+              java.lang.String str,  
+              int offset,  
+              int len)  
+```  
+  
+#### Parameters  
+ *pos*  
+  
+ The position at which to start writing to the **NCLOB**; the first position is 1.  
+  
+ *str*  
+  
+ The String to be written to the **NCLOB**.  
+  
+ *offset*  
+  
+ The offset into *str* to start reading the characters to be written.  
+  
+ *len*  
+  
+ The number of characters to be written.  
+  
+## Exceptions  
+ [SQLServerException](../content/SQLServerException-Class.md)  
+  
+## Remarks  
+ This setString method is specified by the setString method in the java.sql.NClob interface.  
+  
+## See Also  
+ [SQLServerNClob Methods](../content/SQLServerNClob-Methods.md)   
+ [SQLServerNClob Members](../content/SQLServerNClob-Members.md)   
+ [SQLServerNClob Class](../content/SQLServerNClob-Class.md)  
+  
+  

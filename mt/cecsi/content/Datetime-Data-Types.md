@@ -1,0 +1,30 @@
+---
+title: "Datetime Data Types"
+ms.custom: na
+ms.date: 07/12/2016
+ms.prod: sql-non-specified
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - drivers
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 6b9363c9-04bf-4492-a210-7aa15dea4af8
+caps.latest.revision: 5
+manager: jhubbard
+translation.priority.ht: 
+  - en-gb
+---
+# Datetime Data Types
+<?xml version="1.0" encoding="utf-8"?>
+<developerReferenceWithoutSyntaxDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd">
+  <introduction>
+    <para>In ODBC 3<legacyItalic>.x</legacyItalic>, the identifiers for date, time, and timestamp SQL data types have changed from SQL_DATE, SQL_TIME, and SQL_TIMESTAMP (with instances of <legacyBold>#define</legacyBold> in the header file of 9, 10, and 11) to SQL_TYPE_DATE, SQL_TYPE_TIME, and SQL_TYPE_TIMESTAMP (with instances of <legacyBold>#define</legacyBold> in the header file of 91, 92, and 93), respectively. The corresponding C type identifiers have changed from SQL_C_DATE, SQL_C_TIME, and SQL_C_TIMESTAMP to SQL_C_TYPE_DATE, SQL_C_TYPE_TIME, and SQL_C_TYPE_TIMESTAMP, respectively, and the instances of <legacyBold>#define</legacyBold> have changed accordingly. </para>
+    <para>The column size and decimal digits returned for the SQL datetime data types in ODBC 3<legacyItalic>.x</legacyItalic> are the same as the precision and scale returned for them in ODBC 2.<legacyItalic>x</legacyItalic>. These values are different than the values in the SQL_DESC_PRECISION and SQL_DESC_SCALE descriptor fields. (For more information, see <legacyLink xlink:href="723107a1-be08-4ea3-a8c0-b2c45d38d1aa">Column Size, Decimal Digits, Transfer Octet Length, and Display Size</legacyLink> in Appendix D: Data Types.)</para>
+    <para>These changes affect <legacyBold>SQLDescribeCol</legacyBold>, <legacyBold>SQLDescribeParam</legacyBold>, and <legacyBold>SQLColAttributes</legacyBold>; <legacyBold>SQLBindCol</legacyBold>, <legacyBold>SQLBindParameter</legacyBold>, and <legacyBold>SQLGetData</legacyBold>; and <legacyBold>SQLColumns</legacyBold>, <legacyBold>SQLGetTypeInfo</legacyBold>, <legacyBold>SQLProcedureColumns</legacyBold>, <legacyBold>SQLStatistics</legacyBold>, and <legacyBold>SQLSpecialColumns</legacyBold>.</para>
+    <para>An ODBC 3<legacyItalic>.x</legacyItalic> driver processes the function calls listed in the previous paragraph according to the setting of the SQL_ATTR_ODBC_VERSION environment attribute. For <legacyBold>SQLColumns</legacyBold>, <legacyBold>SQLGetTypeInfo</legacyBold>, <legacyBold>SQLProcedureColumns</legacyBold>, <legacyBold>SQLSpecialColumns</legacyBold>, and <legacyBold>SQLStatistics</legacyBold>, if SQL_ATTR_ODBC_VERSION is set to SQL_OV_ODBC3, the functions return SQL_TYPE_DATE, SQL_TYPE_TIME, and SQL_TYPE_TIMESTAMP in the DATA_TYPE field. The COLUMN_SIZE column (in the result set returned by <legacyBold>SQLColumns</legacyBold>, <legacyBold>SQLGetTypeInfo</legacyBold>, <legacyBold>SQLProcedureColumns</legacyBold>, and <legacyBold>SQLSpecialColumns</legacyBold>) contains the binary precision for the approximate numeric type. The NUM_PREC_RADIX column (in the result set returned by <legacyBold>SQLColumns</legacyBold>, <legacyBold>SQLGetTypeInfo</legacyBold>, and <legacyBold>SQLProcedureColumns</legacyBold>) contains a value of 2. If SQL_ATTR_ODBC_VERSION is set to SQL_OV_ODBC2, then the functions return SQL_DATE, SQL_TIME, and SQL_TIMESTAMP in the DATA_TYPE field, the COLUMN_SIZE column contains the decimal precision for the approximate numeric type, and the NUM_PREC_RADIX column contains a value of 10.</para>
+    <para>When all data types are requested in a call to <legacyBold>SQLGetTypeInfo</legacyBold>, the result set returned by the function will contain both SQL_TYPE_DATE, SQL_TYPE_TIME, and SQL_TYPE_TIMESTAMP as defined in ODBC 3<legacyItalic>.x</legacyItalic>, and SQL_DATE, SQL_TIME, and SQL_TIMESTAMP as defined in ODBC 2.<legacyItalic>x</legacyItalic>.</para>
+    <para>Because of how the ODBC 3<legacyItalic>.x</legacyItalic> Driver Manager performs mapping of the date, time, and timestamp data types, ODBC 3<legacyItalic>.x</legacyItalic> drivers need only recognize <legacyBold>#defines</legacyBold> of 91, 92, and 93 for the date, time, and timestamp C data types entered in the <legacyItalic>TargetType</legacyItalic> arguments of <legacyBold>SQLBindCol</legacyBold> and <legacyBold>SQLGetData</legacyBold> or the <legacyItalic>ValueType</legacyItalic> argument of <legacyBold>SQLBindParameter</legacyBold>, and need only recognize <legacyBold>#defines</legacyBold> of 91, 92, and 93 for the date, time, and timestamp SQL data types entered in the <legacyItalic>ParameterType</legacyItalic> argument of <legacyBold>SQLBindParameter</legacyBold> or the <legacyItalic>DataType</legacyItalic> argument of <legacyBold>SQLGetTypeInfo</legacyBold>. For more information, see <legacyLink xlink:href="c38c79f9-8bb0-4633-ac86-542366c09a95">Datetime Data Type Changes</legacyLink>.</para>
+  </introduction>
+  <relatedTopics />
+</developerReferenceWithoutSyntaxDocument>
