@@ -8,44 +8,7 @@
         {
           "Priority": "ht",
           "Locales": [
-            "es-es",
-            "fr-fr",
-            "it-it",
-            "ko-kr",
-            "pt-br",
-            "ru-ru",
-            "zh-cn",
-            "zh-tw",
-            "de-de",
-            "ja-jp",
-            "ar-sa",
-            "bg-bg",
-            "cs-cz",
-            "da-dk",
-            "el-gr",
-            "et-ee",
-            "fi-fi",
-            "he-il",
-            "hr-hr",
-            "hu-hu",
-            "lt-lt",
-            "lv-lv",
-            "nb-no",
-            "nl-nl",
-            "pl-pl",
-            "pt-pt",
-            "ro-ro",
-            "sk-sk",
-            "sl-si",
-            "sr-latn-cs",
-            "sr-latn-rs",
-            "sv-se",
-            "th-th",
-            "tr-tr",
-            "uk-ua",
-            "zh-hk",
-            "en-gb",
-            "kk-kz"
+            "de-de"
           ]
         }
       ]
@@ -54,5 +17,6 @@
   "IncludeDependencies": true,
   "AutoPush": true,
   "XliffVersion": "1.2",
-  "UseJavascriptMarkdownTransformer": true
+  "UseJavascriptMarkdownTransformer": true,
+  "translationType": "HT"
 }
