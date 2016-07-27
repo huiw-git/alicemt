@@ -9,7 +9,8 @@
           "Priority": "ht",
           "Locales": [
             "de-de"
-          ]
+          ],
+          "type": "HT"
         }
       ]
     }
@@ -17,6 +18,5 @@
   "IncludeDependencies": true,
   "AutoPush": true,
   "XliffVersion": "1.2",
-  "UseJavascriptMarkdownTransformer": true,
-  "translationType": "HT"
+  "UseJavascriptMarkdownTransformer": true
 }
