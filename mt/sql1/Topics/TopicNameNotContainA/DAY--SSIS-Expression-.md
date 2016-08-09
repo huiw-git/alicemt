@@ -1,0 +1,69 @@
+---
+title: "DAY (SSIS Expression)"
+ms.custom: na
+ms.date: 06/29/2016
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - integration-services
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: d8447187-49df-45b7-a98e-142ad44fd3e2
+caps.latest.revision: 39
+caps.handback.revision: 0
+manager: jhubbard
+---
+# DAY (SSIS Expression)
+Returns an integer that represents the day datepart of a date.  
+  
+## Syntax  
+  
+```  
+  
+DAY(date)  
+```  
+  
+## Arguments  
+ *date*  
+ Is an expression that returns a valid date or a string in date format.  
+  
+## Result Types  
+ DT_I4  
+  
+## Remarks  
+ DAY returns a null result if the argument is null.  
+  
+ A date literal must be explicitly cast to one of the date data types. For more information, see [Integration Services Data Types](../../Topics/TopicNameNotContainA/Integration-Services-Data-Types.md).  
+  
+> [!NOTE]  
+>  The expression fails to validate when a date literal is explicitly cast to one of these date data types: DT_DBTIMESTAMPOFFSET and DT_DBTIMESTAMP2.  
+  
+ Using the DAY function is briefer but equivalent to using DATEPART("Day", date).  
+  
+## Expression Examples  
+ This example returns the number of the day in a date literal. If the date format is in "mm/dd/yyyy" format, this example returns 23.  
+  
+```  
+DAY((DT_DBTIMESTAMP)"11/23/2002")  
+```  
+  
+ This example returns the integer that represents the day in the **ModifiedDate** column.  
+  
+```  
+DAY(ModifiedDate)  
+```  
+  
+ This example returns the integer that represents the day of the current date.  
+  
+```  
+DAY(GETDATE())  
+```  
+  
+## See Also  
+ [DATEADD (SSIS Expression)](../../Topics/TopicNameNotContainA/DATEADD--SSIS-Expression-.md)   
+ [DATEDIFF (SSIS Expression)](../../Topics/TopicNameNotContainA/DATEDIFF--SSIS-Expression-.md)   
+ [DATEPART (SSIS Expression)](../../Topics/TopicNameNotContainA/DATEPART--SSIS-Expression-.md)   
+ [MONTH (SSIS Expression)](../../Topics/TopicNameNotContainA/MONTH--SSIS-Expression-.md)   
+ [YEAR (SSIS Expression)](../../Topics/TopicNameNotContainA/YEAR--SSIS-Expression-.md)   
+ [Functions (SSIS Expression)](../../Topics/TopicNameNotContainA/Functions--SSIS-Expression-.md)

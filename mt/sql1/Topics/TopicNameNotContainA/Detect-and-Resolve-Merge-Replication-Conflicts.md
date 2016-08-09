@@ -1,0 +1,34 @@
+---
+title: "Detect and Resolve Merge Replication Conflicts"
+ms.custom: na
+ms.date: 06/29/2016
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - replication
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 0d033c76-e8c9-4e35-ab95-4d335abb18c1
+caps.latest.revision: 38
+manager: jhubbard
+---
+# Detect and Resolve Merge Replication Conflicts
+When a Publisher and a Subscriber are connected and synchronization occurs, the Merge Agent detects if there are any conflicts. If conflicts are detected, the Merge Agent uses a conflict resolver to determine which data will be accepted and propagated to other sites.  
+  
+> [!NOTE]  
+>  Although a Subscriber synchronizes with the Publisher, conflicts typically occur between updates made at different Subscribers rather than updates made at a Subscriber and at the Publisher.  
+  
+ Merge replication offers a variety of methods to detect and resolve conflicts. For most applications, the default method is appropriate:  
+  
+-   If a conflict occurs between a Publisher and a Subscriber, the Publisher change is kept and the Subscriber change is discarded.  
+  
+-   If a conflict occurs between two Subscribers using client subscriptions (the default type for pull subscriptions), the change from the first Subscriber to synchronize with the Publisher is kept, and the change from the second Subscriber is discarded. For information about specifying client and server subscriptions, see [Specify a Merge Subscription Type and Conflict Resolution Priority (SQL Server Management Studio)](../../Topics/TopicNameContainA/Specify-a-Merge-Subscription-Type-and-Conflict-Resolution-Priority--SQL-Server-Management-Studio-.md).  
+  
+-   If a conflict occurs between two Subscribers using server subscriptions (the default type for push subscriptions), the change from the Subscriber with the highest priority value is kept, and the change from the second Subscriber is discarded. If the priority values are equal, the change from the first Subscriber to synchronize with the Publisher is kept.  
+  
+ For more information about conflict detection and resolution for merge replication, see [Advanced Merge Replication Conflict Detection and Resolution](../../Topics/TopicNameNotContainA/Advanced-Merge-Replication-Conflict-Detection-and-Resolution.md).  
+  
+## See Also  
+ [Article Options for Merge Replication](../../Topics/TopicNameNotContainA/Article-Options-for-Merge-Replication.md)   
+ [Subscribe to Publications](../../Topics/TopicNameNotContainA/Subscribe-to-Publications.md)

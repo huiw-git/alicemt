@@ -1,0 +1,48 @@
+---
+title: "Unmigrate remote data (Stretch Database)"
+ms.date: 06/29/2016
+ms.prod: sql-server-2016
+ms.reviewer: na
+ms.suite: na
+ms.technology: 
+  - database-engine
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: 133208cd-5ac7-4220-b681-044dbba2411d
+caps.latest.revision: 10
+manager: jhubbard
+robots: noindex,nofollow
+---
+# Unmigrate remote data (Stretch Database)
+Select **Tasks &#124; Stretch &#124; Unmigrate** for a table in SQL Server Management Studio to unmigrate the data that Stretch Database has migrated to Microsoft Azure.  You can also use Transact-SQL to unmigrate data.  
+  
+ After all the data has been unmigrated, Stretch Database is disabled for the table.  
+  
+## Important info about unmigrating  
+  
+-   After you start the process to unmigrate your data, you can pause the migration, but you can't cancel it.  
+  
+-   Unmigrating your data incurs Azure data transfer charges. For more info, see [Data Transfers Pricing Details](https://azure.microsoft.com/en-us/pricing/details/data-transfers/).  
+  
+## Use SQL Server Management Studio to unmigrate data  
+  
+1.  In SQL Server Management Studio, in Object Explorer, select the table for which you want to unmigrate data.  
+  
+2.  Right-click and select **Tasks**, and then select **Stretch**, and then select **Unmigrate**.  
+  
+## Use Transact-SQL to unmigrate data  
+ Run the following command.  
+  
+```tsql  
+ALTER TABLE <table name>  
+    SET ( REMOTE_DATA_ARCHIVE = ON  (MIGRATION_STATE = INBOUND) ) ;  
+GO;  
+```  
+  
+ You can change the migration state of a table from OUTBOUND or PAUSED  to INBOUND. After you set the migration state to INBOUND,  you can only change it to PAUSED,  and then change it back to INBOUND. After all the data is unmigrated, Stretch Database is disabled for the table. After that, if you change your mind, you can enable Stretch Database for the table again and set the migration state to OUTBOUND.  
+  
+ For more info, see [ALTER TABLE (Transact-SQL)](assetId:///f1745145-182d-4301-a334-18f799d361d1).  
+  
+## See Also  
+ [ALTER TABLE (Transact-SQL)](assetId:///f1745145-182d-4301-a334-18f799d361d1)   
+ [Disable Stretch Database and bring back remote data](../../Topics/TopicNameNotContainA/Disable-Stretch-Database-and-bring-back-remote-data.md)
