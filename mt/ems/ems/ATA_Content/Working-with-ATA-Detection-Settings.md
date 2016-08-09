@@ -2,7 +2,7 @@
 title: "Working with ATA Detection Settings"
 ms.custom: 
   - ATA
-ms.date: 07/22/2016
+ms.date: 08/09/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
