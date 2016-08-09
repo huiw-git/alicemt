@@ -9,6 +9,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2cdc7bde-4044-4021-b887-11476f99afd9
 caps.latest.revision: 16
+caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 
@@ -146,7 +147,7 @@ The classification policies are fully configurable and highly extensible so that
 
 For instructions to deploy and configure the RMS connector for Office files, see [Deploying the Azure Rights Management Connector](../../ems/AADRightsMgmt/Deploying-the-Azure-Rights-Management-Connector.md).
 
-For instructions to use the Windows PowerShell script for all file types, see [RMS Protection with Windows Server File Classification Infrastructure &#40;FCI&#41;](/Topic/RMS%20Protection%20with%20Windows%20Server%20File%20Classification%20Infrastructure%20(FCI).md).
+For instructions to use the Windows PowerShell script for all file types, see [RMS Protection with Windows Server File Classification Infrastructure &#40;FCI&#41;](../../ems/RMS_Client/RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md).
 
 ## <a name="BKMK_APIAppsIntro"></a>Other applications that support the RMS APIs
 By using the RMS SDK, your internal developers can write line-of-business applications to natively support [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]. How information protection is integrated with these applications depends on how they are written. For example, the integration might be automatically applied with minimal user interaction required, or for a more customized experience, users might be prompted to configure settings to apply information protection to files. For more information about the SDK, see the [Microsoft Rights Management SDK](http://msdn.microsoft.com/library/hh552972%28v=vs.85%29.aspx).
