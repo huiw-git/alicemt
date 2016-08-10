@@ -2,7 +2,7 @@
 title: "ATA Release Notes"
 ms.custom: 
   - ATA
-ms.date: 08/09/2016
+ms.date: 08/10/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -11,13 +11,13 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
-caps.latest.revision: 24
+caps.latest.revision: 26
 author: karthikaraman
 manager: jeffgilb
 ---
 # ATA Release Notes
 These release notes provide information about known issues in this version of  Advanced Threat Analytics.
-
+![RMS_Logging](../../ems/AADRightsMgmt/media/RMS_Logging.gif)
 ## What's new in this version?
 
 -   Support for Windows Event Forwarding (WEF) to send events directly from the domain controllers to the ATA gateway.
