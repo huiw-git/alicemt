@@ -2,7 +2,7 @@
 title: "Proactive Caching (Partition Properties Dialog Box) (SSMS)"
 ms.custom: 
   - SQL2016_New_Updated
-ms.date: 07/04/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

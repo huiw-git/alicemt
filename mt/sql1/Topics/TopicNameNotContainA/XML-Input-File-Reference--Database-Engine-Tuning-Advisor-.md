@@ -1,7 +1,7 @@
 ---
 title: "XML Input File Reference (Database Engine Tuning Advisor)"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - XML
 ms.prod: sql-server-2016

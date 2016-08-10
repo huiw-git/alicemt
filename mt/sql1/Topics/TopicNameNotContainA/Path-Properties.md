@@ -1,7 +1,7 @@
 ---
 title: "Path Properties"
 ms.custom: na
-ms.date: 07/04/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - VB
   - CSharp

@@ -1,7 +1,7 @@
 ---
 title: "Unable to refresh data for a data connection in the workbook. Try again or contact your system administrator. The following connections failed to refresh: Power Pivot Data"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

@@ -1,7 +1,7 @@
 ---
 title: "Control the Behavior of Triggers and Constraints During Synchronization (Replication Transact-SQL Programming)"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - TSQL
 ms.prod: sql-server-2016

@@ -1,7 +1,7 @@
 ---
 title: "Distributor Information, Subscription Watch List (Merge Publication, SQL Server 2005 and Later)"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

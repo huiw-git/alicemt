@@ -1,7 +1,7 @@
 ---
 title: "Implement a Custom Conflict Resolver for a Merge Article"
 ms.custom: na
-ms.date: 07/04/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - TSQL
 ms.prod: sql-server-2016

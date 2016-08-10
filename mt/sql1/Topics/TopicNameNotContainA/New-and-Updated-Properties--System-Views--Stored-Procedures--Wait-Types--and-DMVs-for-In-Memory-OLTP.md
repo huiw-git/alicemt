@@ -2,7 +2,7 @@
 title: "New and Updated Properties, System Views, Stored Procedures, Wait Types, and DMVs for In-Memory OLTP"
 ms.custom: 
   - SQL2016_New_Updated
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

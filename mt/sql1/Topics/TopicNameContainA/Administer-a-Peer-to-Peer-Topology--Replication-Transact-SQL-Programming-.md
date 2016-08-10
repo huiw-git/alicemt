@@ -1,7 +1,7 @@
 ---
 title: "Administer a Peer-to-Peer Topology (Replication Transact-SQL Programming)"
 ms.custom: na
-ms.date: 07/04/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - TSQL
 ms.prod: sql-server-2016

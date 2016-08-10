@@ -1,7 +1,7 @@
 ---
 title: "Migrate SQL Server 2014 Managed Backup Settings to SQL Server 2016"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

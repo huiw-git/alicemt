@@ -1,7 +1,7 @@
 ---
 title: "The following features are not supported by Excel Services and may not display or may display only partially: Comments, Shapes, or other objects"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

@@ -1,7 +1,7 @@
 ---
 title: "Move a UCP from One Instance of SQL Server to Another (SQL Server Utility)"
 ms.custom: na
-ms.date: 07/04/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

@@ -1,7 +1,7 @@
 ---
 title: "Specify Events and Data Columns for a Trace File (SQL Server Profiler)"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.prod: sql-server-2016
 ms.reviewer: na
 ms.suite: na

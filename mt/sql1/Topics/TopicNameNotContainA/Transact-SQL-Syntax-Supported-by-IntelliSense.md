@@ -1,7 +1,7 @@
 ---
 title: "Transact-SQL Syntax Supported by IntelliSense"
 ms.custom: na
-ms.date: 06/29/2016
+ms.date: 08/09/2016
 ms.devlang: 
   - TSQL
 ms.prod: sql-server-2016
