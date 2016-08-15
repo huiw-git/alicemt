@@ -56,9 +56,9 @@ translation.priority.mt:
 
 ![1-aadp onboarding process-v3](../../ems/AADRightsMgmt/media/1-aadp-onboarding-process-v3.png)
 
-[!INCLUDE[test test test](../../ems/AADRightsMgmt/includes/test-test-test.md)]
+[!INCLUDE[test test test](Markdown Token Text)]
 
-This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]:
+This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)]:
 
 -   [Verifying Azure Rights Management](../../ems/AADRightsMgmt/Verifying-Azure-Rights-Management.md)
 
