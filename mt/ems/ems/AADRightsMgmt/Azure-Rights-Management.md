@@ -49,15 +49,85 @@ translation.priority.mt:
   - sv-se
 ---
 # Azure Rights Management
-This page introduces the technical documentation set for Microsoft [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)] (Azure RMS), to help you protect your organization’s sensitive information from unauthorized access, and control how this information is used.  [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)] is a cloud service, and is integrated into other Microsoft cloud services and applications, such as Office 365 and Azure Active Directory. However, it can also be used with your on-premises applications and services.
+This page introduces the technical documentation set for Microsoft ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Azure Rights Management (Azure RMS), to help you protect your organization’s sensitive information from unauthorized access, and control how this information is used.  ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Azure Rights Management is a cloud service, and is integrated into other Microsoft cloud services and applications, such as Office 365 and Azure Active Directory. However, it can also be used with your on-premises applications and services.
 
-[!INCLUDE[aad_rightsmanagement_2](Rights Management)] uses encryption, identity, and authorization policies to help secure your files and email. In comparison to standard access controls, such as NTFS permissions, protection that is applied by using [!INCLUDE[aad_rightsmanagement_2](Rights Management)] stays with the files and emails, independently of the location—inside or outside your organization, networks, file servers, and applications. This information protection solution keeps you in control of your data, even when it is shared with other people.
+---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management uses encryption, identity, and authorization policies to help secure your files and email. In comparison to standard access controls, such as NTFS permissions, protection that is applied by using ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management stays with the files and emails, independently of the location—inside or outside your organization, networks, file servers, and applications. This information protection solution keeps you in control of your data, even when it is shared with other people.
 
 For example, you can configure a file so that it can be accessed only by people in your organization, or control whether the file can be edited, or restricted to read-only, or prevent it from being printed. You can configure emails similarly, and in addition, prevent them from being forwarded or prevent the use of the Reply All option. These protection tasks can be simplified and streamlined by using standardized policy templates.
 
 For a deeper understanding and some examples, see [What is Azure Rights Management?](../../ems/AADRightsMgmt/What-is-Azure-Rights-Management-.md)
 
-Use the following information to learn more about [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)] and deploy it for your organization:
+Use the following information to learn more about ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Azure Rights Management and deploy it for your organization:
 
 -   [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
 

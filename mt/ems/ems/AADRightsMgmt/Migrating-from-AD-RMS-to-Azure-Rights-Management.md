@@ -156,7 +156,21 @@ Use this procedure to import the AD RMS configuration to Azure RMS, to result in
    ```
    Connect-AadrmService
    ```
-   When prompted, enter your [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)] tenant administrator credentials (typically, you will use an account that is a global administrator for Azure Active Directory or Office 365).
+   When prompted, enter your ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Azure Rights Management tenant administrator credentials (typically, you will use an account that is a global administrator for Azure Active Directory or Office 365).
 
 3. Use the [Import-AadrmTpd](http://msdn.microsoft.com/library/azure/dn857523.aspx) cmdlet to upload the first exported trusted publishing domain (.xml) file. If you have more than one .xml file because you had multiple trusted publishing domains, choose the file that contains the exported trusted publishing domain that you want to use in Azure RMS to protect content after the migration. Use the following command:
 

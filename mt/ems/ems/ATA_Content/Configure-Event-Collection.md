@@ -2,7 +2,7 @@
 title: "Configure Event Collection"
 ms.custom: 
   - ATA
-ms.date: 08/10/2016
+ms.date: 08/15/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na

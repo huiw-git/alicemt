@@ -86,7 +86,21 @@ At this time, do not click **advanced features**. This takes you to the Azure po
 
 3. From the **active directory** page, click **RIGHTS MANAGEMENT**.
 
-4. Select the directory to manage for [!INCLUDE[aad_rightsmanagement_2](Rights Management)], click **ACTIVATE**, and then confirm your action.
+4. Select the directory to manage for ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management, click **ACTIVATE**, and then confirm your action.
 
 The **RIGHTS MANAGEMENT STATUS** should now display **Active** and the **ACTIVATE** option is replaced with **DEACTIVATE**.
 

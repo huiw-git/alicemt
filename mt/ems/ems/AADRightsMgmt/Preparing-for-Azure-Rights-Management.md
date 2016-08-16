@@ -49,7 +49,35 @@ translation.priority.mt:
   - sv-se
 ---
 # Preparing for Azure Rights Management
-After you have signed up for a cloud subscription and established your organization with an account for [!INCLUDE[o365_1](Microsoft Office 365)] or Azure Active Directory, you’re ready to enable the [!INCLUDE[aad_rightsmanagement_2](Rights Management)] service.
+After you have signed up for a cloud subscription and established your organization with an account for ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Microsoft Office 365 or Azure Active Directory, you’re ready to enable the ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management service.
 
 However, before you do so, make sure that the following are in place:
 
@@ -60,7 +88,48 @@ However, before you do so, make sure that the following are in place:
     If you have Exchange Online, you can create and use mail-enabled groups by using the Exchange admin center. If you have AD DS and are synchronizing to Azure AD, you can create and use mail-enabled groups that are either security groups or distribution groups.
 
 ## Enable Rights Management
-By default, [!INCLUDE[aad_rightsmanagement_2](Rights Management)] is disabled when you sign up for your [!INCLUDE[o365_2](Office 365)] or Azure AD account. To enable [!INCLUDE[aad_rightsmanagement_2](Rights Management)] for your organization, you must activate the service. For more information, see [Activating Azure Rights Management](../../ems/AADRightsMgmt/Activating-Azure-Rights-Management.md).
+By default, ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management is disabled when you sign up for your ---
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+---
+Office 365 or Azure AD account. To enable ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Rights Management for your organization, you must activate the service. For more information, see [Activating Azure Rights Management](../../ems/AADRightsMgmt/Activating-Azure-Rights-Management.md).
 
 ## See Also
 [Configuring Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md)

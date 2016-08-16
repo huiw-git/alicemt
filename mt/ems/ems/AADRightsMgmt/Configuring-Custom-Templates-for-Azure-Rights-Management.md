@@ -389,7 +389,21 @@ The cmdlets that support creating and managing templates:
 -   [Set-AadrmTemplateProperty](https://msdn.microsoft.com/library/azure/dn727076.aspx)
 
 ## Next steps
-After you’ve configured custom templates for Azure Rights Management, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) to check whether there are other configuration steps that you might want to do before you roll out [!INCLUDE[aad_rightsmanagement_1](Azure Rights Management)] to users and administrators. If there are no other configuration steps that you need to do, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md) for operational guidance to support a successful deployment for your organization.
+After you’ve configured custom templates for Azure Rights Management, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) to check whether there are other configuration steps that you might want to do before you roll out ---
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
+---
+Azure Rights Management to users and administrators. If there are no other configuration steps that you need to do, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md) for operational guidance to support a successful deployment for your organization.
 
 ## See Also
 [Configuring Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md)

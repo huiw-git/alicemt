@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Rights Management sharing application user guide - original publication"
 ms.custom: na
-ms.date: 08/10/2016
+ms.date: 08/15/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
