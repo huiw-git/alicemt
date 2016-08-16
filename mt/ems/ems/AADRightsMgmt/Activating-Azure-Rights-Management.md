@@ -49,106 +49,22 @@ translation.priority.mt:
   - sv-se
 ---
 # Activating Azure Rights Management
-When you activate ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management (Azure RMS), your organization can start to protect important data by using applications and services that support this information protection solution. Administrators can also manage and monitor protected files and emails that your organization owns. You must enable ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management before you can begin to use the information rights management (IRM) features within Office, SharePoint, and Exchange, and protect any sensitive or confidential file.
+When you activate Azure Rights Management (Azure RMS), your organization can start to protect important data by using applications and services that support this information protection solution. Administrators can also manage and monitor protected files and emails that your organization owns. You must enable Rights Management before you can begin to use the information rights management (IRM) features within Office, SharePoint, and Exchange, and protect any sensitive or confidential file.
 
 If you want to learn more about Azure Rights Management before you activate the service—for example, what business problems it solves, some typical use cases, and how it works—see [What is Azure Rights Management?](../../ems/AADRightsMgmt/What-is-Azure-Rights-Management-.md)
 
 > [!IMPORTANT]
-> Before you activate ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management, make sure that your organization has a service plan that includes ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management services. If not, you will not be able to activate Azure RMS.
+> Before you activate Rights Management, make sure that your organization has a service plan that includes Rights Management services. If not, you will not be able to activate Azure RMS.
 > 
 > For more information, see the [Cloud subscriptions that support Azure RMS](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md#BKMK_SupportedSubscriptions) section in the [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md) topic.
 
 After you have activated Azure RMS, all users in your organization can apply information protection to their files, and all users can open (consume) files that have been protected by Azure RMS. However, if you prefer, you can restrict who can apply information protection, by using onboarding controls for a phased deployment. For more information, see the [Configuring onboarding controls for a phased deployment](../../ems/AADRightsMgmt/Activating-Azure-Rights-Management.md#BKMK_OnboardingControls) section in this topic.
 
 ## Activating Rights Management
-Use one of the following procedures to activate ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.
+Use one of the following procedures to activate Rights Management.
 
 > [!TIP]
-> You can also use the Windows PowerShell cmdlet, [Enable-Aadrm](http://msdn.microsoft.com/library/windowsazure/dn629412.aspx), to activate ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.
+> You can also use the Windows PowerShell cmdlet, [Enable-Aadrm](http://msdn.microsoft.com/library/windowsazure/dn629412.aspx), to activate Rights Management.
 
 #### To activate Rights Management from the Office 365 admin center
 
@@ -184,38 +100,10 @@ You should now see **Rights management is activated** and the option to deactiva
 
 3. From the **active directory** page, click **RIGHTS MANAGEMENT**.
 
-4. Select the directory to manage for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management, click **ACTIVATE**, and then confirm your action.
+4. Select the directory to manage for Rights Management, click **ACTIVATE**, and then confirm your action.
 
    > [!NOTE]
-   >    If you see an activation error, it might be because your service plan or product version cannot support ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.
+   >    If you see an activation error, it might be because your service plan or product version cannot support Rights Management.
    > 
    >    Use the information in the [Cloud subscriptions that support Azure RMS](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md#BKMK_SupportedSubscriptions) section in the [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md) topic to confirm RMS support. For help with this issue, send an email message to [askipteam](mailto:askipteam?subject=I%20cannot%20activate%20RMS).
 
@@ -226,66 +114,10 @@ In addition to the **Active** status, which indicates that the Rights Management
 
 |Status value <br /> <br />|Description <br /> <br />|
 |----------------|---------------|
-|**Active** <br /> <br />|---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management is enabled and ready for use. <br /> <br />|
-|**Inactive** <br /> <br />|---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management is disabled and must be activated before your organization can protect files. <br /> <br />|
-|**Unavailable** <br /> <br />|The ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service is down. Try again later. <br /> <br />|
-|**Unauthorized** <br /> <br />|You do not have permissions to view the status of the ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service. For example, your account is locked out or you are not the global administrator for the selected tenant. <br /> <br />|
+|**Active** <br /> <br />|Rights Management is enabled and ready for use. <br /> <br />|
+|**Inactive** <br /> <br />|Rights Management is disabled and must be activated before your organization can protect files. <br /> <br />|
+|**Unavailable** <br /> <br />|The Rights Management service is down. Try again later. <br /> <br />|
+|**Unauthorized** <br /> <br />|You do not have permissions to view the status of the Rights Management service. For example, your account is locked out or you are not the global administrator for the selected tenant. <br /> <br />|
 
 ## <a name="BKMK_OnboardingControls"></a>Configuring onboarding controls for a phased deployment
 If you don’t want all users to be able to protect files immediately by using Azure RMS, you can configure user onboarding controls by using the [Set-AadrmOnboardingControlPolicy](http://msdn.microsoft.com/library/azure/dn857521.aspx) Windows PowerShell command. You can run this command before or after you activate Azure RMS.
@@ -310,65 +142,9 @@ Set-AadrmOnboardingControlPolicy -UseRmsUserLicense $true
 When you use these onboarding controls, all users in the organization can always consume protected content that has been protected by your subset of users, but they won’t be able to apply information protection themselves from client applications. For example, they won’t see in their Office clients the default templates that are automatically published when Azure RMS is activated, or custom templates that you might configure.  Server-side applications, such as Exchange, can implement their own per-user controls for RMS-integration to achieve the same result.
 
 ## Next steps
-Now that you’ve activated ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management for your organization, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) to check whether there are other configuration steps that you might need to do before you roll out ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management to users and administrators. For example, you might want to use [custom templates](http://technet.microsoft.com/library/dn642472.aspx) to make it easier for users to apply information protection to files, connect your on-premises servers to use ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management by installing the [RMS connector](http://technet.microsoft.com/library/dn375964.aspx), and deploy the [Rights Management sharing application](http://technet.microsoft.com/library/jj585031.aspx) that supports protecting all file types on all devices. Office services,  such as Exchange Online and SharePoint Online require additional configuration before you can use their Information Rights Management (IRM) features. However, if there are no other configuration steps that you need to do, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md) for operational guidance to support a successful deployment for your organization.
+Now that you’ve activated Azure Rights Management for your organization, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) to check whether there are other configuration steps that you might need to do before you roll out Azure Rights Management to users and administrators. For example, you might want to use [custom templates](http://technet.microsoft.com/library/dn642472.aspx) to make it easier for users to apply information protection to files, connect your on-premises servers to use Azure Rights Management by installing the [RMS connector](http://technet.microsoft.com/library/dn375964.aspx), and deploy the [Rights Management sharing application](http://technet.microsoft.com/library/jj585031.aspx) that supports protecting all file types on all devices. Office services,  such as Exchange Online and SharePoint Online require additional configuration before you can use their Information Rights Management (IRM) features. However, if there are no other configuration steps that you need to do, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md) for operational guidance to support a successful deployment for your organization.
 
-For information about how your applications work with ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management, see [How Applications Support Azure Rights Management](../../ems/AADRightsMgmt/How-Applications-Support-Azure-Rights-Management.md).
+For information about how your applications work with Azure Rights Management, see [How Applications Support Azure Rights Management](../../ems/AADRightsMgmt/How-Applications-Support-Azure-Rights-Management.md).
 
 ## See Also
 [Configuring Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md)

@@ -25,52 +25,10 @@ translation.priority.ht:
   - zh-tw
 ---
 # Frequently Asked Questions for Azure Rights Management
-Some frequently asked questions for Microsoft ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management, also known as Azure RMS:
+Some frequently asked questions for Microsoft Azure Rights Management, also known as Azure RMS:
 
 ## What do I need to deploy Azure RMS and how do I get going?
-First, check [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md), which has information about the cloud subscription options, how you can use your on-premises servers with Azure RMS, which deployment scenarios are not currently supported, which devices and applications support Azure RMS, and a link if you need a list of IP addresses and domain names for firewalls or proxy servers. You might also want to check the other topics in the [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) section, to get a basic understanding of how ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management can help protect your organization’s data, how it works with applications, how it compares with the on-premises version of Active Directory Rights Management, and understand the terms and abbreviations that are specific to ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management.
+First, check [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md), which has information about the cloud subscription options, how you can use your on-premises servers with Azure RMS, which deployment scenarios are not currently supported, which devices and applications support Azure RMS, and a link if you need a list of IP addresses and domain names for firewalls or proxy servers. You might also want to check the other topics in the [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) section, to get a basic understanding of how Azure Rights Management can help protect your organization’s data, how it works with applications, how it compares with the on-premises version of Active Directory Rights Management, and understand the terms and abbreviations that are specific to Azure Rights Management.
 
 Then when you’re ready to test Azure RMS for yourself, or deploy it for your organization, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) for a list of steps with links for more information and how-to instructions.
 

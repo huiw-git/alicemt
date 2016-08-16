@@ -58,21 +58,7 @@ translation.priority.mt:
 
 Markdown Token Text
 
-This section contains operations information for after you have configured   ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management:
+This section contains operations information for after you have configured   Azure Rights Management:
 
 -   [Verifying Azure Rights Management](../../ems/AADRightsMgmt/Verifying-Azure-Rights-Management.md)
 

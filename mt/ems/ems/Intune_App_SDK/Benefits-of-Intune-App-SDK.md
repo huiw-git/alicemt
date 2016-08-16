@@ -1,7 +1,7 @@
 ---
 title: "Benefits of Intune App SDK"
 ms.custom: na
-ms.date: 08/15/2016
+ms.date: 08/16/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

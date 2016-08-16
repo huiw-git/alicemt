@@ -1,7 +1,7 @@
 ---
 title: "ATA Database Management"
 ms.custom: na
-ms.date: 08/15/2016
+ms.date: 08/16/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na

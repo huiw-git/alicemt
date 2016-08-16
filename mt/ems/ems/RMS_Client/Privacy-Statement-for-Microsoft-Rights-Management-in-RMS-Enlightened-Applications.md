@@ -1,7 +1,7 @@
 ---
 title: "Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications"
 ms.custom: na
-ms.date: 08/15/2016
+ms.date: 08/16/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

@@ -49,240 +49,31 @@ translation.priority.mt:
   - sv-se
 ---
 # Administering Azure Rights Management by Using Windows PowerShell
-Although you can activate Microsoft ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management (Azure RMS) by using the ---
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
----
-Office 365 admin center or the Azure portal, you can also use the Windows PowerShell module for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management (AADRM) to do this.
+Although you can activate Microsoft Azure Rights Management (Azure RMS) by using the Office 365 admin center or the Azure portal, you can also use the Windows PowerShell module for Azure Rights Management (AADRM) to do this.
 
-After you have activated ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management, further administration for the service might not be required. However, some advanced configuration scenarios might require you to use the Windows PowerShell module for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management. The following table lists some of the advanced configuration scenarios that use Windows PowerShell. For a complete list of the available cmdlets with more information about each one, see [Azure Rights Management Cmdlets](http://msdn.microsoft.com/library/azure/dn629398.aspx).
+After you have activated Rights Management, further administration for the service might not be required. However, some advanced configuration scenarios might require you to use the Windows PowerShell module for Azure Rights Management. The following table lists some of the advanced configuration scenarios that use Windows PowerShell. For a complete list of the available cmdlets with more information about each one, see [Azure Rights Management Cmdlets](http://msdn.microsoft.com/library/azure/dn629398.aspx).
 
 > [!NOTE]
-> If you need to install the Windows PowerShell module for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management, see [Installing Windows PowerShell for Azure Rights Management](../../ems/AADRightsMgmt/Installing-Windows-PowerShell-for-Azure-Rights-Management.md).
+> If you need to install the Windows PowerShell module for Rights Management, see [Installing Windows PowerShell for Azure Rights Management](../../ems/AADRightsMgmt/Installing-Windows-PowerShell-for-Azure-Rights-Management.md).
 
 There is also a supplemental Windows PowerShell module, **RMSProtection**, which supports both Azure RMS and AD RMS. This module supports protecting and removing protection from multiple files so that, for example, you can bulk-protect all files in a folder. For more information, see the [Scripting options for super users](../../ems/AADRightsMgmt/Configuring-Super-Users-for-Azure-Rights-Management-and-Discovery-Services-or-Data-Recovery.md#BKMK_RMSProtectionModule) section in the [Configuring Super Users for Azure Rights Management and Discovery Services or Data Recovery](../../ems/AADRightsMgmt/Configuring-Super-Users-for-Azure-Rights-Management-and-Discovery-Services-or-Data-Recovery.md) topic.
 
 |If you need to…|…use the following cmdlets|
 |-------------------|------------------------------|
-|Migrate from on-premises Rights Management (AD RMS or Windows RMS) to ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.|[Import-AadrmTpd](http://msdn.microsoft.com/library/azure/dn857523.aspx)|
-|Connect to or disconnect from the ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service for your organization.|[Connect-AadrmService](http://msdn.microsoft.com/library/azure/dn629415.aspx)<br /><br />[Disconnect-AadrmService](http://msdn.microsoft.com/library/azure/dn629416.aspx)|
+|Migrate from on-premises Rights Management (AD RMS or Windows RMS) to Rights Management.|[Import-AadrmTpd](http://msdn.microsoft.com/library/azure/dn857523.aspx)|
+|Connect to or disconnect from the Rights Management service for your organization.|[Connect-AadrmService](http://msdn.microsoft.com/library/azure/dn629415.aspx)<br /><br />[Disconnect-AadrmService](http://msdn.microsoft.com/library/azure/dn629416.aspx)|
 |Generate and manage your own tenant key – the bring your own key (BYOK) scenario.|[Add-AadrmKey](http://msdn.microsoft.com/library/azure/dn629418.aspx)<br /><br />[Get-AadrmKeys](http://msdn.microsoft.com/library/azure/dn629420.aspx)|
-|Activate or deactivate the ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service for your organization.|[Enable-Aadrm](http://msdn.microsoft.com/library/azure/dn629412.aspx)<br /><br />[Disable-Aadrm](http://msdn.microsoft.com/library/azure/dn629422.aspx)|
+|Activate or deactivate the Rights Management service for your organization.|[Enable-Aadrm](http://msdn.microsoft.com/library/azure/dn629412.aspx)<br /><br />[Disable-Aadrm](http://msdn.microsoft.com/library/azure/dn629422.aspx)|
 |Disable or enable the document tracking site for Azure Rights Management.|[Disable-AadrmDocumentTrackingFeature](https://msdn.microsoft.com/library/azure/mt548471.aspx)<br /><br />[Enable-AadrmDocumentTrackingFeature](https://msdn.microsoft.com/library/azure/mt548469.aspx)<br /><br />[Get-AadrmDocumentTrackingFeature](https://msdn.microsoft.com/library/azure/mt548470.aspx)|
 |Configure onboarding controls for a phased deployment of Azure Rights Management.|[Get-AadrmOnboardingControlPolicy](http://msdn.microsoft.com/library/azure/dn857522.aspx)<br /><br />[Set-AadrmOnboardingControlPolicy](http://msdn.microsoft.com/library/azure/dn857521.aspx)|
 |Create and manage rights policy templates for your organization.|[Add-AadrmTemplate](http://msdn.microsoft.com/library/azure/dn727075.aspx)<br /><br />[Export-AadrmTemplate](http://msdn.microsoft.com/library/azure/dn727078.aspx)<br /><br />[Get-AadrmTemplate](http://msdn.microsoft.com/library/azure/dn727079.aspx)<br /><br />[Get-AadrmTemplateProperty](http://msdn.microsoft.com/library/azure/dn727081.aspx)<br /><br />[Import-AadrmTemplate](http://msdn.microsoft.com/library/azure/dn727077.aspx)<br /><br />[New-AadrmRightsDefinition](http://msdn.microsoft.com/library/azure/dn727080.aspx)<br /><br />[Remove-AadrmTemplate](http://msdn.microsoft.com/library/azure/dn727082.aspx)<br /><br />[Set-AadrmTemplateProperty](http://msdn.microsoft.com/library/azure/dn727076.aspx)|
 |Configure the maximum number of days that content that your organization protects can be accessed without an Internet connection (the use license validity period).|[Get-AadrmMaxUseLicenseValidityTime](https://msdn.microsoft.com/library/azure/dn932062.aspx)<br /><br />[Set-AadrmMaxUseLicenseValidityTime](https://msdn.microsoft.com/library/azure/dn932063.aspx)|
-|Manage the super user feature of ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management for your organization.|[Enable-AadrmSuperUserFeature](http://msdn.microsoft.com/library/azure/dn629400.aspx)<br /><br />[Disable-AadrmSuperUserFeature](http://msdn.microsoft.com/library/azure/dn629428.aspx)<br /><br />[Add-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629411.aspx)<br /><br />[Get-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629408.aspx)<br /><br />[Remove-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629405.aspx)|
-|Manage users and groups who are authorized to administer the ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service for your organization.|[Add-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629417.aspx)<br /><br />[Get-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629407.aspx)<br /><br />[Remove-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629424.aspx)|
-|Get a log of ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management administrative tasks for your organization.|[Get-AadrmAdminLog](http://msdn.microsoft.com/library/azure/dn629430.aspx)|
-|Log and analyze usage logging for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.|[Enable-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629421.aspx)<br /><br />[Get-AadrmUsageLog](http://msdn.microsoft.com/library/azure/dn629401.aspx)<br /><br />[Get-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629425.aspx)<br /><br />[Get-AadrmUsageLogLastCounterValue](http://msdn.microsoft.com/library/azure/dn629423.aspx)<br /><br />[Get-AadrmUsageLogStorageAccount](http://msdn.microsoft.com/library/azure/dn629419.aspx)<br /><br />[Set-AadrmUsageLogStorageAccount](http://msdn.microsoft.com/library/azure/dn629426.aspx)<br /><br />[Disable-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629404.aspx)|
-|Display the current ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management service configuration for your organization.|[Get-AadrmConfiguration](http://msdn.microsoft.com/library/azure/dn629410.aspx)|
-|Migrate your organization from ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management to an on-premises AD RMS deployment.|[Set-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629429.aspx)<br /><br />[Get-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629403.aspx)|
+|Manage the super user feature of Rights Management for your organization.|[Enable-AadrmSuperUserFeature](http://msdn.microsoft.com/library/azure/dn629400.aspx)<br /><br />[Disable-AadrmSuperUserFeature](http://msdn.microsoft.com/library/azure/dn629428.aspx)<br /><br />[Add-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629411.aspx)<br /><br />[Get-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629408.aspx)<br /><br />[Remove-AadrmSuperUser](http://msdn.microsoft.com/library/azure/dn629405.aspx)|
+|Manage users and groups who are authorized to administer the Rights Management service for your organization.|[Add-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629417.aspx)<br /><br />[Get-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629407.aspx)<br /><br />[Remove-AadrmRoleBasedAdministrator](http://msdn.microsoft.com/library/azure/dn629424.aspx)|
+|Get a log of Rights Management administrative tasks for your organization.|[Get-AadrmAdminLog](http://msdn.microsoft.com/library/azure/dn629430.aspx)|
+|Log and analyze usage logging for Rights Management.|[Enable-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629421.aspx)<br /><br />[Get-AadrmUsageLog](http://msdn.microsoft.com/library/azure/dn629401.aspx)<br /><br />[Get-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629425.aspx)<br /><br />[Get-AadrmUsageLogLastCounterValue](http://msdn.microsoft.com/library/azure/dn629423.aspx)<br /><br />[Get-AadrmUsageLogStorageAccount](http://msdn.microsoft.com/library/azure/dn629419.aspx)<br /><br />[Set-AadrmUsageLogStorageAccount](http://msdn.microsoft.com/library/azure/dn629426.aspx)<br /><br />[Disable-AadrmUsageLogFeature](http://msdn.microsoft.com/library/azure/dn629404.aspx)|
+|Display the current Rights Management service configuration for your organization.|[Get-AadrmConfiguration](http://msdn.microsoft.com/library/azure/dn629410.aspx)|
+|Migrate your organization from Azure Rights Management to an on-premises AD RMS deployment.|[Set-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629429.aspx)<br /><br />[Get-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629403.aspx)|
 
 ## See Also
 [Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md)

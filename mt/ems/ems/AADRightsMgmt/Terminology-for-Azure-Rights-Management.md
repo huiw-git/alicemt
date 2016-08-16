@@ -26,166 +26,26 @@ translation.priority.mt:
   - ja-jp
 ---
 # Terminology for Azure Rights Management
-Confused by a word, phrase, or acronym that’s related to Microsoft ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management (Azure RMS)? Find the definition here for terms and abbreviations that are either specific to Azure RMS or have a specific meaning when used in the context of ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.
+Confused by a word, phrase, or acronym that’s related to Microsoft Azure Rights Management (Azure RMS)? Find the definition here for terms and abbreviations that are either specific to Azure RMS or have a specific meaning when used in the context of Rights Management.
 
 |Term|Definition|
 |--------|--------------|
-|AADRM|The name of the Windows PowerShell module for Azure Rights Management, which was derived from the unofficial abbreviation for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management when it was previously named (Windows) Azure Active Directory Rights Management.|
-|activate|To enable the ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management service so that an organization can add information protection to their documents and email. This action also enables Rights Management features in Exchange Online and SharePoint Online.|
+|AADRM|The name of the Windows PowerShell module for Azure Rights Management, which was derived from the unofficial abbreviation for Azure Rights Management when it was previously named (Windows) Azure Active Directory Rights Management.|
+|activate|To enable the Azure Rights Management service so that an organization can add information protection to their documents and email. This action also enables Rights Management features in Exchange Online and SharePoint Online.|
 |Active Directory Rights Management Services|Frequently abbreviated to *AD RMS*.<br /><br />A Windows Server role that that provides information protection by using encryption and policy to help secure documents, files, and email.|
 |AD RMS|See *Active Directory Rights Management Services*.|
 |Azure Rights Management|Frequently abbreviated to *Azure RMS*.<br /><br />An Azure service that provides information protection by using encryption and policy to help secure documents, files, and email.  Also known as *Azure Rights Management service*. Previous names have included:<br /><br />-   *Windows Azure Active Directory Rights Management*: Frequently abbreviated to Windows Azure AD Rights Management Service.<br />-   *RMS Online*: The original, proposed name, which you might sometimes see in error messages and log file entries.|
 |Azure RMS|See *Azure Rights Management*.|
 |BYOK|See *bring your own key*.|
-|bring your own key|Frequently abbreviated to *BYOK*.<br /><br />A configuration option chosen by an organization that wants to generate and manage their own tenant key for ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management.|
-|content key|A unique key that is created by RMS-enlightened applications for each document or email that is protected by using ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management and that helps to limit the risk of information disclosure.|
-|consume|To unlock a file to read or use it when that file has been protected by ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.|
-|deactivate|To disable the Rights Management service so that the organization can no longer use ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management.|
+|bring your own key|Frequently abbreviated to *BYOK*.<br /><br />A configuration option chosen by an organization that wants to generate and manage their own tenant key for Azure Rights Management.|
+|content key|A unique key that is created by RMS-enlightened applications for each document or email that is protected by using Rights Management and that helps to limit the risk of information disclosure.|
+|consume|To unlock a file to read or use it when that file has been protected by Rights Management.|
+|deactivate|To disable the Rights Management service so that the organization can no longer use Azure Rights Management.|
 |departmental template|A rights policy template that you create (a custom template) and is configured to be visible for selected users rather than all users in your organization.|
-|enlightened applications|Applications that natively support Rights Management, which includes Office applications, such as Word and Excel. Independent software vendors (ISVs) and developers can also write applications that natively support ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.|
+|enlightened applications|Applications that natively support Rights Management, which includes Office applications, such as Word and Excel. Independent software vendors (ISVs) and developers can also write applications that natively support Rights Management.|
 |enterprise rights management|An industry-standard, generic term that is often used to describe products and solutions that help organizations protect sensitive or valuable information by using a combination of encryption and policy authorization tools. Microsoft Rights Management is an example of an enterprise rights management (ERM) solution.|
 |ERM|See *enterprise rights management*.|
-|generic protection|A level of protection that encrypts any file type and prevents unauthorized people from opening the file. After the file is opened, the file is now unencrypted and usable in an application that doesn’t natively support ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management.|
+|generic protection|A level of protection that encrypts any file type and prevents unauthorized people from opening the file. After the file is opened, the file is now unencrypted and usable in an application that doesn’t natively support Rights Management.|
 |information protection|Sometimes abbreviated to *IP*.<br /><br />An industry-standard, generic term that refers to protecting data and files from unauthorized access, even after the data and files leave the organizational boundaries by using email or document sharing. Microsoft Rights Management is an example of an information protection (IP) solution.|
 |Information Rights Management|Frequently abbreviated to *IRM*.<br /><br />A term used in conjunction with Office services, such as Exchange Server, Word, and SharePoint Online, to describe the ability to support Rights Management.|
 |IRM|See *Information Rights Management*.|
@@ -197,100 +57,16 @@ Rights Management.|
 |protect|Apply Rights Management controls to files or email messages by using encryption, identity, and access control policies to help secure your data.|
 |publish|To protect a file in order to safeguard it from unauthorized access and use.|
 |Rights Management connector|An outbound proxy relay that you can deploy for on-premises services such as Exchange Server and SharePoint, to protect data by using Azure Rights Management.|
-|Rights Management services|The generic term that applies to both the cloud version of ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management (---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Azure Rights Management) and the on-premises version of ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management (AD RMS).|
+|Rights Management services|The generic term that applies to both the cloud version of Rights Management (Azure Rights Management) and the on-premises version of Rights Management (AD RMS).|
 |Rights Management sharing application|An optional downloadable application for Windows and most popular mobile devices, which supports safely sharing files in-place and by email.|
 |RMS|See *Rights Management services*.|
 |RMS connector|See *Rights Management connector*.|
-|RMS for individuals|A free subscription for a user to use ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management when their organization does not have a subscription to Office 365 or Azure Active Directory.|
+|RMS for individuals|A free subscription for a user to use Rights Management when their organization does not have a subscription to Office 365 or Azure Active Directory.|
 |RMS sharing app|See *Rights Management sharing application*.|
 |super user|A group of highly trusted administrators who can decrypt and access files that the organization has protected by using Rights Management. Typically, this level of access is required for legal eDiscovery and by auditing teams.|
-|tenant key|Also known as the server licensor certificate (SLC) key.<br /><br />The key that is unique to an organization and ultimately secures all ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management cryptographic functions that chain to this tenant key.|
+|tenant key|Also known as the server licensor certificate (SLC) key.<br /><br />The key that is unique to an organization and ultimately secures all Rights Management cryptographic functions that chain to this tenant key.|
 |unprotect|Remove Rights Management controls from files or email messages, which used encryption, identity, and access control policies to help secure your data.|
-|use license|A per-document certificate that is granted to a user who opens a file or email message that has been protected by ---
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
----
-Rights Management. This certificate contains that user’s rights for the file or email message and the encryption key that was used to encrypt the content, as well as additional access restrictions defined in the document’s policy.|
+|use license|A per-document certificate that is granted to a user who opens a file or email message that has been protected by Rights Management. This certificate contains that user’s rights for the file or email message and the encryption key that was used to encrypt the content, as well as additional access restrictions defined in the document’s policy.|
 
 ## See Also
 [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
