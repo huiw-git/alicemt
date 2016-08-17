@@ -1,1 +1,0 @@
-SQL Server R Services
