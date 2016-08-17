@@ -57,16 +57,16 @@ However, if you just want to quickly try Azure RMS for yourself, rather than ro
 > Before you do the following steps, make sure that you have reviewed [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md).
 
 ## Step 1: Confirm that you have a subscription that includes Azure Rights Management
-There is more than one type of subscription that includes Azure Rights Management. See the [Cloud subscriptions that support Azure RMS](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md#BKMK_SupportedSubscriptions) section in the [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md) topic, and check that your subscription includes the functionality that you want to use in your organization by referring to the table in [Comparison of Rights Management Services (RMS) Offerings](https://technet.microsoft.com/dn858608).
+There is more than one type of subscription that includes [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]. See the [Cloud subscriptions that support Azure RMS](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md#BKMK_SupportedSubscriptions) section in the [Requirements for Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md) topic, and check that your subscription includes the functionality that you want to use in your organization by referring to the table in [Comparison of Rights Management Services (RMS) Offerings](https://technet.microsoft.com/dn858608).
 
 ## Step 2: Prepare your tenant account to use Rights Management
-Before you begin using Rights Management, do the following preparation:
+Before you begin using [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)], do the following preparation:
 
 1. Make sure that your Azure or Office 365 tenant contains the user accounts and groups that will be used by Azure RMS to authenticate users from your organization. If necessary, create these account and groups, or synchronize them from your on-premises directory. For more information, see [Preparing for Azure Rights Management](../../ems/AADRightsMgmt/Preparing-for-Azure-Rights-Management.md).
 
 2. Decide whether you want Microsoft to manage your tenant key (the default), or generate and manage your tenant key yourself (known as bring your own key, or BYOK). Note that currently, you cannot use BYOK if you use Exchange Online. For more information, see [Planning and Implementing Your Azure Rights Management Tenant Key](../../ems/AADRightsMgmt/Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md).
 
-3. Install the Windows PowerShell module for Rights Management on at least one computer that has Internet access. You can do this step now, or later. For more information, see [Installing Windows PowerShell for Azure Rights Management](../../ems/AADRightsMgmt/Installing-Windows-PowerShell-for-Azure-Rights-Management.md).
+3. Install the Windows PowerShell module for [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)] on at least one computer that has Internet access. You can do this step now, or later. For more information, see [Installing Windows PowerShell for Azure Rights Management](../../ems/AADRightsMgmt/Installing-Windows-PowerShell-for-Azure-Rights-Management.md).
 
 4. If you are currently using on-premises Rights Management services: Perform a migration to move the keys, templates, and URLs to the cloud. For more information, see [Migrating from AD RMS to Azure Rights Management](../../ems/AADRightsMgmt/Migrating-from-AD-RMS-to-Azure-Rights-Management.md).
 
@@ -89,7 +89,7 @@ If you have on-premises services that you want to use with Azure Rights Manageme
 You’re now ready to publish and consume protected content, and log how your company is using Rights Management. For more information, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md).
 
 ## Step 5: Administer Rights Management for your tenant account as needed
-As you begin to use Rights Management, you might find the Rights Management module for Windows PowerShell useful to help script or automate administrative changes. For more information, see [Administering Azure Rights Management by Using Windows PowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md).
+As you begin to use [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)], you might find the [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)] module for Windows PowerShell useful to help script or automate administrative changes. For more information, see [Administering Azure Rights Management by Using Windows PowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md).
 
 ## See Also
 [Configuring Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md)
