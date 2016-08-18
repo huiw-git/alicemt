@@ -1,7 +1,7 @@
 ---
 title: "Getting Started and FAQ"
 ms.custom: na
-ms.date: 08/17/2016
+ms.date: 08/18/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
