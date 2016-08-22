@@ -10,6 +10,8 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Advanced Threat Analytics
 ms.assetid: 14cb7513-5dc8-49cb-b3e0-94f469c443dd
 caps.latest.revision: 18
 author: karthikaraman

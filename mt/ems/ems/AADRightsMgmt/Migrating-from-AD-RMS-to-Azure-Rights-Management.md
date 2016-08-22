@@ -7,6 +7,9 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
 ms.assetid: 828cf1f7-d0e7-4edf-8525-91896dbe3172
 caps.latest.revision: 9
 author: karthikaraman

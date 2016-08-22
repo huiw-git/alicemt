@@ -7,6 +7,8 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Advanced Threat Analytics
 ms.assetid: 1d27dba8-fb30-4cce-a68a-f0b1df02b977
 caps.latest.revision: 24
 author: karthikaraman

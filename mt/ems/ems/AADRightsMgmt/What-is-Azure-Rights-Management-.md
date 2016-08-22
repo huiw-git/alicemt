@@ -7,6 +7,9 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: aeeebcd7-6646-4405-addf-ee1cc74df5df
 caps.latest.revision: 8
 caps.handback.revision: 0

@@ -7,6 +7,8 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
 ms.assetid: a735f3f7-6eb2-4901-9084-8c3cd3a9087e
 caps.latest.revision: 16
 author: karthikaraman

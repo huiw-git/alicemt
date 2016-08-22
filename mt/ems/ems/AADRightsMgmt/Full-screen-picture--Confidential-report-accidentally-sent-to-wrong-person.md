@@ -6,6 +6,9 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: ad666594-68df-4289-835a-235b2af9bf4b
 caps.latest.revision: 25
 author: karthikaraman

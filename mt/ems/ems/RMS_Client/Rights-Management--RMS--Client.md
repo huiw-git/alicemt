@@ -7,6 +7,17 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
+  - Windows Server 2008
+  - Windows Server 2008 R2
+  - Windows Server 2012
+  - Windows Server 2012 R2
+  - Windows Vista
 ms.assetid: 4768c144-b47b-445c-a7b7-16e432536be3
 caps.latest.revision: 25
 caps.handback.revision: 0
