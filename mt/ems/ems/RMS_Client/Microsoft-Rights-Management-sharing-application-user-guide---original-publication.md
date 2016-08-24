@@ -9,25 +9,6 @@ ms.assetid: 350b6869-084d-4e8a-a4d3-df44a40fa13b
 caps.latest.revision: 18
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - cs-cz
-  - es-es
-  - fr-fr
-  - hu-hu
-  - it-it
-  - ko-kr
-  - nl-nl
-  - pl-pl
-  - pt-br
-  - pt-pt
-  - ru-ru
-  - sv-se
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Microsoft Rights Management sharing application user guide - original publication
 This user guide for Microsoft Rights Management sharing application for Windows includes the following sections:

@@ -15,27 +15,6 @@ caps.latest.revision: 27
 caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Rights Management Sharing Application for Windows
 The Rights Management sharing application for Windows (also known as just “the RMS sharing app”) is a free, downloadable application for organizations that use [Active Directory Rights Management Services](https://technet.microsoft.com/library/cc772403.aspx) (AD RMS) or [Azure Rights Management](https://technet.microsoft.com/library/jj585024.aspx) (Azure RMS), and for organizations that don’t have their own information protection infrastructure but want to consume content that has been protected by other organizations that use Azure RMS.

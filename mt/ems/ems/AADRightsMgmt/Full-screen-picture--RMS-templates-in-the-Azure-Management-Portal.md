@@ -13,17 +13,6 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: RMS templates in the Azure Management Portal
 ![Full screen: Azure RMS templates](../../ems/AADRightsMgmt/media/AzRMS_TemplatesPortal.png "AzRMS_TemplatesPortal")

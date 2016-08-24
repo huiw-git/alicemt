@@ -15,41 +15,6 @@ caps.latest.revision: 8
 caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - bg-bg
-  - cs-cz
-  - da-dk
-  - el-gr
-  - es-es
-  - et-ee
-  - fi-fi
-  - fr-fr
-  - hr-hr
-  - hu-hu
-  - it-it
-  - kk-kz
-  - ko-kr
-  - lt-lt
-  - lv-lv
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-br
-  - pt-pt
-  - ro-ro
-  - ru-ru
-  - sk-sk
-  - sl-si
-  - sr-latn-cs
-  - sv-se
-  - th-th
-  - tr-tr
-  - uk-ua
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # What is Azure Rights Management?
 <?xml version="1.0" encoding="utf-8"?>

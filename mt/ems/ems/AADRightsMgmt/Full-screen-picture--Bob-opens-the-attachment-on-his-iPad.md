@@ -15,17 +15,6 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: Bob opens the attachment on his iPad
 ![Large picture of document on iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill3.PNG "AzRMS_StoryboardEmaill3")

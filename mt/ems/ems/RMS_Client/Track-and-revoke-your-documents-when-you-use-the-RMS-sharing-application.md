@@ -19,27 +19,6 @@ caps.latest.revision: 26
 caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Track and revoke your documents when you use the RMS sharing application
 After you have protected your documents by using the RMS sharing application, you can track how people are using your protected documents, and if necessary, revoke access to them when you want to stop sharing. To do this, you use the document tracking site, which you can access from Windows computers, Mac computers, and even from tablets and phones.

@@ -13,17 +13,6 @@ ms.assetid: a18f2e99-5ac4-4103-a88c-527846374091
 caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: Enabling IRM for a library
 ![Full screen: Enabling IRM on SharePoint library](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_2.PNG "AzRMS_StoryboardSPO_2")

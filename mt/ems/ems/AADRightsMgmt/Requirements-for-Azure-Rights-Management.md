@@ -15,18 +15,6 @@ caps.latest.revision: 8
 caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Requirements for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

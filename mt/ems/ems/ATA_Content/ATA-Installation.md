@@ -16,9 +16,6 @@ ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
 caps.latest.revision: 17
 author: karthikaraman
 manager: jeffgilb
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # ATA Installation
 The following are the steps required to get ATA deployed, configured, and running.

@@ -14,17 +14,6 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: Confidential report accidentally sent to wrong person
 ![By accident, emailing confidential information](../../ems/AADRightsMgmt/media/AzRMS_FCI_Email.png "AzRMS_FCI_Email")

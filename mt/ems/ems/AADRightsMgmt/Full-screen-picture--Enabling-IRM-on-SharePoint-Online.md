@@ -14,17 +14,6 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: Enabling IRM on SharePoint Online
 ![Full screen: Enabling IRM in SharePoint Online](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_1.png "AzRMS_StoryboardSPO_1")

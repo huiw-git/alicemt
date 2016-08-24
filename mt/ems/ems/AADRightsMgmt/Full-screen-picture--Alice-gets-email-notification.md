@@ -14,17 +14,6 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Full screen picture: Alice gets email notification
 ![Large picture of email notification](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill4.PNG "AzRMS_StoryboardEmaill4")

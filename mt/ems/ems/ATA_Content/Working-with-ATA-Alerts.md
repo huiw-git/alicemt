@@ -16,9 +16,6 @@ ms.assetid: 14cb7513-5dc8-49cb-b3e0-94f469c443dd
 caps.latest.revision: 18
 author: karthikaraman
 manager: jeffgilb
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Working with ATA Alerts
 ATA can alert you when it detects a suspicious activity, either via email or by sending the alert to your Syslog server. If you enable either or both of these types of alerts, you can set the following for them.
