@@ -160,5 +160,5 @@ Similarly, many software vendors provide applications to provide  information pr
 > For newly released applications, check the RMS community channels, listed in [Information and Support for Azure Rights Management](../../ems/AADRightsMgmt/Information-and-Support-for-Azure-Rights-Management.md).
 
 ## See Also
-[Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Getting Started with Azure Rights Management](/Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

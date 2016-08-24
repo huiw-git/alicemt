@@ -81,7 +81,7 @@ This section contains information to help you deploy and configure Microsoft Azu
 -   [Decommissioning and Deactivating Azure Rights Management](../../ems/AADRightsMgmt/Decommissioning-and-Deactivating-Azure-Rights-Management.md)
 
 > [!TIP]
-> If you’re new to Azure RMS, you might find the [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) section useful, because it contains information to help you learn more about Azure RMS and how it can help you to protect information in your organization.
+> If you’re new to Azure RMS, you might find the [Getting Started with Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md) section useful, because it contains information to help you learn more about Azure RMS and how it can help you to protect information in your organization.
 > 
 > If you’ve already deployed Azure RMS, see [Using Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md). And if you’re a Windows PowerShell user, or just want to see how you can administer Azure RMS from the command line, see [Administering Azure Rights Management by Using Windows PowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md).
 

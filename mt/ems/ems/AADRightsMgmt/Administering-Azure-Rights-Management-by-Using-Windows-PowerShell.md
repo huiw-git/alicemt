@@ -78,5 +78,5 @@ There is also a supplemental Windows PowerShell module, **RMSProtection**, which
 |Migrate your organization from [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] to an on-premises AD RMS deployment.|[Set-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629429.aspx)<br /><br />[Get-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629403.aspx)|
 
 ## See Also
-[Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md)
+[Azure Rights Management](../Topic/Azure%20Rights%20Management.md)
 

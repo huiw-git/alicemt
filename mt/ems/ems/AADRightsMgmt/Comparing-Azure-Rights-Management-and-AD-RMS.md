@@ -80,5 +80,5 @@ Both [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_righ
 [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]is compliant with FIPS 140-2 when your tenant key is created and managed by Microsoft (the default), or if you manage your own tenant key (known as BYOK). For more information about managing your tenant key, see [Planning and Implementing Your Azure Rights Management Tenant Key](../../ems/AADRightsMgmt/Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md).
 
 ## See Also
-[Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Getting Started with Azure Rights Management](/Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

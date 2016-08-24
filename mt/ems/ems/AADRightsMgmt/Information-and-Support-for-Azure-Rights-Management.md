@@ -31,7 +31,7 @@ Use the following resources for additional information about Microsoft [!INCLUDE
 
 |To do this …|.. do this:|
 |----------------|---------------|
-|… read the most current [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] product documentation →|Use the TechNet documentation library for  [Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md)|
+|… read the most current [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] product documentation →|Use the TechNet documentation library for  [Azure Rights Management](../Topic/Azure%20Rights%20Management.md)|
 |… provide feedback about the documentation or ask a question about the documentation →|Email [askipteam](mailto:%20askipteam@microsoft.com?subject=Documentation%20feedback)|
 |… receive tweets about Rights Management and announcements about documentation updates from the product group →|Follow Dan Plastina, who helps lead the Microsoft Rights Management Team. See [Dan Plastina @TheRMSGuy](https://twitter.com/TheRMSGuy)|
 |… get a trial version of [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] →|[Sign up for free 30-day trial](https://portal.microsoftonline.com/Signup/MainSignUp15.aspx?&OfferId=A43415D3-404C-4df3-B31B-AAD28118A778&dl=RIGHTSMANAGEMENT&ali=1)|
@@ -132,5 +132,5 @@ The following links provide information about support and troubleshooting option
 In addition, visit the [Microsoft Rights Management services portal](http://www.microsoft.com/rms) to find other supporting resources for [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)].
 
 ## See Also
-[Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Getting Started with Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

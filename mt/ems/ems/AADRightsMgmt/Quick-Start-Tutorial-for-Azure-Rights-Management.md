@@ -256,5 +256,5 @@ This tutorial stepped you through just one scenario for how Azure RMS can help p
 If you’re ready to start deploying Azure RMS, use the [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) for your deployment steps and links for how-to instructions.
 
 ## See Also
-[Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Getting Started with Azure Rights Management](/Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

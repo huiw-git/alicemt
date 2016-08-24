@@ -71,5 +71,5 @@ Confused by a word, phrase, or acronym that’s related to Microsoft [!INCLUDE[a
 |use license|A per-document certificate that is granted to a user who opens a file or email message that has been protected by [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)]. This certificate contains that user’s rights for the file or email message and the encryption key that was used to encrypt the content, as well as additional access restrictions defined in the document’s policy.|
 
 ## See Also
-[Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Getting Started with Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 
