@@ -9,6 +9,24 @@ ms.assetid: 23ca5ffe-a3c3-475a-a3c9-b77b898eef80
 caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - cs-cz
+  - de-de
+  - es-es
+  - fr-fr
+  - hu-hu
+  - it-it
+  - ja-jp
+  - ko-kr
+  - nl-nl
+  - pl-pl
+  - pt-br
+  - pt-pt
+  - ru-ru
+  - sv-se
+  - tr-tr
+  - zh-cn
+  - zh-tw
 ---
 # Welcome to Microsoft RMS! Test
 You’re probably reading this because someone sent you a protected document and you clicked the sign in link in the email message, or your favorite search engine sent you here.

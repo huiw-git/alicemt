@@ -16,9 +16,29 @@ applies_to:
   - Windows 8.1
 ms.assetid: d9992e30-f3d1-48d5-aedc-4e721f7d7c25
 caps.latest.revision: 18
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - de-de
+  - hu-hu
+  - ja-jp
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Rights Management sharing application administrator guide
 Use the following information if you are responsible for the Microsoft Rights Management sharing application on an enterprise network, or if you want more technical information than is in the [Rights Management sharing application user guide](../../ems/RMS_Client/Rights-Management-sharing-application-user-guide.md) or [FAQ for Microsoft Rights Management Sharing Application for Windows](http://go.microsoft.com/fwlink/?LinkId=303971):

@@ -12,9 +12,43 @@ applies_to:
   - Office 365
 ms.assetid: 086600c2-c5d8-47ec-a4c0-c782e1797486
 caps.latest.revision: 16
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - bg-bg
+  - de-de
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - hr-hr
+  - it-it
+  - ja-jp
+  - kk-kz
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - pt-br
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Azure Rights Management Deployment Roadmap
 Use the following steps to prepare for, implement, and manage Azure Rights Management (Azure RMS) for your organization.

@@ -14,6 +14,17 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Full screen picture: An external email protected by DLP and Azure RMS
 ![Protected email (external)](../../ems/AADRightsMgmt/media/AzRMS_DLPProtectedEmail.png "AzRMS_DLPProtectedEmail")

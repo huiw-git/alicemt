@@ -16,6 +16,9 @@ ms.assetid: a5f90544-1c70-4aff-8bf3-c59dd7abd687
 caps.latest.revision: 16
 author: karthikaraman
 manager: jeffgilb
+translation.priority.mt: 
+  - de-de
+  - ja-jp
 ---
 # ATA Planning and Requirements
 This section describes the requirements to successfully deploy the ATA Center and the ATA Gateway in your environment, and includes the following sections:

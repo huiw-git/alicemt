@@ -12,9 +12,43 @@ applies_to:
   - Office 365
 ms.assetid: 965581c8-be3c-43b4-8145-5cefd29c7636
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - bg-bg
+  - de-de
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - hr-hr
+  - it-it
+  - ja-jp
+  - kk-kz
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - pt-br
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Azure Rights Management
 This page introduces the technical documentation set for Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS), to help you protect your organization’s sensitive information from unauthorized access, and control how this information is used.  [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] is a cloud service, and is integrated into other Microsoft cloud services and applications, such as Office 365 and Azure Active Directory. However, it can also be used with your on-premises applications and services.

@@ -12,9 +12,19 @@ applies_to:
   - Office 365
 ms.assetid: 58f9a6ff-4121-4c8c-9865-1bb290604ad2
 caps.latest.revision: 16
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Helping Users to Protect Files by Using Azure Rights Management
 After you have deployed and configured Azure Rights Management (Azure RMS) for your organization, provide help and guidance for users, administrators, and your help desk:

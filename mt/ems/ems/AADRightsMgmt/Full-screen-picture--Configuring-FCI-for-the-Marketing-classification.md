@@ -13,6 +13,17 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Full screen picture: Configuring FCI for the Marketing classification
 ![Configuring the file server for FCI](../../ems/AADRightsMgmt/media/AzRMS_ExampleFCI_Configuration.png "AzRMS_ExampleFCI_Configuration")

@@ -20,10 +20,30 @@ applies_to:
   - Windows Vista
 ms.assetid: 4768c144-b47b-445c-a7b7-16e432536be3
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Rights Management (RMS) Client
 Use the following documentation for information about the Rights Management (RMS) client, which can be used with Rights Management services on-premises (AD RMS) and in the cloud (Azure RMS) to help protect your organization's data:

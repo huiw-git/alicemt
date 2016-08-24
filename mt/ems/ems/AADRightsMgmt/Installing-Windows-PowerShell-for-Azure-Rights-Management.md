@@ -12,9 +12,43 @@ applies_to:
   - Office 365
 ms.assetid: 0d665ed6-b1de-4d63-854a-bc57c1c49844
 caps.latest.revision: 19
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - bg-bg
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - hr-hr
+  - it-it
+  - kk-kz
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - pt-br
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - de-de
+  - hu-hu
+  - ja-jp
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Installing Windows PowerShell for Azure Rights Management
 Use the following information to help you install Windows PowerShell for Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS).

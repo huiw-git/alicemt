@@ -12,9 +12,20 @@ applies_to:
   - Office 365
 ms.assetid: 742877bf-26f5-40e3-b1f7-8475e7c3ce11
 caps.latest.revision: 18
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
 ---
 # Terminology for Azure Rights Management
 Confused by a word, phrase, or acronym that’s related to Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS)? Find the definition here for terms and abbreviations that are either specific to Azure RMS or have a specific meaning when used in the context of [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)].

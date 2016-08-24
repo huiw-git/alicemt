@@ -16,9 +16,29 @@ applies_to:
   - Windows 8.1
 ms.assetid: 6751bd90-959f-4eba-91ed-6588ac983762
 caps.latest.revision: 9
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - de-de
+  - hu-hu
+  - ja-jp
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Rights Management sharing application: Version release history
 The Rights Management team regularly updates the Rights Management sharing application for fixes and new functionality. Use the following information to see what’s new or changed in a release. The most current release is listed first.

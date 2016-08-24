@@ -13,6 +13,17 @@ ms.assetid: a735f3f7-6eb2-4901-9084-8c3cd3a9087e
 caps.latest.revision: 16
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Logging and Analyzing Azure Rights Management Usage
 Use the information in this topic to help you understand how you can use logging with Azure Rights Management (RMS). RMS can log every request that it makes for your organization, which includes requests from users, actions performed by RMS administrators in your organization, and actions performed by Microsoft operators to support your RMS deployment.

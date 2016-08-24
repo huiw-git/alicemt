@@ -20,10 +20,30 @@ applies_to:
   - Windows Vista
 ms.assetid: 03cc8c6f-3b63-4794-8d92-a5df4cdf598f
 caps.latest.revision: 21
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - de-de
+  - hu-hu
+  - ja-jp
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # RMS Client Deployment Notes
 The  Rights Management Service client (RMS client) version 2 is also known as the MSIPC client. It is software for Windows computers that communicates with Microsoft Rights Management services on\-premises or in the cloud to help protect access to and usage of information as it flows through applications and devices, within the boundaries of your organization, or outside  those managed boundaries. In addition to shipping with the [Rights Management sharing application for Windows](https://technet.microsoft.com/library/dn919648.aspx), the RMS client is  available [as an optional download](http://www.microsoft.com/download/details.aspx?id=38396) that can, with acknowledgment and acceptance of its license agreement, be freely distributed with  third\-party software so that clients can  protect and consume content that has been  protected by Rights Management services.

@@ -12,9 +12,20 @@ applies_to:
   - Office 365
 ms.assetid: dc78321d-d759-4653-8818-80da74b6cdeb
 caps.latest.revision: 8
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
 ---
 # Requirements for Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

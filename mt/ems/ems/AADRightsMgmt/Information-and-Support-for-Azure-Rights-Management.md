@@ -12,9 +12,19 @@ applies_to:
   - Office 365
 ms.assetid: 7cc73d92-27d6-49ff-a8ab-2fae73519b4b
 caps.latest.revision: 31
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Information and Support for Azure Rights Management
 Use the following resources for additional information about Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS).

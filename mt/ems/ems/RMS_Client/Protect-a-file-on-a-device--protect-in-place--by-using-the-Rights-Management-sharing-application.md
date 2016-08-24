@@ -16,9 +16,29 @@ applies_to:
   - Windows 8.1
 ms.assetid: 33920329-5247-4f6c-8651-6227afb4a1fa
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Protect a file on a device (protect in-place) by using the Rights Management sharing application
 When you protect a file in-place, it replaces the original, unprotected file. You can then leave the file where it is, copy it to another folder or device, or share the folder that it is in and the file will remain protected. You could also attach the protected file to an email message, although the recommended way to share a protected file by email is directly from File Explorer or an Office application (see [Protect a file that you share by email by using the Rights Management sharing application](../../ems/RMS_Client/Protect-a-file-that-you-share-by-email-by-using-the-Rights-Management-sharing-application.md)).

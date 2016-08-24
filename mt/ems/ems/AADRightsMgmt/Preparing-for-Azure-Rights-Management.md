@@ -12,9 +12,43 @@ applies_to:
   - Office 365
 ms.assetid: afbca2d6-32a7-4bda-8aaf-9f93f5da5abc
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - bg-bg
+  - de-de
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - hr-hr
+  - it-it
+  - ja-jp
+  - kk-kz
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - pt-br
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Preparing for Azure Rights Management
 After you have signed up for a cloud subscription and established your organization with an account for [!INCLUDE[o365_1](../../ems/AADRightsMgmt/includes/o365_1_md.md)] or Azure Active Directory, you’re ready to enable the [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)] service.

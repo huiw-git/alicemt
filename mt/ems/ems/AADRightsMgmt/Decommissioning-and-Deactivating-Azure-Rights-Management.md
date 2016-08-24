@@ -12,9 +12,43 @@ applies_to:
   - Office 365
 ms.assetid: 0b1c2064-0d01-45ae-a541-cebd7fd762ad
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - bg-bg
+  - de-de
+  - el-gr
+  - es-es
+  - et-ee
+  - fi-fi
+  - fr-fr
+  - hr-hr
+  - it-it
+  - ja-jp
+  - kk-kz
+  - ko-kr
+  - lt-lt
+  - lv-lv
+  - pt-br
+  - ro-ro
+  - ru-ru
+  - sk-sk
+  - sl-si
+  - sr-latn-cs
+  - th-th
+  - tr-tr
+  - uk-ua
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Decommissioning and Deactivating Azure Rights Management
 You are always in control of whether your organization protects content by using [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS), and if you decide you no longer want to use this information protection solution, you have the assurance that you won’t be locked out of content that was previously protected. If you don’t need continued access to previously protected content, you simply deactivate the service and you can let your subscription for Azure Rights Management expire. For example, this would be appropriate for when you have completed testing [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] before you deploy it in a production environment.

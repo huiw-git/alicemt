@@ -14,6 +14,17 @@ caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Full screen picture: Available settings for RMS templates
 ![Full Screen: Custom template settings](../../ems/AADRightsMgmt/media/AzRMS_TemplatesSettings.png "AzRMS_TemplatesSettings")

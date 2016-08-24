@@ -12,9 +12,20 @@ applies_to:
   - Office 365
 ms.assetid: 1775d8d0-9a59-42c8-914f-ce285b71ac1c
 caps.latest.revision: 18
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
 ---
 # Configuring Custom Templates for Azure Rights Management
 After you have activated Azure Rights Management (Azure RMS), users are automatically able to use two default templates that make it easy for them to apply policies to sensitive files that restrict access to authorized users in your organization. These two templates have the following rights policy restrictions:

@@ -9,9 +9,32 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 751e5e05-fbe2-4769-a5df-1362c0db2108
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - ar-sa
+  - de-de
+  - es-es
+  - fr-fr
+  - he-il
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - tr-tr
+  - zh-cn
+  - zh-hk
+  - zh-tw
+translation.priority.mt: 
+  - cs-cz
+  - da-dk
+  - hu-hu
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-pt
+  - sv-se
 ---
 # Privacy Statement for Microsoft Rights Management in RMS-Enlightened Applications
 Applies To: Microsoft Rights Management functionality which is embedded in applications

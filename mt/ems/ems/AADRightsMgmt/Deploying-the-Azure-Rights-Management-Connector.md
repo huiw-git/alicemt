@@ -13,9 +13,20 @@ applies_to:
   - Windows Server 2012 R2
 ms.assetid: 90e7e33f-9ecc-497b-89c5-09205ffc5066
 caps.latest.revision: 9
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - es-es
+  - fr-fr
+  - it-it
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
+translation.priority.mt: 
+  - de-de
+  - ja-jp
 ---
 # Deploying the Azure Rights Management Connector
 Use this information to learn about the Microsoft Rights Management (RMS) connector and how you can use it to provide information protection with existing on-premises deployments that use Microsoft Exchange Server, Microsoft SharePoint Server, or file servers that run Windows Server and use the File Classification Infrastructure (FCI) capability of File Server Resource Manager.

@@ -12,9 +12,19 @@ applies_to:
   - Office 365
 ms.assetid: 71ce491f-41c1-4d15-9646-455a6eaa157d
 caps.latest.revision: 16
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Frequently Asked Questions for Azure Rights Management
 Some frequently asked questions for Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)], also known as Azure RMS:

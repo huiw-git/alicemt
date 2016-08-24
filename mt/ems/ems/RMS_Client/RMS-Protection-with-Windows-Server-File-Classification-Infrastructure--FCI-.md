@@ -13,9 +13,19 @@ applies_to:
   - Windows Server 2012 R2
 ms.assetid: 9aa693db-9727-4284-9f64-867681e114c9
 caps.latest.revision: 33
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # RMS Protection with Windows Server File Classification Infrastructure (FCI)
 Use this article for instructions and a script to use the Rights Management (RMS) client with the RMS Protection tool to configure File Server Resource Manager and file classification infrastructure (FCI).

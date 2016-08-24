@@ -12,9 +12,19 @@ applies_to:
   - Office 365
 ms.assetid: 97ddde38-b91b-42a5-8eb4-3ce6ce15393d
 caps.latest.revision: 25
-caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
+translation.priority.ht: 
+  - de-de
+  - es-es
+  - fr-fr
+  - it-it
+  - ja-jp
+  - ko-kr
+  - pt-br
+  - ru-ru
+  - zh-cn
+  - zh-tw
 ---
 # Configuring Usage Rights for Azure Rights Management
 When you set protection on files or emails by using Azure Rights Management (Azure RMS) and you do not use a template, you must configure the usage rights yourself. In addition, when you configure custom templates for Azure RMS, you select the usage rights that will then be automatically applied when the template is selected by users, administrators, or configured services. For example, in the Azure  portal you can select roles that configure a logical grouping of usage rights, or you can configure the individual rights.
