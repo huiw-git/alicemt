@@ -1,1 +1,0 @@
-On\-premises Mobile Device Management

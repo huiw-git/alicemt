@@ -1,1 +1,0 @@
-System Center Endpoint Protection
