@@ -8,16 +8,16 @@
         {
           "Priority": "ht",
           "Locales": [
+            "de-de",
             "es-es",
             "fr-fr",
             "it-it",
+            "ja-jp",
             "ko-kr",
             "pt-br",
             "ru-ru",
             "zh-cn",
             "zh-tw",
-            "de-de",
-            "ja-jp",
             "bg-bg",
             "el-gr",
             "et-ee",
@@ -43,7 +43,8 @@
             "sv-se",
             "ar-sa",
             "he-il",
-            "zh-hk"
+            "zh-hk",
+            "ar-ae"
           ],
           "Type": "ht"
         }
