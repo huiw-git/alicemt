@@ -15,7 +15,6 @@ applies_to:
   - Windows 8
   - Windows 8.1
 ms.assetid: 72760134-94e0-4699-b20c-07b96aa061f1
-caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 

@@ -2,7 +2,7 @@
 title: "ATA Operations Guide"
 ms.custom: 
   - ATA
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,7 +13,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 50d46d67-8858-4288-9599-16715cc6e34e
-caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

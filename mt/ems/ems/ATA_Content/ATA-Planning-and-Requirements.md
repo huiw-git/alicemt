@@ -2,7 +2,7 @@
 title: "ATA Planning and Requirements"
 ms.custom: 
   - ATA
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,7 +13,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: a5f90544-1c70-4aff-8bf3-c59dd7abd687
-caps.latest.revision: 16
 author: karthikaraman
 manager: jeffgilb
 translation.priority.mt: 

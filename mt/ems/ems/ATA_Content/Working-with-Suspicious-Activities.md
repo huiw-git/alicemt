@@ -2,7 +2,7 @@
 title: "Working with Suspicious Activities"
 ms.custom: 
   - ATA
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,7 +13,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 44d7c899-816c-4f7f-91d3-84a09d291a24
-caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

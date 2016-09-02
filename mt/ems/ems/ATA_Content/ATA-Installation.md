@@ -2,7 +2,7 @@
 title: "ATA Installation"
 ms.custom: 
   - ATA
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,7 +13,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
-caps.latest.revision: 17
 author: karthikaraman
 manager: jeffgilb
 translation.priority.mt: 

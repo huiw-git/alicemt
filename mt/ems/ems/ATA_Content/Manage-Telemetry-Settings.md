@@ -1,7 +1,7 @@
 ---
 title: "Manage Telemetry Settings"
 ms.custom: na
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -10,7 +10,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 8c1c7a1b-a3de-4105-9fd0-08a061952172
-caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

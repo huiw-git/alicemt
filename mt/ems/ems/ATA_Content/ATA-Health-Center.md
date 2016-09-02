@@ -2,7 +2,7 @@
 title: "ATA Health Center"
 ms.custom: 
   - ATA
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,7 +13,6 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: d6c783b2-46c5-4211-b21a-d6b17f08d03d
-caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

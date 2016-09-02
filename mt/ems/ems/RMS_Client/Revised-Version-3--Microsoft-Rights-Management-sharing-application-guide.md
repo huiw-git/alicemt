@@ -1,12 +1,11 @@
 ---
 title: "Revised Version 3: Microsoft Rights Management sharing application guide"
 ms.custom: na
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 846f1895-1daf-4164-8cf6-e4a691384c41
-caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 

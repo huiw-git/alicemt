@@ -1,12 +1,11 @@
 ---
 title: "Active Directory Rights Management Services Mobile Device Extension"
 ms.custom: na
-ms.date: 08/18/2016
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: a69ead9d-7dd3-4b38-9830-4728e9757341
-caps.latest.revision: 18
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 
