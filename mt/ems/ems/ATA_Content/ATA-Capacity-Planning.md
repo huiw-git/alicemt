@@ -2,7 +2,7 @@
 title: "ATA Capacity Planning"
 ms.custom: 
   - ATA
-ms.date: 08/30/2016
+ms.date: 09/02/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,6 +13,7 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 279d79f2-962c-4c6f-9702-29744a5d50e2
+caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

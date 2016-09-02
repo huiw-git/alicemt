@@ -12,6 +12,7 @@ applies_to:
   - Windows Server 2012
   - Windows Server 2012 R2
 ms.assetid: 9aa693db-9727-4284-9f64-867681e114c9
+caps.latest.revision: 33
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 

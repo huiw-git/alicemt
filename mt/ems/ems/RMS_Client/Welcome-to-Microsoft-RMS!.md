@@ -1,11 +1,12 @@
 ---
 title: "Welcome to Microsoft RMS!"
 ms.custom: na
-ms.date: 08/30/2016
+ms.date: 09/02/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: ab7855fa-3cd2-4b64-98c8-387af23c0334
+caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 

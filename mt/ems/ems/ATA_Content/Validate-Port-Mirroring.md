@@ -2,7 +2,7 @@
 title: "Validate Port Mirroring"
 ms.custom: 
   - ATA
-ms.date: 08/30/2016
+ms.date: 09/02/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,6 +13,7 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: ebd41719-c91a-4fdd-bcab-2affa2a2cace
+caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

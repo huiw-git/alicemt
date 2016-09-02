@@ -11,6 +11,7 @@ applies_to:
   - Azure Rights Management
   - Office 365
 ms.assetid: 7cc73d92-27d6-49ff-a8ab-2fae73519b4b
+caps.latest.revision: 31
 author: karthikaraman
 manager: jeffgilb
 translation.priority.ht: 

@@ -9,6 +9,7 @@ ms.topic: article
 applies_to: 
   - Azure Rights Management
 ms.assetid: 596e4fec-124c-41b1-8efd-63d5179193fb
+caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow

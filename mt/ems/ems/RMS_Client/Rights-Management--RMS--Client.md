@@ -19,6 +19,7 @@ applies_to:
   - Windows Server 2012 R2
   - Windows Vista
 ms.assetid: 4768c144-b47b-445c-a7b7-16e432536be3
+caps.latest.revision: 25
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow

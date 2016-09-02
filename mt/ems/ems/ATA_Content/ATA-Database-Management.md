@@ -1,7 +1,7 @@
 ---
 title: "ATA Database Management"
 ms.custom: na
-ms.date: 08/30/2016
+ms.date: 09/02/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -10,6 +10,7 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 1d27dba8-fb30-4cce-a68a-f0b1df02b977
+caps.latest.revision: 24
 author: karthikaraman
 manager: jeffgilb
 ---

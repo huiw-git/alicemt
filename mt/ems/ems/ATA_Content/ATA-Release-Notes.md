@@ -2,7 +2,7 @@
 title: "ATA Release Notes"
 ms.custom: 
   - ATA
-ms.date: 08/30/2016
+ms.date: 09/02/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na
@@ -13,6 +13,7 @@ ms.topic: article
 applies_to: 
   - Advanced Threat Analytics
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
+caps.latest.revision: 26
 author: karthikaraman
 manager: jeffgilb
 ---
