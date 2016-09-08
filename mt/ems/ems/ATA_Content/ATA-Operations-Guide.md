@@ -2,7 +2,7 @@
 title: "ATA Operations Guide"
 ms.custom: 
   - ATA
-ms.date: 09/02/2016
+ms.date: 09/08/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na

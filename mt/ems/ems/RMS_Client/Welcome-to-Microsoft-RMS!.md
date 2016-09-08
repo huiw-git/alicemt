@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Microsoft RMS!"
 ms.custom: na
-ms.date: 09/02/2016
+ms.date: 09/08/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
