@@ -1,7 +1,7 @@
 ---
 title: "Active Directory Rights Management Services Mobile Device Extension"
 ms.custom: na
-ms.date: 09/08/2016
+ms.date: 09/09/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
