@@ -51,6 +51,8 @@ translation.priority.mt:
   - sv-se
 ---
 # &quot;test&quot; Getting Started with Azure Rights Management
+[!INCLUDE[accessibility10_md](../../ems/AADRightsMgmt/includes/accessibility10_md.md)]
+
 This section contains information for IT administrators and consultants, to help them learn more about Microsoft Azure Rights Management (also known as Azure RMS) and how it can help to protect information in your organization.
 
 When you’re ready to start deploying Azure RMS, see [Azure Rights Management Deployment Roadmap](../../ems/AADRightsMgmt/Azure-Rights-Management-Deployment-Roadmap.md) for deployment steps and links for how-to instructions.
@@ -72,3 +74,5 @@ If you’ve already deployed Azure RMS, see [Using Azure Rights Management](../
 ## See Also
 [Azure Rights Management](/Topic/Azure%20Rights%20Management.md)
 
+
+[!INCLUDE[accessibility11-a_md](../../ems/AADRightsMgmt/includes/accessibility11-a_md.md)]
